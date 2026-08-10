@@ -22,6 +22,9 @@ RUN mkdir -p /app/history
 
 COPY . .
 
+# Carry the OSS timestamp support patch into the installed mem0 package.
+RUN python /app/patch_mem0_timestamp.py
+
 EXPOSE 8000
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "50"]

@@ -106,6 +106,7 @@ def _load_config() -> dict:
             "config": {
                 "model": os.getenv("LLM_MODEL", "gpt-4o-mini"),
                 "temperature": 0.1,
+                "max_tokens": int(os.getenv("LLM_MAX_TOKENS", "32768")),
             },
         },
         "embedder": {
@@ -177,6 +178,7 @@ class AddRequest(BaseModel):
     agent_id: str | None = None
     run_id: str | None = None
     metadata: dict[str, Any] | None = None
+    timestamp: Any | None = None
     observation_date: str | None = None
     custom_instructions: str | None = None
 
@@ -266,8 +268,9 @@ def add_memories(req: AddRequest):
         params["run_id"] = req.run_id
     if req.metadata:
         params["metadata"] = req.metadata
-    # observation_date and custom_instructions: pass through only if
-    # the installed mem0ai version supports them
+    if req.timestamp is not None:
+        params["timestamp"] = req.timestamp
+    # custom_instructions is passed as the extraction prompt override.
     if req.custom_instructions:
         params["prompt"] = req.custom_instructions
 

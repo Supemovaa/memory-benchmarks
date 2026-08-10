@@ -51,7 +51,7 @@ class LLMClient:
         base_url: str | None = None,
         max_retries: int = 5,
         rpm: int = 200,
-        timeout: float = 120.0,
+        timeout: float = 300.0,  # 增加到 5 分钟，适配慢模型
         **kwargs: Any,
     ):
         self.model = model
