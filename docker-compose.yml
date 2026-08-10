@@ -2,12 +2,21 @@ services:
   mem0:
     build:
       context: ./docker/mem0
+      # Allow build steps to use a host-local proxy such as Clash on 127.0.0.1.
+      # This applies only while building the image; service networking is unchanged.
+      network: host
+      args:
+        HTTP_PROXY: ${HTTP_PROXY:-}
+        HTTPS_PROXY: ${HTTPS_PROXY:-}
+        ALL_PROXY: ${ALL_PROXY:-}
+        NO_PROXY: ${NO_PROXY:-}
     ports:
       - "${MEM0_PORT:-8888}:8000"
     depends_on:
       qdrant:
         condition: service_healthy
     environment:
+      - OPENAI_BASE_URL=${OPENAI_BASE_URL}
       - OPENAI_API_KEY=${OPENAI_API_KEY}
       - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY:-}
       - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT:-}
@@ -21,12 +30,13 @@ services:
       - QDRANT_PORT=6333
       - COLLECTION_NAME=${COLLECTION_NAME:-memories}
       - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - LLM_MAX_TOKENS=32768
       - EMBEDDER_MODEL=${EMBEDDER_MODEL:-text-embedding-3-small}
     volumes:
       - mem0_history:/app/history
       # Custom config for advanced setups (Azure, Ollama, SageMaker, etc.)
       # Uncomment and point to your config file:
-      # - ./mem0-config.yaml:/app/config.yaml:ro
+      - ./mem0-config.yaml:/app/config.yaml:ro
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]

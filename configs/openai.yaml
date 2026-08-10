@@ -7,13 +7,13 @@ version: "v1.1"
 llm:
   provider: openai
   config:
-    model: gpt-4o-mini       # Fact extraction model (cost-efficient default)
+    model: gpt-oss-120b       # Fact extraction model (cost-efficient default)
     temperature: 0.1
 
 embedder:
   provider: openai
   config:
-    model: text-embedding-3-small  # 1536 dimensions
+    model: qwen3-embedding-0.6b  # 1536 dimensions
 
 # Vector store is auto-configured to use the Qdrant container.
 # Uncomment to override:

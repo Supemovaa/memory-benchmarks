@@ -194,6 +194,59 @@ class SearchRequest(BaseModel):
 class UpdateRequest(BaseModel):
     data: str
 
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+import inspect
+
+
+def _build_filters(
+    user_id: str | None,
+    agent_id: str | None,
+    run_id: str | None,
+    extra: dict[str, Any] | None = None,
+) -> dict[str, Any] | None:
+    """Build a mem0 v3-style `filters` dict.
+
+    As of mem0ai's OSS v3 API, search() and get_all() no longer accept
+    user_id/agent_id/run_id as top-level kwargs — they must live inside
+    `filters`. See: https://docs.mem0.ai/migration/oss-v2-to-v3
+
+    add() and delete_all() are unaffected and still take these as
+    top-level kwargs.
+    """
+    clauses: list[dict[str, Any]] = []
+    if user_id:
+        clauses.append({"user_id": user_id})
+    if agent_id:
+        clauses.append({"agent_id": agent_id})
+    if run_id:
+        clauses.append({"run_id": run_id})
+    if extra:
+        clauses.append(extra)
+
+    if not clauses:
+        return None
+    if len(clauses) == 1:
+        return clauses[0]
+    return {"AND": clauses}
+
+
+def _limit_kwarg(func, limit: int) -> dict[str, int]:
+    """mem0's Memory.search() renamed `limit` -> `top_k` in v3. Detect
+    which one the installed version actually accepts so this server
+    works across mem0ai versions without hardcoding it."""
+    try:
+        params = inspect.signature(func).parameters
+    except (TypeError, ValueError):
+        return {"limit": limit}
+    if "top_k" in params:
+        return {"top_k": limit}
+    if "limit" in params:
+        return {"limit": limit}
+    return {}
+
 
 # ---------------------------------------------------------------------------
 # Endpoints
@@ -230,15 +283,12 @@ def add_memories(req: AddRequest):
 def search_memories(req: SearchRequest):
     """Search memories by semantic similarity + BM25 + entity boost."""
     mem = _get_memory()
-    params: dict[str, Any] = {"limit": req.limit}
-    if req.user_id:
-        params["user_id"] = req.user_id
-    if req.agent_id:
-        params["agent_id"] = req.agent_id
-    if req.run_id:
-        params["run_id"] = req.run_id
-    if req.filters:
-        params["filters"] = req.filters
+    params: dict[str, Any] = {}
+    params.update(_limit_kwarg(mem.search, req.limit))
+
+    filters = _build_filters(req.user_id, req.agent_id, req.run_id, req.filters)
+    if filters:
+        params["filters"] = filters
     if req.rerank:
         params["rerank"] = True
 
@@ -258,19 +308,13 @@ def get_memories(
 ):
     """List all memories for a given user/agent/run."""
     mem = _get_memory()
-    params: dict[str, Any] = {}
-    if user_id:
-        params["user_id"] = user_id
-    if agent_id:
-        params["agent_id"] = agent_id
-    if run_id:
-        params["run_id"] = run_id
-
-    if not params:
+    if not (user_id or agent_id or run_id):
         raise HTTPException(400, "Provide at least one of: user_id, agent_id, run_id")
 
+    filters = _build_filters(user_id, agent_id, run_id)
+
     try:
-        return mem.get_all(**params)
+        return mem.get_all(filters=filters)
     except Exception as e:
         logger.exception("get_all() failed")
         raise HTTPException(500, str(e))
