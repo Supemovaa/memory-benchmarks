@@ -1,6 +1,6 @@
 fastapi>=0.115.0
 uvicorn>=0.34.0
-mem0ai @ git+https://github.com/mem0ai/mem0.git@main
+mem0ai @ git+https://github.com/mem0ai/mem0.git@fad0e0e415fda052d0b23159ffc53d9a6ea77a33
 spacy>=3.7.0
 pydantic>=2.10.0
 pyyaml>=6.0
