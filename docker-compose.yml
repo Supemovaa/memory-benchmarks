@@ -17,7 +17,9 @@ services:
         condition: service_healthy
     environment:
       - OPENAI_BASE_URL=${OPENAI_BASE_URL}
-      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_API_KEY=${DASHSCOPE_API_KEY}
+      - ZZZ_BASE_URL=${ZZZ_BASE_URL:-}
+      - ZZZ_API_KEY=${ZZZ_API_KEY:-}
       - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY:-}
       - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT:-}
       - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
@@ -31,6 +33,7 @@ services:
       - COLLECTION_NAME=${COLLECTION_NAME:-memories}
       - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
       - LLM_MAX_TOKENS=32768
+      - EXTRACTOR_ENABLE_THINKING=${EXTRACTOR_ENABLE_THINKING:-none}
       - EMBEDDER_MODEL=${EMBEDDER_MODEL:-text-embedding-3-small}
     volumes:
       - mem0_history:/app/history

@@ -45,7 +45,7 @@ from typing import Any
 from dotenv import load_dotenv
 from tqdm import tqdm
 
-from benchmarks.common.llm_client import LLMClient
+from benchmarks.common.llm_client import LLMClient, parse_optional_bool_env
 from benchmarks.common.mem0_client import Mem0Client, format_search_results
 from benchmarks.common.metrics import compute_kendall_tau_b, compute_overall_metrics
 from benchmarks.common.schema import (
@@ -1028,11 +1028,17 @@ async def async_main() -> None:
         rpm=args.rpm,
     )
     answerer = LLMClient(
-        model=args.answerer_model, provider=args.provider, rpm=args.rpm
+        model=args.answerer_model,
+        provider=args.provider,
+        rpm=args.rpm,
+        enable_thinking=parse_optional_bool_env("ANSWERER_ENABLE_THINKING"),
     )
     judge_provider = args.judge_provider or args.provider
     judge_llm = LLMClient(
-        model=args.judge_model, provider=judge_provider, rpm=args.rpm
+        model=args.judge_model,
+        provider=judge_provider,
+        rpm=args.rpm,
+        enable_thinking=parse_optional_bool_env("JUDGE_ENABLE_THINKING"),
     )
     shutdown = GracefulShutdown()
 
