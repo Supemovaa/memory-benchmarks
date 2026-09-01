@@ -463,7 +463,7 @@ async def process_question(
 
         # Generate answer
         gen_prompt = get_answer_generation_prompt(question, sliced, reference_date=reference_date_human, user_profile=user_profile)
-        generated_answer = await answerer.generate(system="", user=gen_prompt)
+        generated_answer = await answerer.generate(system="", user=gen_prompt, max_tokens=16384)
         if "ANSWER:" in generated_answer:
             generated_answer = generated_answer.rsplit("ANSWER:", 1)[-1].strip()
 
@@ -533,7 +533,7 @@ async def apply_locomo_judge_to_saved_result(
         gen_prompt = get_answer_generation_prompt(
             question, sliced, reference_date=reference_date_human, user_profile=user_profile,
         )
-        generated_answer = await answerer.generate(system="", user=gen_prompt)
+        generated_answer = await answerer.generate(system="", user=gen_prompt, max_tokens=16384)
         if "ANSWER:" in generated_answer:
             generated_answer = generated_answer.rsplit("ANSWER:", 1)[-1].strip()
 
