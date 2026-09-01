@@ -20,6 +20,8 @@ results/
 datasets/
 logs/
 evaluation_results/
+fail_case*
+hard-questions/*
 
 # Environment
 .env
