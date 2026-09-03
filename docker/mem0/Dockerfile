@@ -28,6 +28,9 @@ RUN python /app/patch_mem0_timestamp.py
 # Forward the extractor's optional thinking mode to OpenAI-compatible APIs.
 RUN python /app/patch_mem0_enable_thinking.py
 
+# Log raw extractor responses and filter malformed memory items.
+RUN python /app/patch_mem0_extractor_logging.py
+
 EXPOSE 8000
 
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "50"]
