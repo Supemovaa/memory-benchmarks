@@ -506,8 +506,14 @@ async def apply_locomo_judge_to_saved_result(
     judge_llm: LLMClient,
     cutoffs: list[int],
     evidence_lookup: dict | None,
+    cutoff_semaphore: asyncio.Semaphore | None = None,
 ) -> None:
-    """Fill ``cutoff_results`` using ``retrieval.search_results`` only (no Mem0)."""
+    """Fill ``cutoff_results`` using saved retrieval results (no Mem0).
+
+    Each cutoff is evaluated independently and concurrently.  The shared
+    semaphore limits the complete answerer->judge pipeline for one cutoff, so
+    ``max_workers`` remains a global cap on in-flight cutoff evaluations.
+    """
     formatted = list(result["retrieval"]["search_results"])
     question = result["question"]
     category = qa["category"]
@@ -515,7 +521,6 @@ async def apply_locomo_judge_to_saved_result(
     reference_date_human = result.get("reference_date")
     user_profile = result.get("user_profile")
 
-    cutoff_results: dict[str, dict] = {}
     processed_answer = preprocess_answer(category, answer)
 
     ev_ctx = ""
@@ -526,46 +531,84 @@ async def apply_locomo_judge_to_saved_result(
                 ev_ctx += evidence_lookup[key] + "\n"
         ev_ctx = ev_ctx.strip()
 
-    for c in cutoffs:
+    if cutoff_semaphore is None:
+        cutoff_semaphore = asyncio.Semaphore(max(1, len(cutoffs)))
+
+    async def evaluate_cutoff(c: int) -> tuple[str, dict]:
         sliced = formatted[:c]
         label = cutoff_label(c)
 
-        gen_prompt = get_answer_generation_prompt(
-            question, sliced, reference_date=reference_date_human, user_profile=user_profile,
-        )
-        generated_answer = await answerer.generate(system="", user=gen_prompt, max_tokens=16384)
-        if "ANSWER:" in generated_answer:
-            generated_answer = generated_answer.rsplit("ANSWER:", 1)[-1].strip()
-
-        if ev_ctx:
-            judge_prompt = get_judge_prompt_with_evidence(
-                category, question, processed_answer, generated_answer, ev_ctx,
+        async with cutoff_semaphore:
+            gen_prompt = get_answer_generation_prompt(
+                question, sliced, reference_date=reference_date_human, user_profile=user_profile,
             )
-        else:
-            judge_prompt = get_judge_prompt(category, question, processed_answer, generated_answer)
+            generated_answer = await answerer.generate(system="", user=gen_prompt, max_tokens=16384)
+            if "ANSWER:" in generated_answer:
+                generated_answer = generated_answer.rsplit("ANSWER:", 1)[-1].strip()
 
-        raw = await judge_llm.generate_structured(
-            system=JUDGE_SYSTEM_PROMPT,
-            user=judge_prompt,
-        )
-        if isinstance(raw, dict):
-            label_val = raw.get("label", "").upper()
-            correct = label_val == "CORRECT"
-        else:
-            correct = False
+            if ev_ctx:
+                judge_prompt = get_judge_prompt_with_evidence(
+                    category, question, processed_answer, generated_answer, ev_ctx,
+                )
+            else:
+                judge_prompt = get_judge_prompt(category, question, processed_answer, generated_answer)
 
-        score = 1.0 if correct else 0.0
-        judgment = "CORRECT" if correct else "WRONG"
+            raw = await judge_llm.generate_structured(
+                system=JUDGE_SYSTEM_PROMPT,
+                user=judge_prompt,
+            )
+            if isinstance(raw, dict):
+                label_val = raw.get("label", "").upper()
+                correct = label_val == "CORRECT"
+            else:
+                correct = False
 
-        cutoff_results[label] = {
-            "judgment": judgment,
-            "score": score,
-            "generated_answer": generated_answer,
-            "memories_evaluated": len(sliced),
-            "reason": raw.get("reasoning", "") if isinstance(raw, dict) else "",
-        }
+            score = 1.0 if correct else 0.0
+            judgment = "CORRECT" if correct else "WRONG"
+
+            return label, {
+                "judgment": judgment,
+                "score": score,
+                "generated_answer": generated_answer,
+                "memories_evaluated": len(sliced),
+                "reason": raw.get("reasoning", "") if isinstance(raw, dict) else "",
+            }
+
+    cutoff_results = dict(await asyncio.gather(*(evaluate_cutoff(c) for c in cutoffs)))
 
     result["cutoff_results"] = cutoff_results
+
+
+async def _evaluate_saved_locomo_question(
+    path: str,
+    qid: str,
+    conv_idx: int,
+    qa: dict,
+    answerer: LLMClient,
+    judge_llm: LLMClient,
+    cutoffs: list[int],
+    evidence_lookup: dict | None,
+    cutoff_semaphore: asyncio.Semaphore,
+    rejudge: bool,
+) -> bool:
+    """Evaluate one saved question and write it once after all cutoffs finish."""
+    del qid  # The filename is already the source of truth for this worker.
+    data = json.loads(Path(path).read_text())
+    if data.get("cutoff_results") and not rejudge:
+        return False
+
+    await apply_locomo_judge_to_saved_result(
+        data,
+        qa,
+        conv_idx,
+        answerer,
+        judge_llm,
+        cutoffs,
+        evidence_lookup,
+        cutoff_semaphore=cutoff_semaphore,
+    )
+    save_result_json(path, data)
+    return True
 
 
 def expected_locomo_question_items(
@@ -786,18 +829,22 @@ async def async_main() -> None:
             return
         print(f"  Predict complete ({len(expected_items)} questions). Running judge phase (no Mem0)...")
 
-        sem = asyncio.Semaphore(args.max_workers)
+        cutoff_semaphore = asyncio.Semaphore(args.max_workers)
 
         async def judge_one(qid: str, conv_idx: int, qi: int, qa: dict) -> None:
             path = os.path.join(output_dir, f"{qid}.json")
-            data = json.loads(Path(path).read_text())
-            if data.get("cutoff_results") and not args.rejudge:
-                return
-            async with sem:
-                await apply_locomo_judge_to_saved_result(
-                    data, qa, conv_idx, answerer, judge_llm, cutoffs, evidence_lookup,
-                )
-                save_result_json(path, data)
+            await _evaluate_saved_locomo_question(
+                path,
+                qid,
+                conv_idx,
+                qa,
+                answerer,
+                judge_llm,
+                cutoffs,
+                evidence_lookup,
+                cutoff_semaphore,
+                rejudge=args.rejudge,
+            )
 
         await asyncio.gather(*[
             judge_one(qid, conv_idx, qi, qa)
