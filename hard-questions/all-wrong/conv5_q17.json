@@ -1,0 +1,1466 @@
+{
+  "question_id": "conv5_q17",
+  "conversation_idx": 5,
+  "category": 1,
+  "category_name": "multi-hop",
+  "question": "How many times did Audrey and Andew plan to hike together?",
+  "ground_truth_answer": "three times",
+  "evidence": [
+    "D11:7",
+    "D24:13",
+    "D26:20"
+  ],
+  "user_id": "locomo_5_63236696",
+  "reference_date": "9:02 am on 22 November, 2023",
+  "retrieval": {
+    "search_query": "How many times did Audrey and Andew plan to hike together?",
+    "search_results": [
+      {
+        "memory": "Audrey plans to try hiking at Fox Hollow trail, following Andrew's recommendation for its awesome views",
+        "score": 0.7030865175564408,
+        "id": "fefb2de2-3edb-4fb9-b37e-e499401fd258",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2023-03-27T13:10:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if he plans to hike with his puppy Toby someday, following his recent solo hiking trip",
+        "score": 0.6832364111852559,
+        "id": "66cc7413-cd53-4319-9b43-a13792149148",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Audrey suggested planning a joint hiking trip for herself, Andrew, and their respective dogs to help Andrew relax from work stress",
+        "score": 0.6798508333333334,
+        "id": "576e30b4-52af-44ab-b7ae-633bdbb9b629",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2023-07-11T10:05:00+00:00"
+      },
+      {
+        "memory": "Audrey expressed hope to join Andrew and his furry friends for a hike soon, after seeing his photo from a national park",
+        "score": 0.6782122032520327,
+        "id": "8c7fb627-b768-45f7-9f42-40ce5711dd66",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew proposed Saturday, October 28, 2023, for a hike with Audrey, suggesting they grab snacks and explore together",
+        "score": 0.662232327912088,
+        "id": "21042145-6ced-4a0a-b40b-88f0b63d2d25",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew confirmed the hiking trail is close by, dog-friendly, and has killer views, and proposed planning a hike with Audrey soon",
+        "score": 0.66174825,
+        "id": "42c5a54b-e850-45db-8773-1e557fa21852",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey hopes to find a hiking spot that offers a nice getaway from the city, similar to the countryside location Andrew shared, for their upcoming hike together",
+        "score": 0.6616696737529137,
+        "id": "7793b13e-a55d-41f9-966d-cf93e65a2389",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      },
+      {
+        "memory": "Audrey confirmed that Saturday, October 28, 2023, works for the hike with Andrew and stated she will bring snacks, expressing excitement about the plan",
+        "score": 0.651306487912088,
+        "id": "3bafef52-b6db-4850-b406-848e5bd58a1e",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey wished Andrew fun on his beach trip next month with his girlfriend and Toby, acknowledging his anticipation to get out into nature",
+        "score": 0.6482309,
+        "id": "368cd8c8-5569-4adb-9e61-e609acb1fcc4",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey has not yet visited the Fox Hollow hiking trail recommended by Andrew because her new puppy Pixie has been keeping her busy",
+        "score": 0.6463754442231076,
+        "id": "e270a5a5-97e8-4d52-8370-c5cf12d85201",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2023-04-02T14:42:00+00:00"
+      },
+      {
+        "memory": "Audrey expressed that taking dogs on hikes must be awesome and stated that Andrew's experience makes her want to hike with her own dogs",
+        "score": 0.6458715653679654,
+        "id": "95e392e8-af55-44cf-a62a-539ed80f04ee",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2023-04-02T14:42:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to research and find a hiking spot similar to the countryside location Andrew shared, aiming for a nice getaway from the city for their upcoming hike together",
+        "score": 0.6441669137529138,
+        "id": "355d19ab-8bc4-4461-a44e-910264750c7a",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      },
+      {
+        "memory": "Audrey is counting down the days until her upcoming hike with Andrew and plans to get her dogs ready for the trip soon",
+        "score": 0.6431629406164602,
+        "id": "641c2027-e645-43aa-aa97-114735ff28e0",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2023-07-11T10:05:00+00:00"
+      },
+      {
+        "memory": "Audrey recalls fond memories of going on hiking trips with her dogs, describing those times as good experiences",
+        "score": 0.64137062,
+        "id": "b0f112db-f2fb-4b00-b15a-dda80d5420ae",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew for the location of a hiking spot he shared, expressing interest in taking her dogs there for a stroll",
+        "score": 0.6388717552722444,
+        "id": "2d436218-fd0e-4e2a-a2df-11a58b476eb6",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      },
+      {
+        "memory": "Andrew expressed excitement for an upcoming hike with Audrey and her dogs, noting that he misses the experience of being in nature together",
+        "score": 0.6371416806164601,
+        "id": "56edd0a8-6da5-4ba1-98b7-3430c15944b2",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if getting to the top of the rock climb was challenging",
+        "score": 0.6354857160173161,
+        "id": "8cb5b10c-2bda-4023-b636-64741f4002e9",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Audrey agreed to Andrew's suggestion of visiting the hiking trail with colorful autumn trees on their next trip, noting that the autumn colors would look awesome for pictures",
+        "score": 0.6314072998668,
+        "id": "b2a77485-6ee4-4b25-becb-d38549c49fe8",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo around October 19, 2023, showing a man walking a dog on a trail while encouraging Andrew to have fun exploring hiking trails with his new dog Buddy",
+        "score": 0.6300333060606059,
+        "id": "04ae0bdb-be1c-4dff-8cb0-8ea54ef4d0e3",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      },
+      {
+        "memory": "Audrey is looking forward to seeing her dogs enjoy themselves on the upcoming hike with Andrew",
+        "score": 0.6300006472831269,
+        "id": "bf7049e5-bdb4-473b-8b0b-0e6943277a3d",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Andrew is looking forward to the upcoming hike with Audrey and for his puppy Toby to meet Audrey's dogs",
+        "score": 0.6296178511852558,
+        "id": "72c0183e-33a4-47a3-abf6-364ca06fd890",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2023-07-11T10:05:00+00:00"
+      },
+      {
+        "memory": "Andrew reiterated his offer to plan a birdwatching trip with Audrey, asking her to let him know when she is ready to go",
+        "score": 0.6250048533333333,
+        "id": "41aa4b00-f35e-4092-ae3a-b4e943d4b2b8",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey expressed excitement for the upcoming hike with Andrew and their dogs next month, noting that her dogs always put a smile on her face and life is not the same without them",
+        "score": 0.6241041606164601,
+        "id": "568e6783-5706-4d75-b8b0-1b4c0fb368f9",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to look into the hiking trail recommended by Andrew so her dogs can run around freely",
+        "score": 0.6232093951515151,
+        "id": "f27a2af4-57fe-4cf3-b185-72e29d9a3f47",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Audrey liked the photo of the hiking trail with colorful autumn trees shared by Andrew and expressed interest in taking her dogs there sometime",
+        "score": 0.6208961484848484,
+        "id": "6cfc2ceb-09cd-4f4a-82d4-f94bde83e2e7",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey hiked the location shown in her sunset photo around July 2022, noting it was a 3-hour drive from her home and featured an amazing sunset",
+        "score": 0.6199493066666667,
+        "id": "7dd9a48c-1952-4370-8995-80a055afb24e",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Audrey went on a hike around August 4, 2023 that took two hours, featuring stunning views and an opportunity to explore nature with her dogs",
+        "score": 0.6196351800000001,
+        "id": "b042a674-0883-4fd2-8d2e-7a572914b909",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew to share photos from his recent hike and requested details about the experience, showing interest in his outdoor activities",
+        "score": 0.6164690757575757,
+        "id": "9911ca7c-a4f0-4559-bd08-ebac4444b004",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Andrew plans to take and share photos from his upcoming weekend trip to a nature reserve with Audrey upon his return",
+        "score": 0.614218670929071,
+        "id": "0cbb1c8e-b8cd-4f0d-883f-dde17a91e53f",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2023-08-19T21:19:00+00:00"
+      },
+      {
+        "memory": "Andrew informed Audrey that there is a lake near the hiking trail they plan to visit, adding to the appeal of their upcoming nature day.",
+        "score": 0.6114731833333333,
+        "id": "9222fcad-be28-4099-93bd-314daab4edcd",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew about the progress of his search for a furry friend (pet)",
+        "score": 0.6111434032520325,
+        "id": "002dd1b1-a283-40fc-8594-befc888828e3",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2023-06-02T11:27:00+00:00"
+      },
+      {
+        "memory": "Audrey recalls a hiking trip from a few years prior to June 2023 where she and her friends discovered a stunning lake in the mountains, sat by it chatting, and admired the peacefulness of nature, describing it as an unforgettable moment",
+        "score": 0.6111271,
+        "id": "a08ad00b-7ee1-4f7b-a6dd-7f4ed579567a",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Audrey went on a hike around late April 2023 and had an amazing experience watching a hummingbird dart around with its wings, finding nature beautiful",
+        "score": 0.6108588,
+        "id": "a88d7c21-b90d-4d83-9039-28a015cf56f1",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2023-05-03T17:41:00+00:00"
+      },
+      {
+        "memory": "Audrey is looking forward to the upcoming walk with Andrew and her dogs, noting that her dogs love meeting new people",
+        "score": 0.6094199666666666,
+        "id": "b3c00b14-8fc6-4ce4-b98b-cd5ef3a0a3ab",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if his recent rock climbing adventure encourages him to try more outdoor activities, showing interest in his continued engagement with nature-based hobbies",
+        "score": 0.6084864,
+        "id": "c19860ad-6f49-4659-a2de-d28be6219f29",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Audrey advised Andrew to start Scout's outings small, gradually increase exposure, and keep the dogs leashed for safety during their park visit",
+        "score": 0.6061737951093952,
+        "id": "9650b7b5-022f-4a83-a9da-1f6d92cf8d02",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2023-11-22T09:02:00+00:00"
+      },
+      {
+        "memory": "Andrew agreed to go on a hike with Audrey and her dogs in August 2023, suggesting they wait until the weather is more pleasant",
+        "score": 0.6053731578616351,
+        "id": "bf5f7abb-996e-4d29-8977-8532ef467532",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Audrey expressed interest in trying biking to reduce her carbon footprint and asked Andrew for recommendations on good bike routes around her area.",
+        "score": 0.6052994515272244,
+        "id": "263024ca-3ea6-49a1-9632-28f95786a855",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if she can bring her dogs to the new rooftop bar with a cityscape view that he recommended",
+        "score": 0.6000095002797203,
+        "id": "184ca62d-7e3c-4368-aaa6-5e943aa6052b",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey believes that having a solid support group is helpful when things get tough and considers Andrew lucky to have great friends who supported his rock climbing achievement",
+        "score": 0.5996727266666667,
+        "id": "e05a9144-8aa9-4e53-9ada-beda65d891b0",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Andrew has plans for a hike in August 2023 and invited Audrey and her dogs to join him to enjoy nature and have fun together",
+        "score": 0.5983846911949685,
+        "id": "3e5656c0-448c-4070-937e-bc159aeffe52",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2023-07-11T10:05:00+00:00"
+      },
+      {
+        "memory": "Audrey suggested having a pastry party with Andrew sometime, inspired by their recent conversation about pastries",
+        "score": 0.5979766268398269,
+        "id": "39b0e8d1-4170-425e-8e21-b6d31063a51b",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Audrey offered Andrew help or advice with getting plants for his home, reiterating her belief that plants can make a home feel peaceful.",
+        "score": 0.5977442733333334,
+        "id": "bfb36288-d297-4066-a316-da83a4a0a2c8",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2023-10-04T16:18:00+00:00"
+      },
+      {
+        "memory": "Audrey recalls taking long walks in her neighborhood with her childhood dog Max, exploring new paths while he sniffed and marked territory. She grew close to him, sharing her worries and hopes, describing him as a great listener who was always there for her.",
+        "score": 0.5963085978288379,
+        "id": "26dd4d32-26c1-448b-aef0-101e3880f8d2",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2023-07-27T15:52:00+00:00"
+      },
+      {
+        "memory": "Andrew expressed a strong desire to go on road trips with a furry companion, reacting positively to Audrey's experience of taking her dogs on trips every couple of months",
+        "score": 0.59500342,
+        "id": "0e216f07-1414-4ea5-b884-3b1b27fde579",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2023-05-06T10:47:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a dirt path leading to a grassy hill from his recent hike",
+        "score": 0.5948819666666667,
+        "id": "21dcec05-0b15-492c-9f72-c9c03042a50d",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2023-05-11T14:03:00+00:00"
+      },
+      {
+        "memory": "Audrey commented that the hiking trail Andrew shared looks nice and asked if it is dog-friendly",
+        "score": 0.5932209084848484,
+        "id": "180989f9-8dda-4e5a-994f-d62d19c46e43",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew about Scout's first planned adventure, noting that the name fits the pup's adventurous spirit",
+        "score": 0.5931801284427284,
+        "id": "8ca20d09-b9b5-4ac1-90dd-ccbccb55fd59",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2023-11-22T09:02:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey for advice on how to keep her dogs looking good while they are out in the mountains, complimenting their appearance in the shared photo",
+        "score": 0.5913171338645419,
+        "id": "3aa87fbb-4e34-4602-8197-8d233caa1649",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2023-08-24T00:24:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a map of a park with many trees for the planned hike with Audrey and her dogs, scheduled for August 2023 when the weather is more pleasant",
+        "score": 0.59122325,
+        "id": "74947190-2ff0-4bbd-8a59-1996a674874a",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Andrew went on a hike around May 6-7, 2023 with friends and his girlfriend at a recently discovered spot, describing the nature as peaceful and relaxing",
+        "score": 0.5905840800000001,
+        "id": "0f968154-32ee-47ab-a7b7-b95c9cc943cd",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2023-05-11T14:03:00+00:00"
+      },
+      {
+        "memory": "Audrey encouraged Andrew, expressing confidence that with his love, he and his puppy Toby can develop a strong bond similar to hers with her dogs",
+        "score": 0.5895620978519225,
+        "id": "1d851d70-1269-46b1-a5a1-a29cb02bac59",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2023-08-24T00:24:00+00:00"
+      },
+      {
+        "memory": "Audrey's dogs are city dogs who frequently go on adventures with her, exploring new parks and trails together",
+        "score": 0.5875676866666666,
+        "id": "7af058e9-9dd2-44ce-917f-73ab8d010009",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2023-03-27T13:10:00+00:00"
+      },
+      {
+        "memory": "Audrey is excited to check out the bike routes near the river recommended by Andrew and looks forward to soaking up the scenery, describing the upcoming experience as a blast.",
+        "score": 0.5874330466666666,
+        "id": "342b0a4f-a600-4058-9773-f7e8c34195d0",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey offered to provide Andrew with tips on taking care of his puppy Toby if he needs assistance",
+        "score": 0.5869621045185892,
+        "id": "099f5af5-ffbf-43ec-a838-04667021a7a6",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2023-08-24T00:24:00+00:00"
+      },
+      {
+        "memory": "Andrew plans to take both of his dogs, Toby and Buddy, to hiking trails together soon around October 2023",
+        "score": 0.5864341393939393,
+        "id": "8f430126-d3c6-407a-b71e-1dcb09c69499",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      },
+      {
+        "memory": "Audrey views the upcoming pastry party as a good opportunity for Andrew to hang out with her dogs (Pepper, Precious, Panda, and Pixie)",
+        "score": 0.5842784746620046,
+        "id": "eda08f0f-594c-4e27-93c6-85f656c9800b",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Audrey finds great joy in the unconditional love her dogs provide and asked Andrew if he visits forests like the one he shared, suggesting it would be an amazing escape for him",
+        "score": 0.5840461569097569,
+        "id": "951aec27-f6ac-4219-bb84-983312fa47db",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Andrew recommended a specific hiking trail for the outing, sharing an image of a woman walking up a steep hill with an ocean view",
+        "score": 0.5833796000333001,
+        "id": "c7d398cf-e647-4d90-a2ad-ac9a5e551967",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Audrey's dog Pepper initially took some time to adjust to the new puppy Pixie, but they are now always together and play in the grass near a fence.",
+        "score": 0.582279592940393,
+        "id": "38c2d631-345c-4097-9ce1-1654956abbaa",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2023-04-02T14:42:00+00:00"
+      },
+      {
+        "memory": "Andrew offered to provide birdwatching advice or go birdwatching with Audrey, stating he knows a thing or two about the activity and finds it peaceful and calming",
+        "score": 0.5817859133333333,
+        "id": "84d8c319-eb96-45f3-9190-873fc4f9ec8d",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of two horses in a field with a fence, taken during her recent hike to a national park peak at sunset around late May 2023, which she described as one of her favorite photos from the trip",
+        "score": 0.5810020533333333,
+        "id": "9ad7114b-97eb-4437-b0f4-efafe6d139dd",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2023-06-02T11:27:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to check out the hiking trail first, describing it as a peaceful spot to bring her dogs for the day",
+        "score": 0.5805980466666667,
+        "id": "08ca600d-cd5c-4fdd-8d90-0c00eadc4327",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew agreed with Audrey's advice to prioritize the health and happiness of his current dogs, Toby and Buddy, before considering adding more pets to his household",
+        "score": 0.5793029393939393,
+        "id": "2d5f76e2-fea5-4911-a258-66a48003c142",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2023-11-04T19:59:00+00:00"
+      },
+      {
+        "memory": "Audrey advised Andrew to slowly introduce his new puppy Scout to his existing dogs, Toby and Buddy, noting that it takes time for the pups to get used to each other",
+        "score": 0.5787472060606059,
+        "id": "f73c4bf8-df04-4e1a-8d22-c87c106885ef",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2023-11-22T09:02:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to check her schedule and get back to Andrew regarding the proposed birdwatching trip, expressing excitement about the activity around October 1, 2023",
+        "score": 0.5780716,
+        "id": "92e8eb2f-035c-4a46-ac28-d9aae69c89db",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a dirt road with a cow standing in the middle, set against a backdrop of trees and blue sky, while discussing an upcoming hike with his dogs Buddy and Toby",
+        "score": 0.5767622727272728,
+        "id": "d90de1b9-44a9-4a59-a143-fe94dd19952f",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      },
+      {
+        "memory": "Audrey reacted positively to Andrew's photo of his dog hiking, noting the dog's happy face, and expressed excitement about seeing her own dogs happy while hiking on their upcoming trip",
+        "score": 0.5765202320346321,
+        "id": "16284473-d7bd-49fa-b8d4-5aa64e8305aa",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew considers Audrey a close friend and values their shared outdoor trips with their dogs, expressing gratitude for her companionship in nature",
+        "score": 0.5760422099999999,
+        "id": "1b55720d-bb78-426a-98f4-bfa10b757915",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey advised Andrew to focus on keeping his current dogs, Toby and Buddy, happy and healthy before considering adding more dogs to his household",
+        "score": 0.5751567793939394,
+        "id": "43b3562b-3f53-4ba5-b4c4-a2f392b0e623",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2023-11-04T19:59:00+00:00"
+      },
+      {
+        "memory": "Audrey took her dogs on a hike to a national park around late May 2023, reaching a beautiful peak during sunset. She described the experience as stunning and like a slice of paradise, with nice breezes, chirping birds, and her dogs running around happily.",
+        "score": 0.5744619833333333,
+        "id": "32f98731-456c-410a-a9a2-34b6984ecb05",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2023-06-02T11:27:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a woman walking up a steep hill with an ocean view, illustrating the type of hiking scenery he enjoys",
+        "score": 0.5713805000333001,
+        "id": "ddbd6197-2470-44af-b4f3-aeedbc355fd1",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey ensures she does at least one self-care activity each day, such as treating herself to something nice, and advises Andrew to take care of himself and have fun too",
+        "score": 0.5694965211952191,
+        "id": "ab3e8891-3394-486f-86f9-4c0768489bc4",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Audrey has had her dogs for 3 years and their names are Pepper, Precious, and Panda. She expresses that she cannot live without them.",
+        "score": 0.5693780545454545,
+        "id": "92abc0f4-601b-4514-863d-83812136edcc",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2023-03-27T13:10:00+00:00"
+      },
+      {
+        "memory": "Audrey offered to help Andrew find dog-friendly housing by asking him to email her his specific criteria so she can assist in the search",
+        "score": 0.568642759628154,
+        "id": "d7d754f8-24a9-4c68-ba8d-e2aa0bdc1fd6",
+        "created_at": "2023-06-02T11:27:00+00:00",
+        "updated_at": "2023-06-02T11:27:00+00:00"
+      },
+      {
+        "memory": "Andrew and his girlfriend Toby are planning a beach trip for November 2023, as Andrew shared news of their upcoming vacation with Audrey",
+        "score": 0.568381,
+        "id": "3c4b37cd-4dfe-41ca-982c-bad1a956f2fd",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey has not had much time to explore new hiking trails recently due to the significant time commitment required by her dog training course, though she notes the effort has paid off with improved behavior from her dogs",
+        "score": 0.5679060666666667,
+        "id": "1ced0221-c275-4151-b761-61cae8f5a1e3",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2023-07-03T20:32:00+00:00"
+      },
+      {
+        "memory": "Audrey recalls a peaceful trip a few years prior to August 2023 where she sat by a gorgeous lake in the mountains with friends, enjoying the birds, stillness, and fresh air",
+        "score": 0.567882938211382,
+        "id": "8b854c0a-5ae1-4e1c-9936-82ee137354c0",
+        "created_at": "2023-08-24T00:24:00+00:00",
+        "updated_at": "2023-08-24T00:24:00+00:00"
+      },
+      {
+        "memory": "On May 5, 2023, Audrey took a road trip to a national park with her dogs, where they ran through a field of grass and had a blast",
+        "score": 0.5676569226957384,
+        "id": "696d0816-b5b2-4da5-8147-48f108036326",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2023-05-06T10:47:00+00:00"
+      },
+      {
+        "memory": "Andrew recommended bike routes near the river to Audrey, stating that he enjoys these specific paths and offered to show her the best ones.",
+        "score": 0.5665873848605577,
+        "id": "bdd5bad0-600b-49dd-a05b-c6febb583dc6",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo from a fun day out at the park showing herself kissing one of her dogs",
+        "score": 0.5661418833333333,
+        "id": "20d06468-ceaf-4c04-a61b-cbeff4b7a9f4",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2023-07-27T15:52:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey for tips on being a multi-dog pet owner after seeing her photos of four dogs playing together",
+        "score": 0.56514914,
+        "id": "0c7f2e6c-59cd-45e5-a775-6c9388e23d6f",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2023-11-04T19:59:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to bring her dogs (Pepper, Precious, Panda, and Pixie) to the proposed pastry party with Andrew, stating they would love it",
+        "score": 0.5650620146620046,
+        "id": "85c01426-97cc-43df-af4f-a7a7c0187a57",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Andrew wants to hike with his puppy Toby but finds it difficult because Toby is still very young",
+        "score": 0.5650150111852558,
+        "id": "b428a2f1-91cb-47db-ad2c-b46f9823c6ba",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Audrey is excited to capture photos of her dogs during the upcoming autumn trail trip with Andrew, anticipating that the colorful foliage will provide a beautiful backdrop for pictures.",
+        "score": 0.5642710533333334,
+        "id": "1f41c9e3-e5f4-40fd-9bea-be3355485160",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew plans to try the mental stimulation activities (puzzles, training, hide-and-seek) suggested by Audrey with his dogs Toby and Buddy",
+        "score": 0.564188446060606,
+        "id": "306cfe0c-f84d-4690-9670-9d97e0cd809b",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2023-11-04T19:59:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of her dogs Pepper, Precious, Panda, and Pixie playing together in a park, describing them as her furry family who bring her immense joy",
+        "score": 0.5640398933333334,
+        "id": "0be259f7-f3d9-4b75-89e6-8bbb6578cabf",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo from around August 4, 2023, showing herself walking her dogs down a forest trail, noting that while agility training has been tough at times, they are all growing together and it is going great overall",
+        "score": 0.5638332666666667,
+        "id": "614f8a86-9d24-4136-bd1d-16b9848dd90d",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if he has taken his dogs to the groomers yet, following up on previous discussions about dog care activities",
+        "score": 0.5637347833333334,
+        "id": "ad85208d-7a7b-4bb6-a645-ad1af5878b9f",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2023-11-22T09:02:00+00:00"
+      },
+      {
+        "memory": "Audrey encouraged Andrew to take photos of his sushi experience and share them with her, expressing confidence that he will enjoy it once he gets used to it",
+        "score": 0.5636343779087579,
+        "id": "766eadbe-d21e-4ea8-90b9-dff2a29c7e52",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2023-10-24T10:14:00+00:00"
+      },
+      {
+        "memory": "Audrey recently took all four of her dogs to the vet for checkups, describing the experience as chaotic ('havoc'), and plans to bring them one by one in the future",
+        "score": 0.56326165,
+        "id": "7a832de5-e3ea-41f0-8a58-c74445f5c8c9",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2023-08-16T21:58:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo from a hike taken around July 2022, featuring a person standing on a mountain with a view of the sky during a pretty sunset",
+        "score": 0.5622478866666666,
+        "id": "15248fbb-8ca5-4d51-826f-384d1d1b15ef",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey for advice on how to create a strong relationship and bond with his dog Toby",
+        "score": 0.5612658234432234,
+        "id": "5403e77a-c3c9-4ef9-9190-278edae59103",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Audrey found the nature and lake from her past hiking trip to be calming and exactly what she needed at that time",
+        "score": 0.5610257236220473,
+        "id": "1707605e-be42-474e-8cdd-f908fc269ed6",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey where she heard about the pet bonding workshop she signed up for, expressing that it sounds cool and complimenting the dog in her shared photo as adorable",
+        "score": 0.5604896005312084,
+        "id": "70e2e026-504d-4060-b9f9-b29f8f3630eb",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2023-05-11T14:03:00+00:00"
+      },
+      {
+        "memory": "Andrew plans to bring binoculars and a notebook to log bird sightings during the upcoming birdwatching trip with Audrey, sharing an image of a pen, notebook, and camera around October 1, 2023",
+        "score": 0.5596981,
+        "id": "54d21a44-c55c-4e27-acc4-fd7da35595de",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Andrew accepted Audrey's invitation to have a pastry party, expressing enthusiasm and confirming he is in",
+        "score": 0.5594305601731602,
+        "id": "098a3a62-3521-49b6-8092-7f92543bce4e",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey if there are specific activities she does with her dogs to work on their training",
+        "score": 0.5591647666666667,
+        "id": "31a5b429-ff1f-4c45-944d-7df55f8eeae6",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Audrey congratulated Andrew on reaching the top of his rock climb, describing the view as stunning and the accomplishment as huge, while reflecting that nature reminds people how tiny they are in comparison",
+        "score": 0.559099916017316,
+        "id": "26ccba82-bc6b-4eae-a05c-e9e2e84c1cb6",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Audrey's childhood dog was named Max, who had lots of energy and loved playing fetch, leaving her with many great memories",
+        "score": 0.5587613244955045,
+        "id": "8e780379-6ae2-49e3-a678-9c6f4e3eef1a",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2023-07-27T15:52:00+00:00"
+      },
+      {
+        "memory": "Audrey enjoys exploring new parks with her four dogs and had a fun outing the weekend of October 28-29, 2023, where the dogs ran around and got fresh air",
+        "score": 0.55806502,
+        "id": "37396dd2-fa71-467f-bda6-d6f210523163",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2023-11-04T19:59:00+00:00"
+      },
+      {
+        "memory": "Audrey usually takes public transport but finds biking a fun way to reduce her carbon footprint, expressing enthusiasm for trying it out to make a positive environmental change.",
+        "score": 0.5579179666666666,
+        "id": "e90fb324-2855-4104-ad0f-e3de846400b2",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Andrew acknowledged Audrey's success with her dog training course and expressed understanding of missing the peace of nature trails, noting that he is currently limited to urban adventures due to his housing situation",
+        "score": 0.5578536333333334,
+        "id": "9a8961fe-0bcb-4036-aac0-d91f26c62931",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2023-07-03T20:32:00+00:00"
+      },
+      {
+        "memory": "Audrey expressed interest in volunteering at a pet shelter someday, inspired by Andrew's recent rewarding experience helping animals",
+        "score": 0.557526528911089,
+        "id": "773ca64d-5b4c-4f46-82d0-1d304250dddb",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2023-07-27T15:52:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a hiking trail near their planned location featuring a forest with yellow autumn trees and a blue sky on October 28, 2023",
+        "score": 0.5574532551781552,
+        "id": "50770677-b85a-448b-bfe0-9347dde4609b",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew about the breed of his dog Toby, indicating she is interested in learning more about his pet",
+        "score": 0.5574412525674326,
+        "id": "632b2acd-f4ed-4a46-b06e-d443c6955c5d",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Andrew went on a bike ride with his girlfriend around November 4, 2023, and discovered a park outside of town where they enjoyed being surrounded by nature away from the city",
+        "score": 0.5569073999999999,
+        "id": "6da37ff3-0b0a-4a3d-9aa3-c684dec2e881",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2023-11-04T19:59:00+00:00"
+      },
+      {
+        "memory": "Audrey meets up with other dog owners once a week to exchange tips and allow their dogs to play together, as shown in a shared photo of people and dogs in a park",
+        "score": 0.5568334405312084,
+        "id": "445bfc48-2339-4000-8c74-c55d349afdcc",
+        "created_at": "2023-11-04T19:59:00+00:00",
+        "updated_at": "2023-11-04T19:59:00+00:00"
+      },
+      {
+        "memory": "Audrey's dogs love going on hikes, where they enjoy exploring new scents and being in nature, which Audrey describes as their happy place. She observes their joy through their wagging tails and expressions.",
+        "score": 0.5568210905361305,
+        "id": "079d8b4b-9e11-47cd-bd56-b3e0ba333cf0",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2023-05-03T17:41:00+00:00"
+      },
+      {
+        "memory": "Andrew hopes to develop a deep bond with his puppy Toby similar to the connection Audrey has with her dogs, and shared a photo of a stream running through a lush green forest",
+        "score": 0.5568137778519225,
+        "id": "982b0ecf-7a18-4351-bac8-933c116c2275",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Audrey describes having furry friends on a road trip as an amazing, fun, and exciting experience that is definitely something to look forward to",
+        "score": 0.5566969365853659,
+        "id": "63026fd7-519f-4b9f-879f-905725129fa7",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2023-05-06T10:47:00+00:00"
+      },
+      {
+        "memory": "Andrew's newly adopted dog Buddy enjoys checking out new hiking trails with Andrew and Toby, showing excitement and interest in nature",
+        "score": 0.5560380327272727,
+        "id": "29e36ea8-b0a5-44c0-acc9-c44476ddc289",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      },
+      {
+        "memory": "Audrey expressed interest in taking her dogs to the indoor dog playground Andrew shared, asking for its location so she could visit soon",
+        "score": 0.5560049992007993,
+        "id": "6bd78d3b-69ad-4d93-84bf-6483c431caf1",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Andrew expressed a desire to get a dog but finds it difficult to find the right place and the right dog, asking Audrey how she acquired her dogs",
+        "score": 0.555882382057942,
+        "id": "9ab7c03a-8388-4a3d-947a-eab68f6448b9",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a dog running in a field with a frisbee and expressed admiration for the connection Audrey has with her dogs, stating he wants to build a similar strong relationship with his puppy Toby",
+        "score": 0.5554749978519226,
+        "id": "a9a88e48-175f-4a7c-86d9-42856086ebc0",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Audrey's favorite dish to make with garlic is Roasted Chicken, and she offered to share the recipe with Andrew",
+        "score": 0.5554344083916084,
+        "id": "ab3c9304-ba43-464f-9c4e-3033cc4222f7",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2023-07-03T20:32:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey for pictures of her dogs after their recent grooming appointment at the pet salon",
+        "score": 0.5544535030459201,
+        "id": "eb813739-cb04-4584-87e7-cf1d81a300e9",
+        "created_at": "2023-11-22T09:02:00+00:00",
+        "updated_at": "2023-11-22T09:02:00+00:00"
+      },
+      {
+        "memory": "Audrey believes that nature refreshes people and enjoys appreciating the beauty around her, asking Andrew about his recent outdoor activities",
+        "score": 0.5539864090909091,
+        "id": "6f9e5622-82e1-4344-8d32-e200ebbc9a1e",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Andrew had a picnic with his girlfriend on July 7, 2023, at a renovated park, describing the experience as amazing and fun while enjoying snacks and drinks in nature",
+        "score": 0.5539151666666666,
+        "id": "8efa60cb-4c65-4bb5-a794-1c1deefa4909",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey for tips on trying sushi as a beginner, expressing enthusiasm to try more varieties soon after his first positive experience",
+        "score": 0.5535831170829171,
+        "id": "ee229275-0fa2-4ed8-9f94-81b66ee18bf9",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2023-10-24T10:14:00+00:00"
+      },
+      {
+        "memory": "Audrey has a strong bond with her dogs (Pepper, Precious, Panda, and Pixie), stating they make her happy and she wants to see their happy faces even when they are not physically with her",
+        "score": 0.5532763346620047,
+        "id": "3d11973d-7164-4ecc-91fd-88a71ee8add5",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Audrey loves cooking and her favorite recipe is Chicken Pot Pie, which she finds cozy and delicious especially on cold days. She offered to share the recipe with Andrew.",
+        "score": 0.5513036156706507,
+        "id": "3cb30a35-ec22-4123-b011-d4c03449cb5b",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2023-07-03T20:32:00+00:00"
+      },
+      {
+        "memory": "Audrey usually walks her dogs for about an hour, allowing them to explore at their own pace, though the duration varies depending on the day",
+        "score": 0.5507340333333333,
+        "id": "2df93fdb-b3d9-4b76-bd8b-5cf2d28fa54d",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Andrew recommends Fox Hollow as a great hiking trail for weekends, noting that the views are awesome",
+        "score": 0.5504939242231076,
+        "id": "e8a519fa-5f15-48d9-87ba-06c5c87e128b",
+        "created_at": "2023-03-27T13:10:00+00:00",
+        "updated_at": "2023-03-27T13:10:00+00:00"
+      },
+      {
+        "memory": "Audrey takes her dogs on road trips once every couple of months, finding it a great way for them to explore and stay active",
+        "score": 0.5494914833070866,
+        "id": "4f439d34-f5f5-4ae3-8221-11beada52ec6",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2023-05-06T10:47:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey if she has ever volunteered at an animal shelter, suggesting it can be a rewarding experience",
+        "score": 0.5494054023622047,
+        "id": "9a4627ec-298d-4347-9c78-a3c871831e46",
+        "created_at": "2023-07-27T15:52:00+00:00",
+        "updated_at": "2023-07-27T15:52:00+00:00"
+      },
+      {
+        "memory": "Audrey's dogs always sleep cuddled together, especially during nap time, and she describes them as best friends",
+        "score": 0.5494028466666666,
+        "id": "6860a476-62ef-4a80-9de1-e75f1e98cd56",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2023-08-16T21:58:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of a dog laying on the ground with an ocean view, expressing excitement about hiking and seeing nature with her dogs around October 28, 2023",
+        "score": 0.5489549077290836,
+        "id": "065c44c2-b214-435f-b705-db839063da20",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew reported that work has been tough and stressful since his last conversation with Audrey, causing his outdoor activities to take a backseat as he struggles to find balance",
+        "score": 0.5482819424242424,
+        "id": "aaa19a8d-0aeb-4256-95e0-447dba72458d",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Andrew added going on a road trip with his dog to his bucket list and expressed excitement for the day he can actually take such a trip",
+        "score": 0.5476114133333333,
+        "id": "2c31b568-9eb0-417f-94d2-7b57b8709b8f",
+        "created_at": "2023-05-06T10:47:00+00:00",
+        "updated_at": "2023-05-06T10:47:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a man walking a dog on a leash on a dog-friendly hiking trail around October 28, 2023, expressing hope that Audrey's dogs recover soon so they can join him and his dogs for hikes",
+        "score": 0.54690246,
+        "id": "430c21b3-1e2a-497a-905a-2b4888f574b4",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew and his girlfriend visited a new cafe in the city around April 8-9, 2023, which he found fun but missed the peacefulness of nature hikes where he feels he truly thrives",
+        "score": 0.5463064942084942,
+        "id": "a7f48a68-781c-4b5c-9a3a-1e1ce66e0b7f",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of her dogs Pepper and Pixie snuggling together on a fluffy blanket on the couch, noting that they know how to get comfy",
+        "score": 0.546291067995338,
+        "id": "6b0daa47-6946-4901-8d18-1af075d038fc",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2023-08-16T21:58:00+00:00"
+      },
+      {
+        "memory": "Andrew recalled that Audrey makes jewelry using recycled objects and asked her to share more details about this hobby",
+        "score": 0.5461962333333333,
+        "id": "92329fde-dbd6-499a-b2d3-f6f46993810f",
+        "created_at": "2023-10-06T21:41:00+00:00",
+        "updated_at": "2023-10-06T21:41:00+00:00"
+      },
+      {
+        "memory": "Audrey took her dogs to the beach over the weekend of September 30-October 1, 2023, and enjoyed watching them play in the ocean",
+        "score": 0.5461901047619048,
+        "id": "3fb0aef5-40ad-4485-9540-1d6fa936fd37",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2023-10-04T16:18:00+00:00"
+      },
+      {
+        "memory": "Audrey advised Andrew to take care of himself and find ways to manage stress, acknowledging that finding balance between work and personal life can be challenging and time-consuming",
+        "score": 0.5457602,
+        "id": "5b01c5f8-3f05-485e-8020-715004b9073c",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey to share her Chicken Pot Pie recipe so he can try making it, and inquired about what inspired her to make the dish",
+        "score": 0.5456448156706507,
+        "id": "5a9fee4e-e3f1-4419-bea8-13f925ecbcf5",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2023-07-03T20:32:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of one of her dogs sleeping on a couch next to a teddy bear",
+        "score": 0.5452241546187147,
+        "id": "b9e7961c-20a4-40ec-b447-18c21893cc8a",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo from his recent hike showing a person on a mountain peak with a view of the city during sunset",
+        "score": 0.5450665585747586,
+        "id": "48875d89-6936-41c1-83a5-882c4424ba14",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Audrey takes her dogs to the park twice a week for agility practice, finding it a great physical and mental workout and a bonding experience as they have come a long way in their training",
+        "score": 0.5447300466666667,
+        "id": "74b9c697-8354-4889-979f-badfe33dcff7",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Audrey describes being outdoors with her dogs as her happy place, finding the experience peaceful and inspiring",
+        "score": 0.5436355705361305,
+        "id": "91d3c524-0542-4f65-aa87-63007598c615",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Andrew had a busy week and spent last Tuesday (October 10, 2023) playing board games with his girlfriend and dog Toby, describing it as an awesome night",
+        "score": 0.543506725900766,
+        "id": "ded2e94c-e708-4e16-8ed7-0f4828159b43",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey took a dog grooming course and learned various techniques, offering to share tips with Andrew",
+        "score": 0.5430600866666667,
+        "id": "2abc327f-6ddf-4c80-810f-fe38d05df9b3",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2023-08-19T21:19:00+00:00"
+      },
+      {
+        "memory": "Andrew plans to check out the dog park near Audrey's usual walking spot, which features trees and benches for watching dogs play",
+        "score": 0.5421872454068241,
+        "id": "c849488e-13e5-4d5b-80e4-ca76b37c42d8",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2023-05-03T17:41:00+00:00"
+      },
+      {
+        "memory": "Audrey's dogs go crazy for Fetch and Frisbee, love running around to meet other pups, and have the stamina to keep running for hours",
+        "score": 0.5421166,
+        "id": "8caf08cf-409a-4c35-9872-4921c6583c0e",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey confirms that she recycles, viewing it as a crucial step in doing her part to care for nature, and asks Andrew for additional suggestions on environmental stewardship.",
+        "score": 0.54190934,
+        "id": "65d45315-f02a-44e5-9331-d75433f21937",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey for advice on owning a dog as a city-dweller, seeking tips for managing pet ownership in an urban environment",
+        "score": 0.5414064833333333,
+        "id": "82d35ca7-c638-451c-9cfd-fad03d468eac",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo around August 16, 2023, showing herself sitting in a grassy field with two of her dogs, reflecting her view that pets are family and she enjoys their connection",
+        "score": 0.54102862,
+        "id": "141176da-4d01-4ff4-bde0-d225a36baaa0",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2023-08-16T21:58:00+00:00"
+      },
+      {
+        "memory": "Andrew went on a hike last weekend (around August 31-September 2, 2023) to get away from the city and found it relieving",
+        "score": 0.5410055380952382,
+        "id": "a14007f1-fe46-453e-8669-abd180c3ea52",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Audrey noticed her dogs were not acting normally and made an appointment with an animal behaviorist on October 25, 2023, hoping it will help her better understand them despite the hectic situation",
+        "score": 0.5409704466666666,
+        "id": "3146a6b3-7d10-42f9-b639-6a1efdef99f4",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of one of her dogs laying on a couch with a pillow, describing them as great cuddle buddies enjoying lazy time",
+        "score": 0.5408420366666666,
+        "id": "a239a27f-4622-40aa-9506-82bd0684d472",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2023-04-02T14:42:00+00:00"
+      },
+      {
+        "memory": "Audrey took her dogs to a nearby dog park on September 30, 2023, which featured a large grassy area for play and shaded spots for relaxation, and the dogs had a great time",
+        "score": 0.5403872066666666,
+        "id": "5889f6c7-e9e7-428d-998a-ca4bf2c51837",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey signed up for a pet bonding workshop scheduled for June 2023 to learn new techniques and strengthen her bond with her pets",
+        "score": 0.539125828685259,
+        "id": "2656f2b4-a578-434d-88a0-714e8aee2aaa",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2023-05-11T14:03:00+00:00"
+      },
+      {
+        "memory": "Audrey asked Andrew if he has found a dog-friendly place to live yet, recalling that he had previously mentioned his search for such housing",
+        "score": 0.5386882827357238,
+        "id": "bfe92bd5-09af-4fbe-ab94-3b8ba9b3fb76",
+        "created_at": "2023-09-06T19:49:00+00:00",
+        "updated_at": "2023-09-06T19:49:00+00:00"
+      },
+      {
+        "memory": "Audrey believes German Shepherds are known for their loyalty and intelligence, love new journeys, and would enjoy exploring the outdoors with Andrew on hiking trails",
+        "score": 0.5386623859229748,
+        "id": "a85361b9-6372-4a5e-b88d-ab7d012e1b98",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Audrey's dogs enjoyed swimming at the beach during their weekend trip around September 30-October 1, 2023",
+        "score": 0.5380958666666666,
+        "id": "6b030c50-ed56-432f-adff-6adb7cadde6b",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2023-10-04T16:18:00+00:00"
+      },
+      {
+        "memory": "Andrew described his recent hike as lovely, highlighting the sensory experience of hearing bird songs and smelling trees in the open air",
+        "score": 0.5379652266666667,
+        "id": "87efd41a-9564-4b76-9776-b9ebe68dac9b",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo showing Pixie playing with Pepper, Precious, and Panda in the backyard, illustrating their positive integration and friendship.",
+        "score": 0.5371586013286712,
+        "id": "6e186db0-bb3b-4f1b-b5f9-dc70e2ae95d6",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2023-04-02T14:42:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of a serene lake with a boat and forest background, expressing excitement about exploring the trail and having a peaceful day with her dogs around October 28, 2023",
+        "score": 0.5369754490576091,
+        "id": "ca614596-f6b7-462b-b082-71254af302d4",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey's dogs are ready for their next outdoor adventure, as shown in a photo shared around July 8, 2023, where they appeared set to go out.",
+        "score": 0.5365904,
+        "id": "16058a43-3d1e-4df3-aac1-3a9ea1bde2df",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Audrey confirmed that her dogs only play with each other, referring to them as her 'fur babies'",
+        "score": 0.5353973333333334,
+        "id": "b84456a2-364e-473c-9d27-d3e240dcce58",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Audrey has not taken her dogs for a walk in nature recently due to a busy schedule, but she finds those moments with them to be chill and happy, considering them the best companions for exploring the outdoors.",
+        "score": 0.5353030666666667,
+        "id": "2ed00d13-2d6e-4120-887d-19ec6da9cfd4",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey had a great walk with her dogs around early July 2023, which made her feel really good and happy",
+        "score": 0.534955905560308,
+        "id": "c2344267-7e49-4716-9aeb-1f9197138f0a",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Audrey is eagerly looking forward to the day when all her dogs (Pepper, Panda, Precious, and Pixie) are back to normal behavior following their recent behavioral issues",
+        "score": 0.5337209213286713,
+        "id": "f0254501-69ae-4f22-905a-155a78f2392a",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew used to hike frequently but finds it more challenging now due to difficulties with his work-life balance",
+        "score": 0.5333707666666666,
+        "id": "9f826c62-dbdf-43d9-b6ee-00a1def287d2",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2023-10-04T16:18:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of her feet resting on a rock overlooking a serene lake with mountains in the background, illustrating her appreciation for peaceful natural settings",
+        "score": 0.5324978757242758,
+        "id": "75f025a7-4540-452d-a0c1-e2037d9a51c0",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo of two of her dogs curled up together in a dog bed",
+        "score": 0.532227936929737,
+        "id": "6afe518c-98de-457d-890c-1dbca3a4d927",
+        "created_at": "2023-07-03T20:32:00+00:00",
+        "updated_at": "2023-07-03T20:32:00+00:00"
+      },
+      {
+        "memory": "Andrew found a new open space to hike nearby around early May 2023, which he finds refreshing and helps alleviate his previous feelings of being down due to lack of outdoor access",
+        "score": 0.5315160220451528,
+        "id": "d506231f-c991-4a0a-9489-cb52ded199ff",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2023-05-03T17:41:00+00:00"
+      },
+      {
+        "memory": "Audrey recently started agility classes with her dogs at a dog park, enjoying watching them learn, build relationships with other dogs, and conquer challenges",
+        "score": 0.5312342466666666,
+        "id": "48716ca9-6bd0-4a02-811a-acaac669d66b",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to learn about common birds in her local area and shared an image of binoculars sitting on a table with a birdwatching guidebook around October 1, 2023",
+        "score": 0.5309505233333334,
+        "id": "6dd110c6-4159-4cfb-bbee-66053941aaf7",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey walks her dogs multiple times a day, viewing it as great exercise for them and valuable bonding time for herself",
+        "score": 0.5303965866666667,
+        "id": "a388fd3f-7d4e-4aee-9afb-0d5827b571f5",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Andrew's rock climbing experience encouraged him to try more outdoor activities, specifically mentioning interest in kayaking and possibly bungee jumping, as nature pushes him out of his comfort zone",
+        "score": 0.5297840407171314,
+        "id": "1614b542-0c53-46c0-a244-b61976baa044",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to keep Andrew updated on her dogs' progress in the positive reinforcement workshop and intends to share training tips for his future dog",
+        "score": 0.5295883566666667,
+        "id": "ed76145b-3a9a-4644-ad7d-39f42e79ffe7",
+        "created_at": "2023-05-11T14:03:00+00:00",
+        "updated_at": "2023-05-11T14:03:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo from his last hiking trip showing himself and his dog on a trail, noting how happy the dog looked during the hike",
+        "score": 0.5295833902887139,
+        "id": "84be872c-4e8f-4baf-aeb7-0ff1971e6abe",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a dog sitting on a sidewalk in a garden and commented that one of Audrey's dogs looked sharp in a green hat",
+        "score": 0.5294789333333333,
+        "id": "5dff639f-be62-4b0b-bef0-531a30d4f688",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Audrey appreciates having friends like Andrew who understand her love for pets, expressing gratitude for his offer to help find more dog-friendly places",
+        "score": 0.5292410160690572,
+        "id": "018d95c9-3f96-486d-9036-20819e9f3d25",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Andrew is super excited about the upcoming pastry party and looks forward to seeing Audrey's dogs together and eating with them",
+        "score": 0.5287083691908092,
+        "id": "7adb572f-8c8a-4881-9554-015e37ef83e5",
+        "created_at": "2023-04-16T16:19:00+00:00",
+        "updated_at": "2023-04-16T16:19:00+00:00"
+      },
+      {
+        "memory": "Andrew shared a photo of a dog laying on a rug eating lettuce while asking Audrey if her dogs have a favorite spot to relax",
+        "score": 0.52835272,
+        "id": "b8d5ebe2-0b22-4446-88fd-f85639c9bb2a",
+        "created_at": "2023-08-16T21:58:00+00:00",
+        "updated_at": "2023-08-16T21:58:00+00:00"
+      },
+      {
+        "memory": "Audrey previously suffered a knee injury that prevented her from walking her dogs, which she found difficult because they bring her immense joy",
+        "score": 0.5277766056308101,
+        "id": "d805eba5-f206-413d-98e5-77150a244433",
+        "created_at": "2023-10-06T21:41:00+00:00",
+        "updated_at": "2023-10-06T21:41:00+00:00"
+      },
+      {
+        "memory": "Audrey describes the dog park as paradise for her dogs, noting they love socializing with other pups, getting exercise, running around, and smelling things. She shared a photo of two dogs playing with a frisbee in a field.",
+        "score": 0.5274865587401575,
+        "id": "ec457693-fe08-4f19-a55d-52c7e266710e",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey advised Andrew that city-dwelling dog owners need sufficient time and energy for their pets, emphasizing that dogs require lots of attention and walks. She specifically noted that German Shepherds like Toby need to offset a lot of energy.",
+        "score": 0.5270029525896415,
+        "id": "4edc1093-9669-46d0-91d5-97ea05e2e0c2",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Andrew is looking forward to a hike with Audrey and their dogs in October 2023, noting it has been a long time since they were all in nature together",
+        "score": 0.526710059574468,
+        "id": "c4b552de-f747-47c3-92da-91c5bd7e11aa",
+        "created_at": "2023-10-01T19:09:00+00:00",
+        "updated_at": "2023-10-01T19:09:00+00:00"
+      },
+      {
+        "memory": "Audrey's new puppy Pixie has settled in well with her other dogs (Pepper, Precious, and Panda) after a few days of adjustment, and they now play and explore the house together as friends.",
+        "score": 0.5263945546620046,
+        "id": "22e6f895-b8d5-4c44-98db-5698ca5b430d",
+        "created_at": "2023-04-02T14:42:00+00:00",
+        "updated_at": "2023-04-02T14:42:00+00:00"
+      },
+      {
+        "memory": "Andrew expressed that he loves being outdoors and enjoys seeing others enjoy outdoor activities as well, reacting positively to photos of Audrey's dogs playing in the park",
+        "score": 0.5259632757575757,
+        "id": "6dfb826e-46c7-4fe9-83b7-47b54987ac63",
+        "created_at": "2023-07-08T09:48:00+00:00",
+        "updated_at": "2023-07-08T09:48:00+00:00"
+      },
+      {
+        "memory": "Audrey loves sushi, describing it as delicious with many types and flavors to try, and encourages Andrew to step out of his comfort zone and try different varieties",
+        "score": 0.5251637273837981,
+        "id": "9e3680ba-8b9c-415a-9848-d4ab9bd93c8c",
+        "created_at": "2023-10-24T10:14:00+00:00",
+        "updated_at": "2023-10-24T10:14:00+00:00"
+      },
+      {
+        "memory": "Audrey's dogs hate snow and were confused when she took them to a snowy park last winter (around early 2023); they definitely prefer nice, sunny days in the grass.",
+        "score": 0.52484768,
+        "id": "96072e39-b14f-4bce-95ff-3ba12b255f0b",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Audrey created personalized wooden keychains with engraved names for her dogs, which she shared in a photo around July 11, 2023",
+        "score": 0.52483684,
+        "id": "180c2453-3e70-4339-89f7-7bbb888dd6ea",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2023-07-11T10:05:00+00:00"
+      },
+      {
+        "memory": "Audrey finds the dog park to be a great place for playdates where her dogs can run and mingle with other dogs",
+        "score": 0.5248317120734908,
+        "id": "e0a98bbb-695a-4289-b9c7-36c5dede04d8",
+        "created_at": "2023-05-03T17:41:00+00:00",
+        "updated_at": "2023-05-03T17:41:00+00:00"
+      },
+      {
+        "memory": "On September 22, 2023, Audrey experienced a scare at the park when one of her dogs pulled hard enough to break her red retractable leash. She chased and caught the dog before any harm occurred, reinforcing how important the pet is to her and the need for caution during outings.",
+        "score": 0.52466895,
+        "id": "43365b1b-e43d-4702-86f0-c98006b6be86",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Audrey visited a tattoo parlor around October 2023 to add more drawings to her existing tattoo of her four dogs",
+        "score": 0.52440421,
+        "id": "33497770-4910-4b82-ab49-0e7195395ce6",
+        "created_at": "2023-10-13T16:22:00+00:00",
+        "updated_at": "2023-10-13T16:22:00+00:00"
+      },
+      {
+        "memory": "Andrew plans to incorporate more outdoor activities like rock climbing into his weekly routine following his positive experience in the class",
+        "score": 0.5236066037495838,
+        "id": "2adbf4b1-5813-400e-8205-04692caff889",
+        "created_at": "2023-06-13T17:23:00+00:00",
+        "updated_at": "2023-06-13T17:23:00+00:00"
+      },
+      {
+        "memory": "Andrew asked Audrey about the specific breeds of her dogs, noting that breed might influence how well they bond with their owners",
+        "score": 0.5235351,
+        "id": "51088661-40fb-4a13-91e7-c4d9a902f042",
+        "created_at": "2023-09-24T17:53:00+00:00",
+        "updated_at": "2023-09-24T17:53:00+00:00"
+      },
+      {
+        "memory": "Audrey shared a photo around August 4, 2023, showing a group of dogs sitting on a dirt road at an agility course park",
+        "score": 0.5233478624042625,
+        "id": "6d854fa8-3b71-4f3a-bf4e-8fcf4de6845f",
+        "created_at": "2023-08-04T11:05:00+00:00",
+        "updated_at": "2023-08-04T11:05:00+00:00"
+      },
+      {
+        "memory": "Andrew agreed to get more plants for his house as a way to bring peace, acknowledging that while it doesn't beat being outside, it is a helpful alternative suggested by Audrey.",
+        "score": 0.5232241200000001,
+        "id": "87359a90-cd19-438f-aa43-590436d551d8",
+        "created_at": "2023-10-04T16:18:00+00:00",
+        "updated_at": "2023-10-04T16:18:00+00:00"
+      },
+      {
+        "memory": "Andrew has been stuck inside due to work piling up since his last conversation with Audrey around July 2023",
+        "score": 0.523064705560308,
+        "id": "18a12d8e-72ed-414a-8f1a-a7f81f5d5e06",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2023-07-11T10:05:00+00:00"
+      },
+      {
+        "memory": "Audrey congratulated Andrew on adopting his new puppy Toby, describing him as adorable and expressing happiness for Andrew's new addition to his family",
+        "score": 0.5221994311852559,
+        "id": "aabd3d91-899b-4aee-8aac-953da1ec955b",
+        "created_at": "2023-07-11T10:05:00+00:00",
+        "updated_at": "2023-07-11T10:05:00+00:00"
+      },
+      {
+        "memory": "Audrey shared dog grooming tips with Andrew, advising to groom slowly and gently while paying attention to sensitive areas like ears and paws, and to remain patient and positive throughout the process.",
+        "score": 0.5220627333333333,
+        "id": "9786a329-4ec1-400d-a428-4cb64904a299",
+        "created_at": "2023-08-19T21:19:00+00:00",
+        "updated_at": "2023-08-19T21:19:00+00:00"
+      },
+      {
+        "memory": "Andrew suggested visiting the hiking trail with colorful autumn trees on their next trip, noting that the autumn colors are beautiful",
+        "score": 0.5216334998668,
+        "id": "7ec7a100-05e3-4ef1-855f-f4b7ff5f3012",
+        "created_at": "2023-10-28T14:36:00+00:00",
+        "updated_at": "2023-10-28T14:36:00+00:00"
+      },
+      {
+        "memory": "Audrey plans to check out the doggy daycare near Andrew that features a large indoor play space for dogs, following his recommendation and photo share",
+        "score": 0.5208484133333333,
+        "id": "823072f2-1544-4e22-bedf-a77e74b20739",
+        "created_at": "2023-06-26T13:51:00+00:00",
+        "updated_at": "2023-06-26T13:51:00+00:00"
+      },
+      {
+        "memory": "Andrew enjoys taking walks with his newly adopted dog Buddy, finding it a nice way to spend time together and get fresh air",
+        "score": 0.5203269393939394,
+        "id": "009d9c21-489e-4e70-b105-bb2bf81589f2",
+        "created_at": "2023-10-19T18:12:00+00:00",
+        "updated_at": "2023-10-19T18:12:00+00:00"
+      }
+    ],
+    "search_latency_ms": 1126.3,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "2",
+      "memories_evaluated": 10,
+      "reason": "The generated answer '2' does not match the gold answer 'three times', and since it is a specific count with no semantic overlap or partial credit applicable, it is incorrect."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "1",
+      "memories_evaluated": 20,
+      "reason": "The generated answer '1' contradicts the gold answer 'three times', and since there is no overlap or semantic equivalence between the numbers, it is incorrect."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "2",
+      "memories_evaluated": 50,
+      "reason": "The generated answer '2' does not match the gold answer 'three times', and since it is a specific numerical fact with no semantic overlap or partial credit applicable, it is incorrect."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "2",
+      "memories_evaluated": 60,
+      "reason": "The generated answer '2' does not match the gold answer 'three times', and since it is a specific numerical fact with no semantic overlap or partial credit applicable, it is incorrect."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "2",
+      "memories_evaluated": 100,
+      "reason": "The generated answer '2' does not match the gold answer 'three times', and since it is a specific numerical fact with no semantic overlap or partial credit applicable, it is incorrect."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "2",
+      "memories_evaluated": 200,
+      "reason": "The generated answer '2' does not match the gold answer 'three times', and since 2 is not within 50% of 3 (the acceptable range would be 1.5 to 4.5, but integer counts usually require exact matches or very close proximity which 2 vs 3 fails in strict counting contexts unless specified as approximate, however rule 4 says durations within 50% are correct; 2 is 66% of 3, so it is NOT within 50% tolerance), it is considered incorrect."
+    }
+  }
+}

@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv2_q119",
+  "conversation_idx": 2,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "How often does John get to see sunsets like the one he shared with Maria?",
+  "ground_truth_answer": "At least once a week",
+  "evidence": [
+    "D22:17"
+  ],
+  "user_id": "locomo_2_63236696",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "How often does John get to see sunsets like the one he shared with Maria?",
+    "search_results": [
+      {
+        "memory": "John asked Maria for more details about Jean's background, specifically inquiring how she ended up in her difficult situation and how she managed to remain positive throughout it",
+        "score": 0.7123720750974561,
+        "id": "e81e8776-3fd1-4244-8beb-be791d6178a1",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John asked Maria how she finds peaceful moments during their conversation on June 12, 2023",
+        "score": 0.6865961751581752,
+        "id": "b03b59da-1de3-4fd6-b50b-758bb054b071",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a person walking on the beach with a surfboard while asking John about his parenting experience",
+        "score": 0.6679001666666666,
+        "id": "0872251d-8fe8-4477-a981-45066cf0e094",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria shared that she loved creating simple, lasting memories with her siblings when she was young, similar to John's family activities",
+        "score": 0.665459,
+        "id": "e942aa5e-8030-4a01-9956-d561ff80b89f",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John had a film camera as a child and took many beach photos with it, recalling this when viewing Maria's sunset ocean photo",
+        "score": 0.6626183800000001,
+        "id": "ba0632ff-fa84-4288-947f-25676b7c52ff",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John finds that appreciating loved ones and finding silver linings helps him keep going during tough times, as reflected in his conversation with Maria on June 27, 2023",
+        "score": 0.6612128666666667,
+        "id": "1a28ec40-fa78-47a4-bfa4-4b4fa8bb8c2d",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2023-06-27T00:21:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a microphone and chargers on a table while wishing John luck for his upcoming community meeting about education and infrastructure upgrades",
+        "score": 0.6511617766666666,
+        "id": "f372edcc-27c1-4428-ac1b-c2409008b27e",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John recalled a special family vacation to California where they enjoyed a gorgeous sunset and an awesome night strolling the shore, creating memories together",
+        "score": 0.6458514533333334,
+        "id": "8ad70c61-ef5c-4627-b1bd-2e347d8c83e3",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John commented on Maria's new puppy Coco, noting that she looks adorable and happy in the shared photo, and asked how it has been having her around.",
+        "score": 0.6432886790882062,
+        "id": "51022e2a-80c8-40fc-a396-bf83f75c24c5",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Jean, whom Maria met while volunteering around February 24, 2023, experienced a divorce and job loss that led to homelessness, yet she remains optimistic, values small things, and believes in the power of kindness.",
+        "score": 0.6406043484307896,
+        "id": "7f8febf6-056b-4d1b-9fce-7faac2c7db55",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family at the beach, specifically showing a couple walking into the ocean at sunset, while expressing commitment to continuing their community efforts with Maria",
+        "score": 0.6402668547244095,
+        "id": "7ee13c12-afaa-45d8-968b-0ff9e09d20c8",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "Maria told John on May 25, 2023 that moments like their recent exchange give her peace and make her appreciate life",
+        "score": 0.6373992666666667,
+        "id": "d0062a70-9658-4a60-8465-d95e7833460e",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "Maria met a woman named Jean while volunteering around February 24, 2023. Jean had been through difficult experiences but remained optimistic and resilient, teaching Maria the importance of gratitude and connection.",
+        "score": 0.635908021764123,
+        "id": "0b89d98a-b903-443c-b5ab-721056d7caeb",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a beach with footprints in the sand and a blue sky, depicting a sunrise scene",
+        "score": 0.6356167733333333,
+        "id": "0e1ea9c9-5660-4b8c-a5c0-f9cb08e31a7f",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a sunset over a body of water with a bird flying in the distance, taken during a vacation in Florida where she felt gratitude sitting with her family and appreciated the amazing colors",
+        "score": 0.6331935666666667,
+        "id": "7e4504ad-ed2e-4c6d-b785-ba44e0f34e9e",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John's family photo was taken during a trip last year (around July 2022) for his daughter Sara's birthday, which he describes as fun and full of good memories",
+        "score": 0.63278746,
+        "id": "bfa2d0a6-5220-415f-a673-19391e5dda2c",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "Maria commented on John's photo of Max, noting he looks cute and brought joy, and asked John to share his best memory with the dog",
+        "score": 0.6320661915151516,
+        "id": "4065a8e5-6d8f-415c-b69b-b509dffd9499",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a little girl kissing a doll with another doll in her lap, describing it as a touching moment and expressing gladness that Maria was there for the child when she needed someone",
+        "score": 0.62729778,
+        "id": "6b0a93ec-4f8e-440b-a17a-e71416464fef",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2023-01-28T13:17:00+00:00"
+      },
+      {
+        "memory": "John expressed sympathy to Maria regarding her recent struggles and acknowledged the importance of support from loved ones, asking how her family and friends have been helping her out on June 27, 2023",
+        "score": 0.6272067333333333,
+        "id": "a6e78227-f41c-4474-bf5a-4a9aae7e2eec",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2023-06-27T00:21:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a mountain with a sunset and flowers in the foreground, which reminded him of a road trip he took last year (around 2022) where he found beauty and hope despite challenges",
+        "score": 0.6258441755577756,
+        "id": "fe9d1b71-cb3d-4ab8-bdd3-50ffc380d5e2",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John expressed to Maria on July 7, 2023 that her support and friendship mean everything to him, emphasizing their shared ability to make a difference and motivate others in the community",
+        "score": 0.6236822866666666,
+        "id": "42982c7c-50f7-482f-aa01-4e1ea4f46233",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "John finds it inspiring to see people remain optimistic even when facing difficult circumstances, as discussed in the context of Jean's resilience",
+        "score": 0.6209803817641228,
+        "id": "42bbebee-c5d9-4b7b-b65c-47a41a0be207",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John takes his family to the park a few times a week for bonding and letting the kids run around, describing it as great for family connection",
+        "score": 0.6203863666666667,
+        "id": "bd7d6e04-b71b-4307-a4d1-3687052f62b7",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John thinks rock climbing sounds like a fun way to push his limits and asked Maria if she has ever tried it",
+        "score": 0.6203381800000001,
+        "id": "3411445e-c35f-4a30-b262-139934227206",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a sunrise over a calm lake with a small island and a lone boat, reflecting on how her solo trip helped her grow and appreciate life's beauty by taking a step back",
+        "score": 0.6192098381235548,
+        "id": "24ab7049-00a3-430a-9a98-5cf5c75d7e26",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John expressed deep gratitude to Maria for her consistent support, stating that it means a lot to him and thanking her for always being there",
+        "score": 0.6174898333333333,
+        "id": "cbd2e96e-801b-4381-8420-bd498f56f91e",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "Maria asked John what the sign in his shared photo from the career fair says",
+        "score": 0.6174590572908366,
+        "id": "d91d6229-69c6-47ff-9fb7-de7c1578349d",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John thanked Maria for her advice on self-care and asked how she is managing her own well-being around May 6, 2023",
+        "score": 0.6158102094971696,
+        "id": "c656704b-7250-47bd-993c-e62694ed0c33",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John offered condolences to Maria for her grandmother's passing and expressed availability to support her during this difficult time",
+        "score": 0.6156948799999999,
+        "id": "fc7b837c-19e5-4696-b00b-e6370ca910e5",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John believes it is important to help family during hard times and asked Maria for an update on how her cousin is doing after her recent tough time",
+        "score": 0.6135978077025234,
+        "id": "9f1b4f36-fe11-49bc-99ef-a66a70216ddb",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "Maria took the sunset ocean photo at the beach in December 2022, describing the experience as peaceful and a moment that helped her feel connected to nature and appreciate life's small moments",
+        "score": 0.6114405343358396,
+        "id": "6813dc6e-61b5-4193-be19-8301d147d92a",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his wife and kids at his office desk, emphasizing that support from loved ones is vital and he feels lucky to have his family on his journey",
+        "score": 0.6112267333333333,
+        "id": "301e5dc0-df2a-4449-88a6-29ea0c32a17a",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John expressed that friendship means a lot to him and values having Maria's support as they work towards shared community goals, sharing a photo of people sitting in a park on February 5, 2023",
+        "score": 0.6102007508158508,
+        "id": "71135eea-6948-41b5-b782-9c7442b49a35",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John believes in pushing oneself out of comfort zones to experience new things and learn, expressing this view during his conversation with Maria about her solo trip and surfing experience",
+        "score": 0.610089151456888,
+        "id": "b392d3ba-fe74-4ba8-8380-7030b9ed1a50",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "Maria took a solo trip to Spain in 2022 and captured a photo of a beach sunrise with footprints in the sand, which reminded her that life is hard but still holds hope and beauty.",
+        "score": 0.6079056866932271,
+        "id": "90a71ece-3c23-4c42-89e0-3e8682ee6a37",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John likes to look at the sunset to calm down during stressful times, as it reminds him to enjoy the small things in life",
+        "score": 0.6069312666666667,
+        "id": "528efffb-6663-4362-b292-bc364d326720",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John believes that nature has a calming effect on people, reflecting on his and Maria's shared appreciation for natural settings around June 12, 2023",
+        "score": 0.6055703666666666,
+        "id": "64a87633-044d-40c6-b5f7-6416729bb773",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John expressed sadness regarding Maria's recent unfortunate event involving a damaged car and offered to help, asking for details on what happened around July 2, 2023",
+        "score": 0.6032623700765901,
+        "id": "72feaf6e-8fe8-4eab-ae28-ac4b754e36df",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John asked Maria for recommendations on organizations or services that could help David, the man she met at her charity event who shared his story of hardship",
+        "score": 0.6021263248339973,
+        "id": "9c2a7aad-ba69-44f1-901c-5ccd87ffc1b9",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John acknowledges that maintaining his family's fitness routine has not been easy, but emphasizes that they are committed to doing it together as a unit",
+        "score": 0.6017132,
+        "id": "9d7291a1-ccb4-415d-b697-7b9965a8ecf0",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John and his family are still sad about losing Max but find comfort in the good times and memories they shared with him, committing to keep doing their best despite the difficulty",
+        "score": 0.6015101848484848,
+        "id": "9cd12d7f-92d4-43a5-b32a-9204de2eb669",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of two women standing in a room full of black mats, identified as a volunteer orientation at a shelter, while expressing excitement for Maria's upcoming plans",
+        "score": 0.6012075666666666,
+        "id": "3d6ed9c9-61ac-4465-9e7f-5f34a7265f8f",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John praised Maria for making an impact by linking David with housing and support services, emphasizing the importance of helping people find what they need",
+        "score": 0.6010588248339973,
+        "id": "7bdd8d19-b195-4ea1-9bab-bd2073ee1046",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John expressed to Maria on August 16, 2023 that they should keep each other and others motivated to make a difference, believing their combined impact will last",
+        "score": 0.6008374,
+        "id": "d848c557-b677-4879-9115-e94b048cf063",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "Maria and John volunteered together at a local homeless shelter in 2022, an experience Maria describes as fulfilling. She shared a photo of them shaking hands in front of a food tray to commemorate their joint effort.",
+        "score": 0.6007092833333333,
+        "id": "7ae062bc-f90a-4034-a3d0-71403987d76f",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "John expressed confidence in his and Maria's progress toward making a positive impact on May 25, 2023, stating that he believes in their collaborative efforts",
+        "score": 0.5993006900262468,
+        "id": "50f4ed58-ac71-4560-b0ae-e8811b603c81",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "John confirmed that everyone in his family got a chance to swing during their recent park visit and enjoys coming up with activities for his family to enjoy together",
+        "score": 0.5988452866666667,
+        "id": "0ef03c2c-3468-4d9a-b9ee-a9efc15a1ee6",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria values having a supportive network while volunteering at the homeless shelter, noting that positive influences make a big impact on her experience",
+        "score": 0.5979992866666667,
+        "id": "f8158b97-3b51-4eae-86ee-3cf163138837",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John considers his family his rock during tough times, values their encouragement and love, and prioritizes family time. He shared a photo of his family enjoying a ride on a swing at a park.",
+        "score": 0.5975502408233732,
+        "id": "fbf6c2f8-d5d0-458f-9262-60837e866b84",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while reaffirming his commitment to working with Maria to improve their neighborhood and never giving up on their community goals",
+        "score": 0.5970277233333333,
+        "id": "3e4cb65a-0f6b-432e-b4d7-755e1b20f802",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John thanked Maria for being a positive force, stating that her actions give hope and remind people they are not alone on April 10, 2023",
+        "score": 0.5969385666666667,
+        "id": "dec7ec02-81d1-45ed-a3f0-c28a6fbec6fa",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John offered to assist Maria's cousin with specific needs regarding her housing search, asking if there is anything particular she requires help with",
+        "score": 0.5965006,
+        "id": "6fc839ad-e0e7-4a88-acfb-f98d602221fc",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John praised Maria's volunteer work as truly amazing, noting that her kindness creates incredible relationships and has a rippling positive effect",
+        "score": 0.5959794866666667,
+        "id": "665c3dfc-927d-4b0f-9bb8-c7073bef9d51",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John expressed admiration for Maria's volunteer work on August 3, 2023, stating that she has made a significant impact and that he seriously admires what she does",
+        "score": 0.5954268766666667,
+        "id": "aa4b72f3-a11c-47cc-abaa-08fd82e961ca",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2023-08-03T18:20:00+00:00"
+      },
+      {
+        "memory": "John encouraged Maria to continue making a difference in their community together, reinforcing their shared commitment to helping others",
+        "score": 0.5951301333333333,
+        "id": "263ec202-3ebe-4262-a98c-06a7197fa4cf",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting to discuss potential solutions for the flood damage and infrastructure issues in his community, and he has invited Maria to share her thoughts on the matter.",
+        "score": 0.5943448884115884,
+        "id": "ff74e533-3852-4030-996f-669b29e4981f",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "John asked Maria if she has a favorite yoga pose during their conversation on June 12, 2023",
+        "score": 0.5941609666666666,
+        "id": "34f7f256-9737-495a-a40d-43369b3da8ab",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John's family dinner included pizzas and salads, as shown in a photo shared by Maria during their conversation about the importance of shared meals",
+        "score": 0.5932875266666667,
+        "id": "048a6d93-78d9-4831-9b31-2baad7cec94f",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "John expressed a commitment to making progress in the coming weeks to honor the memories of loved ones, including Max",
+        "score": 0.5924964515151515,
+        "id": "6d86e5b8-2ec0-49ff-88aa-7b2089519c08",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "Maria asked John about any developments regarding his political goals during their conversation on January 9, 2023",
+        "score": 0.5921627534046982,
+        "id": "ae43c344-3724-4987-8d46-63c9c3f8ca0b",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John expressed gratitude to Maria for her encouraging support and appreciation for having her in his corner on April 2, 2023",
+        "score": 0.5916287333333333,
+        "id": "3ad6e75c-0606-4e5f-92b7-a1fd4e7244ea",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "Maria commented on John's shared photo from the community fundraising event, describing it as heartwarming and noting the little girl in the image has a cute smile. She asked John for more details about what the event was specifically about.",
+        "score": 0.5901749900000001,
+        "id": "7bceeac4-cc33-4dc5-a86e-7651bd4d8e39",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John manages work-life balance by organizing his time to ensure he is present for important things, emphasizing the importance of finding balance and making moments count",
+        "score": 0.5896565666666667,
+        "id": "bab53e35-96da-4c52-b31b-aba18ccfccfe",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John feels that his efforts are an uphill battle but finds motivation in knowing people see the value in his work, and he deeply appreciates Maria's support which keeps him going",
+        "score": 0.5895166066666667,
+        "id": "03474f08-6ba6-4cfd-aaab-87fe6b1081f6",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John encouraged Maria to continue her volunteer work on April 18, 2023, praising her dedication and inspiring nature while emphasizing that every act of kindness matters despite the difficulties",
+        "score": 0.5895015,
+        "id": "52815918-68a0-4d32-a916-8953336f1e25",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a homeless shelter and recently started doing aerial yoga to keep fit, describing it as great",
+        "score": 0.589498648906508,
+        "id": "0be3c534-689f-45bf-8bcf-b5ebb685ebd3",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "John recently failed the military aptitude test and has been feeling stressed out as a result, though he appreciates Maria's support during this time",
+        "score": 0.5891321152722443,
+        "id": "1a971cdd-20e4-4a0c-bb2d-f3bd79ed3437",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John commented on the apartment listings Maria shared for her cousin, noting the houses look nice and expressing hope that she finds a cozy spot soon",
+        "score": 0.5880064333333334,
+        "id": "ce833002-89a0-4501-9e00-6b7712c12ed7",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family (himself, his wife, and kids) posing in a park on August 13, 2023, stating that they always have his back during hard times and are the best thing ever",
+        "score": 0.5873588477025233,
+        "id": "4d638583-cb90-4457-b45d-d8a3f5830bb8",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "Maria takes regular \"me-time\" walks at a nearby park, which she finds has made a big impact on her well-being",
+        "score": 0.5871570333333334,
+        "id": "5e6cbf6e-07f6-472f-a07d-a2783ffbd547",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John wants his children to learn the importance of unconditional love and loyalty, values he believes were taught by their late dog Max. He cherishes the special bond his family shared with Max.",
+        "score": 0.5869892142629483,
+        "id": "a0451f33-bdcb-43c1-9d9a-adbc60255894",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John praised Maria's photo from her volunteer work at a homeless shelter, stating that small acts of kindness can make a significant difference and encouraging her to continue her efforts",
+        "score": 0.58619179,
+        "id": "39a3192c-e52f-4c72-b634-3e39a28df4ed",
+        "created_at": "2023-07-31T13:59:00+00:00",
+        "updated_at": "2023-07-31T13:59:00+00:00"
+      },
+      {
+        "memory": "John and his family support each other during boot camps by cheering during workouts and providing emotional support outside of them, which John finds amazing as they come together",
+        "score": 0.5855985733333333,
+        "id": "b6c8ca6c-083f-4881-9cc4-7af626b4e0e4",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John shared a photo from his family vacation showing two children playing in the ocean waves, describing trips like these as full of amazing memories",
+        "score": 0.5855443484515485,
+        "id": "24e7f5fc-196b-4359-accc-f0f4b3441acd",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John asked Maria if she had any pictures from the 5K charity run for a homeless shelter that she participated in around early April 2023",
+        "score": 0.5850748177606178,
+        "id": "cf0b427e-43bb-4522-9045-d039e7974d10",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help the students, sharing a photo of a group sitting around a table.",
+        "score": 0.5845127462173769,
+        "id": "78a2f6d8-0e6c-4fa8-a306-d7ea4f6db575",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John and his late dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and sat by a campfire, which John describes as a peaceful and awesome experience with great memories",
+        "score": 0.5842678181818183,
+        "id": "4a43ac8e-bfd5-4e66-8651-301bc637b0a8",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a poster featuring Santa Claus on a table during her conversation with John around January 1, 2023",
+        "score": 0.58323734,
+        "id": "95899f5e-3b54-4088-8535-0fc63312eed3",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a tattoo featuring a quote during her conversation with John on January 9, 2023",
+        "score": 0.5827179867380315,
+        "id": "6dccd786-64f4-4c62-b696-e9cf3cedbe16",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John shared a photo from his recent yoga class showing a man doing yoga outside on a blue mat",
+        "score": 0.5825431999999999,
+        "id": "5052409d-f7f0-4a40-9c12-97e88c574ac4",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "Maria went on a family road trip to Oregon when she was younger and shared a photo of a person standing on a cliff overlooking a canyon, describing the scenery as beautiful",
+        "score": 0.5824098333333333,
+        "id": "616036f8-1e88-4f84-bb68-73bb8e7ff48f",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a football stadium with a large crowd, reflecting on how enjoying special family times makes life great",
+        "score": 0.5821473274900398,
+        "id": "f4ec14d1-1ae3-4ce6-ba28-61d53d367436",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John finds meal times with his family fun and values them for the good food, laughs, and chats that help keep the family close",
+        "score": 0.5814411666666667,
+        "id": "d138fc5e-605c-4b7a-a032-9681ae4ba2b1",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "Maria went hiking with her church friends around July 15-16, 2023, finding the experience refreshing and valuing the support of being surrounded by supportive people in nature",
+        "score": 0.5808451235059761,
+        "id": "de774bed-9f3b-45f8-9348-bd1d71a32d48",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "Maria asked John about the progress of his mentoring program and whether the students are making progress, following up on his recent volunteer work",
+        "score": 0.5805213674900398,
+        "id": "310d332d-4adb-4bce-810f-2187cce527ab",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "Maria encouraged John on July 5, 2023, affirming that he is making a difference and offering to lend an ear or help out however she can as part of his support system",
+        "score": 0.5801240236387782,
+        "id": "c12938fd-895c-495b-90c6-e4599e139c1a",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John agreed to look for resources or organizations that could assist Maria's cousin with her housing search and offered further help if needed",
+        "score": 0.57989287,
+        "id": "7a6ae75b-af47-45eb-b2f2-1af609e25a90",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John asked Maria for the name of her newly adopted puppy and whether the new dog gets along with Maria's other dog",
+        "score": 0.57981976,
+        "id": "64d102fc-1a03-4567-b7ca-791373f59f15",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John remembers Max as peaceful and happy, acknowledging the heartbreak of his loss while expressing gratitude for the joy he brought to the family. John reflects that Max taught them valuable lessons about love and loyalty.",
+        "score": 0.5797818181818183,
+        "id": "1142e004-ebf9-4600-b5cf-fd88bb3a925f",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a person walking on the beach with a surfboard, emphasizing that finding balance and taking time for oneself and loved ones is vital",
+        "score": 0.5796970666666666,
+        "id": "6646a18f-3e2b-4466-899e-39a1454eb559",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John made an apple pie for his kids on May 3, 2023, and shared a photo of a banana split ice cream sundae while discussing the meal with Maria",
+        "score": 0.57968659,
+        "id": "d05da069-7bff-469b-8364-745f42641b24",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "Maria has a small family but values quality connections with friends, often spending time watching movies, hiking, and hosting game nights at her place",
+        "score": 0.57910794,
+        "id": "aea825c2-58fa-4212-b378-f9c8cf0566cf",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "The sign in John's photo from the career fair says \"Always look on the bright side of life,\" which he interprets as a reminder that kids can reach their dreams with the right help.",
+        "score": 0.5778518133333334,
+        "id": "aceb6007-c75f-48c6-970d-eee2fca6be0d",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "Maria had a humbling conversation with a man named David at her recent charity event, hearing his story of hardship and difficult circumstances which reinforced her belief that everyone deserves understanding",
+        "score": 0.5778456381673307,
+        "id": "aaabf12e-de63-4c1a-932c-36cac54b51d5",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a group of people standing around a field, noting that such moments help remember small joys when life gets busy",
+        "score": 0.5771910266666667,
+        "id": "a2138e2d-ff81-47be-8643-54ff3aae87f1",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John is considering starting a community project focused on infrastructure improvements and has invited Maria to collaborate with him to gain neighborhood support for the initiative.",
+        "score": 0.5769115333333333,
+        "id": "8d1e0fa3-a398-4a11-b1cc-c7379f0f7639",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John accepted Maria's offer to help with networking or future events for his community food drive, expressing that her assistance would be greatly appreciated",
+        "score": 0.5762656948207171,
+        "id": "f88c3316-0715-4845-924d-6df7c65570b1",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John agrees with Maria that making people feel noticed and listened to is key to making a difference, sharing a photo of a group sitting at a table with plates of food on March 6, 2023",
+        "score": 0.575510918699187,
+        "id": "03e9c452-8151-4b9d-af09-48ced89d5cd1",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria asked John if the fire-fighting brigade activity he participated in raised any donations, noting that everyone appeared to be working hard in the shared photo",
+        "score": 0.5747020106241699,
+        "id": "d273b159-d019-4f2a-ba1a-493f26c12cc7",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to collaborate with John on a community infrastructure project to get neighborhood backing, sharing a photo of a group of people looking at a map during a local meeting about neighborhood improvements.",
+        "score": 0.5738973033333333,
+        "id": "bd53207d-c551-4d33-83da-d700d6166364",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a homeless shelter, an activity she finds rewarding, and shared a photo of a group of people standing around a table with a volunteer badge on August 3, 2023",
+        "score": 0.5725808422398414,
+        "id": "db4e62d7-61d5-4aa6-bfea-869f1fcfb6ef",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2023-08-03T18:20:00+00:00"
+      },
+      {
+        "memory": "John expressed gratitude for Maria's support and reaffirmed his commitment to working hard on his passion for community service through the fire-fighting brigade",
+        "score": 0.5723748766666666,
+        "id": "bb15a99d-05ff-456f-8400-189e3f25ff38",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "Maria received a handwritten letter from Laura, a resident at the homeless shelter where she volunteers, expressing gratitude for the impact Maria and the team made on her life, which Maria found inspiring.",
+        "score": 0.5721688866666667,
+        "id": "518c6e41-6189-49d2-b2fd-eb9861a9fa05",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John described his camping trip with Max as a chill experience, valuing the quality time in nature away from noise and everyday hustle around summer 2023",
+        "score": 0.5717506181818183,
+        "id": "e9ee2c72-0ffe-4ea9-b832-88ffc72db2f1",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to join forces with John to make changes in their community, expressing that his commitment to helping others is inspiring and valuing their shared passion",
+        "score": 0.5709740497835498,
+        "id": "f9798541-c1a8-4331-8283-fbcd313a0dfb",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "Maria expressed interest in trying new exercise classes to switch up her routine, inspired by John's description of his yoga studio's variety",
+        "score": 0.5706060738594738,
+        "id": "993f7805-85e8-48f8-b257-8b639b520224",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family gathered around a kitchen table for dinner, emphasizing that making memories with family is priceless and makes life more meaningful",
+        "score": 0.5702398333333334,
+        "id": "9cd01c06-c89f-4d61-9315-ef64efdafd88",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a group of people sitting on a couch talking, noting that the resilience of veterans in John's group is inspiring and fills them with hope despite heartbreaking stories",
+        "score": 0.5697242,
+        "id": "05dd58a1-0622-4ac0-b657-d69842437e0c",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John looks at his family photo during hard times to remember his purpose, stating that his family is his primary motivation and keeps him going",
+        "score": 0.5696699233333333,
+        "id": "447bb05d-d5e5-4601-a1cb-aff34c3edb17",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John praised Maria's determination on July 7, 2023, expressing amazement at her resolve and enthusiasm to begin working together on community solutions following the recent flood",
+        "score": 0.5695771566666666,
+        "id": "cf2b6b0a-611b-45ab-b05d-979c7e824122",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "Maria has not tried rock climbing yet but thinks it sounds like a great way to push oneself, and she encouraged John to share his experience if he tries it",
+        "score": 0.5695416916416917,
+        "id": "f4330753-d58f-4217-82a5-dfd57db563bc",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John and his family visited a military memorial around July 27, 2023, an experience that had a meaningful impact on his children",
+        "score": 0.5689841999999999,
+        "id": "bb6240cb-3786-43b6-9530-132b201d87c8",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2023-08-03T18:20:00+00:00"
+      },
+      {
+        "memory": "John uses photography to take a step back and appreciate the little things in life, especially during tough times he has been experiencing recently around August 2023",
+        "score": 0.5689152327272727,
+        "id": "b4eb65c4-8017-4d83-a926-ad9ff19abecd",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John responded to Maria's update about the shelter children by calling them adorable and asking for updates on them as well as how Maria has been doing",
+        "score": 0.5688873466666666,
+        "id": "5d7816c3-c0cf-403c-a6f0-dd986615dd1a",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John returned from a family road trip on December 16, 2022, and described the experience as fun",
+        "score": 0.5688358676691729,
+        "id": "8eb9b054-1682-44c3-8ddb-9feb3b77e8b1",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "Maria finds peaceful moments by taking time for herself and listening to her favorite music, which helps her find her Zen",
+        "score": 0.5688156533333334,
+        "id": "7f546440-ba4b-4eaa-9459-f34d975f648c",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his military veterans support project, and John expressed gratitude for her partnership, believing they can make a real impact together",
+        "score": 0.568216263063063,
+        "id": "30ddf1ef-132a-4dc2-a591-05aefb483711",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John has gone camping plenty of times and finds it an awesome way to get away from everything, be at one with nature, and enjoy its uncomplicated nature",
+        "score": 0.56781825,
+        "id": "988f0347-8c2d-49ae-b15e-7c415b3f9026",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John's family had a great time at the park last weekend (around March 4-5, 2023), where the children enjoyed carefree joy on the swings",
+        "score": 0.5677874520325203,
+        "id": "f5d437d8-d82d-4c51-aba3-3e00242d3a33",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria expressed strong belief in John's ability to make a difference through his political campaign, encouraging him to take small steps, stay true to himself, and keep going on May 6, 2023",
+        "score": 0.56745204,
+        "id": "48e9068b-fcd8-4602-9b0d-95643a750933",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "Maria believes pushing boundaries is essential for growth and self-exploration, acknowledging it can be hard but worth it, and feels blessed to share this mindset with John",
+        "score": 0.56570988,
+        "id": "63224adc-0c6b-4401-bd87-56cfe7116937",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a group of men sitting around a campfire during her recent camping trip with church friends",
+        "score": 0.5645903501726428,
+        "id": "abd3bcc5-0932-42cb-ba2b-a813bcbc1a3b",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a parking lot with a flag and flowers while discussing his motivation for supporting military veterans.",
+        "score": 0.5644594897297297,
+        "id": "3efe97e7-94d5-471c-b7be-439825ca6037",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "Maria was inspired to go hiking with her church friends around July 15-16, 2023, by a desire to make connections, laugh together, and take in nature's beauty, finding the experience uplifting",
+        "score": 0.5643303235059761,
+        "id": "8af9ffb0-df10-4f3d-b5b8-42167f61a713",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John has a one-year-old son named Kyle, whom he describes as very cute",
+        "score": 0.56423874,
+        "id": "098fff04-5c34-4b79-8fa1-9f6c6e3c37ff",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria volunteers at a homeless shelter where she recently gave talks, finding the experience fulfilling and receiving compliments from other volunteers",
+        "score": 0.5640609155731747,
+        "id": "5c069348-d608-4310-b209-f6d676c2bd84",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "Maria asked John what motivated him to get into politics during their conversation around February 5, 2023",
+        "score": 0.5622253508158508,
+        "id": "335dde01-9720-4e4d-8285-818d4414563b",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "Maria had a picnic with friends from church around July 15-16, 2023, where they relaxed under trees, played games, and ate food; she shared a photo showing a picnic table with drinks, snacks, and a cell phone",
+        "score": 0.5621929666666666,
+        "id": "19fe0fda-d779-4c2e-b0ad-3e23a4cb45f7",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John congratulated Maria on joining a gym and asked if she has any specific fitness goals in mind",
+        "score": 0.5619756833333334,
+        "id": "5dd4ddb7-ebfe-4810-a3e9-51b06f300c85",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John took a photo of a sunset over the ocean with a sailboat in the distance during a walk around June 28, 2023. He uses this image as a reminder to take breaks, breathe, and appreciate nature.",
+        "score": 0.5618860666666667,
+        "id": "4607cb1a-0db2-4d77-9e2f-eaf3b2f79b22",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John's colleague Rob invited him to a beginner's yoga class, though John does not have immediate plans for it",
+        "score": 0.5615426333333334,
+        "id": "f1d4de18-0aea-4a9b-ac7a-3f59ec42e66e",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John had an awesome day at the park with his family around June 12, 2023, where the kids enjoyed the playground and they shared nice family time",
+        "score": 0.5613410141567065,
+        "id": "e102a53c-e7ca-40a1-8d5e-d1dec72e62ef",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John viewed the tattoo quote shared by Maria as a reminder to stay strong during tough times, reflecting on his recent stress from failing the military aptitude test and the unexpected car incident",
+        "score": 0.561083981938911,
+        "id": "35dcfd69-8be7-4897-9654-8815f9fb94df",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John recalls volunteering with Maria last year as a fulfilling experience where he saw the big impact of their actions, and he is committed to continuing to help out and make things better in the community.",
+        "score": 0.56093634,
+        "id": "e39f5861-3505-437c-b982-db112336f343",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his project supporting military veterans, expressing enthusiasm for making a difference together in their community",
+        "score": 0.5600738630630631,
+        "id": "2468a302-9659-49e1-bcc0-9da899d70653",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family posing on a train track in the fall, stating that they motivate him and remind him why he is doing his community work",
+        "score": 0.5600102133333333,
+        "id": "25f7b6c1-42c8-4147-a7e6-1d295b140089",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John described his camping trip with Max as restarting his mind and spirit, emphasizing how the peaceful and pretty environment helped him remember to savor small things in life",
+        "score": 0.5597529181818182,
+        "id": "4541a3a6-9e74-4891-996b-185bb52565df",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a wooden sign featuring a flag and an eagle, appreciating symbols of travel memories in homes",
+        "score": 0.5593691466666667,
+        "id": "7aa4761a-9938-44b8-adb6-c0ee03d9bcce",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John finds family activities by looking for fun options like walks, park picnics, or local events, recently attending a violin concert around late February 2023 that the whole family enjoyed",
+        "score": 0.5592694466666667,
+        "id": "96bc7781-6a68-4471-873a-8aa96e7b3030",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria affirmed her friendship with John on February 5, 2023, stating that he is a great friend to her and promising that she will always be there for him",
+        "score": 0.5589099908158509,
+        "id": "224775e0-eb17-41fc-b3ce-423ae9544126",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John heard inspiring and heartbreaking stories from an elderly veteran named Samuel during his hospital visit, finding Samuel's resilience hopeful and reminding John of his own desire to join the military",
+        "score": 0.5584632666666667,
+        "id": "ad9baa40-3c08-4844-8ead-b9063de8e5b0",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John attended a community event around June 2023 that featured arts and crafts, fun activities, and games for families, which he enjoyed and plans to replicate with his own family and friends",
+        "score": 0.55837032,
+        "id": "6999abd4-be10-4a9e-af58-080b0147f389",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John thanked Maria on August 16, 2023, for being part of the community effort and expressed appreciation for her support",
+        "score": 0.5562196280577428,
+        "id": "ddcef55b-0e00-4302-a4c0-bf36475b70ce",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "Maria expressed enthusiasm for the community support John's food drive received and offered to help with networking or volunteering at future events",
+        "score": 0.5559505417915418,
+        "id": "7020007e-d8dd-4715-b4ab-71b7a55901b0",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith",
+        "score": 0.5555823507492508,
+        "id": "36e68191-a940-4701-8a5f-0a57b32f87da",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "Maria recalls a special moment at the homeless shelter where someone who had been sad for months suddenly laughed while she was playing with the kids, an uplifting experience she won't forget",
+        "score": 0.5541415433333333,
+        "id": "8822fc65-1cf6-4a78-9dfd-a0d8989336bc",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2023-06-27T00:21:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his late dog Max, a golden retriever, laying on the floor next to a person, reflecting that he is still thinking about Max and finds pets uplifting for spirits",
+        "score": 0.5529145675962815,
+        "id": "c693970d-ad52-4dd4-a2ae-238765d4affe",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John encouraged Maria to keep up her volunteer work, emphasizing the importance of staying positive and thankful even during tough times, and noting that kindness and optimism can go a long way",
+        "score": 0.552890006060606,
+        "id": "8b973d14-e969-4335-ad99-b486b0424eee",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "Maria describes her new puppy Shadow as an amazing learner who is fun to work with and watch grow, bringing her significant joy",
+        "score": 0.5525627466666667,
+        "id": "b4b39c9e-7076-4869-a240-4ac24906ef00",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John stated that family is the most important thing to him, serving as his biggest support system where they have each other's backs through good times and bad",
+        "score": 0.5521572636387782,
+        "id": "58459cdd-1ddc-4288-9607-c36d0a697360",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "Maria encouraged John to research and explore local organizations or volunteering programs that align with his interests, noting this could help him meet like-minded people and contribute to causes he cares about.",
+        "score": 0.551796874991675,
+        "id": "ebead0c6-cc06-4827-8e27-1a9229f00ae6",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria's grandmother passed away around late February 2023, and Maria is finding it difficult to stay positive during this time of grief",
+        "score": 0.5517938174825175,
+        "id": "a6245f8c-49e8-4c4b-8d26-773e7a53775c",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John is working on a petition focused on education and infrastructure, finding it tricky but rewarding as he reconnects with friends and gains support",
+        "score": 0.5505734133333333,
+        "id": "2af150b7-d847-4e4c-88d2-c27dbb18e8bf",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a sign on a door indicating 'domestic abuse' during his conversation with Maria about the challenges of organizing the charity run",
+        "score": 0.55043706,
+        "id": "c77e2268-cc9e-48ec-94bc-61cffaa9d79b",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John is currently dealing with car trouble and financial strain but maintains a positive attitude, finding ways to cope with these difficulties",
+        "score": 0.5503769,
+        "id": "19e00f17-4289-41d8-aa15-5bf3b1b8360f",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John went on a hiking trip with his workmates around May 25, 2023, where they visited a waterfall; he shared a photo of the group including a dog, noting their support keeps him motivated",
+        "score": 0.5496995133333333,
+        "id": "1a490cc2-6da8-4724-ad91-e183bd2fa08e",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "Maria was involved in a car accident around July 2, 2023, when another vehicle ran a red light and hit her car; thankfully, everyone involved was okay.",
+        "score": 0.5496962,
+        "id": "bb393288-0313-4bc3-8118-dfdc4c4f468d",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates around June 5, 2023, which he found great and helpful for clearing his head",
+        "score": 0.5493474809856811,
+        "id": "6312ecca-1339-4e46-aa72-040ef357f06a",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "Maria told John on June 27, 2023 that she has been struggling recently but is focusing on the positive and relying on her friends and family for support",
+        "score": 0.5491198266666667,
+        "id": "ec1af38a-761e-49e8-a568-1f9ce92b1504",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2023-06-27T00:21:00+00:00"
+      },
+      {
+        "memory": "John shared a cherished photo of his late dog Max, a golden retriever sitting in the grass with a leash under tree shade in the backyard, to honor his memory",
+        "score": 0.5489773409296149,
+        "id": "8d5d2b01-f88d-4f82-89e7-1839b1a95095",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John told Maria on May 6, 2023 that her encouragement gives him the strength to keep going when he feels overwhelmed by his political campaign challenges",
+        "score": 0.5482141333333334,
+        "id": "3b32ebc3-0239-4683-bcfd-4cb788a71eff",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John's car broke down on Friday, April 7, 2023, while he was on his way to work. He is currently trying to get it fixed but finds the process difficult and financially straining, though he remains positive and focused on finding a solution.",
+        "score": 0.5472322833333333,
+        "id": "a8cfe198-6590-44d0-a1a2-8ec91efe7314",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a man standing on top of a mountain with a backpack during his recent mountaineering expedition",
+        "score": 0.5471320000000001,
+        "id": "b8e988f1-aeeb-4873-b1c7-877baaa67ce0",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John expressed to Maria on August 16, 2023 that he is glad she finds fulfillment in her volunteer work and emphasized how small acts of kindness can significantly impact lives",
+        "score": 0.5467983249479631,
+        "id": "6d017eb5-ff13-483c-b735-62594dbc3d7c",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast as of April 18, 2023",
+        "score": 0.5467587333333334,
+        "id": "4f419d39-8e79-4d95-8a20-4146e23019c2",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John finds peace and beauty in nature essential during tough times, as they provide the power and inspiration to continue moving forward",
+        "score": 0.5465884727272727,
+        "id": "cb140584-f859-4ba8-a31f-387ce9466b4e",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John and his family attend boot camps three times a week, which helps them stay on track with their fitness goals",
+        "score": 0.5465198,
+        "id": "40ce2ddd-fe3e-4cfa-8d7d-e221415a1e7b",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help the students",
+        "score": 0.5463330595507103,
+        "id": "c0186cf1-c5b1-45d4-a2c7-9cc58b4fc5d0",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John and his family enjoy outdoor activities including hiking, visiting the park, and having picnics, as well as indoor activities like playing board games and having movie nights at home",
+        "score": 0.5460518633333333,
+        "id": "fcb81671-1f25-493a-bcbf-45b1a614de60",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John believes that moments of connection and shared experience remind him of the importance of being kind and optimistic in life",
+        "score": 0.5458085600000001,
+        "id": "e1b02f99-68d0-4fea-9f7c-4b00fc855e3e",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John expressed to Maria on August 9, 2023 that while domestic abuse is a tough issue, it is wonderful to see people come together for such an important cause",
+        "score": 0.5457213,
+        "id": "fb77ce0b-b816-472b-88b3-2bb0eb468231",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "Maria agrees with John that everyone should have access to affordable housing and supports fighting for better living standards by getting the community on board to make a difference.",
+        "score": 0.5456960866666667,
+        "id": "70af391e-9916-4f3e-bf70-6fb463e74015",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John's children were awestruck and humbled during their visit to a military memorial around late July 2023, an experience John described as meaningful and impactful for them",
+        "score": 0.5455881711926,
+        "id": "30deb27e-dd45-41dd-914e-1cf5710c0499",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2023-08-03T18:20:00+00:00"
+      },
+      {
+        "memory": "Maria asked John if he has organized events for any other causes besides the 5K charity run for veterans",
+        "score": 0.5454391933333333,
+        "id": "0db1e1d8-43c8-4fc1-ad1b-f30af65d77f2",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John shared a photo from the career fair showing a heart-shaped sign with a quote on it, symbolizing the unity and impact of helping others.",
+        "score": 0.5451206866666667,
+        "id": "a8070eca-9372-4f33-9187-0366c7f75557",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John believes nature makes people feel small yet connected to something greater, and he asked Maria about her plans for her next adventure around July 22, 2023",
+        "score": 0.5444750649122807,
+        "id": "6df9141e-c9fb-4642-bfd7-66c1702907f4",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a waterfall with a bridge over it, describing the experience of hiking to the top and seeing it as awesome and breath-taking",
+        "score": 0.5441463333333334,
+        "id": "5ec3784a-ea85-4fdb-a15d-adc2def329a2",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of many white portable homes in a parking lot while discussing housing resources for her cousin who is seeking a new place",
+        "score": 0.5439577,
+        "id": "7f1d37fb-b490-45bd-9a3a-0f663459441c",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "Maria played charades and a scavenger hunt with her friends from church during their picnic around July 15-16, 2023, which resulted in everyone having a good laugh",
+        "score": 0.5439384733333333,
+        "id": "e4541de1-abe4-4a28-9af9-41c9fb1c10c5",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John expressed that Maria's support and kind words provide him with motivation to keep going despite the challenges of running for office, and he appreciates her belief in his ability to make a difference",
+        "score": 0.5438503486513486,
+        "id": "efc1215a-ef36-4cd6-9c2a-a381b9c5a4e3",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John shared an image of a golden trophy on a black surface in relation to his new role as assistant manager",
+        "score": 0.5437940553113553,
+        "id": "9d0e8b1c-11e2-40ba-95c8-b59bd8244408",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John thanked Maria for her kind words on August 11, 2023, calling her an inspiration and encouraging her to keep being positive and kind",
+        "score": 0.5434532153180154,
+        "id": "3bd772e3-54a1-41ed-8c82-5abcbf107a1c",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria bought a cross necklace to feel closer to her faith, an action that has made her happy.",
+        "score": 0.5431534507492507,
+        "id": "9c0a422e-82b8-4058-aae8-1be012ed12c4",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo from her volunteer work at a homeless shelter around July 31, 2023, showing a group of people standing around a table with food, emphasizing that being kind matters",
+        "score": 0.5430785733333333,
+        "id": "df27e014-f40f-42e1-9ea6-4b9b498a3dea",
+        "created_at": "2023-07-31T13:59:00+00:00",
+        "updated_at": "2023-07-31T13:59:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a tent in the woods with a blue tarp, illustrating his recent camping setup in nature",
+        "score": 0.5428137,
+        "id": "06e9e2e2-1565-424d-ad94-c816d4f29f2e",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria enjoys upside-down yoga poses because they make her feel free and light, though she finds it tough to pick just one favorite pose",
+        "score": 0.5420128533333334,
+        "id": "2900a146-245c-412c-beeb-006ae0316a06",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John and his service-focused online group held events around late December 2022 or early January 2023, including visiting a homeless shelter to distribute food and supplies, which John found impactful seeing the recipients' smiles",
+        "score": 0.5416950867380316,
+        "id": "2ee852f2-53a0-49dd-aa8b-1665f4e6e81d",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "Maria joined a nearby church around May 5, 2023, to feel closer to her community and faith, and has found the experience great so far",
+        "score": 0.5416361133333333,
+        "id": "cdcdfe21-b06a-4cf6-a490-eaa03aea1ae5",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John has been exploring opportunities in the tech industry for some time and views his recent job loss as a potential catalyst for this career change, crediting Maria's support for giving him the push",
+        "score": 0.5406997718947719,
+        "id": "911f2706-634b-44ee-92f3-31c4da031c00",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2023-08-05T17:19:00+00:00"
+      },
+      {
+        "memory": "Maria told John on June 27, 2023 that being able to make a difference through her volunteer work brings her joy",
+        "score": 0.5398474582812964,
+        "id": "6a29c7d2-0a12-46b2-b64c-fa272de055bb",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2023-06-27T00:21:00+00:00"
+      },
+      {
+        "memory": "John finds it inspiring to share stories, advice, and encouragement with his service-focused online group, valuing their shared passion for serving others",
+        "score": 0.5396046031168832,
+        "id": "c35d25ef-ccba-49e8-b66f-cd22ff72132a",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "Maria tried surfing for the first time during her solo trip to Spain in 2022. Despite falling off repeatedly, she found the experience exciting and learned the value of persistence and trying new things.",
+        "score": 0.539460211456888,
+        "id": "881439cf-c7b1-43f0-8100-a8e2085d821c",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "Maria's most impactful volunteering moment was comforting an 8-year-old girl at a homeless shelter who had no other family; they talked, laughed, and Maria provided her with comfort and a listening ear.",
+        "score": 0.5389758666666666,
+        "id": "f6ed1d07-f31e-4bce-80d9-27956b4ee46c",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2023-01-28T13:17:00+00:00"
+      },
+      {
+        "memory": "John confirmed the photo he shared was from a yoga studio he attends often, describing the vibe as chill and the instructors as awesome",
+        "score": 0.5379770071928073,
+        "id": "e3f0a15f-0645-47b9-bf3a-6f396d5455fc",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John describes parenting as a wild ride full of ups and downs, but states that the love and happiness outweigh the challenges. He shared a photo of two children playing on playground equipment.",
+        "score": 0.5377570097211155,
+        "id": "87e1dccf-a43c-4f76-9e10-230911115e40",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria described reaching the top of her hike as amazing with a breathtaking view, feeling a sense of peace and connection to something special by seeing how huge the world is",
+        "score": 0.5377482466666667,
+        "id": "bea6a619-9a36-43e9-bfdc-8ec1dd8b72c4",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John explored the coast in the Pacific Northwest and visited several national parks during a road trip last year (around 2022), describing the natural beauty as absolutely breathtaking",
+        "score": 0.5368604,
+        "id": "5a13cf8b-52ff-4541-879b-ff50bd7c1f43",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "Maria requested John's assistance in finding volunteers for the homeless shelter fundraiser event, expressing appreciation for his help and confidence in their joint efforts",
+        "score": 0.5364331831235432,
+        "id": "bc6bc2f6-764b-4451-8d4b-ed11dd2f768b",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "Maria stated that her new puppy Coco brings joy to her life and greets her when she comes home, noting that while caring for her has been an adjustment, it is worth it.",
+        "score": 0.5361055457548728,
+        "id": "d5e1fc31-7352-41e2-9cff-de9572803447",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John confirmed to Maria on July 3, 2023 that he will do his best to find resources for her cousin's housing search, stating that helping those in need is important to him",
+        "score": 0.5354960649122807,
+        "id": "9d498b22-7ecb-462c-91c7-69fb7c93ca60",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      }
+    ],
+    "search_latency_ms": 2820.7,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The sunset John shared with Maria was experienced during a special family vacation to California.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes the context of a specific sunset event but fails to provide the frequency information ('At least once a week') required by the question, resulting in zero overlap with the gold answer's core fact."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not specify a regular frequency for how often John sees sunsets, but they document that he shared a sunset photo from a 2022 road trip on April 10, 2023, shared a beach sunset photo on May 25, 2023, and recalled a sunset from a special family vacation in California on June 16, 2023.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer fails to mention the specific frequency 'at least once a week' provided in the gold answer and instead claims the memories do not specify a regular frequency, which contradicts the gold standard."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John looks at sunsets to calm down during stressful times.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer describes the purpose of John's sunset viewing (to calm down) but fails to mention the frequency ('at least once a week') specified in the gold answer, resulting in zero correct items."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John looks at the sunset to calm down during stressful times.",
+      "memories_evaluated": 60,
+      "reason": "The generated answer describes the purpose of John's sunset viewing (to calm down) but fails to mention the frequency ('at least once a week') specified in the gold answer, thus containing zero correct items from the required list."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John looks at sunsets to calm down during stressful times.",
+      "memories_evaluated": 100,
+      "reason": "The generated answer describes the purpose of John's sunset viewing (to calm down) but fails to mention the frequency ('at least once a week') specified in the gold answer, thus containing zero correct items regarding the specific question asked."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John looks at sunsets to calm down during stressful times.",
+      "memories_evaluated": 200,
+      "reason": "The generated answer describes the purpose of John's sunset viewing (to calm down) rather than the frequency requested in the question, and it does not contain the gold answer's information about seeing them 'at least once a week'."
+    }
+  }
+}

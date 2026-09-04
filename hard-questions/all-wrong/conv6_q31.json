@@ -1,0 +1,1465 @@
+{
+  "question_id": "conv6_q31",
+  "conversation_idx": 6,
+  "category": 2,
+  "category_name": "temporal",
+  "question": "How many days did James plan to spend on his trip in Canada?",
+  "ground_truth_answer": "19 days",
+  "evidence": [
+    "D16:9",
+    "D16:13"
+  ],
+  "user_id": "locomo_6_63236696",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "How many days did James plan to spend on his trip in Canada?",
+    "search_results": [
+      {
+        "memory": "John noted that Toronto will be the fourth country James visits and asked if James plans to visit other locations besides Toronto during this trip",
+        "score": 0.7116609354581672,
+        "id": "30e3495e-c664-4496-919a-54d2798635a4",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James plans to visit Vancouver in addition to Toronto during his upcoming trip, and is considering visiting other locations as well",
+        "score": 0.6949452687915006,
+        "id": "d91d2ba8-d9e2-462d-ba54-a225ae50e351",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James purchased air tickets to Toronto and is scheduled to depart on the evening of July 11, 2022",
+        "score": 0.6789757621248339,
+        "id": "560fd4b7-ecc2-475d-b04f-b0a4a633067c",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James mentioned that he and his family did one good thing on the way to visit friends Mark and Josh during their road trip around November 2022",
+        "score": 0.6757094231075698,
+        "id": "e82c5117-d685-4fb4-a9ef-78314f916b78",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "During their current road trip, James and his family visited friends Josh and Mark and had a great time",
+        "score": 0.6553325097742363,
+        "id": "6d9bf9fe-ccd0-40cb-a9c7-ceb9052a7e86",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James brought souvenirs from his trip to Nuuk for both John and Jill around July 22, 2022",
+        "score": 0.607941133999334,
+        "id": "c812f82e-e373-4401-8509-aabd49a17a49",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James reported that his recent trip went great and he visited Nuuk, adding another country to his bucket list during the trip around July 2022",
+        "score": 0.6015451984860558,
+        "id": "b080f2b2-55ab-4da1-9a65-c5736bae6832",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James has visited Turkey and Mexico in addition to Italy, noting that he hasn't visited many countries overall",
+        "score": 0.6001023466666667,
+        "id": "99c139c7-bc22-4350-b619-af7e7658f889",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James's mother and her army friend used to tell James stories about their time in the military and their dog",
+        "score": 0.5844406333333333,
+        "id": "d837442d-8bb1-4e53-b441-dc6c47a9729f",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "John has always dreamed of visiting Italy and asked James about other countries he has traveled to",
+        "score": 0.5783298273572377,
+        "id": "76291d19-bfd6-4d8e-abf5-99144269b8f4",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John agreed to meet James at McGee's Pub on August 27, 2022, finalizing their plan after discussing beer preferences",
+        "score": 0.5773079566666667,
+        "id": "a821faa6-4327-4553-9b71-b7f0511f190b",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John appreciated James's advice and committed to making time for himself during his chaotic week around September 20, 2022",
+        "score": 0.5748190466666666,
+        "id": "52888454-2a61-4b2b-9fd9-1e14ef73f405",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James suggested going to McGee's pub on August 27, 2022, after hearing they serve a great stout there",
+        "score": 0.5723522096782497,
+        "id": "8f2b7120-81c8-4e81-9d65-7734dd6abc81",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "During his amusement park visit with friends around May 14-15, 2022, James also rode the Ferris wheel, electric cars, and buggies in addition to the roller coasters",
+        "score": 0.5661443666666667,
+        "id": "8fcc62f3-83ec-4bc2-a55b-cf5e64be1b52",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2022-05-23T19:33:00+00:00"
+      },
+      {
+        "memory": "James's mother visited him around October 19, 2022, accompanied by her army friend, and they had a fun time together",
+        "score": 0.5630562790023125,
+        "id": "a5d6ee75-8336-4c8f-9a50-03f6d2175270",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James and his family are currently on a road trip as of November 7, 2022",
+        "score": 0.5603842689430895,
+        "id": "93e9e61c-c2bf-4535-91ee-b2b313df96d1",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James suggested going to Starbucks for coffee with John on August 27, 2022, as a way to spend John's day off",
+        "score": 0.5577766191142192,
+        "id": "9b366389-76e8-4885-8a03-80ae95d26320",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John agreed to meet up with James on August 27, 2022, but suggested having a beer somewhere instead of going to Starbucks for coffee",
+        "score": 0.5573961857808858,
+        "id": "dad91eec-cf12-40fa-95a1-653eb97b10a1",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James and his girlfriend Samantha visited McGee's bar around September 3, 2022, where James discovered that Samantha loves lager beer, noting they have much in common",
+        "score": 0.5572302363449163,
+        "id": "f5e68c6d-6006-4371-bcdd-35c48f861874",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James and Samantha made a mutual, informed decision to move in together and rented an apartment located not far from McGee's bar around October 31, 2022",
+        "score": 0.5553558696782497,
+        "id": "b0ea04d5-6cea-4016-b505-6011e113f9b0",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James shared a photo from the road trip showing a group of people posing for a picture while playing video games with friends Josh and Mark",
+        "score": 0.5543747231075697,
+        "id": "9e91497a-77d9-4b8f-a34c-d2ac36448678",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "John plans to send James resources and tutorials on the new programming approaches and techniques he learned at the seminar, believing James will find them cool",
+        "score": 0.5496604333333334,
+        "id": "316eb68a-59c8-4d39-88a9-d4f888008935",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James has a sister who visited him around July 21, 2022, and they spent time relaxing together with his dogs, Max and Daisy, who bring him significant happiness",
+        "score": 0.54771090320802,
+        "id": "01628a8a-b795-4a64-8635-ec9dcd0ab863",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James took his dogs out for a hike on April 21, 2022, exploring trails and enjoying the fresh air in what he described as quite an adventure",
+        "score": 0.5469932250416251,
+        "id": "a42aef31-21f0-4b6c-9df0-5e9f097cef6b",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2022-04-23T11:04:00+00:00"
+      },
+      {
+        "memory": "James adopted a puppy named Ned from a shelter in Stamford around April 5, 2022, and reports that his days have been much happier with the new addition to his family",
+        "score": 0.545615529137709,
+        "id": "ab10cf10-bb2f-4363-af63-6cb35d100916",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "John expressed gratitude for the souvenirs James brought from Nuuk, stating that Jill will be delighted to receive hers",
+        "score": 0.545549933999334,
+        "id": "68d39532-73ed-4698-b65d-58aca28706bf",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James adopted a puppy named Ned from a shelter in Stamford around early April 2022, and reports that his days have been much happier with the new pet in the family",
+        "score": 0.5437964158043758,
+        "id": "f22c1076-1478-4bee-98b7-c467458577f2",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James's mother and her army friend shared stories about their military service and their dog during their visit to James",
+        "score": 0.5431821923356458,
+        "id": "38c2bf85-a49a-4de2-b80b-09c472852bea",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James and Samantha are going to a baseball game on September 11, 2022, and James invited John to join them",
+        "score": 0.5431481541258741,
+        "id": "f345a915-a24c-4605-b292-52566e0a85ff",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "John does not like dark beer and expressed this preference when James suggested going to McGee's pub for stout on August 27, 2022",
+        "score": 0.541274943011583,
+        "id": "c1b3aa3d-2495-45cd-9c75-a947701796a6",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James and his girlfriend Samantha have decided to move in together as of October 31, 2022",
+        "score": 0.5409995674592074,
+        "id": "e823ee17-37d4-4eb6-87a2-0c2937a4bfbf",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James and Samantha have decided to move in together, a significant step in their relationship that James shared with John around October 31, 2022",
+        "score": 0.5398982741258741,
+        "id": "a6588769-8b0b-42e6-8d78-8b8545806ab0",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "John noted that James and Samantha love spending time together at McGee's bar, the location near their new apartment",
+        "score": 0.538357783011583,
+        "id": "ee41ebd2-6af7-4c13-b75c-e95e9bfb173a",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James values collaborating with a group of people who share his passions, noting that they provide help and bring new ideas to the mix, allowing them to achieve more together",
+        "score": 0.5383058,
+        "id": "c316fb8f-dc89-4667-8333-741294020554",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "James suggested that McGee's pub also serves light beers as an alternative to stout, addressing John's dislike of dark beer during their planning for August 27, 2022",
+        "score": 0.5359013296782497,
+        "id": "aceafa99-ed29-48e2-9db2-9b3d5e7a6786",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John agreed to join James and Samantha for a baseball game next Sunday, around September 11, 2022, expressing that it will be a fun experience",
+        "score": 0.5351950274592076,
+        "id": "d4804fa8-b970-48f1-bf0a-c48d65cc1826",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "John asked James if he watched the Liverpool vs Chelsea match around June 13, 2022",
+        "score": 0.5350827657276057,
+        "id": "a76be730-be46-492d-8841-54114482ab99",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2022-06-13T16:30:00+00:00"
+      },
+      {
+        "memory": "John asked James about his recent trip around July 22, 2022",
+        "score": 0.5349780076190476,
+        "id": "e5ca3057-c6a4-40d2-a4af-e0e161ce08c5",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James's mother visited him around October 19, 2022, accompanied by her friend who is a retired army veteran still serving in some capacity",
+        "score": 0.5347605566666667,
+        "id": "698b9335-49ed-4799-ac13-ce0847386019",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James plans to return from his trip on July 20, 2022, and intends to bring John a souvenir",
+        "score": 0.534598380952381,
+        "id": "c493b1e6-f97f-4e8d-8f57-b0352d938b6d",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has found anything interesting while using his new metal detector on the beaches",
+        "score": 0.5333732666666666,
+        "id": "588a5fc2-47e0-47cb-adf6-f1056deb6482",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "James is a devoted Liverpool FC fan who considers the team forever in his heart and hopes they become champions in the upcoming season following their match against Chelsea around June 2022",
+        "score": 0.5325794523942724,
+        "id": "e1354336-d84c-483d-842c-b6a2dab167ab",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2022-06-13T16:30:00+00:00"
+      },
+      {
+        "memory": "James started a road trip with his family and dogs on November 4, 2022, enjoying exploring new places and nature together",
+        "score": 0.5325565289430895,
+        "id": "cfe8b103-bd05-44b8-bfc6-0cce30f0435a",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "The woman James met at the beach on August 9, 2022, is named Samantha, and he plans to call her around August 11, 2022",
+        "score": 0.5317345007925408,
+        "id": "1f838fd7-317d-4a25-89b7-10c8498ad19a",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2022-08-10T09:16:00+00:00"
+      },
+      {
+        "memory": "John asked James to take him to a location depicted in a photo of a young boy standing outside a yellow building during the weekend of June 18-19, 2022",
+        "score": 0.5312979866666666,
+        "id": "758bb891-3e7e-4151-bce5-bc33230fe10e",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "James loves to travel and visited Italy in 2021, describing it as a very beautiful country with delicious food",
+        "score": 0.5302787666666666,
+        "id": "33866cc6-441c-438a-aa67-e59d61ef878a",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James enjoys long walks with his dog Max, finding them great for exercise and fresh air, and shared a photo of himself walking Max on a forest trail around June 16, 2022",
+        "score": 0.5251316576556776,
+        "id": "5da82999-1671-475f-9587-949ac004a20e",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James is learning to play the drums, describing it as a challenging journey, and shared a photo of his drum kit featuring white and black drums around March 27, 2022",
+        "score": 0.5249265399999999,
+        "id": "0d5f7129-ea58-4866-9977-fe4ae348f279",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2022-03-27T00:40:00+00:00"
+      },
+      {
+        "memory": "James asked John about his specific plans for organizing gaming competitions and which other games he intends to include, following John's announcement of leaving his IT job to pursue a career in the gaming industry.",
+        "score": 0.5247526666666668,
+        "id": "d85b1737-4292-4c4f-92c2-821702ec66e9",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "James and Samantha chose their new apartment specifically because McGee's bar is nearby, as they love spending time there together",
+        "score": 0.524721503011583,
+        "id": "d5836f5c-9a23-4b95-ad19-c7649b1f47f5",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James asked John if he is planning any gaming nights with his siblings in the near future, following their discussion about family bonding through gaming",
+        "score": 0.5243752366666666,
+        "id": "eb6d95b4-2ca5-4e78-8823-3d2db228028e",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James is always up for trying new games and asked John if he would like the futuristic dystopia RPG John is currently playing",
+        "score": 0.52020645,
+        "id": "c2d7d609-49ad-4c1f-931e-d8b76c827e12",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James had a vivid dream around late August or early September 2022 that led to creative ideas and interesting thoughts upon waking",
+        "score": 0.5183118452589642,
+        "id": "51bb0093-4a17-4be7-9c7a-a200263cd58b",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James and his dog Max enjoy walking on a nearby trail located one mile from James's house, which he finds tranquil and a great way to relax and connect with nature",
+        "score": 0.5181038623634336,
+        "id": "c4997644-a708-4202-9703-817407d9de71",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James shared a photo taken on the night of June 18, 2022, showing his three dogs—Max, Daisy, and Ned—together in a grassy field with trees in the background",
+        "score": 0.5176907558043758,
+        "id": "fccef645-ba5d-41c9-8410-5e61717b1daf",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has thought of any specific ideas on how to make a positive difference in the world, following John's reflection on his career and desire for impact",
+        "score": 0.5154730666666666,
+        "id": "b6c2156d-8bf7-48d8-bc70-90d0e7028d70",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "James offered to show John what his girlfriend Samantha looks like",
+        "score": 0.5152952074592075,
+        "id": "a20777f4-b5f2-42ef-80ef-a41fd5625eff",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James's dog is named Ned, whom he adopted and describes as awesome, stating he cannot imagine life without him",
+        "score": 0.5131630424710424,
+        "id": "14f33ca2-227d-4440-b9e9-cdcaa304c0c6",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James loves reading, particularly while snuggled under the covers on cold winter days, but seeks more exciting activities during the summer",
+        "score": 0.5128231133333333,
+        "id": "4a1924d4-af2a-4dff-9b17-3c8eae78d017",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James had a vivid dream around early September 2022 featuring a medieval castle with a labyrinth full of puzzles and traps, which felt like playing a video game in real life and inspired creative ideas",
+        "score": 0.5116272066666667,
+        "id": "a5bfac79-88e5-421f-9b13-4961134f8595",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James is trying to maintain balance by taking breaks from his hobbies and exploring other activities, recently becoming interested in extreme sports",
+        "score": 0.5115543616383617,
+        "id": "d98150f2-063c-41d6-9229-32f49a9511bb",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James had not heard of 'The Name of the Wind' before John's recommendation but expressed interest in checking it out around April 29, 2022",
+        "score": 0.5108365306959707,
+        "id": "b45a14dc-303c-4ebf-838b-6f7cbbfbe0fb",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James has been feeling tired over the last two days (around July 20-21, 2022) and ended the conversation to rest",
+        "score": 0.5106909476190477,
+        "id": "052f5d90-2cdb-46b1-8e64-cbb508317bd2",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James's dogs, Max and Daisy, can perform tricks including sit, stay, paw, and rollover. James has done extensive training with them, noting they learned quickly, and considers them like family.",
+        "score": 0.5103620965413533,
+        "id": "4b1e83d6-ed28-47c7-9d5f-feae17669738",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "James completed his Unity strategy game around September 1, 2022, after significant time and effort, expressing pride in the accomplishment and gratitude for John's support and encouragement",
+        "score": 0.5091948798534799,
+        "id": "3495e0fa-51e6-402c-8386-b6df2982b175",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James started introducing his dogs Max, Daisy, and the new puppy Ned to each other around June 17, 2022. Although it was difficult at first, they are slowly adapting and bonding together.",
+        "score": 0.5089006958043758,
+        "id": "e0ae2ccb-ce68-43be-b4cd-981082fcebd2",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "John has a day off on August 27, 2022, and asked James for suggestions on how to spend the day",
+        "score": 0.508370509307876,
+        "id": "df726df1-a3e9-4713-a35e-a1a55f20cc1d",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James achieved a personal milestone in April 2022, overcoming tough times and feeling a huge sense of accomplishment that reminds him of his hard work and readiness for future opportunities",
+        "score": 0.5080114966666667,
+        "id": "cf30148b-a87c-463b-a370-9aba12745f4d",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2022-05-23T19:33:00+00:00"
+      },
+      {
+        "memory": "James offered John financial assistance or advice if needed, reaffirming his ongoing support for John's endeavors",
+        "score": 0.5076249233333333,
+        "id": "25e50472-34df-45cd-92dd-6d25545e64a7",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "John advised James to practice FIFA 23 a little first before they play together online",
+        "score": 0.5068864044094489,
+        "id": "b93ac295-4121-47ea-992f-ce59215b8eaf",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James agreed to practice FIFA 23 before playing online with John, stating he would go train",
+        "score": 0.5065960110761155,
+        "id": "c4f145fe-54d0-435d-aa37-efeb7f40686e",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of his notebook containing sketches for game ideas, coding challenges, and notes about friends",
+        "score": 0.5048707933333333,
+        "id": "4015542e-e39a-4582-8444-89d44456d7ea",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James's dog Daisy lay down next to him while he was playing a game on his computer around April 29, 2022, which James found very cute",
+        "score": 0.5037715298746868,
+        "id": "17bb8208-0fe2-4cde-a52e-15138b294391",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John confirmed on November 7, 2022, that he still does not have a dog but maintains a strong desire to get one, and asked James what it is like to own a dog.",
+        "score": 0.5033977507559108,
+        "id": "b8954a4d-d535-4718-bf5f-f24cbb145854",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James is excited to try new games, specifically mentioning an interest in RPGs and MOBAs around April 4, 2022",
+        "score": 0.50308168,
+        "id": "3e9251f5-ac61-458d-a4a7-2c241fc79854",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James went surfing around July 6, 2022, and finds catching waves to be a cool and deeply relaxing experience",
+        "score": 0.5026943666666667,
+        "id": "fbd6b64a-bdc8-4a9c-aaa1-288b424a6ec6",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "On August 9, 2022, James took his three dogs to a beach outing to have fun and bond with other dog owners",
+        "score": 0.5021076999999999,
+        "id": "20eb0072-37c5-499d-aa9f-9b2e22d1c147",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2022-08-10T09:16:00+00:00"
+      },
+      {
+        "memory": "James is currently working on a new part of a football simulator project, specifically focusing on collecting player databases, which he found difficult but successfully completed",
+        "score": 0.5019121333333333,
+        "id": "b35a2c6c-b69c-48b9-8c0b-d7d6a6fdf2fa",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2022-06-13T16:30:00+00:00"
+      },
+      {
+        "memory": "James's puppy Ned had a routine veterinary examination on August 5, 2022, and received vaccinations to prevent seasonal canine diseases",
+        "score": 0.5008887424710425,
+        "id": "195eb28b-3a58-4c37-94b1-ff425776bfe2",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "John agrees that hiking is a great way to escape everyday life and expressed a wish to spend more time in nature",
+        "score": 0.5004137133333333,
+        "id": "0520cadd-9276-4d7b-a7aa-9ef88c94e42b",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2022-04-23T11:04:00+00:00"
+      },
+      {
+        "memory": "James asked John what games he is currently playing on November 5, 2022, stating that he is always looking for new game recommendations",
+        "score": 0.49973241333333335,
+        "id": "76e8a2fb-17eb-47f7-ab14-45c8f3f34a21",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James asked John for details about the project he worked on with a game developer over the weekend, following John's mention of seeing his ideas come to life",
+        "score": 0.49944086569105695,
+        "id": "c3e1ec98-effa-4283-bcbd-d596bdd3c514",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James shared a photo showing a dog and a cat sitting together on a dog bed, likely depicting his newly adopted puppy Ned",
+        "score": 0.49909077580437583,
+        "id": "c9eec1b3-6de0-4640-9809-e525b2b78e39",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James offered to be available for John to talk or vent, suggesting it might help alleviate the difficult times John is currently experiencing",
+        "score": 0.49892582142524144,
+        "id": "9c0babd4-4eec-43bd-8d46-b53f44e6f2ad",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James has been playing the turn-based strategy game for one month as of April 29, 2022, and finds it has significantly challenged his strategy skills",
+        "score": 0.4984185745387946,
+        "id": "2785adc3-cbb0-4e39-9089-757a5ac696f4",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James's first gaming system was a Nintendo console where he played Super Mario and The Legend of Zelda for hours, sparking his lifelong passion for gaming",
+        "score": 0.4981845312084993,
+        "id": "a55ab6ce-199f-4c1b-9373-9820dfb2a6aa",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James asked Samantha to become his girlfriend at the theater on September 3, 2022, and she agreed. James notes that Samantha loves theater.",
+        "score": 0.4962122407925407,
+        "id": "132c5760-ccc8-4852-879d-9ecc2211c7b5",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James has not worked with any programming languages other than Python and C++ but hopes to learn additional languages in the future",
+        "score": 0.4961813666666666,
+        "id": "52df7a94-4652-4818-894c-f2cc2cd04282",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James's two dogs are named Max and Daisy",
+        "score": 0.4957264498746867,
+        "id": "b6b7eda8-7d92-4f03-b479-d3bf5e5aef73",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James thinks Luna is a great name for John's cousin's dog",
+        "score": 0.49495831428571435,
+        "id": "fde2b058-eda1-416a-bd6c-b03baff6ed55",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James asked John if he is currently working on any specific projects with his younger siblings, following up on John's mention of helping them with their programming course",
+        "score": 0.49339988069057106,
+        "id": "22529ad4-4f01-47fb-a202-547fcb4a0a85",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James is not currently part of any online groups but plays regularly with a gaming group that streams their sessions and recently held a fun get-together",
+        "score": 0.49220026,
+        "id": "3d895f73-17e8-44c3-aec9-9db0654b89bd",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James did not approach the stranger he saw on his walk to get to know her, but instead remembered her appearance and embodied it in the game character he created",
+        "score": 0.4919590333333333,
+        "id": "5da7aaf7-54d0-47ad-9637-49468fd6564c",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James's dog Max loves swimming and is described as a pro swimmer. James and Max usually visit the beach or lake where Max enjoys playing in the water.",
+        "score": 0.49185817569676704,
+        "id": "0a70b507-1ca8-490c-a443-7fa7ef66ad59",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm for John's potential volunteer role at a game dev non-profit, noting that combining gaming and helping people sounds exciting, and asked for details about the specific gig offered.",
+        "score": 0.4918248866666666,
+        "id": "7fa36852-13ec-4d63-9743-8a3dcf90a170",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "James started streaming games around September 18, 2022, expressing hope that everything works out but noting there are no specific details yet",
+        "score": 0.49181405333333333,
+        "id": "6a29efc5-15d2-43fd-b2de-e15648b3af4a",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James stated that his dog Max cheers him up when he is feeling down and that he enjoys cuddling with Max",
+        "score": 0.49133797098901105,
+        "id": "f11d93a4-ed1d-4a8c-85e2-3f65be30807f",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "John asked James about the name of the dog in a photo from James's Facebook, describing the dog as cute; the image shows a dog sitting on a couch in a living room",
+        "score": 0.4913241466666667,
+        "id": "72a97a8c-1dde-4738-8f5d-88da45d21a43",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James went bowling on March 16, 2022, where he achieved two strikes, and he expresses a strong love for the sport of bowling.",
+        "score": 0.4911964852214452,
+        "id": "e081745a-ee7e-4201-b829-3c73717117b0",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James agreed to take John to the donation center where he volunteered on the weekend of June 18-19, 2022, and offered to introduce him to previous staff members still working there",
+        "score": 0.49030006675990684,
+        "id": "5bdc3fe5-07be-452d-b327-10f9a591a6d2",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "John asked James for screenshots of the virtual world inspired by The Witcher 3 that James created with a gaming friend, expressing enthusiasm about seeing the project come together",
+        "score": 0.48873563802863806,
+        "id": "6f326c58-ee6c-43f6-bd4d-7523eb7d3689",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John advised James to gather a large group when trying the social deduction game, noting it would be much more interesting to play with more people",
+        "score": 0.4884797214873838,
+        "id": "421bd864-4882-4016-b47d-ffa6b97f8f60",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "On May 4, 2022, James spent time with his beloved pets, sharing a photo of two dogs playing in a fenced-in backyard area",
+        "score": 0.4877592466666667,
+        "id": "d72b186e-fe44-4883-9324-d7f6983d60d7",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "John recommended 'The Name of the Wind' to James, expressing confidence that James would love the trilogy",
+        "score": 0.4873908956175299,
+        "id": "713c74c8-c7b4-42ec-8e00-4113616c812c",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James's first gaming system was a Nintendo console, where he played Super Mario and The Legend of Zelda for hours as a child, which sparked his passion for gaming",
+        "score": 0.48724579787516603,
+        "id": "91ea458d-ce37-44d7-8d5a-e91245fe1342",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James won an online gaming tournament around July 2, 2022, describing the experience as exciting and mind-blowing, which motivated him to keep improving his skills",
+        "score": 0.48719243333333334,
+        "id": "71035a9f-6b0d-4b23-84b3-0a584cde1320",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James gets ideas for his notebook entries from various sources including books, movies, and even dreams",
+        "score": 0.48711645333333337,
+        "id": "5502acba-6689-4c93-b30c-8a460fd31aac",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James felt tempted to adopt all the rescue dogs he saw at the sanctuary but decided against it, believing that having more than three dogs is too much for him to manage.",
+        "score": 0.48676053333333336,
+        "id": "78a7f7e0-448f-42c4-aa21-a5f752207889",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James enjoys rock music and used to play the guitar when he was younger, though he has not played in a while as of September 18, 2022",
+        "score": 0.4854798066666666,
+        "id": "666a05ae-4af3-421a-ba6a-d9516b8e6182",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James enjoys 2D adventure games with puzzles, citing The Legend of Zelda as a favorite example",
+        "score": 0.4850788733333333,
+        "id": "9329824b-e513-4dfb-a633-af330d960809",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James asked John what sparked his interest in chess after seeing a photo of an intense game John played",
+        "score": 0.4830776066666667,
+        "id": "5b0d3b4f-6d62-4442-8122-d4e0db5e9901",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James created sketches and notes based on his vivid dream about a medieval castle labyrinth, which he shared in an image showing a notepad with a drawing of a guitar",
+        "score": 0.4825123785922975,
+        "id": "b2dc0f49-aa91-4e82-b516-87d51a0bc0cb",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "John accepted James's offer to help test his upcoming mobile game and promised to notify him when testing is ready",
+        "score": 0.48224880666666664,
+        "id": "6eb581ad-1c42-4e74-8cf7-413a3656f54f",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James agreed to go VR gaming with John next Saturday, March 26, 2022, expressing enthusiasm for the activity",
+        "score": 0.4821021466666666,
+        "id": "0e7964d3-facc-4fbf-9576-b1c7953e113a",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of an old Nintendo game console and a Mario game controller, noting the funny design of the gamepad",
+        "score": 0.48157119333333337,
+        "id": "e3005dc4-a4e9-4b74-936b-2957b3d0f3f7",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "John went on a solo nature trip to a canyon in the surrounding area around April 18, 2022, seeking solitude and finding the view of the river and mountains very calming",
+        "score": 0.4807743133333333,
+        "id": "d59ff2a1-b5bc-43a8-8c3c-19eee2dfd2cb",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John is currently going through some difficult times and expressed that his friendship with James means a lot to him, providing comfort during this period",
+        "score": 0.4806191747585748,
+        "id": "9614b68d-f32f-4339-a081-7a349dadc75b",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "John congratulated James on finishing his Unity strategy game around September 1, 2022, expressing pride in James's hard work and requesting to see more screenshots of the project",
+        "score": 0.480583070894309,
+        "id": "579cbc36-18a7-4ca1-8fee-98a3e87f9aa1",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James shared a photo showing a man and woman in military clothing standing next to a dog, depicting his mother and her army friend during their visit",
+        "score": 0.4804335723356458,
+        "id": "a9ef6829-4097-4259-9614-67c8136455b3",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James expressed interest in trying the sports gaming genre around November 5, 2022, as a way to explore a new type of game",
+        "score": 0.4803702903792415,
+        "id": "021d6230-9e6e-473e-aae7-2e9e5db2d7f2",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James experienced a frustrating setback on his indie game project around April 29, 2022, getting close to finishing but unable to resolve a final issue after weeks of work",
+        "score": 0.4787134866666667,
+        "id": "82bc2925-1cde-41ab-be0c-f6119086c847",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "John's last visited country was Japan, where he was impressed by the technologically advanced megacities, mesmerizing huge screens on buildings, and tasty street food",
+        "score": 0.4780606866666666,
+        "id": "a5b37e08-61bf-477e-9fa2-9a0ac8e45302",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James did not advance past the semifinals in the online gaming tournament on April 3, 2022, describing the final rounds as tough and close but enjoyable due to competing with talented players",
+        "score": 0.47750187,
+        "id": "043c0b2f-38cc-4418-9c9f-e5290d853d36",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James asked John for recommendations of book series that John loves and would recommend to others on June 16, 2022",
+        "score": 0.47702113666666673,
+        "id": "7a710395-8e4c-496c-a619-56675463dc30",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James has an old photo of himself as a child playing on his mother's friend's gaming setup, which featured a Nintendo console with Super Mario",
+        "score": 0.47646851120849937,
+        "id": "33f745d9-32dd-4c15-bfa9-f4af979cd6e2",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James offered to help John find the perfect pet, expressing confidence that John would make a great pet parent and emphasizing the love and companionship pets bring.",
+        "score": 0.4760335466666667,
+        "id": "6b775d08-d638-4313-956a-3f1c2e7edb99",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "James asked John what motivated him to create the inventory management system for the charitable foundation, expressing admiration for the project",
+        "score": 0.47587393299650466,
+        "id": "1e0ce582-e71f-43b1-879c-67fa80615ba5",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2022-05-11T17:00:00+00:00"
+      },
+      {
+        "memory": "James's apartment lost power around October 18, 2022, interrupting his gameplay just as he reached a major story reveal, forcing him to wait hours before resuming",
+        "score": 0.47521887333333335,
+        "id": "c09bda50-8bf3-4830-931b-4495f6f65a73",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James asked John if he is free on August 27, 2022",
+        "score": 0.47497974264120923,
+        "id": "9b3fa724-f181-4a2a-a2ff-86183b2f8012",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James has heard of the social deduction game John described (where players figure out who the impostors are) and has been meaning to try it out",
+        "score": 0.4748670748207171,
+        "id": "e1796c44-2056-440e-90f5-473f1d82566e",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John recommended the futuristic dystopia RPG he is playing to James, describing it as having a fun story, an awesome world, and tough gameplay, though noting it is laggy and prone to errors.",
+        "score": 0.4744704,
+        "id": "36c0dda7-1f44-4447-a030-a6c573c3c54c",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm for John's new role as a programming mentor for game developers, describing it as awesome and asking how John feels about starting this journey.",
+        "score": 0.4743472560439561,
+        "id": "c13cc63a-e4b8-4c0d-af07-e21149d88a66",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "On July 8, 2022, James went rope jumping as part of his interest in extreme sports, jumping from a height of 150 meters",
+        "score": 0.47421370830502835,
+        "id": "ec61f92a-87a1-4df3-ac68-ff4377b885ea",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "James shared a photo from his hike on April 21, 2022, showing himself walking two dogs on a path in the woods with breathtaking views and many trails to discover",
+        "score": 0.47416268000000006,
+        "id": "59719989-beea-4d83-908e-e993817077c3",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2022-04-23T11:04:00+00:00"
+      },
+      {
+        "memory": "James's dog Max loves swimming, which James describes as his favorite activity. They frequently visit beaches or lakes where Max plays in the water and is considered a pro swimmer.",
+        "score": 0.47385406903010036,
+        "id": "b6946232-c18b-455c-9141-72a34f5e3ffd",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James tried Cyberpunk 2077 around October 20, 2022, describing it as a great and addictive game",
+        "score": 0.4734649166666666,
+        "id": "9d63b170-53ef-4e77-9d87-5cd2c20ad5f2",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "John recommended the fantasy novel 'The Name of the Wind' to James around April 29, 2022, describing it as having awesome writing",
+        "score": 0.4730003573626374,
+        "id": "507322a7-0d34-4b54-988b-3a9eee7e52c6",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John accepted James's advice to study opening moves and analyze games for chess improvement, expressing appreciation for the guidance",
+        "score": 0.4722585643559096,
+        "id": "b83ad6f5-8b04-46d0-9494-8bfa65c32846",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James found creating the game character for his virtual world project to be a lot of work but described the process as rewarding and super satisfying when it came together",
+        "score": 0.47180383333333326,
+        "id": "abaf2dd6-3d62-4912-911c-62184bf205d7",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James decided to wait until the bugs in the futuristic dystopia RPG are completely fixed before trying it out, noting that the game seems raw",
+        "score": 0.4711094246684508,
+        "id": "b00c0bb7-0e69-4692-9c0d-fb225505181f",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of his dog Max running in a field with a frisbee on June 16, 2022, expressing that he loves making Max happy",
+        "score": 0.47109930903010033,
+        "id": "ba2b4b7b-9c1e-4e8b-bcaf-96df9705336f",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James is expanding his gaming interests to include RPGs and strategy games, finding this exploration of different game types exciting",
+        "score": 0.46963523999999995,
+        "id": "6f335489-691a-4ce4-9b0c-871c28b49ac6",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2022-03-27T00:40:00+00:00"
+      },
+      {
+        "memory": "James uses games as a therapeutic escape when feeling overwhelmed, allowing him to relax, forget his troubles, and get lost in another world",
+        "score": 0.46899236666666666,
+        "id": "9d301d8c-7adf-4994-a893-9a2752879b38",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "James's dog Max is skilled at catching frisbees in mid-air and never misses, which James describes as a special talent of his go-getter dog",
+        "score": 0.468538775696767,
+        "id": "9e211163-aa24-46db-a5b0-b35a1fdee64e",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of his two dogs, Max and Daisy, running in a park field with a ball in their mouth around March 20, 2022. He describes them as his best pals who have brought significant joy to his life.",
+        "score": 0.46837110320802006,
+        "id": "41794878-7a04-483e-90fc-baab26e4d30a",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "John suggested playing slot machines and arcades as alternative activities he could enjoy with James, since he does not like bowling",
+        "score": 0.4678617004728605,
+        "id": "3a6a8424-a240-4481-8721-c8583998a326",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James finds nature walks relaxing and refreshing, helping him think straight and find inner peace, as evidenced by a photo of a park with trees in the fall shared around June 16, 2022",
+        "score": 0.46780189000000005,
+        "id": "9bf6a599-28c0-44cf-92be-a5970e45f1c1",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James asked John if the online board game project he collaborated on with a game developer has been released for others to try yet",
+        "score": 0.467298905691057,
+        "id": "9c9fc682-c6a0-4f8f-8c58-6f95a98de824",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James encouraged John to try prosciutto pizza, assuring him it is really great and that he would have no regrets",
+        "score": 0.46709383094289514,
+        "id": "d0229f89-3092-4bdb-8c8f-9e1174eadcf7",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "James stated that creating his own game was a special experience compared to just playing video games, and he drew significant inspiration from The Witcher 3's world and story, which motivated him to create something cool.",
+        "score": 0.46684110000000006,
+        "id": "e21afc83-ec55-42c2-b009-915fa151e172",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2022-10-13T14:14:00+00:00"
+      },
+      {
+        "memory": "James asked John about other resources used to improve his game and requested gaming tips, following John's sharing of a book that helped create puzzles for his mobile game",
+        "score": 0.466818518015318,
+        "id": "650d43fc-090f-4ac2-b5a1-0978e4748b3b",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James created a game avatar and joined a new online gaming platform around March 20, 2022. He enjoys exploring the platform and chatting with other gamers, describing it as a fun adventure and feeling part of a cool online community.",
+        "score": 0.46663604333333336,
+        "id": "65615022-a618-4de7-8c1b-564d694ef1e8",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "James identified the dog in the photo as Max, describing him as lovable and playful. James stated that Max brings him significant joy, particularly during tough times.",
+        "score": 0.4663568424435591,
+        "id": "0735081c-8186-440d-b4c3-02c582aa5e4c",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James agreed to try FIFA 23, a sports game recommended by John, and expressed hope that the controls would be easy to learn",
+        "score": 0.4663066444094488,
+        "id": "d0127462-a656-491c-affb-53c89943d58f",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James congratulated John on achieving the major career milestone of creating his first mobile game, which is scheduled to launch in October 2022",
+        "score": 0.4662497302497503,
+        "id": "0f1834aa-a2cf-4180-a5d7-2bb3486cef49",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James is excited to play Cyberpunk 2077 after John's recommendation, noting that the world and story sound perfect for his RPG interests",
+        "score": 0.46607248666666673,
+        "id": "893398e5-272f-4cfb-99c3-e22adae0cf57",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "James asked John what kind of programs his siblings are creating, following up on John's mention that they are already making their own programs",
+        "score": 0.4658595020979021,
+        "id": "7cc5a3fc-c745-4ce0-896c-977ff2c1a756",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James expressed appreciation for the programming resources John promised to send and is eager to review them to learn new techniques",
+        "score": 0.4658298,
+        "id": "0062eaee-968f-4041-8ef9-9fefeade0d61",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "John suggested trying VR gaming together with James, describing it as a pretty immersive experience",
+        "score": 0.4657675333333333,
+        "id": "befeef68-e973-48ea-b5bc-0b1bf870831f",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James asked John for more details about the new mobile game and questioned why John had not previously mentioned that he was working on it",
+        "score": 0.4643552840832508,
+        "id": "4fe5f1f1-587c-485a-a7db-acb57577c67f",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of his dog Daisy waiting for a treat around March 20, 2022. The image depicts a golden retriever laying on a bed wearing a name tag.",
+        "score": 0.46408336320802007,
+        "id": "2dcdcdec-fbef-420d-a671-a3b9859decd6",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "James congratulated John on taking second place in the local tournament around May 20, 2022, and asked if he received any rewards or prizes for his success",
+        "score": 0.4639620312652792,
+        "id": "3829aa0e-e115-4569-8c65-d3c924f91849",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2022-05-23T19:33:00+00:00"
+      },
+      {
+        "memory": "James started learning to play the drums a few days before March 27, 2022, practicing daily and noting that while it is tough, he is seeing improvements and finds it rewarding",
+        "score": 0.4639118067599068,
+        "id": "4a1a759c-d350-4a55-b267-8a6f26bbcc6e",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2022-03-27T00:40:00+00:00"
+      },
+      {
+        "memory": "James volunteered at a donation center around May 2022 and found it rewarding to see how small gifts can make a significant impact",
+        "score": 0.4635056866666667,
+        "id": "759262c5-b9cd-4a5a-b0d3-67c71e996d32",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "James purchased a new video card around late September 2022 and is excited to resume gaming, sharing an image of his computer case with red lighting",
+        "score": 0.46330154333333334,
+        "id": "7b8546bb-517e-4d30-a04d-f636ae45528f",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "James shared a photo on July 22, 2022, showing a person walking on the beach with a surfboard",
+        "score": 0.46323867428571425,
+        "id": "464b9a39-10eb-4c80-969e-0f7f91a43ff3",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "John is working on his first professional freelance project, a website for a local small business, and reports that progress has been slow with some hiccups along the way as of April 29, 2022",
+        "score": 0.4631990972494173,
+        "id": "62b06f62-d8e3-4907-b879-cbcf2f12686a",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James does not have a screenshot of the full Witcher 3-inspired virtual world he created, but he shared a screenshot of the specific game character he designed for it",
+        "score": 0.462823,
+        "id": "876d8bbc-ff63-467f-bc9c-9d660dc42198",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John praised James's finished Unity strategy game and asked what inspired him to create it",
+        "score": 0.4626204975609756,
+        "id": "2ccaf72e-9c24-4d99-a55b-2f3ef0147bb1",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "John expressed happiness that James found a romantic partner (Samantha) who brings him joy, distinct from the joy he derives from his dogs",
+        "score": 0.46219014079254084,
+        "id": "1e999d16-9eef-402c-86b0-66d12cb98e27",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James loves 'The Witcher 3' for its ability to shape the world through choices and its impressive graphics, sharing an image of Geralt fighting a monster on August 10, 2022",
+        "score": 0.4616116466666667,
+        "id": "723dcc8a-60fa-43fa-99a5-c861e4161747",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2022-08-10T09:16:00+00:00"
+      },
+      {
+        "memory": "James advised John to read a specific gaming magazine featuring tips and tricks for game developers, describing it as a worthy source of information to complement John's learning process",
+        "score": 0.46151644666666664,
+        "id": "29b62b4b-1a36-4691-9b29-403b35678f8e",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James also enjoys cheese pizza and prosciutto pizza in addition to his favorite pepperoni",
+        "score": 0.46127828,
+        "id": "4c3c24a5-1abb-448d-83d4-4f502d4bb56d",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of a notepad with a pen and a glass of water, labeled as containing game strategies",
+        "score": 0.46117895000000003,
+        "id": "b0db4dd4-e4c7-43ff-927e-9245f7726d8d",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James worked with a gaming friend on a programming project around April 14, 2022, creating a virtual world inspired by The Witcher 3 and enjoying seeing their ideas come to life",
+        "score": 0.46108637136197145,
+        "id": "22a53e01-a181-41ae-8b7e-34ee0f7a12c5",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of a laptop computer with a colorful keyboard on a table around August 26, 2022",
+        "score": 0.46087472,
+        "id": "a0c49591-1321-4301-8944-df5e5c386237",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John accepted James's bet that Liverpool will finish higher than Manchester City in the final standings, anticipating a great battle between the two teams",
+        "score": 0.46071165236220474,
+        "id": "e839cb03-1847-44c6-a4bd-95b6b1024450",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2022-06-13T16:30:00+00:00"
+      },
+      {
+        "memory": "James lost some game progress during the power outage around October 18, 2022, because he forgot to save, and now plans to save more frequently to avoid this frustration",
+        "score": 0.46053625666666664,
+        "id": "a4f4a46d-cfda-41ba-908f-d0f0db042304",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James encouraged John that there are many places to showcase his programming skills and expressed confidence that John will find a perfect organization to make a difference",
+        "score": 0.45988633333333334,
+        "id": "0d74d9c2-2beb-4a18-bbd9-b23d20487976",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2022-05-11T17:00:00+00:00"
+      },
+      {
+        "memory": "James writes down all his programming goals in a notebook and finds it very satisfying to check off each goal when it is completed",
+        "score": 0.45962632,
+        "id": "f748264f-0f42-4d3c-bbed-3a32a5e1748a",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm about collaborating with John on volunteering efforts, stating 'We can do this together!' in response to John's goal of making the world a better place",
+        "score": 0.4592817866666666,
+        "id": "d5127c49-58d6-4c49-a335-cc166a57f685",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "James shared a screenshot of his finished Unity strategy game featuring a stone building with a giant creature",
+        "score": 0.4589508,
+        "id": "3202a806-7ae0-4b2e-880d-82dfd95b6388",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "John agreed to try James's advice of breaking his difficult algorithm into smaller steps and seeking help, expressing appreciation for the support",
+        "score": 0.45894375211455213,
+        "id": "f3f8cb72-4e97-45a1-af51-05e0e28a73ff",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2022-04-23T11:04:00+00:00"
+      },
+      {
+        "memory": "James accepted John's offer to share resources on chess openings and expressed gratitude for the assistance",
+        "score": 0.4588136922443559,
+        "id": "a03caa08-36ea-4d26-a5cc-15d20abc2d96",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "John asked James if an interview would be required for the volunteer opportunity at the organization providing necessary items to those in need, which they plan to visit on the weekend of June 18-19, 2022",
+        "score": 0.4586847612182741,
+        "id": "420708b4-651e-46b2-ae1d-24bcda458186",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "James was inspired to create his own Unity strategy game by his long-standing love for playing strategy games like Civilization and Total War, viewing the development process as a personal challenge",
+        "score": 0.45848070576090577,
+        "id": "edcf6fcb-3ead-49ef-9410-3fcef64eefc1",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "John mentioned his fingers are too big to share a specific love (likely related to a previous topic) and is considering starting morning runs as exercise",
+        "score": 0.45811238,
+        "id": "f46a60ff-736a-41d7-8688-bfa22f5e58cb",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James and his sister watched a wonderful sunset near the ocean around July 21, 2022",
+        "score": 0.45771942095238094,
+        "id": "fc0fb38b-b4f3-4013-82a5-431ffe4b8789",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James's dog Daisy is a Labrador who loves to play with her toys and has a strong love for eating",
+        "score": 0.45757928320802005,
+        "id": "be7ca3dc-df6f-41ed-9ff9-2ad965da23cf",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "James feels his hard work on his first game paid off and is now ready to develop more games in different genres and test out new ideas, expressing excitement about where this journey will lead",
+        "score": 0.4563791540667328,
+        "id": "e5c2ca82-e6b5-45c5-99ca-546c3f1682ef",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2022-10-13T14:14:00+00:00"
+      },
+      {
+        "memory": "James streamed a game on the night of September 19, 2022, and felt stoked and inspired by the positive comments from the gaming community",
+        "score": 0.4561598203187251,
+        "id": "f63a3d0c-3eda-49dc-b638-c524f9c63a64",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James streamed a game on the night of September 19, 2022, and felt stoked and inspired by the positive comments received from the gaming community",
+        "score": 0.4557486269853917,
+        "id": "9a5972a3-086c-47c3-8992-8217e7d695d1",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John reported that his week around September 20, 2022, has been chaotic due to various ongoing events, but he is powering through the situation",
+        "score": 0.4551735466666667,
+        "id": "e6bb61fc-0f75-4f70-9b55-f7c8a515280a",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of his dog Max standing in front of a pool in the backyard around June 16, 2022",
+        "score": 0.45512410903010037,
+        "id": "745f82a7-e151-4cd0-a3e8-11345b4d01d5",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James shared a photo from his recent gaming marathon get-together showing a gaming room equipped with a computer and a gaming chair",
+        "score": 0.45504397556440895,
+        "id": "c0937d8b-4b06-4782-ac38-d3f382658847",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James feels blessed to have a close bond with his sister and their dogs, describing their time together as being like a family",
+        "score": 0.45484886666666674,
+        "id": "a2a4e98a-1e44-46cf-90a5-43c9d01acd26",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "John played Cyberpunk 2077 and recommends it to James, describing the game as awesome with an immersive world and an amazing story",
+        "score": 0.45464617,
+        "id": "ce4cf7e3-0078-487e-8d71-80a36e0cb38f",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "James tried Cyberpunk 2077 on October 20, 2022, and found it to be a great and addictive game",
+        "score": 0.45420475,
+        "id": "76f26493-a0ab-41cd-9d74-68ce4fa46b13",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James asked John what genre he enjoys reading on June 16, 2022",
+        "score": 0.4532702012182741,
+        "id": "16aa9a86-cad5-4d8f-ba44-caf6eb357310",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm for John's approach of combining learning and gaming for coding education and asked for more details about the game project John is building with his siblings",
+        "score": 0.4532647360772561,
+        "id": "c043cc30-01d1-4a28-8707-ba6bc4398b47",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      }
+    ],
+    "search_latency_ms": 944.9,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The provided memories do not specify the exact number of days James planned to spend in Canada. They state that he planned to visit Toronto and Vancouver, departing on the evening of July 11, 2022, and later reported on his trip (which included Nuuk) around July 22, 2022.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer explicitly states that the exact number of days is not specified, failing to provide the gold answer value of 19 days or any semantically equivalent duration."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories state that James was scheduled to depart for Toronto on the evening of July 11, 2022, and planned to visit Vancouver in addition to Toronto, but they do not specify the number of days he planned to spend on the trip.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly states that the number of days is not specified, which contradicts the gold answer of 19 days and fails to provide any correct information from the gold standard."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "10 days",
+      "memories_evaluated": 50,
+      "reason": "The generated answer '10 days' is not within the 50% tolerance range of the gold answer '19 days' (which would be approximately 9.5 to 28.5 days), and it does not match the specific value, so it is incorrect."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "10",
+      "memories_evaluated": 60,
+      "reason": "The generated answer '10' is not within 50% of the gold answer '19 days' (the acceptable range would be approximately 9.5 to 28.5), so it does not meet the duration tolerance rule."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "10",
+      "memories_evaluated": 100,
+      "reason": "The generated answer '10' is not within 50% of the gold answer '19 days' (the acceptable range would be approximately 9.5 to 28.5), so it does not meet the duration tolerance rule."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "10 days",
+      "memories_evaluated": 200,
+      "reason": "The generated answer '10 days' is not within the 50% tolerance range of the gold answer '19 days' (which would be approximately 9.5 to 28.5 days), and it does not match the specific value, so it is incorrect."
+    }
+  }
+}

@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv4_q166",
+  "conversation_idx": 4,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is John's favorite book series?",
+  "ground_truth_answer": "Harry Potter",
+  "evidence": [
+    "D27:19"
+  ],
+  "user_id": "locomo_4_63236696",
+  "reference_date": "1:41 pm on 12 January, 2024",
+  "retrieval": {
+    "search_query": "What is John's favorite book series?",
+    "search_results": [
+      {
+        "memory": "Tim identified 'The Alchemist' on John's bookshelf and stated it is one of his favorite books, asking John if he enjoyed reading it",
+        "score": 0.6938464130161877,
+        "id": "eaeb8009-a214-4a92-91a4-c5dbd92fed25",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim has read the Game of Thrones series and asked John if he has tried reading any of George R. R. Martin's books",
+        "score": 0.648929215936255,
+        "id": "4f9deb25-3651-4181-8616-60a679c9bbe2",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "John asked Tim what fantasy book he is currently reading and if any specific titles have stood out to him recently",
+        "score": 0.6422165333333334,
+        "id": "753ec4b1-cb5b-4056-b003-017d604d0e20",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2023-08-09T10:29:00+00:00"
+      },
+      {
+        "memory": "Tim confirmed that Harry Potter and Game of Thrones remain his favorite fantasy series because they transport him to other places, and he asked John about his own book preferences",
+        "score": 0.6392565131233595,
+        "id": "0fb2ee61-0260-46e6-abfe-dc4f58414b3a",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "John asked Tim for the specific title of the fantasy book he is currently reading, noting how captivating books can be",
+        "score": 0.6340186166666667,
+        "id": "54d69657-7de6-4c37-a9e6-c098ac017378",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2023-08-09T10:29:00+00:00"
+      },
+      {
+        "memory": "John confirmed he has read the other popular fantasy series Tim mentioned, stating it is one of his favorites and praising its cool story",
+        "score": 0.6289527333333333,
+        "id": "0efc6b28-e589-4139-ba14-deb0563fbddc",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "John stated that fantasy books fuel his creativity both in and outside of his hobbies, and asked Tim if Harry Potter and Game of Thrones are still his favorite series",
+        "score": 0.626834246456693,
+        "id": "a6f18235-8d37-49a0-ae96-5bb8937dfbc6",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "Tim considers The Hobbit to be great and asked John if he has read another popular fantasy series, which Tim also describes as awesome",
+        "score": 0.6184675364968365,
+        "id": "b824cedb-2dcb-45ec-b1d7-c1a65fef8093",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "John accepted Tim's recommendation to read the fantasy book by Patrick Rothfuss and expressed interest in checking it out",
+        "score": 0.6158646512195122,
+        "id": "fbe32a9a-380d-4c10-96c8-0806aab28d09",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2023-08-09T10:29:00+00:00"
+      },
+      {
+        "memory": "John asked Tim if he has read all of George R. R. Martin's books, following Tim's mention of finishing 'A Dance with Dragons'",
+        "score": 0.609907615936255,
+        "id": "cbaacd38-7e99-40a8-b60c-9eabc4b099e5",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "John has not read any of George R. R. Martin's books yet but plans to check them out after Tim's recommendation",
+        "score": 0.596911215936255,
+        "id": "ea9ebfd9-8bab-4752-a36e-2a09491abed9",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "Tim is currently reading a fantasy book by Patrick Rothfuss, praising the author's world-building and character development as amazing and recommending it to John",
+        "score": 0.5957748645528456,
+        "id": "06468a3f-b8d0-4eae-9ee5-ff2f23bcb01d",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2023-08-09T10:29:00+00:00"
+      },
+      {
+        "memory": "John asked Tim which book from his collection he likes best for escaping to another world, acknowledging the value of reading and games for personal growth",
+        "score": 0.5936772611382114,
+        "id": "403e244b-00c9-4441-86da-9d7f64cc578b",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of Lord of the Rings, describing it as an awesome collection, and asked John about his favorite characters from those movies on January 2, 2024",
+        "score": 0.5925136480885781,
+        "id": "2cb4d6bb-d315-451d-ba7d-2bcba8f6f99d",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his bookshelf on December 1, 2023, which features fantasy series including Harry Potter, Game of Thrones, and Lord of the Rings, describing them as favorites that offer an amazing journey",
+        "score": 0.5882102947552448,
+        "id": "f2e62fdc-074b-45c7-9948-05f91b918a56",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "Tim is a huge fan of the fantasy genre, specifically enjoying epic adventures and magical worlds, and considers Lord of the Rings his favorite",
+        "score": 0.5880520947552448,
+        "id": "3f32206a-73eb-4383-9a67-31b52e9b7107",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "John stated that The Hobbit is one of his favorite books and described it as an amazing journey, while complimenting Tim's bookshelf on December 1, 2023",
+        "score": 0.5873633698301699,
+        "id": "ac9aa901-b66a-4373-aea0-6e4448fe56f6",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "Tim recommended the fantasy novel 'The Name of the Wind' by Patrick Rothfuss to John for his upcoming trip, describing it as a book that transports readers to a different world",
+        "score": 0.5872573512195122,
+        "id": "8bdebe7a-5c15-4f9b-a451-8429aa24dc44",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim values his friendship with John and notes they share a mutual interest in fantasy books and movies",
+        "score": 0.5816131833333333,
+        "id": "877c26bb-274c-4b5a-ac85-c26d63b251c0",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "John is a huge fan of Lord of the Rings, citing the adventure, world-building, and characters as reasons for his enjoyment, and shared a photo of a shelf with many books on January 2, 2024",
+        "score": 0.581488828088578,
+        "id": "0f299db2-af1f-4285-b1e6-dc15549e4fde",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John has watched the Lord of the Rings movies multiple times and finds them inspiring, with Aragorn being his favorite character due to his significant growth throughout the story",
+        "score": 0.5788549280885781,
+        "id": "2904dc79-7638-4d2e-93dd-07f6f41aa76d",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim asked John why Aragorn is his favorite character from Lord of the Rings on January 2, 2024",
+        "score": 0.5786955614219114,
+        "id": "1ebb2359-283d-410d-a060-cda9d31cb0e5",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John considers Aragorn his favorite Lord of the Rings character because he is a great leader who puts others first, which leads to him eventually becoming king",
+        "score": 0.5732106566666667,
+        "id": "2c2deb81-3b5e-435f-8937-26164cffa5bc",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John read 'The Alchemist' and loved it, finding that it made him reflect on life and the importance of following one's dreams; he highly recommends the book.",
+        "score": 0.5727354130161877,
+        "id": "7c7fff01-345d-4035-a38f-548aa69da6f0",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "John is currently reading \"Dune\" by Frank Herbert, describing it as a great story about religion and human control over ecology",
+        "score": 0.5694474880452881,
+        "id": "21187c96-20ec-4c2d-bc17-a6604e457699",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "John keeps a painting in his room to remind him to stay true and be a leader in everything he does, inspired by Aragorn's journey in Lord of the Rings",
+        "score": 0.5607688191275392,
+        "id": "d487c874-ac89-4db6-a551-1f3fe84b54b3",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John describes reading fantasy books as escaping to incredible new worlds and taking a break from reality for a fun adventure",
+        "score": 0.5580771533333334,
+        "id": "7173ee29-c7a7-43c5-a6f2-5867ab95dd49",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "John asked Tim for book recommendations to read during his upcoming trip on September 21, 2023",
+        "score": 0.5562010890514423,
+        "id": "324dbaa6-03b9-4076-8947-ea24a2326209",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "John owns the entire Harry Potter movie collection and shares Tim's love for 'Harry Potter and the Philosopher's Stone', describing it as magical",
+        "score": 0.5491907120849934,
+        "id": "0cfeaa93-1964-4729-9f43-9e29230180b5",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "John added 'The Name of the Wind' to his reading list after Tim recommended it for its strong characters and world-building",
+        "score": 0.54856457625498,
+        "id": "44c000c2-797c-4333-a14d-052f1d0b4697",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "Tim has been reading J.K. Rowling's works for a long time, finding that her stories continue to inspire him and that there is something special about her writing that speaks to him",
+        "score": 0.548369876956377,
+        "id": "58ac0734-1321-494d-a998-5534796459d0",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim read 'The Alchemist' in the past and found it significantly changed his perspective on his goals, expressing gladness that John had a similar inspiring experience with the book",
+        "score": 0.5473093996828543,
+        "id": "6a956ed9-abd8-4b2f-a470-d22bc6f6d0e5",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "John added 'The Name of the Wind' by Patrick Rothfuss to his reading list after Tim recommended it, describing the book as sounding cool",
+        "score": 0.5457462645528456,
+        "id": "9d4514e3-be72-4b23-a8bb-fdc014131745",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2024-01-07T17:24:00+00:00"
+      },
+      {
+        "memory": "Tim considers the fantasy show \"That\" to be one of his favorites and enjoys the experience of being lost in fantasy realms as a form of escape",
+        "score": 0.5431205447219448,
+        "id": "6f9586b0-e189-47b2-b28d-6ac7e0166822",
+        "created_at": "2023-11-11T15:36:00+00:00",
+        "updated_at": "2023-11-11T15:36:00+00:00"
+      },
+      {
+        "memory": "John has watched the fantasy show \"That\" and finds it amazing for seeing worlds and characters come alive, describing it as a great way to escape reality",
+        "score": 0.5426602380552781,
+        "id": "53ddabcd-44bf-425b-b42e-f72029ea23b3",
+        "created_at": "2023-11-11T15:36:00+00:00",
+        "updated_at": "2023-11-11T15:36:00+00:00"
+      },
+      {
+        "memory": "Tim is excited to watch the new TV series \"The Wheel of Time\", which is based on a book series he loves",
+        "score": 0.5417282833333333,
+        "id": "f4075228-8cec-4d70-9475-311903724cde",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "John loves the map of Middle Earth from Lord of the Rings because it helps him get lost in another world, and he asked Tim what is depicted on the map",
+        "score": 0.540836148088578,
+        "id": "cd979b09-bc8d-46a7-b0ee-a5179560a923",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John enjoys reading non-fiction books focused on personal development and mindset, finding that they help him understand himself better",
+        "score": 0.5377572878048781,
+        "id": "854fa2e5-aa92-4497-9b99-4cead7952b04",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "John asked Tim if he has visited any places related to the Harry Potter universe and shared a photo of a bookcase filled with books and toys",
+        "score": 0.5352370778220452,
+        "id": "31615f9e-3bdc-489e-91a4-f0b63b2d5207",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2023-05-21T19:48:00+00:00"
+      },
+      {
+        "memory": "Tim asked John who his favorite basketball team or player is on October 2, 2023",
+        "score": 0.5351149666666667,
+        "id": "71c6af86-f1f5-4ff8-9732-4409278c61d7",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2023-10-02T15:00:00+00:00"
+      },
+      {
+        "memory": "Tim recommends 'The Name of the Wind' by Patrick Rothfuss, describing it as a captivating fantasy novel with excellent world-building and character development, featuring a magician and musician protagonist",
+        "score": 0.5291643112195122,
+        "id": "4ed81e41-71f1-4c97-9254-fe5c8e27fbdf",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "John recently finished rereading 'The Alchemist' around November 21, 2023, finding it inspiring and motivating as it reminded him to follow his dreams and search for his personal legend",
+        "score": 0.5282159200000001,
+        "id": "3f2a36b9-5523-439b-bb53-9303bd2e21cf",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "Tim loves getting lost in good books during his downtime, specifically citing the Harry Potter series as a favorite that provides a magical world to escape to, and shared a photo of a Harry Potter book stack on his desk around December 26, 2023",
+        "score": 0.5273288462151394,
+        "id": "2c1f0f0e-68a9-4b54-8b9b-b10734bcb6e5",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "John identifies the Minnesota Wolves as his team and cites LeBron James as his favorite player, admiring his skills and leadership",
+        "score": 0.5272939758182397,
+        "id": "3287fcbc-508d-48e5-83f0-73edf048dc2e",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2023-10-02T15:00:00+00:00"
+      },
+      {
+        "memory": "John is a fan of the Harry Potter movies and asked Tim if he has seen all of them",
+        "score": 0.5243118706507305,
+        "id": "7569c6fe-e085-49f7-9da5-afb8f9f955bb",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "Tim finds fantasy books like Lord of the Rings awesome because they allow him to get lost in another world and appreciate intricate details, such as those found in maps of fictional universes like Middle-earth",
+        "score": 0.5234152947552447,
+        "id": "1ab3d3d5-9cde-4873-b889-5a168b5b8fbd",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John stated that he and his friends and family typically hang out by watching movies or going out for dinner, and he asked Tim about his favorite fun activities",
+        "score": 0.5223201866666667,
+        "id": "b010b0f3-d176-4173-9b08-4052f8c3572e",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim recently finished reading 'A Dance with Dragons' and highly recommends it as a really good story",
+        "score": 0.5199261774225775,
+        "id": "cd792c8d-f384-4da7-9c2f-59a6f772003f",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "John is looking for travel ideas and asked Tim if he has read any of the stories from the book Tim shared on December 26, 2023",
+        "score": 0.5187964799999999,
+        "id": "f0c1f0b7-9537-4995-9d15-40a9ad16e015",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his bookshelf on September 21, 2023, showing a collection of books he has read and enjoyed",
+        "score": 0.5177372957181089,
+        "id": "55aafe3f-70e5-48ab-881e-baf6da4abb29",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of his book collection on June 15, 2023, which includes Harry Potter and Game of Thrones books displayed on a bookshelf with a picture",
+        "score": 0.5136779125867196,
+        "id": "42217109-c6d4-41c7-b6bb-14773124448d",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2023-06-15T17:08:00+00:00"
+      },
+      {
+        "memory": "John has not visited Universal Studios yet but has heard great things about it and considers it a bucket list destination",
+        "score": 0.5123401520318724,
+        "id": "f25c9f95-6695-41d4-b952-f918382561fe",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2023-08-31T14:52:00+00:00"
+      },
+      {
+        "memory": "Tim asked John around December 1, 2023, if there are any specific yoga poses that he enjoys practicing",
+        "score": 0.5123223533333333,
+        "id": "1ceabc92-be6f-4e32-9383-a36b62e98dc4",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "John is considering sports brands like Nike and Under Armour for endorsement opportunities, but is also open to other brands that align with his values and interests",
+        "score": 0.5091220640903055,
+        "id": "1b61ad08-082a-44b7-a350-98a0e76628a6",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2023-06-15T17:08:00+00:00"
+      },
+      {
+        "memory": "John loves Seattle for its energy, diversity, and awesome food, noting that trying local seafood is a must. He also appreciates the incredible support from fans at basketball games in the city.",
+        "score": 0.5071209200000001,
+        "id": "95def188-443d-4652-afe3-09128cde3f1f",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "Tim asked John to share any favorite recipes he has, following their discussion about cooking as a creative and relaxing activity",
+        "score": 0.50671458,
+        "id": "3c441514-73bf-437c-9ab5-5cfa4d041694",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim joined a fantasy literature forum on the night of June 14, 2023, and had an enriching discussion about his favorite books",
+        "score": 0.5062327792533862,
+        "id": "952f282d-ea60-4bcf-becd-a79b38d34ea7",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2023-06-15T17:08:00+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a well-read copy of 'Harry Potter and the Sorcerer's Stone' with a page open on a table",
+        "score": 0.5060599866666666,
+        "id": "62c6e0d3-4dcf-497f-97ab-e6ac868f900f",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim's favorite J.K. Rowling quote is \"Turn on the light - happiness hides in the darkest of times,\" which he uses to keep hope alive during tough times",
+        "score": 0.5051905419580419,
+        "id": "7609dea2-3245-4cbb-bf99-e855085ab8cc",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "John expressed that he has always liked Under Armour and thinks working with them would be really cool, identifying them as a dream brand for future endorsements",
+        "score": 0.5049346733333334,
+        "id": "c5a382ac-d27a-42fb-88a1-b4b5e7540e5d",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "Tim has not yet read 'Dune' by Frank Herbert but has heard great things about it",
+        "score": 0.5043528413786214,
+        "id": "80b1585d-c6a4-4f0d-b29f-c17cf44019dc",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his Star Wars movie collection on a table on January 2, 2024, indicating these are among his favorite fantasy movies",
+        "score": 0.5024766076433121,
+        "id": "1fd1439e-e543-4858-9e69-fbfe7fd5d497",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim stated that Star Wars is his favorite fantasy film and never gets old, responding to John's question about favorite fantasy movies on January 2, 2024",
+        "score": 0.5022552543099787,
+        "id": "ab75393a-dcd9-4dc9-b8e9-baff3400a431",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John picked up a book after his conversation with Tim on October 17, 2023, and found it awesome despite having limited time to read recently",
+        "score": 0.4957899666666667,
+        "id": "727752d2-e15f-4704-95aa-a2c500c946b0",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "John asked Tim if he is currently reading any books on October 17, 2023",
+        "score": 0.49407971794871797,
+        "id": "54f03e86-13f0-4f09-bdbf-3d1f09a5db01",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "John is fascinated by different cultures and historical architecture, has visiting castles on his bucket list, and is excited to explore the world and experience gorgeous places",
+        "score": 0.49355398666666667,
+        "id": "f732b3a5-595e-4366-b37d-79f208b41bcc",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim finds J.K. Rowling an inspiring writer, praising her captivating detail and creative storytelling that transports readers into another world",
+        "score": 0.4929563086247087,
+        "id": "cc5b2d2f-aaa8-400a-bde9-f801ed93cd98",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim takes notes on J.K. Rowling's writing style to apply to his own fantasy novel writing",
+        "score": 0.4921714836230436,
+        "id": "8f2cc39e-d89b-448b-a627-94ba8c055ca2",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "John and Anthony attended a charity event around August 2, 2023, where they participated in an intense Harry Potter trivia contest and performed reasonably well",
+        "score": 0.49066677666666675,
+        "id": "17c05cf1-b592-405c-8f4b-b92b04ba2ce3",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2023-08-02T16:17:00+00:00"
+      },
+      {
+        "memory": "John and his new teammates are still deciding on the destination for their planned team trip next month and asked Tim for suggestions",
+        "score": 0.48993362767596277,
+        "id": "041a7ef9-f12c-49e6-8569-677983a367bb",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim asked John for the recipe for the honey garlic chicken with roasted vegetables that John mentioned making frequently",
+        "score": 0.4898075978486056,
+        "id": "bf052f37-e884-4ef8-83df-4fce6353eed5",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim finds reading in a cozy spot to be blissful and freeing, comparing the experience of being in another world to John's surfing. He shared a photo of his living room featuring a brown couch and white ottoman.",
+        "score": 0.48923069,
+        "id": "6fdad142-945d-43c4-a91b-a4ee9a38df0b",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "At the charity trivia contest John attended, a highly knowledgeable participant won a signed Harry Potter book as a prize",
+        "score": 0.48901091333333335,
+        "id": "5fc19cb6-e91c-4231-a54d-587f8167bc72",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2023-08-02T16:17:00+00:00"
+      },
+      {
+        "memory": "Tim reorganized his bookshelf around December 1, 2023, which contains fantasy novels including Harry Potter and Game of Thrones series",
+        "score": 0.48794508154050464,
+        "id": "f00c4fda-4a87-4893-aff5-27cb6475806e",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "Tim's favorite song to play on the piano is a theme from 'Harry Potter and the Philosopher's Stone', which he finds special as it was the first movie in the series and brings back magical memories of watching it with his family",
+        "score": 0.4867558787516601,
+        "id": "c522f914-c9f5-4bb0-b7b4-8ddeb074ae75",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "John considers a specific pair of basketball shoes his lucky ones, noting they have been with him through good and bad times and every mark on them has a story",
+        "score": 0.4866641333333333,
+        "id": "f2ad633d-0042-4ed1-9dd9-75023413b2d9",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "Tim stated that Harry Potter is his favorite book because it is so immersive, and shared a photo of a collection of movies and DVDs on a carpet on January 2, 2024",
+        "score": 0.4860644076433121,
+        "id": "67632704-5c5a-4a3d-8fbc-3e26cfe6e459",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim described John's photo featuring rocks and a river as amazing and peaceful, noting that it inspires him, and asked what drew John to that specific spot",
+        "score": 0.4852240266666667,
+        "id": "6202d8e5-ec5f-4ea7-9bb8-f048a943d712",
+        "created_at": "2023-12-19T10:04:00+00:00",
+        "updated_at": "2023-12-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Tim does not surf but finds that reading great fantasy books helps him escape and feel free, sharing a photo of a Harry Potter book to illustrate this preference",
+        "score": 0.48511964109224115,
+        "id": "9303f8e2-77be-431e-8529-7750ee312d7c",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "Tim shared an image on August 11, 2023, showing a set of three books from 'The Name of the Wind' series by Patrick Rothfuss displayed on a wooden table",
+        "score": 0.48474908455284554,
+        "id": "345cc97c-081f-48c8-8fb0-48d7dcae59e1",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "John has not visited Edinburgh yet but considers it a place worth considering for his team trip after Tim's suggestion",
+        "score": 0.4844737810092961,
+        "id": "7aafa594-3edf-475b-a629-59c65bf1c195",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "John is working on supporting youth sports and fighting for fair chances in sports for underserved communities, believing every kid should have access to good sports programs",
+        "score": 0.48438668400266405,
+        "id": "a73babff-8b73-4324-849a-3eb63a77ae1a",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "Tim asked John how long he usually holds the Warrior II yoga pose during his practice",
+        "score": 0.4842141480343575,
+        "id": "53412bff-0e80-48ed-8b0d-a2392198a830",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "Tim is totally hooked on Harry Potter and Game of Thrones, describing them as amazing and stating he could chat about them forever",
+        "score": 0.48347835312335957,
+        "id": "51aeaf44-0592-4deb-86d9-a75f5f152699",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2023-08-02T16:17:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a book with a red cover and white title on January 2, 2024",
+        "score": 0.48325733333333326,
+        "id": "82602c91-eba4-4e54-a83d-c1fd87233bbd",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John asked Tim if he dressed up as any character for the Harry Potter party he recently attended",
+        "score": 0.482672471314741,
+        "id": "7536ccd0-8709-4abe-bd30-771c614d8244",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "Tim is currently reading a fantasy book that captivates him, describing the experience as being transported to another world where he is on the edge of his seat and his imagination soars",
+        "score": 0.4800651466666667,
+        "id": "68be578f-7d79-43ac-b3eb-434539895161",
+        "created_at": "2023-08-09T10:29:00+00:00",
+        "updated_at": "2023-08-09T10:29:00+00:00"
+      },
+      {
+        "memory": "Tim's family also watches 'The Santa Clause' during the holidays, a tradition they find heartwarming and festive",
+        "score": 0.47850645333333336,
+        "id": "4b4d2111-5a44-4041-a77e-51687a74806b",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "John has not visited any real-life Harry Potter locations but has added visiting them to his to-do list, describing the idea as fun",
+        "score": 0.4784775260739262,
+        "id": "5926d833-ebad-4614-b1eb-836a70880888",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2023-05-21T19:48:00+00:00"
+      },
+      {
+        "memory": "John's desk setup includes a laptop and a lightbox with the text 'make it happen', serving as part of his motivational environment alongside his plaque.",
+        "score": 0.47798252666666663,
+        "id": "f44e29ea-5a2a-4a5e-91f7-cb5456b135a6",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim asked John if he has ever attended an event related to something he likes, following up on Tim's own recent positive experience at a fan gathering",
+        "score": 0.47665979333333336,
+        "id": "5bcf9cee-f0af-4e34-9652-0a563c00f772",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "Tim considers his collection of fantasy novels and movies to be companions on his personal growth journey, sharing a photo of books arranged on a wooden floor on November 21, 2023",
+        "score": 0.47648772,
+        "id": "53ae8360-8af0-4369-94a1-d0e4a5bd8258",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "Tim enjoys reading books on growth, psychology, and self-improvement in addition to fantasy stories, finding that they offer valuable lessons for personal development",
+        "score": 0.47545020000000005,
+        "id": "bc81b30e-9104-440c-84f4-7fbe72e46313",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "Tim asked John if he has ever attended a sports game and felt a real connection with other fans, following their discussion about Chicago's energy and connecting with people from different backgrounds",
+        "score": 0.4735529733266734,
+        "id": "30fe10a5-2cf8-4209-805f-83efbdcc13d0",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "John is a total movie fan who finds watching films on the big screen awesome and a great way to relax, enjoying seeing stories come alive visually",
+        "score": 0.4735357,
+        "id": "20f3ea6b-dd71-4427-aa0f-1d07b9933855",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "John has met LeBron James a few times, describing him as 'real chill' and the experience as wild. John also saw LeBron play live, finding it tough but educational to watch a top player.",
+        "score": 0.47252151581823965,
+        "id": "8230bf11-c24c-42bd-a95b-f35a7612dd30",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2023-10-02T15:00:00+00:00"
+      },
+      {
+        "memory": "John described his trip to New York City as amazing, highlighting the excitement of exploring the city and trying various restaurants, and recommended it as a must-visit destination.",
+        "score": 0.47184467853658535,
+        "id": "029e4bdf-136e-4b48-b957-a33275e78c2d",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2023-08-26T18:59:00+00:00"
+      },
+      {
+        "memory": "Tim asked John about memorable experiences working with organizations to support youth sports and fair chances for underserved communities",
+        "score": 0.4702275306693307,
+        "id": "170ac113-45c0-4cfd-af5f-ca587e867aaa",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "Tim has watched all the Harry Potter movies and enjoys comparing them to the books, finding it amazing to see the story come alive on screen",
+        "score": 0.4702130439840637,
+        "id": "264c9e15-4070-4cb9-a1c2-827e1a549f37",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "John has a supportive network of people outside of sports who are always there for him no matter what, which he considers himself lucky to have.",
+        "score": 0.46924886,
+        "id": "6d03fb4f-3df4-496e-bbde-31ff15ae5756",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim describes watching 'Harry Potter and the Philosopher's Stone' with his family as a dream come true, recalling how they would get comfortable with snacks and a blanket while being totally absorbed in the film",
+        "score": 0.4687269454183267,
+        "id": "61dd4259-101e-42f5-a02a-918ddb99182d",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "Tim's family also watches the movie 'Elf' during the holidays, a tradition that makes them laugh and feel festive",
+        "score": 0.4685019333333333,
+        "id": "4236fd43-6ca3-4a6d-b1e9-40edd9ac481e",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "John is in Seattle and has a basketball game scheduled there for August 2023, describing the city as one of his favorites to explore due to its vibrant atmosphere",
+        "score": 0.4674216019689461,
+        "id": "50d4c52e-20c5-43cc-8304-8ea61c64ab9d",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "John's number one goal for his basketball career is winning a championship, and he also aims to make a difference off the court through charity work and inspiring others as a way of giving back",
+        "score": 0.4671152070866142,
+        "id": "bc641e53-65d0-4c35-951b-1cd8f3a4ece1",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "John describes the bond with his basketball teammates as special, created by their shared love for the game, and asks Tim if he has ever felt a similar sense of true belonging",
+        "score": 0.46656342803149603,
+        "id": "98d8cdae-ff89-4a50-8126-5b5bbe97c7ba",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2023-08-17T19:54:00+00:00"
+      },
+      {
+        "memory": "John asked Tim if he has come across any interesting books lately on August 11, 2023",
+        "score": 0.4661348192982456,
+        "id": "2b177d3e-0d6a-45b0-9d9c-1752aaf1d3de",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a bookcase filled with DVDs and games on January 2, 2024, while discussing his interest in Lord of the Rings",
+        "score": 0.46605393475524465,
+        "id": "e779befd-2f3e-4c0a-8c51-fdecc2f19af0",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim is planning a trip to Universal Studios in September 2023 and asked John if he has visited the park before",
+        "score": 0.46478981203187253,
+        "id": "162a0e67-e81a-4a11-b5c7-59034cd202ac",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2023-08-31T14:52:00+00:00"
+      },
+      {
+        "memory": "Tim asked John if there have been any recent meet-ups with his basketball team",
+        "score": 0.46462393939393937,
+        "id": "27e93038-e792-4a32-a3d2-ae85fa753695",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "Tim loves traveling and thinks the Eiffel Tower is cool, asking John if he has been to Paris",
+        "score": 0.46393701193921383,
+        "id": "6e3db568-5083-4a9e-9435-a3268de76277",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim expressed a desire to visit New York City and asked John about his experience there, reacting positively to the skyline photo John shared",
+        "score": 0.46346872520325205,
+        "id": "c7aac16d-c15a-4754-860c-ec249c99e393",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2023-08-26T18:59:00+00:00"
+      },
+      {
+        "memory": "Tim has never been part of a sports team, preferring reading and fantasy novels to sink into magical worlds",
+        "score": 0.46323864666666664,
+        "id": "ab49abd8-0792-4636-b920-201c5721b5a7",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2023-08-26T18:59:00+00:00"
+      },
+      {
+        "memory": "Tim described John's photo of a forest with sunlight shining through the trees as an awesome shot that feels like a magical forest, and asked where it was taken",
+        "score": 0.46309748000000006,
+        "id": "e37098cc-6087-4ea8-9dc7-8999e8a6ff40",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "Tim plans to continue his German lessons and asked John if he still plays basketball often",
+        "score": 0.4630307,
+        "id": "2ce2b10f-5a1e-4d8c-b70b-885dd01cd7ca",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim is excited about a new fantasy TV series scheduled to be released in January 2024",
+        "score": 0.4613119076433121,
+        "id": "4648d0ed-bf73-4fca-b000-1948a79c2ef8",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "Tim expressed strong support for John's goal to make a positive difference and inspire others through charity work, offering his assistance in these efforts",
+        "score": 0.46113687709623713,
+        "id": "d1c4a2bf-72c3-40df-9c24-b9d5c0bac371",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim reaffirmed his enduring love for reading on January 2, 2024, sharing a photo of a stack of Harry Potter books on his desk to illustrate this passion",
+        "score": 0.4601642133333333,
+        "id": "eb07596a-3927-46d1-ae3e-1eaebcdb4c9c",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John keeps a plaque on his desk as a constant reminder to believe in himself, which helps him trust his abilities and face obstacles. He finds that having physical reminders like this helps him stay motivated.",
+        "score": 0.46008135912753917,
+        "id": "a6c6b323-d064-4d1b-b2dc-bb6180e704f2",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "John describes his basketball teammates as a second family, noting that their shared passion creates a strong bond and pushes everyone to be their best",
+        "score": 0.45948124715284716,
+        "id": "c3c24b25-d1e7-4512-9b1c-1683885abf43",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "Tim believes that he and John both have significant potential and emphasized the importance of mutually supporting each other on their journeys toward achieving their dreams",
+        "score": 0.45933856666666667,
+        "id": "b654905b-cc20-429a-a15a-d6375de8ae7c",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2023-12-11T20:28:00+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a table with a bunch of books on it while discussing his Harry Potter fan project collaboration",
+        "score": 0.4592945587516601,
+        "id": "9fbd0734-7420-4c3c-851b-64dc129f3252",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2023-05-21T19:48:00+00:00"
+      },
+      {
+        "memory": "Tim expressed enthusiasm for John's photo of the Eiffel Tower view, stating he looks forward to seeing it himself and finds traveling eye-opening",
+        "score": 0.4585718786058804,
+        "id": "87346934-2ad4-4704-b5c8-7cf459259363",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim asked John for travel destination recommendations around January 12, 2024, and promised to keep him updated on his future travels",
+        "score": 0.4578179743099788,
+        "id": "1888ce0e-c83b-42dc-b504-9fe849465ea2",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2024-01-12T13:41:00+00:00"
+      },
+      {
+        "memory": "Tim asked John where he went camping, following John's sharing of a campfire photo and description of a recent trip where they disconnected from everyday life",
+        "score": 0.45777652063936064,
+        "id": "0018f135-cb22-4227-b3aa-d0a9a62d968c",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "Tim asked John about any troubles encountered during his New York City trip and how John handled them, following up on their previous discussion about NYC",
+        "score": 0.4575471252032521,
+        "id": "d18c8339-8715-4c16-9e0d-ce3c69dda8e9",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2023-08-31T14:52:00+00:00"
+      },
+      {
+        "memory": "John loves discovering new cities and shared a photo of the New York City skyline from one of his trips, featuring a view of skyscrapers",
+        "score": 0.4574904318699187,
+        "id": "8a27a6aa-d681-416f-9aa7-c42a340ce5ca",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2023-08-26T18:59:00+00:00"
+      },
+      {
+        "memory": "In his free time, Tim enjoys curling up with a good book to escape reality and get lost in different worlds",
+        "score": 0.45625718,
+        "id": "dfd7f1c5-e230-4b8d-b959-948365ee27c3",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on exploring endorsement opportunities and asked which brands he is looking to partner with",
+        "score": 0.45594247541827543,
+        "id": "9f550fd4-0735-4640-8949-6aad93bee208",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2023-06-15T17:08:00+00:00"
+      },
+      {
+        "memory": "John visited Italy in December 2023 and found the food, history, and architecture amazing. He purchased a book there that has been providing him with cooking inspiration.",
+        "score": 0.4547817729567229,
+        "id": "91a1f768-892a-4fcd-a5ec-9086c852b7f6",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim complimented the signature on the Harry Potter trivia prize John shared, describing it as sweet",
+        "score": 0.45403162,
+        "id": "bb34873b-3acd-419a-b598-93e9914ddb07",
+        "created_at": "2023-08-02T16:17:00+00:00",
+        "updated_at": "2023-08-02T16:17:00+00:00"
+      },
+      {
+        "memory": "John is looking into securing more endorsements and building his personal brand off the court, emphasizing the importance of planning for life after basketball",
+        "score": 0.4539365535723772,
+        "id": "79323b2e-0a74-4af6-9b79-9261d578f371",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "John is making progress with endorsement opportunities, having spoken to some big names which he finds promising and exciting",
+        "score": 0.4536334420849421,
+        "id": "31ccbdc9-29eb-4513-a266-c872edbbaabf",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "Tim values having physical reminders of friends, believing that keeping a bit of their energy and support is always nice",
+        "score": 0.45339841666666664,
+        "id": "21d44324-2331-4dc5-92f0-90824cad7e34",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2023-08-17T19:54:00+00:00"
+      },
+      {
+        "memory": "Tim asked John what he loves most about his basketball career on September 21, 2023, following John's sharing of a sunset photo from practice",
+        "score": 0.4532410757181089,
+        "id": "440b0a71-7b01-41c0-9d08-8504569ecc87",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his endorsement deals with Nike and Gatorade around July 16, 2023, and asked if there are other brands John dreams of working with",
+        "score": 0.4530897774236388,
+        "id": "303693f7-a244-4ad7-967d-5e4d9b0ec22b",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "John wants to use his platform to make a positive difference and inspire others, potentially by starting a foundation and doing charity work to leave a meaningful legacy",
+        "score": 0.4530555837629038,
+        "id": "87b2cad0-be37-4e79-80dc-57955bae6a3b",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim's family watches 'Home Alone' during Thanksgiving, a tradition that brings them lots of laughs",
+        "score": 0.4525372268260292,
+        "id": "5f34f3b9-0e1c-41e6-8c42-08facb96f4ce",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a white wall with black lettering that says '30 positive suites'",
+        "score": 0.4520293066666667,
+        "id": "ba76a08e-e3a4-4690-9435-f8c6b19077bd",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "Tim continues writing articles to combine his love for reading with the joy of sharing great stories, and shared a screenshot of his latest fantasy novel article featuring an open book with a picture of a man on August 11, 2023",
+        "score": 0.45189601333333335,
+        "id": "accdc9e9-db5b-4e94-bb4e-7653eead2223",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "Tim's Harry Potter fan project involves discussing various aspects of the universe, including characters, spells, and magical creatures, with a focus on fans coming together",
+        "score": 0.45182724541832675,
+        "id": "d8ea6816-9f7f-4a67-85d5-82090092583f",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2023-05-21T19:48:00+00:00"
+      },
+      {
+        "memory": "John admires LeBron James for his work ethic and dedication to the game, finding him an inspiration",
+        "score": 0.45161916248490624,
+        "id": "be6b622a-7c50-4870-955e-f2ce25917027",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2023-10-02T15:00:00+00:00"
+      },
+      {
+        "memory": "Tim expressed interest in exploring real-life Harry Potter locations in the future and asked John if he has visited any such places",
+        "score": 0.4509959460739261,
+        "id": "f9a1d7c1-18c4-4314-a688-59c3ed42a421",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2023-05-21T19:48:00+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on his basketball team's recent victory and asked what the best part of the experience was for him",
+        "score": 0.45049843939393935,
+        "id": "d77413e4-69c6-43e2-8e75-84b81c614d6a",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "John's family gets together frequently, and he shared a photo of a group of people standing around a kitchen table to illustrate these gatherings",
+        "score": 0.44991830000000005,
+        "id": "c90fd70a-3dd2-45bf-932b-8feedb4654c2",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "Tim asked John about the progress he has made regarding exploring endorsement opportunities, following up on their previous discussion about potential brand partnerships",
+        "score": 0.44969197,
+        "id": "cb663cbe-6be1-4834-8cc6-5bc8f4423892",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "John finds Aragorn inspiring due to his brave, selfless, and down-to-earth attitude, as well as his persistence in never giving up and always standing up for justice",
+        "score": 0.44967270932276177,
+        "id": "94e0992a-208d-41e3-8335-c7976a99e8c2",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John is teaming up with a local organization that helps disadvantaged kids with sports and school, aiming to use his platform to positively impact the community and inspire others",
+        "score": 0.4493524633333334,
+        "id": "32611a79-9031-4f3c-9b8e-7ff97b0be018",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "Tim finds John's signed basketball meaningful and plans to keep the concept of physical reminders in mind for his own motivation when pursuing goals",
+        "score": 0.44922180666666667,
+        "id": "0704b17f-d124-4fde-8338-18a89ba7e47a",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2023-08-17T19:54:00+00:00"
+      },
+      {
+        "memory": "John has just started learning Spanish, motivated by its utility for personal and professional opportunities",
+        "score": 0.44892719999999997,
+        "id": "a8d0438d-fb28-4ee0-9881-1e4654de59fd",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim congratulated John on securing an endorsement with a popular beverage company and asked how it felt to seal the deal",
+        "score": 0.44879077182817184,
+        "id": "2d17049b-bacd-4962-9a03-9a9e5571108d",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2024-01-12T13:41:00+00:00"
+      },
+      {
+        "memory": "John maintains strong bonds with his basketball team through activities away from practice, specifically citing team dinners, outings, and games as key moments that build and strengthen their unity",
+        "score": 0.44866233333333333,
+        "id": "12df977a-987f-4715-8fd8-49cf0d57d306",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "Tim suggested Edinburgh, Scotland as a destination for John's team trip, citing its magical vibe, status as the birthplace of Harry Potter, awesome history and architecture, and beauty",
+        "score": 0.4485619103962704,
+        "id": "4206fc73-758e-4f5a-b51f-6495a9278cb6",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim shared a photo of a basketball and a book on a court while encouraging John to keep up his positive impact through basketball",
+        "score": 0.446276856122178,
+        "id": "1262dbcf-cfbd-4a3f-96ac-a31a1b67db00",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2024-01-07T17:24:00+00:00"
+      },
+      {
+        "memory": "John loves learning about different cultures and meeting people with diverse backgrounds, noting that his basketball teammates come from all over",
+        "score": 0.44607081469816273,
+        "id": "e8e9d817-8653-4c6b-96f3-6d53a77db804",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2023-12-06T17:34:00+00:00"
+      },
+      {
+        "memory": "Tim believes that having a strong support network is key to achieving goals and asked John if he has people to lean on outside of sports",
+        "score": 0.4460431366666667,
+        "id": "ec13881a-16b6-4b30-bed7-cfc581661298",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim identified the map as being of Middle-earth from Lord of the Rings and finds it cool to see all the different realms and regions depicted on it",
+        "score": 0.4460252947552447,
+        "id": "3505f361-de54-4c5a-a52d-5d1fa1e0f078",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim advised John to select endorsement partners that align with his values and brand, specifically looking for companies that share his desire to make a change and help others to ensure authenticity for his followers",
+        "score": 0.44563308000000007,
+        "id": "6090dffb-2f27-441c-8845-282118a4eae1",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim asked John to share some challenges he has faced, following up on John's mention of a morning workout spot and the rewarding nature of his basketball journey",
+        "score": 0.4455226411988013,
+        "id": "76d54e61-9e81-497e-b96a-73b67d13cfb2",
+        "created_at": "2023-12-16T15:37:00+00:00",
+        "updated_at": "2023-12-16T15:37:00+00:00"
+      },
+      {
+        "memory": "Tim asked John how long he has been playing professional basketball",
+        "score": 0.4451599247154472,
+        "id": "7a56f093-9c27-48fc-b581-41f3e6322dd0",
+        "created_at": "2023-12-06T17:34:00+00:00",
+        "updated_at": "2023-12-06T17:34:00+00:00"
+      },
+      {
+        "memory": "Tim loves escaping to the Harry Potter world and has a collection of books that facilitate this escape, sharing a photo of his desk with a chair and bookshelf on January 2, 2024",
+        "score": 0.44508482764331214,
+        "id": "99b8ea27-342c-41eb-a6fe-696a2fef6aa7",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim read a story from his travel book about two hikers who trekked through the Himalayas, which he found awesome",
+        "score": 0.4447762466666667,
+        "id": "592116e7-883e-494e-8895-5f852c5275bf",
+        "created_at": "2023-12-26T15:35:00+00:00",
+        "updated_at": "2023-12-26T15:35:00+00:00"
+      },
+      {
+        "memory": "John stays motivated during tough times by remembering his passion for basketball, relying on his love and enthusiasm for the sport to keep going",
+        "score": 0.4446975362729659,
+        "id": "04c0537c-db2f-49bd-90a6-75ab4877c589",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "John and his wife departed for a short European vacation around November 6, 2023, and he asked Tim for travel recommendations based on Tim's prior experience in Europe",
+        "score": 0.4442762333333334,
+        "id": "63f9d5cc-735f-46d1-ad9c-2aec19ea9b25",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2023-11-06T11:41:00+00:00"
+      },
+      {
+        "memory": "John attended a charity event with Harry Potter trivia in August 2023 and enjoys being around people who are passionate about Harry Potter",
+        "score": 0.44357011333333335,
+        "id": "bbf7c010-36e6-47fd-ace3-a6e02af5426f",
+        "created_at": "2023-12-08T19:42:00+00:00",
+        "updated_at": "2023-12-08T19:42:00+00:00"
+      },
+      {
+        "memory": "John loves the ocean and shared a photo of a person walking on the beach with a surfboard at sunset while expressing excitement about trying seafood in Seattle",
+        "score": 0.44285968196894615,
+        "id": "01725cf7-9ed7-4c25-9fca-ab2aba599b61",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "Tim asked John on October 2, 2023, if he has ever had the opportunity to meet LeBron James or see him play live",
+        "score": 0.44280606248490634,
+        "id": "54be1b3a-f66f-4abe-a97b-9002a140b721",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2023-10-02T15:00:00+00:00"
+      },
+      {
+        "memory": "John stays motivated during challenging times through his teammates' belief in him and his own love for improving his skills, driven by a desire not to let them down",
+        "score": 0.44234987,
+        "id": "81849c8b-70f0-4f68-9fbe-db77b139c5c4",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family's Christmas tree from the previous year (2022), which featured colorful lights and ornaments, describing 'The Santa Clause' as a classic that captures Christmas magic",
+        "score": 0.44217077755577766,
+        "id": "c24c80d8-9fee-4657-b62e-a9249138451d",
+        "created_at": "2023-08-21T16:29:00+00:00",
+        "updated_at": "2023-08-21T16:29:00+00:00"
+      },
+      {
+        "memory": "Tim has no major events scheduled but hopes to attend a book conference in September 2023, which features authors, publishers, and book lovers discussing favorite novels and new releases",
+        "score": 0.4411192623847755,
+        "id": "f22c1eac-047b-4f2c-a36c-7685c503bb97",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2023-08-17T19:54:00+00:00"
+      },
+      {
+        "memory": "John loves traveling as a way to learn about different cultures and places, and shared a photo of himself walking down a path in front of the Eiffel Tower",
+        "score": 0.4408609252725471,
+        "id": "105d10aa-0ace-41e2-a169-86eb40bed9b4",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim had a conversation with a Harry Potter fan in California around July 9-15, 2023, which he described as magical and involved discussing favorite books and characters",
+        "score": 0.4405387664335665,
+        "id": "b0c79586-a37b-4fe1-bd25-5dc8f5467180",
+        "created_at": "2023-07-16T16:21:00+00:00",
+        "updated_at": "2023-07-16T16:21:00+00:00"
+      },
+      {
+        "memory": "John's favorite basketball game was when his team was down by 10 points in the 4th quarter and he hit a buzzer-beater shot to win, describing the atmosphere as incredible and the experience as thrilling.",
+        "score": 0.44043722830502835,
+        "id": "f2ef392c-d692-4a6d-9a51-de5da8ef9869",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2023-12-11T20:28:00+00:00"
+      },
+      {
+        "memory": "Tim asked John about one of his toughest challenges in basketball out of curiosity",
+        "score": 0.44014257000000007,
+        "id": "312f5544-e813-430b-b35e-e1f1e53f8441",
+        "created_at": "2023-11-21T10:22:00+00:00",
+        "updated_at": "2023-11-21T10:22:00+00:00"
+      },
+      {
+        "memory": "John reiterated that his basketball team is like a second family to him, emphasizing the strong bond and support they provide",
+        "score": 0.4400906071528472,
+        "id": "9797dce5-401f-4621-ad5d-ce16e7509d63",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "John has visited Paris and loved the experience, specifically noting that the view from the Eiffel Tower is incredible. He shared a photo showing a bird's-eye view of the city from the top of the tower.",
+        "score": 0.4398860666666667,
+        "id": "86645d5e-ba52-4522-9039-29db8bc8e475",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim asked John about his big goals for his basketball career, acknowledging how John's dedication and hard work allowed him to fulfill his childhood dream of playing the sport",
+        "score": 0.43961224041994756,
+        "id": "d6436952-be46-430f-8891-d61eec2822b4",
+        "created_at": "2023-08-11T13:08:00+00:00",
+        "updated_at": "2023-08-11T13:08:00+00:00"
+      },
+      {
+        "memory": "John and his new teammates are planning a team trip in October 2023 to explore a new city and have fun",
+        "score": 0.43914766767596286,
+        "id": "7438b79a-59f8-43ab-b4fa-f47c5f23a70e",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "John finds the signed basketball from his teammates comforting as a reminder of their bond and support, which motivates him to stay strong and give his all in his basketball journey",
+        "score": 0.4386492345321346,
+        "id": "fdb36efa-87b1-4519-b7eb-54cb17dab3a4",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2023-08-17T19:54:00+00:00"
+      },
+      {
+        "memory": "John considers cooking to be therapeutic and a creative outlet for experimenting with flavors when he is away from the basketball court, sharing a photo of a slow cooker filled with food",
+        "score": 0.4382578078014185,
+        "id": "e4cec879-cb27-47f4-9444-54fcb693d835",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim asked John about his trip to Italy, which took place around December 2023",
+        "score": 0.43820387295672286,
+        "id": "2ff69d0b-a90d-4bf1-af07-e689965cfbda",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "John is exploring endorsement opportunities and feels excited about the possibility of working with brands, viewing it as a rewarding outcome of his hard work",
+        "score": 0.43776961,
+        "id": "b08f0d1f-7264-46cc-a3c8-2fd4e711e2a0",
+        "created_at": "2023-06-15T17:08:00+00:00",
+        "updated_at": "2023-06-15T17:08:00+00:00"
+      },
+      {
+        "memory": "Tim added Barcelona to his travel list after hearing John's recommendation, noting he has heard many great things about the city",
+        "score": 0.43768044939060946,
+        "id": "6326cece-8248-4056-a183-3e78c79b281a",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2024-01-12T13:41:00+00:00"
+      },
+      {
+        "memory": "John frequently makes honey garlic chicken with roasted vegetables, which is one of his favorite recipes, and he shared a photo of the dish cooking in a pan on the stove",
+        "score": 0.43760349000000004,
+        "id": "a95f9636-d490-42ad-80d8-5234fa2fe16b",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "John expressed interest in visiting Galway, Ireland, after his basketball season ends, following Tim's announcement about studying abroad there",
+        "score": 0.4373586559307359,
+        "id": "36891673-db88-4323-9b3f-9b488fa34ac2",
+        "created_at": "2024-01-07T17:24:00+00:00",
+        "updated_at": "2024-01-07T17:24:00+00:00"
+      },
+      {
+        "memory": "John is seeking advice on how to select the right endorsement partners, indicating he is in the decision-making phase of his brand building efforts",
+        "score": 0.43724114,
+        "id": "79ea7e62-0752-40a7-b617-4c976cca3f7f",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim loves experimenting with spices in cooking and is excited to try making chicken soup with sage based on John's suggestion",
+        "score": 0.43710591439575036,
+        "id": "10d333bd-f28f-4dbb-9dab-088ef26b4bbe",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2023-08-31T14:52:00+00:00"
+      },
+      {
+        "memory": "John offered to write down his honey garlic chicken with roasted vegetables recipe and mail it to Tim",
+        "score": 0.43710099784860557,
+        "id": "e9268423-df2e-439c-9c5e-9c9dbe3fc0f7",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim asked John about his thoughts on life after basketball, acknowledging the wisdom of planning for the future and building a personal brand alongside athletic goals",
+        "score": 0.4370723935723772,
+        "id": "736d3c27-8e6f-4d84-856b-97d5cf0949b2",
+        "created_at": "2023-09-21T20:17:00+00:00",
+        "updated_at": "2023-09-21T20:17:00+00:00"
+      },
+      {
+        "memory": "Tim is trying to balance his studying with his fantasy reading hobby during this busy period of assignments and exams",
+        "score": 0.43691189999999996,
+        "id": "97379693-4472-42f4-8397-520033d55cf9",
+        "created_at": "2023-08-26T18:59:00+00:00",
+        "updated_at": "2023-08-26T18:59:00+00:00"
+      },
+      {
+        "memory": "John identified the specific moment that inspired Tim as LeBron James' chase-down block on Andre Iguodala in Game 7 of the 2016 NBA Finals, citing it as an example of determination and heart that makes him love basketball",
+        "score": 0.436618,
+        "id": "263584b6-4f9a-4790-b1f1-a192869eb360",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2023-11-06T11:41:00+00:00"
+      },
+      {
+        "memory": "Tim is working on a Harry Potter fan project and has been discussing collaborations for it, expressing excitement about the work",
+        "score": 0.4365713120849934,
+        "id": "89fdb1e0-24a6-43f0-a18f-5796ac3112ec",
+        "created_at": "2023-05-21T19:48:00+00:00",
+        "updated_at": "2023-05-21T19:48:00+00:00"
+      },
+      {
+        "memory": "John described feeling an unprecedented amount of love and happiness during his wedding ceremony, which he considered a beautiful day with everyone celebrating",
+        "score": 0.43652156000000003,
+        "id": "479641c8-c6ca-4e43-885a-51fa9f2519bc",
+        "created_at": "2023-10-02T15:00:00+00:00",
+        "updated_at": "2023-10-02T15:00:00+00:00"
+      },
+      {
+        "memory": "John recommended Barcelona as a must-visit city for Tim, highlighting its culture, architecture, amazing food in each neighborhood, and nearby beaches for sunbathing",
+        "score": 0.43569026666666666,
+        "id": "2bc3ef25-cab6-4a47-a14b-dc566bc5ed1e",
+        "created_at": "2024-01-12T13:41:00+00:00",
+        "updated_at": "2024-01-12T13:41:00+00:00"
+      },
+      {
+        "memory": "Tim is excited about the upcoming book conference because he believes it will help him learn more about literature and create a stronger bond with it",
+        "score": 0.4354822633333333,
+        "id": "18dc9eab-80b0-419a-bb04-e7a4ea3f2f70",
+        "created_at": "2023-08-17T19:54:00+00:00",
+        "updated_at": "2023-08-17T19:54:00+00:00"
+      },
+      {
+        "memory": "Tim expressed hope to visit the castle John shared someday, continuing his interest in visiting UK castles",
+        "score": 0.43374924000000004,
+        "id": "0d17b0e6-fa14-49a8-b5e1-8b4dcfddf542",
+        "created_at": "2023-10-21T17:51:00+00:00",
+        "updated_at": "2023-10-21T17:51:00+00:00"
+      },
+      {
+        "memory": "Tim asked John for the recipe and preparation method for the chicken soup John recently made and shared a photo of",
+        "score": 0.43373214772908364,
+        "id": "a3808ddf-3db8-42d0-b7bc-60cd72cd8fc0",
+        "created_at": "2023-08-31T14:52:00+00:00",
+        "updated_at": "2023-08-31T14:52:00+00:00"
+      },
+      {
+        "memory": "John enjoys practicing the Warrior II yoga pose because it makes him feel strong, and he also practices a specific pose that helps with balance and stability, finding that these poses challenge both his body and mind",
+        "score": 0.43297159999999996,
+        "id": "c46aa404-2ca2-4e72-822b-47ad7b999aa5",
+        "created_at": "2023-12-01T09:52:00+00:00",
+        "updated_at": "2023-12-01T09:52:00+00:00"
+      },
+      {
+        "memory": "John knows a bit of German and Spanish, noting that knowing these languages makes travel easier",
+        "score": 0.43254439665338645,
+        "id": "39a11fde-ce60-4a4b-bdc9-47b4fad0f462",
+        "created_at": "2024-01-02T17:26:00+00:00",
+        "updated_at": "2024-01-02T17:26:00+00:00"
+      },
+      {
+        "memory": "Tim asked John for specific examples of overcoming challenges from basketball to illustrate how struggles lead to growth",
+        "score": 0.4318065933333333,
+        "id": "7432e124-2ecd-4842-b3ee-75d002e2aed0",
+        "created_at": "2023-11-06T11:41:00+00:00",
+        "updated_at": "2023-11-06T11:41:00+00:00"
+      },
+      {
+        "memory": "Tim asked John if he has had any other basketball games that were as thrilling as the recent career-high assist game against their rivals, noting the incredible atmosphere",
+        "score": 0.43156273333333334,
+        "id": "fda10b3c-eb54-4176-924c-336aeeddb109",
+        "created_at": "2023-12-11T20:28:00+00:00",
+        "updated_at": "2023-12-11T20:28:00+00:00"
+      }
+    ],
+    "search_latency_ms": 2730.6,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Harry Potter",
+      "memories_evaluated": 10,
+      "reason": "The generated answer exactly matches the gold answer."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 50,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 60,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 100,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Lord of the Rings",
+      "memories_evaluated": 200,
+      "reason": "The generated answer 'Lord of the Rings' is a completely different book series from the gold answer 'Harry Potter', so it contains zero correct items."
+    }
+  }
+}

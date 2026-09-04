@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv9_q88",
+  "conversation_idx": 9,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What did Calvin and his friends arrange for in the park?",
+  "ground_truth_answer": "regular walks together",
+  "evidence": [
+    "D10:3"
+  ],
+  "user_id": "locomo_9_63236696",
+  "reference_date": "10:54 am on 17 November, 2023",
+  "retrieval": {
+    "search_query": "What did Calvin and his friends arrange for in the park?",
+    "search_results": [
+      {
+        "memory": "Calvin shared a photo with Dave showing a group of men sitting on a rock next to a river, referring to them as 'the crew'",
+        "score": 0.6428921666666667,
+        "id": "24085c45-ee36-4e4c-b9e0-813b88bad774",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin views using his music to share experiences and feelings as a form of therapy, allowing him to express himself and work through his emotions",
+        "score": 0.6350048766666667,
+        "id": "b9891b2c-dbb7-493a-95d3-9b38ec2da84c",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave for recommendations or memories regarding cool features of Boston parks",
+        "score": 0.6314392147144754,
+        "id": "1fd54e6c-9574-42a5-9bcb-8124e95edf42",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Calvin is excited to experience the serenity of Boston parks and plans to take walks there to recharge during his upcoming visit next month",
+        "score": 0.6270211613811422,
+        "id": "2b9d321f-239d-4720-8f1d-5025ee610819",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Calvin dreams of touring the world to perform for diverse audiences, connect with people, and make a global impact with his music",
+        "score": 0.6260066866666666,
+        "id": "2497f77a-6283-4a4c-a15c-2e1961328eae",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin met Frank Ocean at a music festival in August 2022, where Frank expressed interest in collaborating; they clicked immediately and Calvin described their on-stage chemistry as incredible",
+        "score": 0.6194084,
+        "id": "d478348c-4cc5-49b2-8b42-d61a07b35c1a",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Dave plans to take Calvin to the serene park spot with a bench under a tree and pink flowers, describing it as calming and believing Calvin will like it",
+        "score": 0.6127111333333333,
+        "id": "331ae064-4010-476a-b6fc-ee8283d01fb1",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin and his dad used to sing along to \"California Love\" by Tupac and Dr. Dre during their childhood road trips, a memory that always makes Calvin smile",
+        "score": 0.6040606000000001,
+        "id": "073b18e3-b7b5-470e-94cd-467c0d666d80",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin describes his old high school buddy as a great friend who has always supported and encouraged him, noting that the friend's positivity has made a significant difference in Calvin's journey",
+        "score": 0.6028696018592298,
+        "id": "29c18e4b-a25e-4b3b-a4ae-bb804329d5bb",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin agreed to Dave's suggestion to jam music together, expressing enthusiasm for the idea",
+        "score": 0.6013238666666667,
+        "id": "e988d09d-f782-4227-a580-10cda3195f83",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin complimented the logo Dave created for their rock band and asked about the story behind its design",
+        "score": 0.5962508251073672,
+        "id": "58f70774-8fbe-4caf-9b37-44ee5f64bcad",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of himself and the artist he met at the Boston gala, showing them sitting together on a bench in the snow",
+        "score": 0.5954645866666667,
+        "id": "d8953e6f-efee-4425-8048-24cce4a91147",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin and Frank Ocean arranged a meeting and recorded a song together in the studio at Calvin's mansion following their initial connection in Tokyo",
+        "score": 0.5949489619047619,
+        "id": "4805eb7e-fc21-4f64-9db9-041a6123a817",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of two men freestyling on a sidewalk with a beat-up old car in the background, recalling their teenage days of dreaming about fame and feeling nostalgic about how life has changed since then",
+        "score": 0.5932800266666667,
+        "id": "f8ad15a2-7016-4450-91b4-a4876d73df26",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin invited an old high school buddy to see him perform in Boston, describing the experience as insane and a reminder of how far he has come and the importance of relationships in his business",
+        "score": 0.5909347351925631,
+        "id": "fd01920a-226d-4a3f-9942-6fd91d53b6a8",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave where he acquired the red car with a black engine and red hood that was shown in the shared photo",
+        "score": 0.5907002818061088,
+        "id": "aa074360-d4d3-4b6d-b963-eb358a9bff2c",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Dave offered to show Calvin around Boston during his upcoming trip, highlighting the city's music scene and specific venues including Paradise Rock, House of Blues, and Fenway Park",
+        "score": 0.5896694833333334,
+        "id": "53985794-88b3-443a-a81e-f68922d44ae1",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin met Frank Ocean at a music festival in Tokyo around April 20, 2023, where they connected and began sharing ideas",
+        "score": 0.5896686952380953,
+        "id": "9c333f5e-9279-4b84-bfcb-74e296be3043",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin values staying true to himself and being unique in his music, expressing appreciation for Dave's recognition of this trait on August 31, 2023",
+        "score": 0.5889969466666667,
+        "id": "8b97c023-a88e-425f-9d04-8797a7b9fea3",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin is currently on or finishing the Frank Ocean tour and plans to travel to Boston afterward to explore its awesome music scene",
+        "score": 0.5878268333333333,
+        "id": "99ae14c5-ed19-41e4-aeb4-b0ff52f2e8d4",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin invited an old high school buddy to see him perform in Boston around November 2023, describing the experience as insane and feeling good about how far he has come",
+        "score": 0.583943135192563,
+        "id": "a99ccc7f-b2e5-4338-9105-c0f4359c96b5",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin described the atmosphere at his album party as incredible, with the room buzzing with energy and love, serving as a powerful reminder of why he pursues music. He shared a photo showing a group of people standing on top of a stage.",
+        "score": 0.5817996415917416,
+        "id": "dffb5385-4109-4a63-b38c-d3435130b675",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Dave suggested jamming music together with Calvin after discussing their shared appreciation for the song \"California Love\"",
+        "score": 0.581655243023643,
+        "id": "54363a1d-1a3c-4528-8976-0323758bb65d",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin encouraged Dave to take lots of pictures during his upcoming mountain trip and share them upon return, expressing confidence that it will be an amazing experience",
+        "score": 0.5794849466666667,
+        "id": "b5c7fa03-9947-4b28-97a9-6658197e1d0d",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Calvin attended a networking event to meet other artists, aiming to build up his fan base and expressing excitement about the potential outcomes",
+        "score": 0.5792447659007659,
+        "id": "d9f1d8ce-c36c-4100-b813-1f523a0205bc",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2023-10-29T10:49:00+00:00"
+      },
+      {
+        "memory": "Dave considers the Disney movie featured in the poster Calvin shared to be one of his favorites, specifically appreciating its lesson about following dreams regardless of others' opinions",
+        "score": 0.5767932556440902,
+        "id": "5237a12b-c74b-4f4a-858e-f9dadc845663",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2023-09-15T00:13:00+00:00"
+      },
+      {
+        "memory": "Calvin has not yet visited the small town in Japan with the stunning mountain view but plans to go after his tour with Frank Ocean ends",
+        "score": 0.5758547619047619,
+        "id": "c5329c08-315e-426a-9e9b-109c5689ac86",
+        "created_at": "2023-06-21T15:15:00+00:00",
+        "updated_at": "2023-06-21T15:15:00+00:00"
+      },
+      {
+        "memory": "Calvin acknowledged that Dave learned a lot of new things at the conference in Detroit",
+        "score": 0.5752832387945388,
+        "id": "adf5d609-871d-46d0-8f86-0d3591b487b4",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Calvin had a wonderful experience in Boston, appreciating the awesome architecture and cool history, and found the visit peaceful after following Dave's advice",
+        "score": 0.5751130533333333,
+        "id": "c9c7bc39-27a6-437d-81c8-b74d417dea14",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Dave invited Calvin to visit his garage to see cool cars during their future interactions, expressing enthusiasm for Calvin's upcoming tour and live music experiences",
+        "score": 0.5745986333333334,
+        "id": "3a49e8bc-8bb5-412a-aecb-ff445f803ccd",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2023-09-13T10:56:00+00:00"
+      },
+      {
+        "memory": "Calvin confirmed his participation in the upcoming jam session with Dave, expressing excitement about creating something special together and looking forward to meeting soon",
+        "score": 0.5744612866666666,
+        "id": "2c372e73-4efd-47cd-88e5-ed23d34011c5",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin relies on a strong support system, specifically his friends and team, to keep him on track while managing the demands of his tour and personal life",
+        "score": 0.57391124,
+        "id": "efe61151-d312-4785-a598-e926cde6312b",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin attended a networking event around late October 2023 to meet more artists, aiming to build up his fan base and expressing excitement about the potential outcomes",
+        "score": 0.5727636992340993,
+        "id": "55703ed0-ceb2-4b4a-b53e-f20b00270aa3",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2023-10-29T10:49:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave for his opinion on the music scene in Boston",
+        "score": 0.5727209029304029,
+        "id": "1a5d6116-ce5c-4d6e-95c0-0dbbf4a44327",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2023-05-31T18:06:00+00:00"
+      },
+      {
+        "memory": "Calvin met with artists in Boston around October 3, 2023, through a mutual friend who thought they would be a great fit for collaboration",
+        "score": 0.5713771866666667,
+        "id": "22637e45-5dd3-45b6-888a-907c90dd9c68",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2023-10-04T14:44:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave if he uses the vintage camera he recently purchased for taking his photos",
+        "score": 0.5681348299070386,
+        "id": "e1b3c123-c09d-41ee-98a4-9561f8393aa8",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin visited sights in Boston with a high school friend around October 24, 2023, describing the experience as fun and eye-opening",
+        "score": 0.5672618312084993,
+        "id": "bed3fffe-d508-4035-a326-71c6e5bbb784",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Calvin finds embracing nature to be a calming activity that helps him relax",
+        "score": 0.5666685933333333,
+        "id": "f600ff54-d627-403b-9bed-764d5eef9de5",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2023-05-03T13:16:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo taken in a Japanese garden on November 17, 2023, showing a bench under a tree with pink cherry blossoms, describing the scene as wild and beautiful",
+        "score": 0.5653294999999999,
+        "id": "9a3b2528-cd37-481e-a938-db0cc04cc6ea",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin is shooting the music video for his new album in Miami at a beach location, expecting epic visuals from the shoot",
+        "score": 0.5652055993359894,
+        "id": "2035f3a5-ac52-4a65-a8ca-642a1e73a598",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin stated that rock concerts always have an electrifying atmosphere",
+        "score": 0.5651757866666667,
+        "id": "c05b6bce-3f6f-4add-bb08-3f8bac1b73b3",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2023-09-15T00:13:00+00:00"
+      },
+      {
+        "memory": "Calvin toured with a well-known artist, describing the experience of performing and connecting with the audience as unreal",
+        "score": 0.5634443868131869,
+        "id": "a3eec875-4e61-4f1b-8200-2091b27ba185",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2023-08-14T00:35:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of his band performing on stage with bright lights during his tour with Frank Ocean, highlighting the awesome performance and crowd energy",
+        "score": 0.5609054952380952,
+        "id": "fac67ce0-a5c4-49ef-a721-165a6479c0ae",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of himself performing on stage with Frank Ocean at a music festival, featuring a projection of a man on the wall behind them",
+        "score": 0.5605244952380952,
+        "id": "767dac7a-1b1e-4df5-9c38-ac9cd3b7068b",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a person skiing on a snowy mountain peak, likely referencing the Rocky Mountains or similar terrain",
+        "score": 0.5602846733333333,
+        "id": "4f327e22-82a5-4e04-b44d-c9b712195b8f",
+        "created_at": "2023-06-21T15:15:00+00:00",
+        "updated_at": "2023-06-21T15:15:00+00:00"
+      },
+      {
+        "memory": "Calvin is excited to explore Shibuya Crossing and Shinjuku in Tokyo, comparing Shibuya to Times Square and looking forward to trying the amazing food again",
+        "score": 0.5598172866666666,
+        "id": "c8b0286a-dd5b-4dea-881c-5741bfe91a88",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin visited sights in Boston with a high school friend on October 24, 2023, describing the experience as fun and eye-opening",
+        "score": 0.5593525645418328,
+        "id": "b7d552c7-a4f3-44bb-ba9d-9e5be0bed94e",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Calvin had an unforgettable drive on a summer day, describing the wind and rush of freedom as he reflected on his life path and decisions",
+        "score": 0.5591479933333333,
+        "id": "41df1469-3f25-4059-ad8e-c80d2324248c",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin has never visited the park with a lake and boats that Dave recommended, but plans to check it out when he returns from his trip to Japan and Boston",
+        "score": 0.5586140350654581,
+        "id": "128a8bc0-e1a3-4ed7-8f79-aeddc6e95c93",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2023-03-23T11:53:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of Shibuya Crossing at night showing a crowd of people with umbrellas in the rain, describing the scene as amazing",
+        "score": 0.5585953636363638,
+        "id": "3acaab25-a19e-4784-a337-585b44444a72",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin congratulated Dave on teaming up with a local garage around May 3, 2023, expressing that it is inspiring to see Dave follow his passion and noting how far he has come since they last chatted",
+        "score": 0.5578616212289397,
+        "id": "1baceee4-f145-40a6-aa8c-b6ad719b2035",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2023-05-03T13:16:00+00:00"
+      },
+      {
+        "memory": "Calvin plans to send Dave previews of his nearly finished album soon and wants to schedule a catch-up",
+        "score": 0.5577125333333334,
+        "id": "759bf0a0-39fb-4bbc-8635-ff43dd81e91f",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2023-10-29T10:49:00+00:00"
+      },
+      {
+        "memory": "Calvin has never been to Boston before but plans to visit in July 2023, having heard that the parks there are amazing",
+        "score": 0.5570940757575757,
+        "id": "1fd86ae3-e440-4638-ad9f-35a02e09fcf0",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Calvin attended a music festival in Tokyo around August 21, 2023, describing the city's energy and lively crowd as fuel for his soul. He shared a photo of people sitting on the grass at night during the event.",
+        "score": 0.5570558,
+        "id": "709cf95d-2595-4986-b422-86af4729042e",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin reflected on the importance of relationships in the music business after his recent performance in Boston with his high school friend",
+        "score": 0.5566353312084993,
+        "id": "8471391f-4406-45e2-97ed-8199971aa391",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin recently performed with Frank Ocean, describing the experience as really cool",
+        "score": 0.5562553819047619,
+        "id": "21d439d6-796f-4bd6-a334-83370a71e19f",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2023-10-15T09:39:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a group of friends sitting around a desk during a studio session on November 13, 2023",
+        "score": 0.555972060690571,
+        "id": "8eb72758-917a-4c37-93c1-72ec2df51fff",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin described his Tokyo show as awesome, highlighting a magical moment when the audience sang along to one of his songs",
+        "score": 0.5557363333333333,
+        "id": "3baeedeb-5e6a-4095-abf0-c3bae15cf33b",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2023-08-14T00:35:00+00:00"
+      },
+      {
+        "memory": "Calvin is excited about his upcoming tour, describing the planned stops as 'awesome spots' and anticipating an epic experience",
+        "score": 0.5547088733333333,
+        "id": "27d86abc-fafe-42bc-9bf6-ef2cc0d6f214",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2023-09-13T10:56:00+00:00"
+      },
+      {
+        "memory": "Calvin believes that remembering their motivations helps them persevere through the difficulties of their respective paths and wants to keep each other motivated",
+        "score": 0.5545199666666667,
+        "id": "0ddcc0f0-d69a-4512-8950-acd48ffbad4b",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2023-05-01T18:24:00+00:00"
+      },
+      {
+        "memory": "Dave shared a photo with Calvin depicting a city skyline with a boat in the water",
+        "score": 0.5545195826029217,
+        "id": "e891b512-e00c-488c-99b2-6189c1d2308d",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a shiny orange vintage car with the hood open as part of his relaxation project",
+        "score": 0.5543425666666666,
+        "id": "cd50cb9b-bf20-4df3-a3a3-a2d07f8a5298",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2023-10-04T14:44:00+00:00"
+      },
+      {
+        "memory": "Calvin stated that creating something people connect with and brings joy is his core motivation, and moments like the album party inspire him to keep growing",
+        "score": 0.5540395415917416,
+        "id": "4458b620-9cac-4ff6-88cf-194e76fb8c33",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of himself performing as a DJ in a nightclub with Frank Ocean, describing the experience as amazing and inspiring for his music career",
+        "score": 0.5539992952380952,
+        "id": "c5e99a80-b451-442d-924e-d881f9840260",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a large crowd with their hands in the air in a large auditorium during a performance, describing the audience reaction as insane",
+        "score": 0.5538509266666667,
+        "id": "08e963b8-2fc7-4207-b5f4-73a57dfbca03",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave for an update on his car hobby, referencing their previous conversation where Dave had mentioned it",
+        "score": 0.5528598933333333,
+        "id": "cb966204-6b70-4ad8-bd72-c84d13b77206",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2023-09-15T00:13:00+00:00"
+      },
+      {
+        "memory": "Calvin described his tour with Frank Ocean as a dream come true, highlighting the awesome crowd energy and the amazing experience of jamming with him around October 19, 2023",
+        "score": 0.5523989619047619,
+        "id": "a6693391-8dc8-4e53-9feb-8e995682efd5",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Dave congratulated Calvin on his album release and the celebratory party held at his Japanese house",
+        "score": 0.5507709333333334,
+        "id": "9c33b197-0dc6-4ff2-b2ac-f255b77ae6ea",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin attended a music festival in Tokyo around April 20, 2023, where he did not see any bands but met many talented artists and industry professionals, describing the experience as totally enriching",
+        "score": 0.550401308983269,
+        "id": "b1303cbd-b875-496b-914e-cbe8b2fd8d8b",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin is excited to perform in Boston during his upcoming tour with Frank Ocean, noting that he will be playing for folks from home",
+        "score": 0.5489310085714286,
+        "id": "180fd84f-f27e-48c8-8942-1fe836334583",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2023-05-31T18:06:00+00:00"
+      },
+      {
+        "memory": "Calvin expressed that he loves the band Aerosmith, responding positively to Dave's mention of their performance at a Boston music festival",
+        "score": 0.5474039202114305,
+        "id": "5b32d153-4f67-4e5c-b222-5fa62fc18c28",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2023-03-26T16:45:00+00:00"
+      },
+      {
+        "memory": "Dave asked Calvin about songs from his childhood that bring back memories, following their discussion on summer drives and reflection",
+        "score": 0.5473910866666666,
+        "id": "86eb32e9-6e3c-492f-beba-b5fbfa63f5ab",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin described the feeling of connecting with everyone at concerts as an unbeatable rush and wished Dave a harmonious day on October 23, 2023",
+        "score": 0.5458741866666666,
+        "id": "18a3d09d-b3ba-47c1-b404-05536fffbc69",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin attended a fancy gala in Boston on November 16, 2023, where he met some interesting people",
+        "score": 0.5456919024309025,
+        "id": "d83d8ad9-2350-4316-86f4-63312894d98d",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a green car in a garage with a sign in the background while discussing Dave's new venture with a local garage around May 3, 2023",
+        "score": 0.5452940212289396,
+        "id": "584c8797-45d5-448d-b1f8-5dd780553fe1",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2023-05-03T13:16:00+00:00"
+      },
+      {
+        "memory": "Dave shared a photo of a pond with a boat surrounded by trees with Calvin on June 9, 2023",
+        "score": 0.5448262051378446,
+        "id": "4458ed0c-5b9e-4419-a81b-25e59ca33cfd",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave about specific modifications or projects he is excited to work on during the upcoming car modification workshop",
+        "score": 0.5447898733333333,
+        "id": "27dfea36-383c-470d-b4df-89df46bb5ee5",
+        "created_at": "2023-08-11T17:22:00+00:00",
+        "updated_at": "2023-08-11T17:22:00+00:00"
+      },
+      {
+        "memory": "Calvin heard great things about the band The Fireworks and believes seeing them perform live must have been awesome with electric energy",
+        "score": 0.5433992157176157,
+        "id": "e7aa6d28-bb0f-42ca-99fc-985b7c2518c3",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2023-10-15T09:39:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a concert crowd with their hands in the air around October 23, 2023, stating that music brings people together, creates unforgettable memories, and provides unbeatable energy",
+        "score": 0.5430778533333332,
+        "id": "c2d160e1-0726-4545-9f22-f2bc2fcdfa59",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a red car parked in a parking lot while encouraging Dave about his goal of working on classic cars around May 1, 2023",
+        "score": 0.5425704675065618,
+        "id": "90c73f74-bafb-4668-b631-b271183aff3f",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2023-05-01T18:24:00+00:00"
+      },
+      {
+        "memory": "Calvin toured with Frank Ocean around the week of May 24, 2023, describing the experience as wild",
+        "score": 0.5417543285714285,
+        "id": "7f769535-5685-4d1e-9f96-b64ef0ddbdcc",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2023-05-31T18:06:00+00:00"
+      },
+      {
+        "memory": "Calvin is working on a project involving a sleek vintage car restoration to help him chill out and relax",
+        "score": 0.5416323166666667,
+        "id": "5d6b8a35-1169-4b80-8198-58f25ecc3045",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2023-10-04T14:44:00+00:00"
+      },
+      {
+        "memory": "Calvin hosted a small listening party for his new album at his Japanese mansion around October 26, 2023, attended by family and friends, which he described as amazing and energizing",
+        "score": 0.5414903933333334,
+        "id": "c29b294e-0994-454a-884d-0988d0fb7b2e",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin attended an awesome music event in Tokyo around April 20, 2023, describing the experience as very cool",
+        "score": 0.5411931356499357,
+        "id": "c14cff48-d63a-4ff5-bd1d-b9b64c623450",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a Disney movie poster featuring a chef on September 15, 2023, describing it as a cool and magical moment",
+        "score": 0.5406684666666667,
+        "id": "d247cd48-7547-4647-9022-1bff48be4ee8",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2023-09-15T00:13:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave to share photos from the music festival he recently attended, expressing interest in seeing them and joining in on the fun",
+        "score": 0.540198103030303,
+        "id": "b55dbef4-7eed-462e-a2a7-2857eb5bd0ee",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2023-10-15T09:39:00+00:00"
+      },
+      {
+        "memory": "Calvin is interested in cars and enjoys making new and powerful models, asking Dave what motivated him to start engineering cars",
+        "score": 0.5389556333333333,
+        "id": "03f9dbcb-a9c2-4be4-9b6e-7d40b9fa51dc",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Calvin finds bringing broken things back to life satisfying and views working on cars as a real escape from reality, relating to Dave's experience",
+        "score": 0.5386745666666667,
+        "id": "de74c1f1-9c62-4ebb-a839-ab2014374860",
+        "created_at": "2023-10-08T15:13:00+00:00",
+        "updated_at": "2023-10-08T15:13:00+00:00"
+      },
+      {
+        "memory": "Calvin believes nature's beauty helps appreciate life during tough times, describing it as a breath of fresh air, and shared a photo of a pond with rocks and a waterfall in the middle on November 17, 2023",
+        "score": 0.5385172466666667,
+        "id": "f393c66f-c5f6-4e48-af74-526d2e616f9d",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin loves the Miami vibe and considers it perfect for his new album's music video shoot, expressing excitement to show Dave the results",
+        "score": 0.5383627666666667,
+        "id": "f980d51d-a7e5-40d9-b3ef-0f7f0ab30dca",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin attended a fancy gala in Boston on November 16, 2023, where he had an inspiring conversation with another artist about music, art, and their favorite artists, leaving him feeling creatively energized",
+        "score": 0.5381996357642358,
+        "id": "6ce6718d-44ee-459b-ab75-86acddb727cc",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin has not yet explored Boston apart from his gigs due to being busy with rehearsals and traveling, but looks forward to trying local food and visiting popular attractions",
+        "score": 0.5379836066666667,
+        "id": "d5714589-c7fb-41d1-8e13-bc4fb0386436",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Dave offered to help Calvin with props or other needs for his new album's music video shoot in Miami, expressing excitement to see the vibe and location",
+        "score": 0.5376941660026561,
+        "id": "fca16bdb-4eb4-4e7e-a7ac-d37e7e9c2bab",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin admired the sunset photo Dave shared, describing the view as awesome and asking which city it depicted",
+        "score": 0.5374618400532801,
+        "id": "e9b78d46-7820-4ab2-8762-cd31e976504a",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2023-10-29T10:49:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a record player sitting on the floor next to a couch on November 2, 2023, while encouraging Dave to explore different musical styles and broaden his knowledge",
+        "score": 0.5370205712287713,
+        "id": "7511aa99-14cb-45d3-8e31-dcbab6efffa6",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin thanked Dave for his support on October 25, 2023, and expressed a shared commitment to keep pushing for their goals before ending the conversation",
+        "score": 0.5369059633333334,
+        "id": "cab3a87a-3204-487c-8f56-7d654b3aa544",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Calvin met with the creative team for his album on June 8, 2023, describing it as a long but awesome session where he saw everything coming together",
+        "score": 0.53684435,
+        "id": "7f1c798a-cd32-4a00-8e12-b8c64e3353cf",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Calvin praised Dave's ability to bring things back to life and requested pictures of the restored Ford Mustang to see how it turned out",
+        "score": 0.5366530748992403,
+        "id": "6726c589-5833-47b5-b6e9-5e47c827b9c3",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2023-10-04T14:44:00+00:00"
+      },
+      {
+        "memory": "Calvin visited Boston a few years prior to October 29, 2023, and described it as a beautiful city after recognizing the clock tower in Dave's photo",
+        "score": 0.5358266032111002,
+        "id": "19c73332-2c31-4b3f-bf2b-5ef24a79bd08",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2023-10-29T10:49:00+00:00"
+      },
+      {
+        "memory": "Calvin manages the overwhelming demands of his tour and personal life by taking it one day at a time, pushing on because he enjoys what he does",
+        "score": 0.5354441739707836,
+        "id": "028338c0-2a1b-4ff5-b48d-ce600848baab",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo from his Tokyo concert showing a crowd with their hands in the air under colorful stage lights, describing the audience's engagement as awesome and stating these moments are why he loves his job",
+        "score": 0.5342667383283383,
+        "id": "65e92537-e192-4c07-b4f6-24d8107ac2cc",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2023-08-14T00:35:00+00:00"
+      },
+      {
+        "memory": "Dave shared a photo of Pink Floyd headphones sitting on a shelf during his conversation with Calvin on November 2, 2023",
+        "score": 0.5338671533333333,
+        "id": "9c8de36e-af68-48e9-a5a8-d6eb4a42b94b",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin is feeling stoked about his album progress, describing the studio sessions with his team as 'making magic' while working on the music and other elements",
+        "score": 0.5337927566666667,
+        "id": "f6fe3955-b124-4cad-95a7-764a8b8e556f",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Dave offered to help Calvin with his music projects if needed",
+        "score": 0.533560814878455,
+        "id": "69e7f59b-8e92-4ba4-844c-a6991f6360e9",
+        "created_at": "2023-08-11T17:22:00+00:00",
+        "updated_at": "2023-08-11T17:22:00+00:00"
+      },
+      {
+        "memory": "Calvin started touring with Frank Ocean around mid-October 2023, describing the experience as amazing with unreal crowd energy and a strong connection when performing on stage",
+        "score": 0.5324078019047619,
+        "id": "37ce14af-e672-4d86-8709-37a08fb30657",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin is excited that Dave will attend one of his upcoming shows, describing the concert experience as great and something Dave will definitely enjoy",
+        "score": 0.5318351933333334,
+        "id": "051ceae0-4721-44bc-ab44-f3fc4a336261",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin encouraged Dave to visit Tokyo, describing the city lights as amazing and the experience as awesome",
+        "score": 0.5303486999999999,
+        "id": "c8b29754-075c-45fd-bb5e-a400ec226f28",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2023-05-16T11:50:00+00:00"
+      },
+      {
+        "memory": "Calvin thanked Dave for his support and stated he will let Dave know if he needs assistance with props or other items for the music video shoot",
+        "score": 0.53010094,
+        "id": "7baffb1e-eb2f-43c7-8a1a-57784290c909",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave for an update on his car project around October 29, 2023, while also expressing hope that Dave's photography hobby is bringing him joy",
+        "score": 0.530014572913753,
+        "id": "416fee20-d7ff-486f-bc8d-befe5b246e98",
+        "created_at": "2023-10-29T10:49:00+00:00",
+        "updated_at": "2023-10-29T10:49:00+00:00"
+      },
+      {
+        "memory": "Calvin received advice from a music producer at the Tokyo festival around April 20, 2023, to stay true to himself and sound unique, which he found motivating for his musical direction",
+        "score": 0.5297417733333333,
+        "id": "6145e052-5c00-4c47-9446-4e49e33a6b12",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a silver disc in a black frame on a table during the conversation on October 23, 2023",
+        "score": 0.5290540666666667,
+        "id": "98c7db02-bc9b-4cbe-94e9-fd0f0ba2e9ba",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin described his recent tour as amazing, feeling pumped by the audience's energy around August 31, 2023. He shared a photo of a crowd watching a concert with a large screen, stating it captured his feelings and the energizing connection.",
+        "score": 0.5290391233333334,
+        "id": "31ceb494-2b68-4184-aa50-1a8c97d37614",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin responded positively to Dave's experience at the San Francisco car workshop, describing it as awesome, cool, and inspiring",
+        "score": 0.5264982915097457,
+        "id": "6cd17e5f-2f79-4e62-9fc4-ac76e666948c",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2023-08-14T00:35:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a concert crowd with their hands in the air around October 19, 2023, describing the amazing energy as pumping him up and awesome",
+        "score": 0.5263102601798203,
+        "id": "3253f959-7140-46fe-a589-a22d2d3850e5",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a boarding pass for his flight to Boston with Dave on September 2, 2023",
+        "score": 0.52559046,
+        "id": "47e9e329-f69a-4770-b939-fba2659b4855",
+        "created_at": "2023-09-02T09:19:00+00:00",
+        "updated_at": "2023-09-02T09:19:00+00:00"
+      },
+      {
+        "memory": "Calvin has a specific song that always makes him smile because it played during a fun road trip with his dad where they sang along together",
+        "score": 0.52530755,
+        "id": "791e0b8c-bcb4-4759-8a44-b2c272304721",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin described the feeling of everything clicking during a jam session as great and asked Dave if he has any recordings of those sessions",
+        "score": 0.5250058480586081,
+        "id": "5cc164a9-b237-4ec3-a82b-20f963f6ef99",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2023-09-15T00:13:00+00:00"
+      },
+      {
+        "memory": "Dave thanked Calvin for his support around October 15, 2023, stating that it means a lot to him and affirming his intention to keep going and remember his own value",
+        "score": 0.52479012,
+        "id": "710e284a-b703-452a-b91c-b9ac95848ad7",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2023-10-15T09:39:00+00:00"
+      },
+      {
+        "memory": "Calvin expressed interest in trying car restoration and asked Dave what he considers the toughest part of the process",
+        "score": 0.5241557713944223,
+        "id": "de7a475f-7ff9-42ab-b33c-a89d10a1738e",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin watches music videos, concerts, and documentaries about artists and their creative processes in his relaxation room to learn about the industry and find inspiration for his own music",
+        "score": 0.5232129868598069,
+        "id": "dd3da5c8-bb1f-4fb6-876e-6e0aeff8a95d",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin stated that concerts are what he lives for, describing the indescribable connection between the artist and the crowd as amazing",
+        "score": 0.5230246333333333,
+        "id": "cfeee0dd-0512-428d-97a1-20b37d61f635",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin plans to share clips of his music collaborations with Japanese artists once they are ready, describing the collaboration process as exciting and a chance to create something unique",
+        "score": 0.5228202652058432,
+        "id": "68381a27-5d61-41f0-9555-fb38ecb07b7f",
+        "created_at": "2023-07-07T19:56:00+00:00",
+        "updated_at": "2023-07-07T19:56:00+00:00"
+      },
+      {
+        "memory": "Calvin is working on a project to transform his Japanese mansion into a recording studio, describing it as his dream sanctuary for creating music with other artists and reminding him why he loves music",
+        "score": 0.5219295733333333,
+        "id": "ddc7e260-1a3f-42fc-b04e-a586c63274fb",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2023-07-21T18:38:00+00:00"
+      },
+      {
+        "memory": "Calvin met with several artists in Boston around October 3, 2023, to discuss potential music collaborations. He found the experience inspiring and exciting, noting that each artist has a unique individual style, and he is eager to collaborate with them on new music.",
+        "score": 0.5215395785391767,
+        "id": "026b7679-df8d-4883-b636-a12eef0afb89",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2023-10-04T14:44:00+00:00"
+      },
+      {
+        "memory": "Calvin feels proud and motivated by the energy of his Tokyo concert, stating that spreading joy through his art is a core value for him",
+        "score": 0.5210167866666667,
+        "id": "6e2606ce-0c8c-4e92-bfe2-47723cd5f9cf",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2023-08-14T00:35:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a book with a space theme while congratulating Dave on opening his car maintenance shop around May 1, 2023",
+        "score": 0.52074208,
+        "id": "02266731-e73e-4eed-a037-8a9cf87f66cf",
+        "created_at": "2023-05-01T18:24:00+00:00",
+        "updated_at": "2023-05-01T18:24:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo taken from the backyard of his Japanese mansion on July 7, 2023, showing a boat docked in a canal at sunset, describing the view as beautiful and dream-like",
+        "score": 0.5204561757575757,
+        "id": "8b1bd5d5-d254-41a8-8895-a2abe70b9626",
+        "created_at": "2023-07-07T19:56:00+00:00",
+        "updated_at": "2023-07-07T19:56:00+00:00"
+      },
+      {
+        "memory": "Calvin learned a lot and received great advice from music industry professionals at the Tokyo festival around April 20, 2023, describing the experience as inspiring",
+        "score": 0.520218908983269,
+        "id": "587a53d3-c935-4000-a75f-80b9698ba6d2",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "Calvin identifies Ratatouille as one of his favorite Disney movies, appreciating its lesson about pursuing one's passion regardless of others' opinions",
+        "score": 0.519767422310757,
+        "id": "d56da445-ad8f-4808-8f47-a3b32c331c03",
+        "created_at": "2023-09-15T00:13:00+00:00",
+        "updated_at": "2023-09-15T00:13:00+00:00"
+      },
+      {
+        "memory": "Calvin secured a deal to continue his collaboration with Frank Ocean around August 22, 2023, describing it as a dream come true and expressing immense happiness that his hard work is paying off",
+        "score": 0.5196186752380952,
+        "id": "730eebfe-14d5-455e-b014-88f2edc0c72b",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin uses his recording studio exclusively for work and has a separate relaxation room with a TV, couch, chair, and table to unwind and find inspiration",
+        "score": 0.5195693933333333,
+        "id": "fc5726c6-f894-403b-a00c-12faae27826f",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin plans to explore the city, try different local cuisines, and potentially collaborate with musicians during his upcoming trip to Japan in April 2023",
+        "score": 0.51883322,
+        "id": "610ba798-63bc-4eb3-9ceb-e5ee4ac4ad78",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2023-03-23T11:53:00+00:00"
+      },
+      {
+        "memory": "Calvin stays motivated during setbacks by reminding himself of his passion for his goals, relying on supportive people around him, and taking breaks to recharge with favorite activities",
+        "score": 0.5187790755909695,
+        "id": "b39f9dbb-a4f6-4690-8744-25c8d637fbdd",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2023-10-15T09:39:00+00:00"
+      },
+      {
+        "memory": "Calvin performed on stage with his band ('the boys') on August 2, 2023, and shared a photo of the performance showing the band playing under stage lights",
+        "score": 0.51803086,
+        "id": "025f2a1e-2543-4168-9a4c-1ff99e0c7d41",
+        "created_at": "2023-08-03T13:12:00+00:00",
+        "updated_at": "2023-08-03T13:12:00+00:00"
+      },
+      {
+        "memory": "Calvin plans to stay in Japan for a few months before traveling to Boston, expressing excitement about the upcoming itinerary",
+        "score": 0.5179747166666667,
+        "id": "c1a63eb4-9e12-415f-b30a-07493e0daa15",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2023-03-23T11:53:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of dirty hands next to a car on October 4, 2023, expressing that he feels privileged and finds it satisfying to bring the vehicle back to life",
+        "score": 0.5173071333333333,
+        "id": "f9b46cd1-3ccd-43cd-a44f-b238c2fc6bcc",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2023-10-04T14:44:00+00:00"
+      },
+      {
+        "memory": "Calvin expressed enthusiasm for Dave's new rock band, stating that playing guitar in a band is awesome and will bring a lot of emotions",
+        "score": 0.5170763533333333,
+        "id": "2f7faf22-9e5f-4b96-9e6d-4c74c94e4e85",
+        "created_at": "2023-06-21T15:15:00+00:00",
+        "updated_at": "2023-06-21T15:15:00+00:00"
+      },
+      {
+        "memory": "Calvin started shooting a music video for his new album around August 26-27, 2023, on a beach set with camera equipment and crew members",
+        "score": 0.5169061329880478,
+        "id": "b80f9309-4a8d-486e-a111-7ea4d391096d",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin secured a deal to continue his collaboration with Frank Ocean, describing it as a dream come true and the result of hard work paying off around August 22, 2023",
+        "score": 0.5163751085714285,
+        "id": "a6646ac9-fdf4-4f80-94f1-5afc8fe681ca",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a plane flying over a snow-capped mountain range with Dave on June 9, 2023",
+        "score": 0.516345058471178,
+        "id": "61dc3e7c-1318-46f6-9773-4e0e8228ff7c",
+        "created_at": "2023-06-09T14:31:00+00:00",
+        "updated_at": "2023-06-09T14:31:00+00:00"
+      },
+      {
+        "memory": "Dave advised Calvin to overcome creative blocks by immersing himself in loved activities like concerts or favorite albums to jumpstart inspiration, suggesting he take a break from music and have fun exploring other things",
+        "score": 0.5163020666666667,
+        "id": "e5a80d7a-b633-4782-8da4-fed94bbb09b4",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2023-05-03T13:16:00+00:00"
+      },
+      {
+        "memory": "Calvin believes doing what you love for a living is the ultimate goal and finds Dave's dedication to his car work inspiring",
+        "score": 0.5162105,
+        "id": "e380685e-40da-4b3d-a5dd-758f848a04a2",
+        "created_at": "2023-10-08T15:13:00+00:00",
+        "updated_at": "2023-10-08T15:13:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave if he has had any success stories yet with inspiring others through his new car modification blog, expressing that sharing passion through blogging is fun",
+        "score": 0.5159078933333333,
+        "id": "d4dae021-42a4-44c3-b5f8-26ad3ab9e8b8",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin was involved in a minor car accident on June 16, 2023, which resulted in a dented side on his red Ferrari; no one was injured but he is currently dealing with insurance and repairs",
+        "score": 0.5158445215761042,
+        "id": "3aa1ae73-0a62-4668-87c2-ee5661652748",
+        "created_at": "2023-06-21T15:15:00+00:00",
+        "updated_at": "2023-06-21T15:15:00+00:00"
+      },
+      {
+        "memory": "Calvin views his support of young musicians as passing a torch to keep music alive and intends to support these ambitious artists for a long time",
+        "score": 0.5158413666666667,
+        "id": "fd74dd86-882d-43cc-aef0-ba3353554036",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin reaffirmed his commitment to hard work and determination as key drivers for success, expressing a shared motivation with Dave to keep pushing toward their goals around October 4, 2023",
+        "score": 0.51488666,
+        "id": "c886ea6d-3d14-4512-87bf-a7e19a3115c3",
+        "created_at": "2023-10-04T14:44:00+00:00",
+        "updated_at": "2023-10-04T14:44:00+00:00"
+      },
+      {
+        "memory": "Calvin's home was flooded around May 9, 2023, but he successfully saved his music gear and favorite microphone from the damage",
+        "score": 0.5148385133333333,
+        "id": "3e08a7f8-94a5-45f7-940d-d762fecc9341",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2023-05-16T11:50:00+00:00"
+      },
+      {
+        "memory": "Dave took the photo of the waterfall and rocks in a nearby park, describing the location as a serene spot",
+        "score": 0.5147852866666667,
+        "id": "597a43fa-18c8-4ce2-abcb-90269beb935f",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin is eager to resume making music following the recent flooding incident at his home studio around May 9, 2023",
+        "score": 0.5144753533333333,
+        "id": "e5dd832d-c71e-4e21-9fe1-ea97ba6ea492",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2023-05-16T11:50:00+00:00"
+      },
+      {
+        "memory": "Despite the recent flooding incident at his home, Calvin is maintaining a positive attitude and looking forward to repairing the damage",
+        "score": 0.5136036433333334,
+        "id": "16663d67-11fc-4c78-9d78-043684c58d76",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2023-05-16T11:50:00+00:00"
+      },
+      {
+        "memory": "Calvin finds his tour with Frank Ocean incredible and energizing, particularly enjoying performing and connecting with the crowd, but acknowledges that fame brings challenges and balancing everything has been tough around October 23, 2023",
+        "score": 0.5135872952380952,
+        "id": "0fba8cc6-e008-413b-b8bb-165c294ddc64",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin's agent found the accommodation in Japan where he will be staying, and Calvin expressed gratitude for this assistance",
+        "score": 0.5131243950654581,
+        "id": "abafd334-f9c5-4215-b338-3c65d343ea9a",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2023-03-23T11:53:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of his home music studio, which contains a keyboard, synthesizer, and other musical equipment, describing it as his creative haven where he pours his heart into music",
+        "score": 0.5126602133333333,
+        "id": "e74f53e7-d0c9-40f1-b25e-7b09dec49cc2",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2023-05-16T11:50:00+00:00"
+      },
+      {
+        "memory": "Calvin accepted Dave's advice to take a break from music and explore other interests to overcome his creative block, expressing appreciation for the help around May 3, 2023",
+        "score": 0.5112283322709164,
+        "id": "d702eff8-c889-49e2-8b65-23611fa4f903",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2023-05-03T13:16:00+00:00"
+      },
+      {
+        "memory": "Calvin's guitar featuring an octopus design was custom-made by his Japanese artist friend. The octopus represents Calvin's love for art and the sea, and he considers it one of his favorite guitars.",
+        "score": 0.5107040875790876,
+        "id": "4bdb0472-a51b-45ac-b7bc-02809e434d2d",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave to share specific memories from working on cars with his dad, acknowledging that having a hobby that brings pride feels great",
+        "score": 0.51053512,
+        "id": "9ebd63b9-0e9a-43b6-8433-291a194e96b0",
+        "created_at": "2023-08-03T13:12:00+00:00",
+        "updated_at": "2023-08-03T13:12:00+00:00"
+      },
+      {
+        "memory": "Calvin declined Dave's offer to help with music projects around August 11, 2023, stating he is currently super busy with his own music work but will keep the offer in mind",
+        "score": 0.5100272468598068,
+        "id": "50159a8c-3db0-45a2-92cd-c0746028a7ae",
+        "created_at": "2023-08-11T17:22:00+00:00",
+        "updated_at": "2023-08-11T17:22:00+00:00"
+      },
+      {
+        "memory": "Dave asked Calvin for the name of the song that played during his childhood road trip with his dad, following Calvin's mention that it always makes him smile",
+        "score": 0.5098662166100566,
+        "id": "c312b317-28db-48e1-a4e4-6f183e3eb5b4",
+        "created_at": "2023-09-22T20:57:00+00:00",
+        "updated_at": "2023-09-22T20:57:00+00:00"
+      },
+      {
+        "memory": "Calvin started making music to follow his dreams and feels stoked about his progress, staying motivated by collaborating with others, learning from them, and surrounding himself with positive energy and passion around July 21, 2023",
+        "score": 0.5096218266666667,
+        "id": "008a9251-81ea-42d5-bb04-0869c393dff0",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2023-07-21T18:38:00+00:00"
+      },
+      {
+        "memory": "Calvin confirmed to Dave that he has visited streets in Tokyo similar to the busy street photo Dave shared, describing the experience as incredible",
+        "score": 0.5095697866666667,
+        "id": "4266b2b1-e821-450c-9d41-f0d79d62c283",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of his red Ferrari sports car on display at a show, stating he put a lot of work into it and expressing excitement to see more cars when he visits Boston",
+        "score": 0.5094182082427708,
+        "id": "baf5af6e-0cf9-4edd-9acf-255641174acb",
+        "created_at": "2023-04-20T16:15:00+00:00",
+        "updated_at": "2023-04-20T16:15:00+00:00"
+      },
+      {
+        "memory": "After the tour ended in Japan, Calvin had the opportunity to explore his new place there, describing it as a dream come true",
+        "score": 0.5082655950654582,
+        "id": "5b3ec9fa-7f55-4d34-bec4-1566dc0f289d",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2023-08-14T00:35:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a crowd watching a concert with bright lights on May 31, 2023, describing the experience as amazing and likening the collective energy to one big harmony where everyone is part of it",
+        "score": 0.5078792241168658,
+        "id": "5fa2b975-0c26-4eac-a484-7a8fe80bd2f0",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2023-05-31T18:06:00+00:00"
+      },
+      {
+        "memory": "Calvin finds switching music genres tough but exciting, viewing the challenge of balancing his established sound with new experimentation as a key source of motivation around July 21, 2023",
+        "score": 0.5074347066666666,
+        "id": "4630de8b-fa8d-412d-bb8f-38cc0188a9df",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2023-07-21T18:38:00+00:00"
+      },
+      {
+        "memory": "Calvin expressed gratitude for Dave's support and excitement about experiencing the Boston music scene during his upcoming visit around May 31, 2023",
+        "score": 0.5072571946053946,
+        "id": "fce48915-d8a1-47d9-9477-25cb5ff9624e",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2023-05-31T18:06:00+00:00"
+      },
+      {
+        "memory": "Calvin complimented the headlights on Dave's customized blue Subaru, asking what modifications were done to achieve their appearance",
+        "score": 0.5068689666336307,
+        "id": "6455aba3-2563-49f2-8207-7d5ef64fcb44",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin is experiencing a creative block with his music, describing his creativity as frozen and seeking tips to overcome it",
+        "score": 0.5061488656042497,
+        "id": "6ed0adbb-25e7-4085-a029-1fd39e26a80f",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2023-05-03T13:16:00+00:00"
+      },
+      {
+        "memory": "Calvin is traveling to Japan in April 2023 and will be staying in a nice place, sharing an image of the living room which features a couch, table, and television",
+        "score": 0.5060827387250996,
+        "id": "ccf23d44-28c9-4ceb-aa53-1e8afb49d909",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2023-03-23T11:53:00+00:00"
+      },
+      {
+        "memory": "Calvin prioritizes staying connected and up-to-date on world events because it helps his music stand out by incorporating unique perspectives, connects him better with fans, and keeps him motivated and inspired",
+        "score": 0.5058440566666667,
+        "id": "80718918-6482-4e30-b50e-c29539fa8702",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Dave asked Calvin about his experience on the tour with Frank Ocean and how he is balancing his job with his personal life, referencing a previous conversation about fame's impact on relationships",
+        "score": 0.5055056085714286,
+        "id": "1e1c7d23-9d09-43d8-9830-a39a16c026ac",
+        "created_at": "2023-10-23T14:17:00+00:00",
+        "updated_at": "2023-10-23T14:17:00+00:00"
+      },
+      {
+        "memory": "Calvin threw a small party at his Japanese house around late October 2023 to celebrate his new album, attended by family and friends who danced together",
+        "score": 0.5053651453917662,
+        "id": "f53431e8-85be-4f21-93b6-a142369f5f51",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin is planning an upcoming tour and intends to explore and grow his brand afterward, expressing excitement about future opportunities",
+        "score": 0.5052162769189907,
+        "id": "7de3c0ff-505c-4621-b8b6-d5867dd30ac2",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2023-09-13T10:56:00+00:00"
+      },
+      {
+        "memory": "Calvin has been supporting young musicians from a music program, finding their passion amazing and their enthusiasm inspiring around November 2023",
+        "score": 0.50419286,
+        "id": "e2bd42b3-64e9-4241-bde8-e666d5bbaacf",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin experienced a significant life change around March 23, 2023, and shared an image of what he describes as his new mansion entrance in Japan",
+        "score": 0.50400794,
+        "id": "c31ef2b5-290d-494e-b006-f0dd0f23aa47",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2023-03-23T11:53:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a close-up photo of his guitar featuring a purple glow, describing how every mark and strum on the instrument holds a story for him.",
+        "score": 0.5038385333333334,
+        "id": "e40314ad-812c-4ac4-9fa1-b0d7e5236ae5",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of the Tokyo skyline at night with Dave on May 16, 2023, describing it as a wonderful night while in Tokyo for his upcoming performance",
+        "score": 0.5026757046553447,
+        "id": "b4c72c64-b3ce-4c56-a6fb-9bbe59115287",
+        "created_at": "2023-05-16T11:50:00+00:00",
+        "updated_at": "2023-05-16T11:50:00+00:00"
+      },
+      {
+        "memory": "Calvin is experimenting with different music genres and adding electronic elements to his songs to push himself out of his comfort zone, describing the process as exciting self-discovery and growth around July 21, 2023",
+        "score": 0.5023360499999999,
+        "id": "6e425c63-331a-4422-9bbe-37b4ad99024b",
+        "created_at": "2023-07-21T18:38:00+00:00",
+        "updated_at": "2023-07-21T18:38:00+00:00"
+      },
+      {
+        "memory": "Calvin states that making a difference and sharing his own story are the core reasons he got into music, finding strength in positive feedback to reach more people as his journey continues around September 13, 2023",
+        "score": 0.5023146166666667,
+        "id": "3bf9d924-2f74-4578-a976-8b12849f4fe9",
+        "created_at": "2023-09-13T10:56:00+00:00",
+        "updated_at": "2023-09-13T10:56:00+00:00"
+      },
+      {
+        "memory": "Calvin visited a Ferrari dealership and saw many amazing cars, but considers his own car the best and is proud of it as a symbol of his hard work and dedication",
+        "score": 0.50196473,
+        "id": "06517acb-5cd9-47b6-9b38-ebbab67beed8",
+        "created_at": "2023-08-03T13:12:00+00:00",
+        "updated_at": "2023-08-03T13:12:00+00:00"
+      },
+      {
+        "memory": "Calvin's tour with the well-known artist concluded with a show in Japan around August 2023",
+        "score": 0.5008624868131868,
+        "id": "206c921f-acd0-4941-8725-d996a6ece31c",
+        "created_at": "2023-08-14T00:35:00+00:00",
+        "updated_at": "2023-08-14T00:35:00+00:00"
+      },
+      {
+        "memory": "Calvin considers supportive people key to his growth as an artist, providing motivation to improve and stay true to himself in the tough music industry",
+        "score": 0.5002832355909694,
+        "id": "e9c54c09-9f7c-4f20-b0f1-807436a2c00e",
+        "created_at": "2023-11-13T21:15:00+00:00",
+        "updated_at": "2023-11-13T21:15:00+00:00"
+      },
+      {
+        "memory": "Calvin described the Tokyo music festival around August 21, 2023 as a dream come true with buzzing energy and an upbeat crowd where everyone felt connected",
+        "score": 0.5000258466666666,
+        "id": "c5e2f4fe-f512-4757-a01f-1a30b925df1d",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin plans to travel to Tokyo in November 2023 after his tour ends, expressing a desire to revisit places with views like the rooftop bar skyline photo he shared.",
+        "score": 0.4999932266666667,
+        "id": "32e7601c-dcc5-4eed-b7d5-55d999f53f37",
+        "created_at": "2023-10-19T10:11:00+00:00",
+        "updated_at": "2023-10-19T10:11:00+00:00"
+      },
+      {
+        "memory": "Calvin stated that his custom octopus guitar serves as a reminder of his passion for music and the amazing friendships he has made, expressing deep appreciation for its significance.",
+        "score": 0.4993667133333333,
+        "id": "e7058824-607c-4760-aaec-173ab6939b5d",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Dave found a peaceful spot with a bench under a tree with pink flowers, describing it as perfect for relaxing and taking in the beauty",
+        "score": 0.49932215333333335,
+        "id": "259aad62-406c-457e-881b-0a254d38f957",
+        "created_at": "2023-11-17T10:54:00+00:00",
+        "updated_at": "2023-11-17T10:54:00+00:00"
+      },
+      {
+        "memory": "Calvin threw a small party at his Japanese house around late October 2023 to celebrate his new album, attended by family and friends who showed their support",
+        "score": 0.49921998539176626,
+        "id": "1ae807bf-7bba-481e-8d47-da43585f4e2f",
+        "created_at": "2023-11-02T17:46:00+00:00",
+        "updated_at": "2023-11-02T17:46:00+00:00"
+      },
+      {
+        "memory": "Calvin finds long drives in his red Ferrari sports car relaxing and freeing, as the wind and open road help him clear his head",
+        "score": 0.49892749490943755,
+        "id": "c20cb62b-764b-49b2-9b50-3fdd3d8fa1d8",
+        "created_at": "2023-05-03T13:16:00+00:00",
+        "updated_at": "2023-05-03T13:16:00+00:00"
+      },
+      {
+        "memory": "Calvin shared a photo of a red sports car parked in a showroom during his conversation with Dave on October 8, 2023",
+        "score": 0.498119934998335,
+        "id": "51f307ee-773b-4f75-9ec7-157b15050f98",
+        "created_at": "2023-10-08T15:13:00+00:00",
+        "updated_at": "2023-10-08T15:13:00+00:00"
+      },
+      {
+        "memory": "Calvin shared that the view from his living room is from a small town in Japan, describing the mountain scenery as unbelievably stunning",
+        "score": 0.49802435205843293,
+        "id": "05da45ce-e158-4c1c-998f-8f2280736462",
+        "created_at": "2023-06-21T15:15:00+00:00",
+        "updated_at": "2023-06-21T15:15:00+00:00"
+      },
+      {
+        "memory": "Dave has been spending a lot of time at a beautiful park with a lake and boats lately, finding the experience calming",
+        "score": 0.49794245000000004,
+        "id": "0339e627-bc8d-49e1-94f8-d92a487d4440",
+        "created_at": "2023-03-23T11:53:00+00:00",
+        "updated_at": "2023-03-23T11:53:00+00:00"
+      },
+      {
+        "memory": "Dave had a card night with his friends on August 18, 2023, where they laughed and had a great time, as shown in a photo of the group sitting at a table with playing cards",
+        "score": 0.4972832666666666,
+        "id": "b55a707b-e081-406c-9a27-229b2adae167",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin reaffirmed his commitment to mutual inspiration with Dave, encouraging him to keep pursuing his passion and striving to be their best selves around October 25, 2023",
+        "score": 0.4970800333333334,
+        "id": "d2c50758-c0e7-43f5-8dcf-f62e105fe195",
+        "created_at": "2023-10-25T20:25:00+00:00",
+        "updated_at": "2023-10-25T20:25:00+00:00"
+      },
+      {
+        "memory": "Calvin congratulated Dave on being selected for the car modification workshop around August 11, 2023, viewing it as a great opportunity to improve his skills",
+        "score": 0.49672996844621514,
+        "id": "81090904-51f9-4010-adb4-e97467a150f0",
+        "created_at": "2023-08-11T17:22:00+00:00",
+        "updated_at": "2023-08-11T17:22:00+00:00"
+      },
+      {
+        "memory": "Dave asked Calvin how he stays motivated when faced with setbacks, seeking advice on maintaining drive during difficult times around October 15, 2023",
+        "score": 0.4961345,
+        "id": "26943862-87d0-4a59-a98e-c20b4c2e7a89",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2023-10-15T09:39:00+00:00"
+      },
+      {
+        "memory": "Calvin and his friends recorded a podcast on August 21, 2023, discussing the rapidly evolving rap industry",
+        "score": 0.4961316466666667,
+        "id": "b78e0ff6-63d1-4d94-8800-ca82d1f0ad20",
+        "created_at": "2023-08-22T11:06:00+00:00",
+        "updated_at": "2023-08-22T11:06:00+00:00"
+      },
+      {
+        "memory": "Calvin customized his guitar with a shiny finish to give it a unique look that matches his personal style",
+        "score": 0.4958421577622378,
+        "id": "d94af1e7-ff84-4d94-9a35-1fe6adbfe09f",
+        "created_at": "2023-08-31T14:55:00+00:00",
+        "updated_at": "2023-08-31T14:55:00+00:00"
+      },
+      {
+        "memory": "Calvin wrote new tunes and had studio sessions around March 19-25, 2023, expressing excitement about collaborating and sharing the music with everyone",
+        "score": 0.49553625440101684,
+        "id": "da8f33b4-dcef-4e15-be8f-4b8fcf73e771",
+        "created_at": "2023-03-26T16:45:00+00:00",
+        "updated_at": "2023-03-26T16:45:00+00:00"
+      },
+      {
+        "memory": "Dave described Boston's music scene as awesome with tons of talented musicians and cool places to play, and promised to be there to cheer Calvin on during his performance",
+        "score": 0.49544641999999994,
+        "id": "bd327f63-4aa5-4bc4-9781-20860a577c5c",
+        "created_at": "2023-05-31T18:06:00+00:00",
+        "updated_at": "2023-05-31T18:06:00+00:00"
+      },
+      {
+        "memory": "Dave thanked Calvin for encouragement regarding the lost deal, acknowledging that feeling unseen is tough but resolving to have faith and patience until things work out around October 15, 2023",
+        "score": 0.4946428866666667,
+        "id": "d5880861-a4fc-436d-a5d5-b742d6854e05",
+        "created_at": "2023-10-15T09:39:00+00:00",
+        "updated_at": "2023-10-15T09:39:00+00:00"
+      },
+      {
+        "memory": "Calvin asked Dave if he has ever visited Japan",
+        "score": 0.4942051750654582,
+        "id": "54cddfe1-4ae0-44c9-82d0-86ae8fb5c3cb",
+        "created_at": "2023-07-07T19:56:00+00:00",
+        "updated_at": "2023-07-07T19:56:00+00:00"
+      }
+    ],
+    "search_latency_ms": 941.8,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dave plans to take Calvin to a serene park spot with a bench under a tree and pink flowers.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a specific plan for Dave to take Calvin to a park spot, which does not match the gold answer's concept of 'regular walks together' with friends, nor does it contain any overlapping correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dave plans to take Calvin to a serene park spot with a bench under a tree and pink flowers",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes a specific plan by Dave to take Calvin to a park spot, which does not match the gold answer's concept of 'regular walks together' with friends, nor does it contain any overlapping correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Calvin and his friend Dave arranged for Dave to take Calvin to a serene park spot with a bench under a tree and pink flowers.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer describes a specific one-time arrangement to visit a park spot, which is semantically different from the gold answer's concept of 'regular walks together' (a recurring activity), and does not contain any correct items from the gold list."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "sitting on a bench",
+      "memories_evaluated": 60,
+      "reason": "The generated answer 'sitting on a bench' describes a different activity than the gold answer 'regular walks together', and does not share semantic overlap or refer to the same core concept."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dave plans to take Calvin to the serene park spot with a bench under a tree and pink flowers",
+      "memories_evaluated": 100,
+      "reason": "The generated answer describes a specific plan by Dave to take Calvin to a park spot, which does not match the gold answer's concept of 'regular walks together' arranged by Calvin and his friends, nor does it contain any overlapping correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Dave plans to take Calvin to a serene park spot with a bench under a tree and pink flowers (pink cherry blossoms).",
+      "memories_evaluated": 200,
+      "reason": "The generated answer describes a specific plan for Dave to take Calvin to a park spot, which does not match the gold answer's concept of 'regular walks together' with friends, nor does it contain any overlapping correct items."
+    }
+  }
+}

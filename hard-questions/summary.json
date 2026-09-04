@@ -1,0 +1,29 @@
+{
+  "total_wrong_at_200": 125,
+  "turn_wrong": 58,
+  "all_wrong": 67,
+  "turn_wrong_examples": [
+    "conv7_q179.json",
+    "conv8_q11.json",
+    "conv2_q130.json",
+    "conv2_q105.json",
+    "conv2_q62.json",
+    "conv4_q49.json",
+    "conv9_q125.json",
+    "conv2_q17.json",
+    "conv1_q61.json",
+    "conv3_q71.json"
+  ],
+  "all_wrong_examples": [
+    "conv0_q137.json",
+    "conv3_q78.json",
+    "conv9_q151.json",
+    "conv9_q47.json",
+    "conv5_q19.json",
+    "conv7_q117.json",
+    "conv4_q53.json",
+    "conv9_q18.json",
+    "conv4_q165.json",
+    "conv2_q59.json"
+  ]
+}

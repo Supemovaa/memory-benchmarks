@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv2_q17",
+  "conversation_idx": 2,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What might John's degree be in?",
+  "ground_truth_answer": "Political science, Public administration, Public affairs",
+  "evidence": [
+    "D9:6"
+  ],
+  "user_id": "locomo_2_63236696",
+  "reference_date": "11:08 am on 16 August, 2023",
+  "retrieval": {
+    "search_query": "What might John's degree be in?",
+    "search_results": [
+      {
+        "memory": "John asked Maria for more details about Jean's background, specifically inquiring how she ended up in her difficult situation and how she managed to remain positive throughout it",
+        "score": 0.6704285886157914,
+        "id": "e81e8776-3fd1-4244-8beb-be791d6178a1",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John is considering a career in policymaking, motivated by his recently completed university degree and his passion for making a positive impact on the community",
+        "score": 0.6136870429133858,
+        "id": "b97f12d0-b348-4f22-867c-71e8db9f2f89",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "John is particularly interested in improving education and infrastructure as specific areas within his potential policymaking career, citing their importance for the community",
+        "score": 0.60683904,
+        "id": "eeaca7f7-7887-4f4f-831f-c7d959f9dada",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "John completed a university degree and shared a photo of his certificate of completion around April 2, 2023",
+        "score": 0.6058705333333334,
+        "id": "4187bdd9-1ba0-4198-a386-b15df719df37",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "John finds it inspiring to see people remain optimistic even when facing difficult circumstances, as discussed in the context of Jean's resilience",
+        "score": 0.5955503686157914,
+        "id": "42bbebee-c5d9-4b7b-b65c-47a41a0be207",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "Maria asked John what the sign in his shared photo from the career fair says",
+        "score": 0.5899985800796813,
+        "id": "d91d6229-69c6-47ff-9fb7-de7c1578349d",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John's colleague Rob invited him to a beginner's yoga class, though John does not have immediate plans for it",
+        "score": 0.5898303,
+        "id": "f1d4de18-0aea-4a9b-ac7a-3f59ec42e66e",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "The sign in John's photo from the career fair says \"Always look on the bright side of life,\" which he interprets as a reminder that kids can reach their dreams with the right help.",
+        "score": 0.5765919666666667,
+        "id": "aceb6007-c75f-48c6-970d-eee2fca6be0d",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a microphone and chargers on a table while wishing John luck for his upcoming community meeting about education and infrastructure upgrades",
+        "score": 0.5752974766666666,
+        "id": "f372edcc-27c1-4428-ac1b-c2409008b27e",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John was promoted to assistant manager around June 16, 2023, describing it as a long-awaited achievement that feels like a stepping stone for bigger things and validating his hard work",
+        "score": 0.57428418,
+        "id": "3878ecb9-3dae-4e07-aa19-4bc7c2357697",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help the students",
+        "score": 0.573338299966964,
+        "id": "c0186cf1-c5b1-45d4-a2c7-9cc58b4fc5d0",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John remembers Max as peaceful and happy, acknowledging the heartbreak of his loss while expressing gratitude for the joy he brought to the family. John reflects that Max taught them valuable lessons about love and loyalty.",
+        "score": 0.5724052381818182,
+        "id": "1142e004-ebf9-4600-b5cf-fd88bb3a925f",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John asked Maria for recommendations on organizations or services that could help David, the man she met at her charity event who shared his story of hardship",
+        "score": 0.5718294248339973,
+        "id": "9c2a7aad-ba69-44f1-901c-5ccd87ffc1b9",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John's main focuses for his potential entry into local politics are improving education and infrastructure in the community",
+        "score": 0.571458595800525,
+        "id": "57772801-e9de-4de6-92f3-f50ba23f7e9d",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "John shared a photo from his recent yoga class showing a man doing yoga outside on a blue mat",
+        "score": 0.5706122333333333,
+        "id": "5052409d-f7f0-4a40-9c12-97e88c574ac4",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John wants his children to learn the importance of unconditional love and loyalty, values he believes were taught by their late dog Max. He cherishes the special bond his family shared with Max.",
+        "score": 0.5691249808764941,
+        "id": "a0451f33-bdcb-43c1-9d9a-adbc60255894",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John has a one-year-old son named Kyle, whom he describes as very cute",
+        "score": 0.5658559666666667,
+        "id": "098fff04-5c34-4b79-8fa1-9f6c6e3c37ff",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John is researching policies and writing about his thoughts on the political system to raise awareness and start conversations for positive change, finding the process eye-opening",
+        "score": 0.5647864681585082,
+        "id": "8cbe3281-b966-45b5-9501-ca7e933339ca",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John plans to chat with local leaders and organizations to gather support and ideas for his next move in local politics",
+        "score": 0.5633368666666666,
+        "id": "8f09df39-73e0-40f7-b2f7-1130209bd2d8",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "John heard inspiring and heartbreaking stories from an elderly veteran named Samuel during his hospital visit, finding Samuel's resilience hopeful and reminding John of his own desire to join the military",
+        "score": 0.5630894133333334,
+        "id": "ad9baa40-3c08-4844-8ead-b9063de8e5b0",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John is going to do taekwondo on December 22, 2022",
+        "score": 0.5614179939849624,
+        "id": "d8585897-4a47-4d6c-a21f-5f20ad441c12",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "John graduated from university around March 26, 2023, describing the journey as quite an adventure but definitely worth it",
+        "score": 0.5610118569105691,
+        "id": "ce4c4cf1-d351-4efa-83a4-bfe9b348d65a",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "John recently failed the military aptitude test and has been feeling stressed out as a result, though he appreciates Maria's support during this time",
+        "score": 0.560684802124834,
+        "id": "1a971cdd-20e4-4a0c-bb2d-f3bd79ed3437",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John is exploring the option of joining local organizations or volunteering programs as a way to channel his passion and make a positive impact, addressing his recent feelings of being stuck.",
+        "score": 0.5600196695800524,
+        "id": "eea6bd6d-769a-44da-8360-0469f6c7881a",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John's yoga studio offers a variety of classes including yoga, kickboxing, and circuit training, which he finds keeps his workout routine interesting",
+        "score": 0.559424,
+        "id": "79c43dd5-9539-4938-be8d-0e580f39733a",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John and his service-focused online group are brainstorming future projects to help underserved communities access education, mentorship, job training, and resume building, with the goal of empowering individuals to achieve their aspirations",
+        "score": 0.5587194333333333,
+        "id": "fd666a10-558d-45f5-9b46-1c375896efd4",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John has been actively engaging in local politics by talking to community leaders and learning about neighborhood needs and hopes, feeling optimistic about the process as of January 9, 2023",
+        "score": 0.5586127570026762,
+        "id": "8806e830-b453-4fff-b4fe-264c0c11f98a",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John is working on a petition focused on education and infrastructure, finding it tricky but rewarding as he reconnects with friends and gains support",
+        "score": 0.55848979,
+        "id": "2af150b7-d847-4e4c-88d2-c27dbb18e8bf",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "John has been exploring opportunities in the tech industry for some time and views his recent job loss as a potential catalyst for this career change, crediting Maria's support for giving him the push",
+        "score": 0.5581704085514486,
+        "id": "911f2706-634b-44ee-92f3-31c4da031c00",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2023-08-05T17:19:00+00:00"
+      },
+      {
+        "memory": "John expressed a commitment to making progress in the coming weeks to honor the memories of loved ones, including Max",
+        "score": 0.5572731515151516,
+        "id": "6d86e5b8-2ec0-49ff-88aa-7b2089519c08",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John offered to assist Maria's cousin with specific needs regarding her housing search, asking if there is anything particular she requires help with",
+        "score": 0.5565573,
+        "id": "6fc839ad-e0e7-4a88-acfb-f98d602221fc",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John has a community meeting scheduled for the week of January 16, 2023, where he will discuss education and infrastructure upgrades",
+        "score": 0.5563108236693429,
+        "id": "a4aea8b5-0360-4d20-ba4c-392b7427fc72",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John acknowledges that maintaining his family's fitness routine has not been easy, but emphasizes that they are committed to doing it together as a unit",
+        "score": 0.5559408299999999,
+        "id": "9d7291a1-ccb4-415d-b697-7b9965a8ecf0",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of two men standing next to each other at a convention while discussing his blog post on education reform",
+        "score": 0.5527957,
+        "id": "18945816-d6a7-4e2d-850f-3f4bfb66ff31",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "Maria encouraged John to research and explore local organizations or volunteering programs that align with his interests, noting this could help him meet like-minded people and contribute to causes he cares about.",
+        "score": 0.5516662799200799,
+        "id": "ebead0c6-cc06-4827-8e27-1a9229f00ae6",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria asked John about the progress of his mentoring program and whether the students are making progress, following up on his recent volunteer work",
+        "score": 0.5488326581673307,
+        "id": "310d332d-4adb-4bce-810f-2187cce527ab",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John is currently focusing his political blogging and research on education reform and infrastructure development, believing these are key to a thriving community. His goal is to spark conversations and encourage public involvement by sharing ideas and taking action, finding it empowering to help make a difference in people's lives.",
+        "score": 0.5481492333333333,
+        "id": "1c450415-e484-4d48-9732-e066900f8e97",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John shared an image of a golden trophy on a black surface in relation to his new role as assistant manager",
+        "score": 0.5480272553113553,
+        "id": "9d0e8b1c-11e2-40ba-95c8-b59bd8244408",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John wants to expand his community improvement efforts to include West County, which he refers to as his old area, in addition to his current neighborhood",
+        "score": 0.5476869966666666,
+        "id": "ea650b8b-4a30-406b-abe5-06e232a9ba44",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John has been networking with people to gather input for his political campaign as of December 22, 2022",
+        "score": 0.5467249273182957,
+        "id": "5d553c5c-8368-48e0-bc72-bdd9ce62fde3",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "Jean, whom Maria met while volunteering around February 24, 2023, experienced a divorce and job loss that led to homelessness, yet she remains optimistic, values small things, and believes in the power of kindness.",
+        "score": 0.5466220752824579,
+        "id": "7f8febf6-056b-4d1b-9fce-7faac2c7db55",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John has received positive feedback on his blog posts about politics and government, viewing this as a small but meaningful step toward making an impact",
+        "score": 0.5459933666666666,
+        "id": "4775e10b-a8dd-48aa-b8df-dba5ee617e3f",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John and his family support each other during boot camps by cheering during workouts and providing emotional support outside of them, which John finds amazing as they come together",
+        "score": 0.5454625,
+        "id": "b6c8ca6c-083f-4881-9cc4-7af626b4e0e4",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John is planning a trip to the East Coast as of April 18, 2023",
+        "score": 0.5454122,
+        "id": "4f419d39-8e79-4d95-8a20-4146e23019c2",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John recently spoke with someone who shared amazing stories, which reignited his passion for improving education in his local area as of December 22, 2022",
+        "score": 0.5441597939849624,
+        "id": "0805d6a4-afc3-4ccf-851a-e89b47557f3f",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "John finds his project supporting military veterans rewarding despite the stress, believing the effort is worth it to show appreciation for their hard work and service",
+        "score": 0.5424863672327672,
+        "id": "4b3a4b32-ea6b-4141-94b1-3e1ccee2a4c5",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John explained that the golden trophy commemorates his journey and symbolizes all the obstacles he had to overcome to achieve his promotion to assistant manager",
+        "score": 0.5422628886446886,
+        "id": "5d14f020-33b5-4c4b-ab84-520362a071eb",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John and his family are still sad about losing Max but find comfort in the good times and memories they shared with him, committing to keep doing their best despite the difficulty",
+        "score": 0.5417367248484849,
+        "id": "9cd12d7f-92d4-43a5-b32a-9204de2eb669",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John praised Maria for making an impact by linking David with housing and support services, emphasizing the importance of helping people find what they need",
+        "score": 0.5394548381673308,
+        "id": "7bdd8d19-b195-4ea1-9bab-bd2073ee1046",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John thinks rock climbing sounds like a fun way to push his limits and asked Maria if she has ever tried it",
+        "score": 0.5390469533333334,
+        "id": "3411445e-c35f-4a30-b262-139934227206",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John's interest in improving education and infrastructure stems from growing up in a neighborhood affected by lack of education and crumbling infrastructure, motivating him to ensure proper funding for schools and infrastructure to protect future generations",
+        "score": 0.5383301666666666,
+        "id": "9152ac6a-02b3-451f-ae4f-e04fc1e73dfd",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "John is volunteering as a mentor for a local school and finds it rewarding to help the students, sharing a photo of a group sitting around a table.",
+        "score": 0.537195099966964,
+        "id": "78a2f6d8-0e6c-4fa8-a306-d7ea4f6db575",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "Maria asked John about any developments regarding his political goals during their conversation on January 9, 2023",
+        "score": 0.5367862236693428,
+        "id": "ae43c344-3724-4987-8d46-63c9c3f8ca0b",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John may have found a job at a tech company that needs his mechanical skills for their hardware team, viewing it as a great opportunity to learn and contribute despite feeling different from his previous role",
+        "score": 0.5367836833333334,
+        "id": "6074a70f-b307-4e93-97a7-3d47f8d7f22c",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2023-08-05T17:19:00+00:00"
+      },
+      {
+        "memory": "Maria commented on John's photo of Max, noting he looks cute and brought joy, and asked John to share his best memory with the dog",
+        "score": 0.5367298315151515,
+        "id": "4065a8e5-6d8f-415c-b69b-b509dffd9499",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John's family photo was taken during a trip last year (around July 2022) for his daughter Sara's birthday, which he describes as fun and full of good memories",
+        "score": 0.5366078533333334,
+        "id": "bfa2d0a6-5220-415f-a673-19391e5dda2c",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John stated that family is the most important thing to him, serving as his biggest support system where they have each other's backs through good times and bad",
+        "score": 0.5362237571049137,
+        "id": "58459cdd-1ddc-4288-9607-c36d0a697360",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John is currently busy working on a project to support military veterans, specifically trying to organize a petition. He finds the work rewarding but also somewhat stressful.",
+        "score": 0.533427863063063,
+        "id": "2a1454b4-3090-44fe-8d71-4e31799f7529",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John asked Maria how she finds peaceful moments during their conversation on June 12, 2023",
+        "score": 0.5322804616050616,
+        "id": "b03b59da-1de3-4fd6-b50b-758bb054b071",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John manages work-life balance by organizing his time to ensure he is present for important things, emphasizing the importance of finding balance and making moments count",
+        "score": 0.5313382933333334,
+        "id": "bab53e35-96da-4c52-b31b-aba18ccfccfe",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John shared a photo from the career fair showing a heart-shaped sign with a quote on it, symbolizing the unity and impact of helping others.",
+        "score": 0.5312157998406374,
+        "id": "a8070eca-9372-4f33-9187-0366c7f75557",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John offered condolences to Maria for her grandmother's passing and expressed availability to support her during this difficult time",
+        "score": 0.5305516866666666,
+        "id": "fc7b837c-19e5-4696-b00b-e6370ca910e5",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John received a promotion at work around June 16, 2023, describing it as a long-awaited achievement that has made him extremely happy",
+        "score": 0.5281439744255745,
+        "id": "e86fc501-e1e1-49d7-8b8c-3a2a034f2b40",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a parking lot with a flag and flowers while discussing his motivation for supporting military veterans.",
+        "score": 0.5277216630630631,
+        "id": "3efe97e7-94d5-471c-b7be-439825ca6037",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John believes in pushing oneself out of comfort zones to experience new things and learn, expressing this view during his conversation with Maria about her solo trip and surfing experience",
+        "score": 0.5268535499966965,
+        "id": "b392d3ba-fe74-4ba8-8380-7030b9ed1a50",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "The extra funding for the school John shared a photo of enabled needed repairs and renovations, making the learning environment safer and more modern for students",
+        "score": 0.5266094666666666,
+        "id": "40d4416e-bf4c-4f2c-a78c-6654d3340b65",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "John confirmed the photo he shared was from a yoga studio he attends often, describing the vibe as chill and the instructors as awesome",
+        "score": 0.5265185066933067,
+        "id": "e3f0a15f-0645-47b9-bf3a-6f396d5455fc",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John asked Maria for the name of her newly adopted puppy and whether the new dog gets along with Maria's other dog",
+        "score": 0.5263649,
+        "id": "64d102fc-1a03-4567-b7ca-791373f59f15",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John is committed to continuing his volunteer efforts for students at the local school, emphasizing the importance of community members helping those in need",
+        "score": 0.5254320333002974,
+        "id": "0df25b97-3f0e-4176-800c-5c3e6beb45b0",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John is organizing a meeting to discuss potential solutions for the flood damage and infrastructure issues in his community, and he has invited Maria to share her thoughts on the matter.",
+        "score": 0.5253961185947387,
+        "id": "ff74e533-3852-4030-996f-669b29e4981f",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "John and his late dog Max went on a camping trip in the summer of 2023 where they hiked, swam, and sat by a campfire, which John describes as a peaceful and awesome experience with great memories",
+        "score": 0.5247634048484849,
+        "id": "4a43ac8e-bfd5-4e66-8651-301bc637b0a8",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John retook the military aptitude test around late February 2023 and received great results, reinforcing his desire to serve his country",
+        "score": 0.5240190687915006,
+        "id": "a37fd793-ee0e-4dd1-8019-0bbad545af1c",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John described his camping trip with Max as a chill experience, valuing the quality time in nature away from noise and everyday hustle around summer 2023",
+        "score": 0.5232076448484849,
+        "id": "e9ee2c72-0ffe-4ea9-b832-88ffc72db2f1",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria asked John what motivated him to get into politics during their conversation around February 5, 2023",
+        "score": 0.5223800713286714,
+        "id": "335dde01-9720-4e4d-8285-818d4414563b",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John looks at his family photo during hard times to remember his purpose, stating that his family is his primary motivation and keeps him going",
+        "score": 0.5211889352456839,
+        "id": "447bb05d-d5e5-4601-a1cb-aff34c3edb17",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John has gone camping plenty of times and finds it an awesome way to get away from everything, be at one with nature, and enjoy its uncomplicated nature",
+        "score": 0.5211451933333333,
+        "id": "988f0347-8c2d-49ae-b15e-7c415b3f9026",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John has done weight training, which he found challenging but peaceful, comparing the experience to yoga",
+        "score": 0.5197417466666666,
+        "id": "42f2080b-a749-467c-ae7d-fc0e9192bed9",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John is considering adopting a rescue dog to provide love and teach his children responsibility and compassion",
+        "score": 0.5196886545121545,
+        "id": "5ca96673-7e21-4bee-98a3-de2f00f2fa7a",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John has incorporated his weekend yoga class into his daily routine, valuing it for the peace of mind and mindfulness it provides in addition to physical benefits",
+        "score": 0.5189465666666666,
+        "id": "4a4d6173-9c42-4a76-b818-a1d991f7dbeb",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John feels that his efforts are an uphill battle but finds motivation in knowing people see the value in his work, and he deeply appreciates Maria's support which keeps him going",
+        "score": 0.5179951333333334,
+        "id": "03474f08-6ba6-4cfd-aaab-87fe6b1081f6",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his military veterans support project, and John expressed gratitude for her partnership, believing they can make a real impact together",
+        "score": 0.5178966963963963,
+        "id": "30ddf1ef-132a-4dc2-a591-05aefb483711",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John agreed to look for resources or organizations that could assist Maria's cousin with her housing search and offered further help if needed",
+        "score": 0.5176583666666666,
+        "id": "7a6ae75b-af47-45eb-b2f2-1af609e25a90",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John feels a strong urge to serve his country and community, viewing running for office as his chance to make an impact",
+        "score": 0.5173650166666667,
+        "id": "8a2570fa-9f58-4d69-9670-970c8b8007db",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John is considering starting a community project focused on infrastructure improvements and has invited Maria to collaborate with him to gain neighborhood support for the initiative.",
+        "score": 0.5172862533333333,
+        "id": "8d1e0fa3-a398-4a11-b1cc-c7379f0f7639",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his late dog Max, a golden retriever, laying on the floor next to a person, reflecting that he is still thinking about Max and finds pets uplifting for spirits",
+        "score": 0.517101180876494,
+        "id": "c693970d-ad52-4dd4-a2ae-238765d4affe",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John described his camping trip with Max as restarting his mind and spirit, emphasizing how the peaceful and pretty environment helped him remember to savor small things in life",
+        "score": 0.5164210581818182,
+        "id": "4541a3a6-9e74-4891-996b-185bb52565df",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John decided to run for office again around April 29, 2023, despite previous unsuccessful attempts, driven by his dream to make a difference in his community and describing the decision as feeling like a dream come true",
+        "score": 0.5162532566666667,
+        "id": "3db456b2-49ba-4c95-9892-dd510fa143f5",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John shared an image of a party invitation with a pen and paper on a table, likely related to the upcoming community discussion about flood recovery and infrastructure improvements.",
+        "score": 0.5146267566666666,
+        "id": "e4071b30-2fa8-466f-be06-790f6243dd00",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "John felt renewed energy and purpose from being around motivated people, which inspired him to make a bigger difference in his community. He shared a photo of a table with a city map on it.",
+        "score": 0.51453358,
+        "id": "1d99d3c7-e60a-43ad-b9e9-3874d5864a8e",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John thanked Maria for her advice on self-care and asked how she is managing her own well-being around May 6, 2023",
+        "score": 0.5144434827639027,
+        "id": "c656704b-7250-47bd-993c-e62694ed0c33",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his wife and kids at his office desk, emphasizing that support from loved ones is vital and he feels lucky to have his family on his journey",
+        "score": 0.5143779053658536,
+        "id": "301e5dc0-df2a-4449-88a6-29ea0c32a17a",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John's children were awestruck and humbled during their visit to a military memorial around late July 2023, an experience John described as meaningful and impactful for them",
+        "score": 0.5141102514899241,
+        "id": "30deb27e-dd45-41dd-914e-1cf5710c0499",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2023-08-03T18:20:00+00:00"
+      },
+      {
+        "memory": "John uses photography to take a step back and appreciate the little things in life, especially during tough times he has been experiencing recently around August 2023",
+        "score": 0.5139046824242425,
+        "id": "b4eb65c4-8017-4d83-a926-ad9ff19abecd",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John decided to run for office again because he saw the impact he could make in the community through politics after his last run, finding it rewarding to work towards positive changes and a better future",
+        "score": 0.5125984333333333,
+        "id": "be86818b-25aa-4aeb-a57d-6498824ac408",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John's dog Max, who was an important part of his family for 10 years, passed away around early June 2023, leaving John grieving the loss of his companion",
+        "score": 0.5119930315151515,
+        "id": "9cf6ce6e-7429-4ba7-86b3-948ad4af3349",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John and his family enjoy outdoor activities including hiking, visiting the park, and having picnics, as well as indoor activities like playing board games and having movie nights at home",
+        "score": 0.5118716933333334,
+        "id": "fcb81671-1f25-493a-bcbf-45b1a614de60",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John acknowledges that his own children have abundant resources while others do not, reinforcing his belief that action is needed to address this disparity in their community",
+        "score": 0.51144096,
+        "id": "85332fbb-31b9-4b30-b0d4-e689162330a0",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2023-01-28T13:17:00+00:00"
+      },
+      {
+        "memory": "Maria agrees with John that education and infrastructure are key to community growth and believes blogging can make a difference",
+        "score": 0.5113592133333333,
+        "id": "92f95eed-36de-4006-99d2-0aadc31926d8",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John believes it is important to help family during hard times and asked Maria for an update on how her cousin is doing after her recent tough time",
+        "score": 0.5112346885790172,
+        "id": "9f1b4f36-fe11-49bc-99ef-a66a70216ddb",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John and his family visited a military memorial around July 27, 2023, an experience that had a meaningful impact on his children",
+        "score": 0.5111650048232574,
+        "id": "bb6240cb-3786-43b6-9530-132b201d87c8",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2023-08-03T18:20:00+00:00"
+      },
+      {
+        "memory": "Maria believes pushing boundaries is essential for growth and self-exploration, acknowledging it can be hard but worth it, and feels blessed to share this mindset with John",
+        "score": 0.5104971666666667,
+        "id": "63224adc-0c6b-4401-bd87-56cfe7116937",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John plans to create a list of local organizations or volunteering programs that align with his beliefs and reach out to them for more information, following Maria's suggestion.",
+        "score": 0.510288229747676,
+        "id": "e26b4cac-aa65-47dd-9a66-1e13f4c75445",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John attended a community event around June 2023 that featured arts and crafts, fun activities, and games for families, which he enjoyed and plans to replicate with his own family and friends",
+        "score": 0.5102626466666668,
+        "id": "6999abd4-be10-4a9e-af58-080b0147f389",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John wants to positively affect people and the world but feels stuck, expressing a need to find a better way to focus his passion and enthusiasm around August 11, 2023",
+        "score": 0.5101081500000001,
+        "id": "b6262783-728c-4d1e-9cc6-d9e2a0f672aa",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to help John with his project supporting military veterans, expressing enthusiasm for making a difference together in their community",
+        "score": 0.5095349297297297,
+        "id": "2468a302-9659-49e1-bcc0-9da899d70653",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a tent in the woods with a blue tarp, illustrating his recent camping setup in nature",
+        "score": 0.5090356466666667,
+        "id": "06e9e2e2-1565-424d-ad94-c816d4f29f2e",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John is running for office again as of February 25, 2023, describing the experience as a wild ride but expressing that he is more excited than ever",
+        "score": 0.5079490846620046,
+        "id": "38534f0d-c8e9-480d-acae-f8ab1c7d2f7b",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John commented on Maria's new puppy Coco, noting that she looks adorable and happy in the shared photo, and asked how it has been having her around.",
+        "score": 0.5079447843739676,
+        "id": "51022e2a-80c8-40fc-a396-bf83f75c24c5",
+        "created_at": "2023-08-11T00:10:00+00:00",
+        "updated_at": "2023-08-11T00:10:00+00:00"
+      },
+      {
+        "memory": "John is running for office again and describes the experience as a wild ride but feels more excited than ever about it",
+        "score": 0.5078924568393095,
+        "id": "23a58b0c-c4bd-4705-9797-4bbfad4a97c9",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John takes his family to the park a few times a week for bonding and letting the kids run around, describing it as great for family connection",
+        "score": 0.5070027666666667,
+        "id": "bd7d6e04-b71b-4307-a4d1-3687052f62b7",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John is currently dealing with car trouble and financial strain but maintains a positive attitude, finding ways to cope with these difficulties",
+        "score": 0.5069079666666667,
+        "id": "19e00f17-4289-41d8-aa15-5bf3b1b8360f",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a whiteboard listing workouts, documenting the specific exercises included in their family boot camp routine",
+        "score": 0.5066685,
+        "id": "9e4c092f-fa0f-4cd7-b9ae-f3eadcf4463b",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "After attending the community meeting, John realized how crucial upgrades are for children and expressed being upset about the current state of education in his area",
+        "score": 0.5059662233333333,
+        "id": "9353b807-e2d3-4ff9-b468-a23467d835e7",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2023-01-28T13:17:00+00:00"
+      },
+      {
+        "memory": "John has not been able to volunteer much lately but remains committed to the cause, having helped renovate a rundown community center back home last year (2022), an effort he found deeply rewarding due to its positive impact on the community.",
+        "score": 0.5058981295800525,
+        "id": "d114dbb7-1fae-431c-850d-083b459dfd62",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2023-08-05T17:19:00+00:00"
+      },
+      {
+        "memory": "Maria shared a photo of a person walking on the beach with a surfboard while asking John about his parenting experience",
+        "score": 0.5055308566666666,
+        "id": "0872251d-8fe8-4477-a981-45066cf0e094",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John usually works during regular work hours but sometimes brings work home, as shown in a photo of his desk with a computer, keyboard, and notebook",
+        "score": 0.5054040866666667,
+        "id": "7c219c32-5dda-4878-972e-06b7ab3a5138",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John returned from a family road trip on December 16, 2022, and described the experience as fun",
+        "score": 0.5051784873182957,
+        "id": "8eb9b054-1682-44c3-8ddb-9feb3b77e8b1",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "John finds meal times with his family fun and values them for the good food, laughs, and chats that help keep the family close",
+        "score": 0.5048457133333333,
+        "id": "d138fc5e-605c-4b7a-a032-9681ae4ba2b1",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "John commented on the apartment listings Maria shared for her cousin, noting the houses look nice and expressing hope that she finds a cozy spot soon",
+        "score": 0.50423503,
+        "id": "ce833002-89a0-4501-9e00-6b7712c12ed7",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John and his family attend boot camps three times a week, which helps them stay on track with their fitness goals",
+        "score": 0.5042261666666668,
+        "id": "40ce2ddd-fe3e-4cfa-8d7d-e221415a1e7b",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John and his service-focused online group held events around late December 2022 or early January 2023, including visiting a homeless shelter to distribute food and supplies, which John found impactful seeing the recipients' smiles",
+        "score": 0.5031738236693428,
+        "id": "2ee852f2-53a0-49dd-aa8b-1665f4e6e81d",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John shared a cherished photo of his late dog Max, a golden retriever sitting in the grass with a leash under tree shade in the backyard, to honor his memory",
+        "score": 0.502773860876494,
+        "id": "8d5d2b01-f88d-4f82-89e7-1839b1a95095",
+        "created_at": "2023-06-03T11:51:00+00:00",
+        "updated_at": "2023-06-03T11:51:00+00:00"
+      },
+      {
+        "memory": "John's car broke down on Friday, April 7, 2023, while he was on his way to work. He is currently trying to get it fixed but finds the process difficult and financially straining, though he remains positive and focused on finding a solution.",
+        "score": 0.5022534399999999,
+        "id": "a8cfe198-6590-44d0-a1a2-8ec91efe7314",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "Maria met a woman named Jean while volunteering around February 24, 2023. Jean had been through difficult experiences but remained optimistic and resilient, teaching Maria the importance of gratitude and connection.",
+        "score": 0.5021192552824579,
+        "id": "0b89d98a-b903-443c-b5ab-721056d7caeb",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John finds it inspiring to share stories, advice, and encouragement with his service-focused online group, valuing their shared passion for serving others",
+        "score": 0.5017419352380953,
+        "id": "c35d25ef-ccba-49e8-b66f-cd22ff72132a",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John views life as a never-ending journey of learning and growth, believing that having the right attitude helps them tackle harder challenges and continue improving",
+        "score": 0.5012697199999999,
+        "id": "0857c427-8391-4d58-89e9-20f4ae158853",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John finds his work with the fire-fighting brigade fulfilling and meaningful, valuing the collective effort to keep the community safe",
+        "score": 0.5008195864541832,
+        "id": "79ebd82d-b18d-47aa-a91e-31d0f16257d3",
+        "created_at": "2023-07-31T13:59:00+00:00",
+        "updated_at": "2023-07-31T13:59:00+00:00"
+      },
+      {
+        "memory": "Maria has not tried rock climbing yet but thinks it sounds like a great way to push oneself, and she encouraged John to share his experience if he tries it",
+        "score": 0.5005604079653679,
+        "id": "f4330753-d58f-4217-82a5-dfd57db563bc",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "Maria commented on John's shared photo from the community fundraising event, describing it as heartwarming and noting the little girl in the image has a cute smile. She asked John for more details about what the event was specifically about.",
+        "score": 0.5004058299999999,
+        "id": "7bceeac4-cc33-4dc5-a86e-7651bd4d8e39",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John hopes to get into local politics because he loves helping the community and making it a better place",
+        "score": 0.5000146491338583,
+        "id": "3cac81b4-f8ad-4f8e-a0e6-9402f02e08c7",
+        "created_at": "2022-12-17T11:01:00+00:00",
+        "updated_at": "2022-12-17T11:01:00+00:00"
+      },
+      {
+        "memory": "John intends to advocate strongly for his community during the upcoming meeting, emphasizing that discussing education and infrastructure upgrades is important",
+        "score": 0.49981783,
+        "id": "8fa902c0-2fb7-4d2f-9cfc-6426cee653be",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John expressed to Maria on July 7, 2023 that her support and friendship mean everything to him, emphasizing their shared ability to make a difference and motivate others in the community",
+        "score": 0.49973716333333335,
+        "id": "42982c7c-50f7-482f-aa01-4e1ea4f46233",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "John volunteered at a career fair at a local school around March 31-April 2, 2023. He found it rewarding to help underprivileged students and was struck by how a lack of resources affects their dreams.",
+        "score": 0.4996088835772358,
+        "id": "2a0620ab-f9e6-4405-95e2-9e1ced95c57f",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John's yoga instructor ensures proper pose alignment, encourages listening to one's body, and creates a relaxed, welcoming environment for the class",
+        "score": 0.4994474666666666,
+        "id": "e834eb05-1e7b-4fcf-9f08-2425e1b348ea",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "Maria asked John if he has organized events for any other causes besides the 5K charity run for veterans",
+        "score": 0.49940080000000003,
+        "id": "0db1e1d8-43c8-4fc1-ad1b-f30af65d77f2",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John confirmed that everyone in his family got a chance to swing during their recent park visit and enjoys coming up with activities for his family to enjoy together",
+        "score": 0.4987884333333333,
+        "id": "0ef03c2c-3468-4d9a-b9ee-a9efc15a1ee6",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "Maria expressed interest in trying new exercise classes to switch up her routine, inspired by John's description of his yoga studio's variety",
+        "score": 0.49857160002664,
+        "id": "993f7805-85e8-48f8-b257-8b639b520224",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "John expressed confidence in his and Maria's progress toward making a positive impact on May 25, 2023, stating that he believes in their collaborative efforts",
+        "score": 0.49839338958005247,
+        "id": "50f4ed58-ac71-4560-b0ae-e8811b603c81",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "John's 5K charity run for veterans also partnered with a local organization supporting victims of domestic abuse to raise awareness and funds, highlighting the prevalence of the issue.",
+        "score": 0.49805072999999994,
+        "id": "517a521e-cb70-4698-a5e2-fbc14d04073f",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John finds peace and beauty in nature essential during tough times, as they provide the power and inspiration to continue moving forward",
+        "score": 0.4969747557575757,
+        "id": "cb140584-f859-4ba8-a31f-387ce9466b4e",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John participated in a marching event for veterans' rights around July 3, 2023, which reminded him of the sacrifices veterans make and reinforced his belief in showing support however possible",
+        "score": 0.4967583633333333,
+        "id": "269d9672-8ed3-4357-a5c8-d57e4820bf3e",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John and his family have noticed increased energy, strength, and endurance since starting boot camps in April 2023, finding the mutual support highly motivating",
+        "score": 0.4958095340659341,
+        "id": "8369b092-7e31-4389-b003-ea016a684665",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "Maria asked John if the fire-fighting brigade activity he participated in raised any donations, noting that everyone appeared to be working hard in the shared photo",
+        "score": 0.49562650007968134,
+        "id": "d273b159-d019-4f2a-ba1a-493f26c12cc7",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "John found securing sponsors for the 5K charity run challenging, requiring outreach to multiple businesses through various channels, but ultimately succeeded in obtaining awesome sponsors that contributed to the event's success",
+        "score": 0.4952749900643501,
+        "id": "03d6cc6f-a1fe-42df-95fd-c350cfda29fb",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a wooden sign featuring a flag and an eagle, appreciating symbols of travel memories in homes",
+        "score": 0.4944584766666667,
+        "id": "7aa4761a-9938-44b8-adb6-c0ee03d9bcce",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John attended the community meeting around late January 2023 and found it interesting to hear residents' worries about how issues affect their area",
+        "score": 0.49409405033600945,
+        "id": "95de3927-4aa5-4fbc-8e14-6f7e8dc0b679",
+        "created_at": "2023-01-28T13:17:00+00:00",
+        "updated_at": "2023-01-28T13:17:00+00:00"
+      },
+      {
+        "memory": "John finds family activities by looking for fun options like walks, park picnics, or local events, recently attending a violin concert around late February 2023 that the whole family enjoyed",
+        "score": 0.49371408999999994,
+        "id": "96bc7781-6a68-4471-873a-8aa96e7b3030",
+        "created_at": "2023-03-06T18:03:00+00:00",
+        "updated_at": "2023-03-06T18:03:00+00:00"
+      },
+      {
+        "memory": "John reports that the students in his mentoring program are showing real improvement in confidence and skills, sharing a proud moment when one student excitedly showed him their essay around August 6, 2023.",
+        "score": 0.4932594133333333,
+        "id": "e3ab2b51-f6de-4888-9277-c41924d2c4e6",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John encouraged Maria to continue making a difference in their community together, reinforcing their shared commitment to helping others",
+        "score": 0.49307402000000006,
+        "id": "263ec202-3ebe-4262-a98c-06a7197fa4cf",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "John expressed gratitude for Maria's support and reaffirmed his commitment to working hard on his passion for community service through the fire-fighting brigade",
+        "score": 0.49299833333333326,
+        "id": "bb15a99d-05ff-456f-8400-189e3f25ff38",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "John expressed that Maria's support and kind words provide him with motivation to keep going despite the challenges of running for office, and he appreciates her belief in his ability to make a difference",
+        "score": 0.492718001964702,
+        "id": "efc1215a-ef36-4cd6-9c2a-a381b9c5a4e3",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company around late July or early August 2023 because the company failed, describing the experience as rough and unexpected",
+        "score": 0.490492434873838,
+        "id": "05075657-b609-41fe-b3d8-914a3515c350",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2023-08-05T17:19:00+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company around early August 2023 because the company failed, describing the experience as unexpected and rough",
+        "score": 0.4902738682071713,
+        "id": "043f2d1c-238c-44a7-ba51-5f5863ed70df",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2023-08-05T17:19:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a map showing the streets of downtown in relation to the 5K charity run he organized for veterans.",
+        "score": 0.49014708339768337,
+        "id": "cea5a073-36a0-4434-96a7-7348967370bc",
+        "created_at": "2023-08-09T20:06:00+00:00",
+        "updated_at": "2023-08-09T20:06:00+00:00"
+      },
+      {
+        "memory": "John described his fire brigade teammates as becoming like family to him, emphasizing the trust, reliance, and mutual support they share during intense situations",
+        "score": 0.48984680073260073,
+        "id": "ef5d0dd3-0a44-4b3c-b89f-b8f3faab99f1",
+        "created_at": "2023-07-31T13:59:00+00:00",
+        "updated_at": "2023-07-31T13:59:00+00:00"
+      },
+      {
+        "memory": "John started attending boot camps with his family around April 2023, finding them beneficial for both family bonding and physical fitness",
+        "score": 0.48982601333333337,
+        "id": "0909aef1-c91e-403d-a63a-001e78f61f8c",
+        "created_at": "2023-05-04T15:18:00+00:00",
+        "updated_at": "2023-05-04T15:18:00+00:00"
+      },
+      {
+        "memory": "John believes that moments of connection and shared experience remind him of the importance of being kind and optimistic in life",
+        "score": 0.4896217600000001,
+        "id": "e1b02f99-68d0-4fea-9f7c-4b00fc855e3e",
+        "created_at": "2023-02-25T20:55:00+00:00",
+        "updated_at": "2023-02-25T20:55:00+00:00"
+      },
+      {
+        "memory": "John went on a mountaineering trip with workmates around June 5, 2023, which he found great and helpful for clearing his head",
+        "score": 0.4894344338461538,
+        "id": "6312ecca-1339-4e46-aa72-040ef357f06a",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John asked Maria if she has a favorite yoga pose during their conversation on June 12, 2023",
+        "score": 0.4891288338461539,
+        "id": "34f7f256-9737-495a-a40d-43369b3da8ab",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John's old area was hit by a severe flood around June 30, 2023, which ruined many homes due to poor infrastructure. This event reinforced his belief that community infrastructure needs fixing.",
+        "score": 0.48909979559107564,
+        "id": "e7d86e04-da8e-47af-879e-7ffb592b468b",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "John viewed the tattoo quote shared by Maria as a reminder to stay strong during tough times, reflecting on his recent stress from failing the military aptitude test and the unexpected car incident",
+        "score": 0.48899910212483394,
+        "id": "35dcfd69-8be7-4897-9654-8815f9fb94df",
+        "created_at": "2023-01-09T19:06:00+00:00",
+        "updated_at": "2023-01-09T19:06:00+00:00"
+      },
+      {
+        "memory": "John expressed sadness regarding Maria's recent unfortunate event involving a damaged car and offered to help, asking for details on what happened around July 2, 2023",
+        "score": 0.48868344035964034,
+        "id": "72feaf6e-8fe8-4eab-ae28-ac4b754e36df",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "Maria encouraged John on July 5, 2023, affirming that he is making a difference and offering to lend an ear or help out however she can as part of his support system",
+        "score": 0.48866320377158035,
+        "id": "c12938fd-895c-495b-90c6-e4599e139c1a",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "John lost his job at a mechanical engineering company around early August 2023 after the company failed, describing the experience as unexpected and rough",
+        "score": 0.48835194820717137,
+        "id": "dccee7ca-7aeb-4160-b6cf-afd0568a9f27",
+        "created_at": "2023-08-05T17:19:00+00:00",
+        "updated_at": "2023-08-05T17:19:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a poster featuring a picture of a person and a child, related to the students' whiteboard project in his mentoring program.",
+        "score": 0.488349211500664,
+        "id": "4c0095a6-8d6c-4eb6-889d-98f5b29d5d19",
+        "created_at": "2023-08-13T15:14:00+00:00",
+        "updated_at": "2023-08-13T15:14:00+00:00"
+      },
+      {
+        "memory": "John finds that appreciating loved ones and finding silver linings helps him keep going during tough times, as reflected in his conversation with Maria on June 27, 2023",
+        "score": 0.48777829869918704,
+        "id": "1a28ec40-fa78-47a4-bfa4-4b4fa8bb8c2d",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2023-06-27T00:21:00+00:00"
+      },
+      {
+        "memory": "John believes military veterans have given so much and deserve backing, expressing a desire to help make their lives better through his support project",
+        "score": 0.4860685763963964,
+        "id": "b00c6fb4-69bb-4801-9856-b9ae5edd91ec",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family gathered around a kitchen table for dinner, emphasizing that making memories with family is priceless and makes life more meaningful",
+        "score": 0.48579371333333327,
+        "id": "9cd01c06-c89f-4d61-9315-ef64efdafd88",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "John joined a service-focused online group around late December 2022, describing it as an emotional ride where members share inspiring stories that have opened his eyes to new perspectives and given him a sense of connection and purpose",
+        "score": 0.48555457398496243,
+        "id": "74e54c54-393b-4aae-b46f-ef240dccec1b",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John faced hurdles including technical issues, workplace challenges, and self-doubt during his journey to promotion, but overcame them through support at home and personal grit",
+        "score": 0.48528454000000004,
+        "id": "99b60280-b9a7-40a7-babe-b4ade8cb6b46",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his family posing on a train track in the fall, stating that they motivate him and remind him why he is doing his community work",
+        "score": 0.48522027333333334,
+        "id": "25f7b6c1-42c8-4147-a7e6-1d295b140089",
+        "created_at": "2023-07-05T18:59:00+00:00",
+        "updated_at": "2023-07-05T18:59:00+00:00"
+      },
+      {
+        "memory": "Maria expressed strong belief in John's ability to make a difference through his political campaign, encouraging him to take small steps, stay true to himself, and keep going on May 6, 2023",
+        "score": 0.48496505333333334,
+        "id": "48e9068b-fcd8-4602-9b0d-95643a750933",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John asked Maria if she had any pictures from the 5K charity run for a homeless shelter that she participated in around early April 2023",
+        "score": 0.4846194300643501,
+        "id": "cf0b427e-43bb-4522-9045-d039e7974d10",
+        "created_at": "2023-04-07T00:24:00+00:00",
+        "updated_at": "2023-04-07T00:24:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of two women standing in a room full of black mats, identified as a volunteer orientation at a shelter, while expressing excitement for Maria's upcoming plans",
+        "score": 0.48202317666666666,
+        "id": "3d6ed9c9-61ac-4465-9e7f-5f34a7265f8f",
+        "created_at": "2023-07-22T18:21:00+00:00",
+        "updated_at": "2023-07-22T18:21:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to join the meeting John is organizing to discuss potential solutions for flood damage and infrastructure issues in their community, expressing enthusiasm for contributing to making it better.",
+        "score": 0.48162316526140536,
+        "id": "d54772fe-985c-4ac7-b3c2-0e1e8099e0c8",
+        "created_at": "2023-07-07T18:29:00+00:00",
+        "updated_at": "2023-07-07T18:29:00+00:00"
+      },
+      {
+        "memory": "John told Maria on May 6, 2023 that her encouragement gives him the strength to keep going when he feels overwhelmed by his political campaign challenges",
+        "score": 0.4814234966666667,
+        "id": "3b32ebc3-0239-4683-bcfd-4cb788a71eff",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John expressed sympathy to Maria regarding her recent struggles and acknowledged the importance of support from loved ones, asking how her family and friends have been helping her out on June 27, 2023",
+        "score": 0.4812097853658537,
+        "id": "a6e78227-f41c-4474-bf5a-4a9aae7e2eec",
+        "created_at": "2023-06-27T00:21:00+00:00",
+        "updated_at": "2023-06-27T00:21:00+00:00"
+      },
+      {
+        "memory": "John expressed deep gratitude to Maria for her consistent support, stating that it means a lot to him and thanking her for always being there",
+        "score": 0.48111358666666665,
+        "id": "cbd2e96e-801b-4381-8420-bd498f56f91e",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John and his colleagues attended a convention around March 2023 focused on using technology for good in their community, where they connected with like-minded individuals to swap ideas",
+        "score": 0.4810094769105691,
+        "id": "61d5b492-d434-4e15-b2b9-c3398d5f0d5a",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John recently started volunteering at a local food bank to help people who lost their jobs, specifically packing food bags with items like tomatoes",
+        "score": 0.4808666666666667,
+        "id": "61018404-0657-49b5-bebc-1e0513e9c8b9",
+        "created_at": "2023-02-05T14:33:00+00:00",
+        "updated_at": "2023-02-05T14:33:00+00:00"
+      },
+      {
+        "memory": "John went on a hiking trip with his workmates around May 25, 2023, where they visited a waterfall; he shared a photo of the group including a dog, noting their support keeps him motivated",
+        "score": 0.4807662133333333,
+        "id": "1a490cc2-6da8-4724-ad91-e183bd2fa08e",
+        "created_at": "2023-05-25T13:24:00+00:00",
+        "updated_at": "2023-05-25T13:24:00+00:00"
+      },
+      {
+        "memory": "John is planning to organize a game event similar to Maria's picnic activities for his children soon, valuing the creativity, silliness, and joy such games bring",
+        "score": 0.48001889999999997,
+        "id": "8f121620-5517-40be-a38a-8043c77a586c",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John identified roadways as a critical infrastructure issue in his area, noting they are full of potholes that pose dangers to drivers and cause damage to cars, requiring improvements.",
+        "score": 0.4798307766666667,
+        "id": "5776ce29-d96b-4425-9d86-810dc5d48f63",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John experienced a power cut in his area around late April 2023, which reinforced his belief in the importance of upgrading infrastructure for stable services. He shared a photo of a dark street at night with a fence and street light to illustrate the outage.",
+        "score": 0.47973901999999996,
+        "id": "acc50cee-84c9-4b97-8766-d2bde82bca48",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John shared a photo from May 19, 2023, showing him shaking hands with a soldier in uniform, depicting veterans who are excited about his support project and whose enthusiasm keeps him motivated",
+        "score": 0.479634140185923,
+        "id": "8deb0f42-7ec6-495b-8f26-cdc81e6c154e",
+        "created_at": "2023-05-20T19:38:00+00:00",
+        "updated_at": "2023-05-20T19:38:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a garden with a raised bed of plants while reaffirming his commitment to working with Maria to improve their neighborhood and never giving up on their community goals",
+        "score": 0.47882286999999996,
+        "id": "3e4cb65a-0f6b-432e-b4d7-755e1b20f802",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John expressed that hearing about the positive impact made on a shelter resident's life felt amazing and reinforced his belief in the value of making a difference",
+        "score": 0.47874912958005256,
+        "id": "8db4fc79-5920-49ed-8f20-4d3b2b48e12e",
+        "created_at": "2023-07-03T20:43:00+00:00",
+        "updated_at": "2023-07-03T20:43:00+00:00"
+      },
+      {
+        "memory": "John finds it rewarding to put his words into action and find solutions for community issues, acknowledging that while the work can be hard, making a difference is deeply satisfying to him",
+        "score": 0.47832186666666665,
+        "id": "a18cceea-8818-4b4c-9346-1ebff1270ac9",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a group of military men sitting around a table, illustrating the collaborative atmosphere at the convention he attended with his colleagues",
+        "score": 0.47717162,
+        "id": "2e57fb78-2af2-4d42-bbe8-0d21a57dde6a",
+        "created_at": "2023-04-18T19:34:00+00:00",
+        "updated_at": "2023-04-18T19:34:00+00:00"
+      },
+      {
+        "memory": "John had a film camera as a child and took many beach photos with it, recalling this when viewing Maria's sunset ocean photo",
+        "score": 0.47668874333333333,
+        "id": "ba0632ff-fa84-4288-947f-25676b7c52ff",
+        "created_at": "2023-01-01T20:30:00+00:00",
+        "updated_at": "2023-01-01T20:30:00+00:00"
+      },
+      {
+        "memory": "John expressed to Maria on August 16, 2023 that they should keep each other and others motivated to make a difference, believing their combined impact will last",
+        "score": 0.4753960366666667,
+        "id": "d848c557-b677-4879-9115-e94b048cf063",
+        "created_at": "2023-08-16T11:08:00+00:00",
+        "updated_at": "2023-08-16T11:08:00+00:00"
+      },
+      {
+        "memory": "John praised Maria's volunteer work as truly amazing, noting that her kindness creates incredible relationships and has a rippling positive effect",
+        "score": 0.47518732,
+        "id": "665c3dfc-927d-4b0f-9bb8-c7073bef9d51",
+        "created_at": "2023-04-10T18:13:00+00:00",
+        "updated_at": "2023-04-10T18:13:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a football stadium with a large crowd, reflecting on how enjoying special family times makes life great",
+        "score": 0.47467397657370514,
+        "id": "f4ec14d1-1ae3-4ce6-ba28-61d53d367436",
+        "created_at": "2023-06-16T19:20:00+00:00",
+        "updated_at": "2023-06-16T19:20:00+00:00"
+      },
+      {
+        "memory": "Maria agreed to collaborate with John on a community infrastructure project to get neighborhood backing, sharing a photo of a group of people looking at a map during a local meeting about neighborhood improvements.",
+        "score": 0.47467047999999995,
+        "id": "bd53207d-c551-4d33-83da-d700d6166364",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      },
+      {
+        "memory": "John visited a veteran's hospital around July 10, 2023, where he met amazing people and found the experience eye-opening, reinforcing his appreciation for what he has and the need to give back",
+        "score": 0.47407139,
+        "id": "f1dbc9c7-e952-4e68-9f28-c01de0240bc2",
+        "created_at": "2023-07-17T15:34:00+00:00",
+        "updated_at": "2023-07-17T15:34:00+00:00"
+      },
+      {
+        "memory": "John had an awesome day at the park with his family around June 12, 2023, where the kids enjoyed the playground and they shared nice family time",
+        "score": 0.47379989657370514,
+        "id": "e102a53c-e7ca-40a1-8d5e-d1dec72e62ef",
+        "created_at": "2023-06-12T14:47:00+00:00",
+        "updated_at": "2023-06-12T14:47:00+00:00"
+      },
+      {
+        "memory": "John believes investing in future generations is key to providing them with the right tools for success, viewing it as the foundation of progress and opportunity",
+        "score": 0.47338923999999993,
+        "id": "49d168fc-e9f4-4496-9efa-0aa3740ebb0e",
+        "created_at": "2022-12-22T18:10:00+00:00",
+        "updated_at": "2022-12-22T18:10:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a young boy holding a flag in a cemetery during the family's visit to the military memorial",
+        "score": 0.47272259148992407,
+        "id": "f51943af-bc53-4786-a0a9-36cbf43f9426",
+        "created_at": "2023-08-03T18:20:00+00:00",
+        "updated_at": "2023-08-03T18:20:00+00:00"
+      },
+      {
+        "memory": "John expressed gratitude to Maria for her encouraging support and appreciation for having her in his corner on April 2, 2023",
+        "score": 0.47263576333333335,
+        "id": "3ad6e75c-0606-4e5f-92b7-a1fd4e7244ea",
+        "created_at": "2023-04-02T09:36:00+00:00",
+        "updated_at": "2023-04-02T09:36:00+00:00"
+      },
+      {
+        "memory": "Maria agrees with John that everyone should have access to affordable housing and supports fighting for better living standards by getting the community on board to make a difference.",
+        "score": 0.47245717000000004,
+        "id": "70af391e-9916-4f3e-bf70-6fb463e74015",
+        "created_at": "2023-05-06T17:04:00+00:00",
+        "updated_at": "2023-05-06T17:04:00+00:00"
+      }
+    ],
+    "search_latency_ms": 1096.3,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "John's degree is likely in **policymaking**, **education**, or a field related to **infrastructure**.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer lists 'policymaking', 'education', and 'infrastructure', none of which are semantically equivalent to or included in the gold answer list of 'Political science', 'Public administration', or 'Public affairs'."
+    },
+    "top_20": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John's degree is likely in a field related to **public policy**, **political science**, or **public administration**, given that it motivated his pursuit of a career in policymaking and his focus on improving education and infrastructure in the community.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly includes 'political science' and 'public administration', which are both listed in the gold answer, satisfying the rule that at least one correct item makes the answer CORRECT."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "John's degree is likely in **Political Science**, **Public Policy**, or a related field such as **Public Administration**, as his completion of the degree motivated him to pursue a career in **policymaking** and engage in local politics focused on **education** and **infrastructure** reform.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer explicitly includes 'Political Science' and 'Public Administration', which are both listed in the gold answer, satisfying the rule that at least one correct item makes the answer CORRECT."
+    },
+    "top_60": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Political Science or Public Policy",
+      "memories_evaluated": 60,
+      "reason": "The generated answer includes 'Political Science', which is an exact match to one of the items in the gold answer list, satisfying the partial credit rule."
+    },
+    "top_100": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "Public Policy or Political Science",
+      "memories_evaluated": 100,
+      "reason": "The generated answer includes 'Political Science', which is explicitly listed in the gold answer, and 'Public Policy' is semantically equivalent to 'Public affairs' or 'Public administration', satisfying the partial credit and semantic overlap rules."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Mechanical Engineering",
+      "memories_evaluated": 200,
+      "reason": "The generated answer 'Mechanical Engineering' is a completely different field of study from the gold answer options (Political science, Public administration, Public affairs), sharing no semantic overlap or correct items."
+    }
+  }
+}

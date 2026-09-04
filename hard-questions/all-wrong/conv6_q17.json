@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv6_q17",
+  "conversation_idx": 6,
+  "category": 3,
+  "category_name": "open-domain",
+  "question": "What is the board game where you have to find the imposter that John mentions to James?",
+  "ground_truth_answer": "Mafia",
+  "evidence": [
+    "D8:36"
+  ],
+  "user_id": "locomo_6_63236696",
+  "reference_date": "8:57 pm on 7 November, 2022",
+  "retrieval": {
+    "search_query": "What is the board game where you have to find the imposter that John mentions to James?",
+    "search_results": [
+      {
+        "memory": "James has heard of the social deduction game John described (where players figure out who the impostors are) and has been meaning to try it out",
+        "score": 0.7223306290571049,
+        "id": "e1796c44-2056-440e-90f5-473f1d82566e",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John is playing a board game called \"Dungeons of the Dragon\" which he finds very exciting",
+        "score": 0.7165984239043824,
+        "id": "918f0e0f-7247-482a-b1ee-be9d3a538a1a",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James asked John if the online board game project he collaborated on with a game developer has been released for others to try yet",
+        "score": 0.7081951833333333,
+        "id": "9c9fc682-c6a0-4f8f-8c58-6f95a98de824",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "John has been playing a social deduction game with friends around late April 2022 where the objective is to figure out who the impostors are, describing it as super fun",
+        "score": 0.7013509023904382,
+        "id": "24cfed18-3c11-4522-8934-6a6819039a81",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James is always up for trying new games and asked John if he would like the futuristic dystopia RPG John is currently playing",
+        "score": 0.6894249066666666,
+        "id": "c2d7d609-49ad-4c1f-931e-d8b76c827e12",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "John stated that a demo of the online board game he developed is about to be released soon for others to try out and provide feedback",
+        "score": 0.6891463797158903,
+        "id": "eadd1ba4-8790-47ab-a71d-6470710e7225",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "John stated that a demo of the online board game he collaborated on with a game developer is about to be released soon for others to try, and he is eager for feedback and suggestions",
+        "score": 0.6852193797158903,
+        "id": "76026106-25fe-45d3-80bb-407d764b16e4",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James enjoys playing board games with friends, describing the experience as always being a blast",
+        "score": 0.6796073972377158,
+        "id": "c9af9684-c439-4090-8481-1fa428226815",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John asked James if he has any new game designs on his mind, continuing their discussion about game development projects",
+        "score": 0.6743165336663336,
+        "id": "4fa76c7f-c485-4e78-8775-0519b74ccabf",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John is excited to see how playing chess can enhance his strategic thinking in everyday situations and asked James for tips on improvement",
+        "score": 0.6706287933333334,
+        "id": "54768989-cdb6-4a23-92d2-c0eaa0ea11ac",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James reacted to John's shared image of a charity gaming tournament setup, asking if it was an icon for a new game",
+        "score": 0.6677976666666666,
+        "id": "b67610a8-da6f-4a32-a5e6-0f08d7e4f1dd",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2022-05-08T00:45:00+00:00"
+      },
+      {
+        "memory": "James asked John what sparked his interest in chess after seeing a photo of an intense game John played",
+        "score": 0.6637039119256308,
+        "id": "5b0d3b4f-6d62-4442-8122-d4e0db5e9901",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "John started getting into board games around September 11, 2022, and found his first experience with one to be a lot of fun",
+        "score": 0.6612995572377157,
+        "id": "8d76da21-b434-46e0-928e-6f157607424b",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of a notepad with a pen and a glass of water, labeled as containing game strategies",
+        "score": 0.6611746,
+        "id": "b0db4dd4-e4c7-43ff-927e-9245f7726d8d",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "John collaborated with a game developer to create an online board game, describing the project as a fun and unique experience",
+        "score": 0.6591091130492237,
+        "id": "eb18512f-8cfd-4cb6-8c91-1f05cb9890f8",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James offered to show John what his girlfriend Samantha looks like",
+        "score": 0.6586870074592075,
+        "id": "a20777f4-b5f2-42ef-80ef-a41fd5625eff",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James asked John for more details about the new mobile game and questioned why John had not previously mentioned that he was working on it",
+        "score": 0.6564327795507103,
+        "id": "4fe5f1f1-587c-485a-a7db-acb57577c67f",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John collaborated with a game developer to create an online board game, describing it as a fun and unique experience where his ideas came to life",
+        "score": 0.6520781797158904,
+        "id": "220d80fd-6874-4c04-87db-60ca200e8c72",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James asked John about other resources used to improve his game and requested gaming tips, following John's sharing of a book that helped create puzzles for his mobile game",
+        "score": 0.651210516949717,
+        "id": "650d43fc-090f-4ac2-b5a1-0978e4748b3b",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a wooden board game featuring four pieces of wood and four colored balls, labeled as a family game night collaboration online game",
+        "score": 0.6453490266666666,
+        "id": "1815d85c-f999-4b4c-8e14-d393afccba41",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James shared a photo from the road trip showing a group of people posing for a picture while playing video games with friends Josh and Mark",
+        "score": 0.6447452231075698,
+        "id": "9e91497a-77d9-4b8f-a34c-d2ac36448678",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has any photos from the gaming tournament held for a children's hospital, expressing enthusiasm about how gaming brings people together and makes a difference in kids' lives",
+        "score": 0.6440488036537827,
+        "id": "a8042a95-59c4-4c01-bc5f-80218273cd57",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James asked John what games he is currently playing on November 5, 2022, stating that he is always looking for new game recommendations",
+        "score": 0.6419119866666666,
+        "id": "76e8a2fb-17eb-47f7-ab14-45c8f3f34a21",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "John asked James for screenshots of the virtual world inspired by The Witcher 3 that James created with a gaming friend, expressing enthusiasm about seeing the project come together",
+        "score": 0.6408856390942391,
+        "id": "6f326c58-ee6c-43f6-bd4d-7523eb7d3689",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John played a strategy board game with friends around April 27, 2022, and found it very exciting. He shared a photo of the game which featured many cards.",
+        "score": 0.6402110433333333,
+        "id": "a9d98141-b82a-4b8a-8994-219000b9df2f",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John accepted James's offer to help test his upcoming mobile game and promised to notify him when testing is ready",
+        "score": 0.6396305833333333,
+        "id": "6eb581ad-1c42-4e74-8cf7-413a3656f54f",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John advised James to gather a large group when trying the social deduction game, noting it would be much more interesting to play with more people",
+        "score": 0.6376965623904383,
+        "id": "421bd864-4882-4016-b47d-ffa6b97f8f60",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of his notebook containing sketches for game ideas, coding challenges, and notes about friends",
+        "score": 0.6371091333333334,
+        "id": "4015542e-e39a-4582-8444-89d44456d7ea",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James expressed pride in John's siblings for picking up coding and creating their own games, stating he is excited to see what they create next",
+        "score": 0.6351975466666667,
+        "id": "e88e89d3-e834-4b48-bce7-6d376a95a1d7",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James praised John for organizing a gaming tournament for a children's hospital, noting that combining gaming with a good cause is really cool",
+        "score": 0.632142136987116,
+        "id": "bc7608fd-a142-4a65-9d3a-d5902df01d9a",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James asked John if he is planning any gaming nights with his siblings in the near future, following their discussion about family bonding through gaming",
+        "score": 0.6309831888446215,
+        "id": "eb6d95b4-2ca5-4e78-8823-3d2db228028e",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James asked John for more details about who helped out and what other games were played in the recent charity gaming tournament",
+        "score": 0.6269795668331669,
+        "id": "2a20ba19-2344-4e9d-bf6e-12f3bf624861",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "John confirmed he reads the gaming magazine recommended by James, finding it helpful for its tutorials, developer interviews, and tips",
+        "score": 0.626262188944389,
+        "id": "3ae5ab21-e8ee-486d-8cfd-d3011fce3197",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John played a card game with friends around April 27, 2022, featuring multi-colored cards with numbers where players match color or number, trade cards, draw extra cards, or skip turns, though he forgot the game's name",
+        "score": 0.6257877733333334,
+        "id": "94777780-a701-46ff-a045-18fed29461f8",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John plans to send James resources and tutorials on the new programming approaches and techniques he learned at the seminar, believing James will find them cool",
+        "score": 0.6252009166666667,
+        "id": "316eb68a-59c8-4d39-88a9-d4f888008935",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James advised John to read a specific gaming magazine featuring tips and tricks for game developers, describing it as a worthy source of information to complement John's learning process",
+        "score": 0.6241774266666666,
+        "id": "29b62b4b-1a36-4691-9b29-403b35678f8e",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James thinks Luna is a great name for John's cousin's dog",
+        "score": 0.6233180276190476,
+        "id": "fde2b058-eda1-416a-bd6c-b03baff6ed55",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of an old Nintendo game console and a Mario game controller, noting the funny design of the gamepad",
+        "score": 0.6211052666666667,
+        "id": "e3005dc4-a4e9-4b74-936b-2957b3d0f3f7",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James asked John about his experience winning the regional chess tournament and inquired about the strategies John used to prepare for the competition",
+        "score": 0.6207793045920054,
+        "id": "aaae69fc-c9f8-4446-9a06-a665bb56ea46",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James asked John about his specific plans for organizing gaming competitions and which other games he intends to include, following John's announcement of leaving his IT job to pursue a career in the gaming industry.",
+        "score": 0.6191723333333333,
+        "id": "d85b1737-4292-4c4f-92c2-821702ec66e9",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "John asked James about the name of the dog in a photo from James's Facebook, describing the dog as cute; the image shows a dog sitting on a couch in a living room",
+        "score": 0.61803544,
+        "id": "72a97a8c-1dde-4738-8f5d-88da45d21a43",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James has a photo of himself at the age his mother and her friend were when they served, playing on their old gaming setup",
+        "score": 0.6161475759233564,
+        "id": "b43c5329-a4bd-44ff-9454-165123555385",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James finds the gaming magazine he recommended to John to be a great resource, specifically valuing its tutorials and developer interviews for improving his game development skills",
+        "score": 0.6147267022777223,
+        "id": "3aaa16be-3bd3-4c38-bacf-b679b889029d",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James shared a photo from his recent gaming marathon get-together showing a gaming room equipped with a computer and a gaming chair",
+        "score": 0.6145086333333333,
+        "id": "c0937d8b-4b06-4782-ac38-d3f382658847",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James values collaborating with a group of people who share his passions, noting that they provide help and bring new ideas to the mix, allowing them to achieve more together",
+        "score": 0.6143303999999999,
+        "id": "c316fb8f-dc89-4667-8333-741294020554",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "John shared an image showing a table with a laptop and a game on it, labeled as a 'game project in progress'",
+        "score": 0.6140710142790543,
+        "id": "199e265b-5545-4fab-8f99-a449b0c98096",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "John suggested playing slot machines and arcades as alternative activities he could enjoy with James, since he does not like bowling",
+        "score": 0.6109100892440892,
+        "id": "3a6a8424-a240-4481-8721-c8583998a326",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James enjoys 2D adventure games with puzzles, citing The Legend of Zelda as a favorite example",
+        "score": 0.6103929730602732,
+        "id": "9329824b-e513-4dfb-a633-af330d960809",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James shared a screenshot from his finished Unity strategy game showing a battle scene with a person on a horse, expressing appreciation for John's support",
+        "score": 0.6097341333333334,
+        "id": "476154f0-938c-4996-835b-0d501773fbbe",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "John recommended the futuristic dystopia RPG he is playing to James, describing it as having a fun story, an awesome world, and tough gameplay, though noting it is laggy and prone to errors.",
+        "score": 0.6090514866666666,
+        "id": "36c0dda7-1f44-4447-a030-a6c573c3c54c",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James shared an image showing a video game screen featuring a man, likely related to the virtual world project he discussed with John",
+        "score": 0.6090478666666667,
+        "id": "ef3ff426-7628-4a40-a8b0-3ca7536fb06c",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James has been playing the turn-based strategy game for one month as of April 29, 2022, and finds it has significantly challenged his strategy skills",
+        "score": 0.607040628971029,
+        "id": "2785adc3-cbb0-4e39-9089-757a5ac696f4",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has found anything interesting while using his new metal detector on the beaches",
+        "score": 0.60619802,
+        "id": "588a5fc2-47e0-47cb-adf6-f1056deb6482",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "John advised James to practice FIFA 23 a little first before they play together online",
+        "score": 0.6057201356955381,
+        "id": "b93ac295-4121-47ea-992f-ce59215b8eaf",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James shared a photo report from the online gaming tournament showing a group of people posing for a picture",
+        "score": 0.6034489396396396,
+        "id": "57d3954f-6f04-4b47-bfdd-3434f4d347b6",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm for John's approach of combining learning and gaming for coding education and asked for more details about the game project John is building with his siblings",
+        "score": 0.602784920945721,
+        "id": "c043cc30-01d1-4a28-8707-ba6bc4398b47",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James's mother and her army friend used to tell James stories about their time in the military and their dog",
+        "score": 0.6024365666666666,
+        "id": "d837442d-8bb1-4e53-b441-dc6c47a9729f",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "John and his siblings live far apart and do not hang out frequently, but they always try to plan a gaming night when they do meet up.",
+        "score": 0.6014402221779549,
+        "id": "9db55ce1-e420-41a1-abf1-75a785557362",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James had his wallet stolen from his pocket while playing slot machines because he was so engrossed in the game, describing it as a sad story",
+        "score": 0.5989202892440892,
+        "id": "4229d949-1450-4d39-b802-2c38c22dd29c",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James asked John for details about the project he worked on with a game developer over the weekend, following John's mention of seeing his ideas come to life",
+        "score": 0.5981770406504066,
+        "id": "c3e1ec98-effa-4283-bcbd-d596bdd3c514",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "John shared a book resource that helped him create the puzzles for his 2D adventure mobile game, depicted as having a cartoon of a man playing a game on the cover",
+        "score": 0.5980934730602732,
+        "id": "72c17cfe-51da-4116-b47b-3c00a39df341",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James is expanding his gaming interests to include RPGs and strategy games, finding this exploration of different game types exciting",
+        "score": 0.5979253999999999,
+        "id": "6f335489-691a-4ce4-9b0c-871c28b49ac6",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2022-03-27T00:40:00+00:00"
+      },
+      {
+        "memory": "John kept his mobile game project a secret from James for the past few months because he feared being upset if it failed before completion, but is now proud of the result",
+        "score": 0.59776688,
+        "id": "29d23330-6f85-4141-bd22-f997fc7414d5",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John accepted James's advice to study opening moves and analyze games for chess improvement, expressing appreciation for the guidance",
+        "score": 0.5964758443559096,
+        "id": "b83ad6f5-8b04-46d0-9494-8bfa65c32846",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "John congratulated James on finishing his Unity strategy game around September 1, 2022, expressing pride in James's hard work and requesting to see more screenshots of the project",
+        "score": 0.594807496597291,
+        "id": "579cbc36-18a7-4ca1-8fee-98a3e87f9aa1",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James accepted John's offer to share resources on chess openings and expressed gratitude for the assistance",
+        "score": 0.5943860079681275,
+        "id": "a03caa08-36ea-4d26-a5cc-15d20abc2d96",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of a video game scene featuring a man and a woman",
+        "score": 0.5942952387945388,
+        "id": "6b621fb9-ebde-4317-b4ca-bca0847c5f12",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "John is currently hooked on a new RPG game, praising its amazing storytelling and characters",
+        "score": 0.5923161,
+        "id": "11b6a769-b205-4fdc-8fab-240e22e985f5",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2022-08-10T09:16:00+00:00"
+      },
+      {
+        "memory": "James finds that playing strategy games like Civilization VI helps him work on problem-solving and strategic thinking, and he enjoys the satisfaction of seeing his plans succeed and winning",
+        "score": 0.5920498333333333,
+        "id": "cc27435e-60f0-475d-9e6e-4bad6b31f0ce",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James describes the turn-based strategy game he is playing as requiring significant strategy, focusing on planning, resource management, and decision-making to defeat rivals, where every move matters",
+        "score": 0.5907938156376956,
+        "id": "75370d2c-35d6-4353-8937-2784e151b59a",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John expressed gratitude for the souvenirs James brought from Nuuk, stating that Jill will be delighted to receive hers",
+        "score": 0.5904750172827172,
+        "id": "68d39532-73ed-4698-b65d-58aca28706bf",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "John advised James that in the game they are discussing, he does not have to be friends with every character, hinting at significant narrative consequences without spoiling details.",
+        "score": 0.5904075833333334,
+        "id": "993697ce-0083-4069-8c6d-f3f76e94b75d",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm for John's potential volunteer role at a game dev non-profit, noting that combining gaming and helping people sounds exciting, and asked for details about the specific gig offered.",
+        "score": 0.58987152,
+        "id": "7fa36852-13ec-4d63-9743-8a3dcf90a170",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "John noted that James and Samantha love spending time together at McGee's bar, the location near their new apartment",
+        "score": 0.5893188696782498,
+        "id": "ee41ebd2-6af7-4c13-b75c-e95e9bfb173a",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "John encouraged James to try the futuristic dystopia RPG immediately despite minor bugs, praising its awesome graphics and super immersive gameplay, and offered to send a link",
+        "score": 0.5890748607195956,
+        "id": "1c53c4b6-ce12-40a5-839c-8a9e64df7ba6",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James is playing a high-quality turn-based strategy game involving resource management, leading armies, and conquering territories, which he finds challenging and cool",
+        "score": 0.58889442,
+        "id": "1d88fd13-8431-4854-9c32-5d0f19891304",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James has an old photo of himself as a child playing on his mother's friend's gaming setup, which featured a Nintendo console with Super Mario",
+        "score": 0.5888809069588313,
+        "id": "33f745d9-32dd-4c15-bfa9-f4af979cd6e2",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James plans to keep John updated on the progress of his indie game project and may invite John to help with certain aspects, leveraging John's knowledge of HTML",
+        "score": 0.5868896515361745,
+        "id": "8fee9a25-784b-4b9a-9ebb-44f648162040",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James agreed to try the futuristic dystopia RPG immediately after John's persuasion, reversing his earlier decision to wait for bug fixes, and is waiting for John to send the link",
+        "score": 0.5861434273862622,
+        "id": "6089f86d-84cc-4045-a140-5672b0d8af98",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "John shared a photo from his gaming tournament for a children's hospital, showing a computer screen with a game menu, and described the atmosphere as hyped and fulfilling due to the charitable cause",
+        "score": 0.585447356987116,
+        "id": "d7cc1ee8-f247-46cd-bd1f-f42ca6013638",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "John asked James if he watched the Liverpool vs Chelsea match around June 13, 2022",
+        "score": 0.5849127823776225,
+        "id": "a76be730-be46-492d-8841-54114482ab99",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2022-06-13T16:30:00+00:00"
+      },
+      {
+        "memory": "James shared a screenshot of his finished Unity strategy game featuring a stone building with a giant creature",
+        "score": 0.583854,
+        "id": "3202a806-7ae0-4b2e-880d-82dfd95b6388",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James congratulated John on achieving the major career milestone of creating his first mobile game, which is scheduled to launch in October 2022",
+        "score": 0.583749446217377,
+        "id": "0f1834aa-a2cf-4180-a5d7-2bb3486cef49",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John has a gaming setup that includes a similar gaming chair and keyboard to James's, a gaming PC with a powerful graphics card for intense games, and a headset for immersive sound",
+        "score": 0.5834180452589641,
+        "id": "14d99bfa-effb-4b38-8796-d95fce63e0a6",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "John played Cyberpunk 2077 and recommends it to James, describing the game as awesome with an immersive world and an amazing story",
+        "score": 0.58185545,
+        "id": "ce4cf7e3-0078-487e-8d71-80a36e0cb38f",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "John has always been drawn to strategy games and started playing chess to challenge himself, believing it can improve his decision-making skills",
+        "score": 0.5817609161154856,
+        "id": "22370210-de90-45d6-a32a-f1cad2bf9cbb",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James and his girlfriend Samantha visited McGee's bar around September 3, 2022, where James discovered that Samantha loves lager beer, noting they have much in common",
+        "score": 0.581632783011583,
+        "id": "f5e68c6d-6006-4371-bcdd-35c48f861874",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "John viewed the screenshot of James's Witcher-inspired game character and praised the atmosphere, asking James about the source of his inspiration for the design",
+        "score": 0.5809129541391942,
+        "id": "374e8c4f-cf30-42b6-b793-d7e57224d558",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James had a vivid dream around early September 2022 featuring a medieval castle with a labyrinth full of puzzles and traps, which felt like playing a video game in real life and inspired creative ideas",
+        "score": 0.5785676260162602,
+        "id": "a5bfac79-88e5-421f-9b13-4961134f8595",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm for John's new role as a programming mentor for game developers, describing it as awesome and asking how John feels about starting this journey.",
+        "score": 0.5779912245949536,
+        "id": "c13cc63a-e4b8-4c0d-af07-e21149d88a66",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "James advised John that studying opening moves and strategies, as well as analyzing games to spot weaknesses, are effective ways to improve at chess",
+        "score": 0.5778085776892431,
+        "id": "9efbe8df-c139-41d1-9557-cc20573efcee",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James agreed to try FIFA 23, a sports game recommended by John, and expressed hope that the controls would be easy to learn",
+        "score": 0.5775567690288713,
+        "id": "d0127462-a656-491c-affb-53c89943d58f",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James offered John financial assistance or advice if needed, reaffirming his ongoing support for John's endeavors",
+        "score": 0.5764885333333333,
+        "id": "25e50472-34df-45cd-92dd-6d25545e64a7",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "John is organizing a gaming night with his siblings in September 2022 and expressed excitement about the upcoming event",
+        "score": 0.5762550355112882,
+        "id": "40350ae2-5659-4f6c-8647-a4c5319daa91",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "John's first mobile game is a 2D adventure title featuring puzzles and exploration set in a colorful virtual world, which he has been developing for several months",
+        "score": 0.57566654,
+        "id": "66bd9a10-c24a-4c06-b224-1de28c539ec1",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James encouraged John that there are many places to showcase his programming skills and expressed confidence that John will find a perfect organization to make a difference",
+        "score": 0.5756086333333333,
+        "id": "0d74d9c2-2beb-4a18-bbd9-b23d20487976",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2022-05-11T17:00:00+00:00"
+      },
+      {
+        "memory": "James and Samantha are going to a baseball game on September 11, 2022, and James invited John to join them",
+        "score": 0.5751183315151516,
+        "id": "f345a915-a24c-4605-b292-52566e0a85ff",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "John recalls a gaming marathon thrown by his siblings when he was younger, where they stayed up all night playing games and bonded. He shared a photo of two children sitting on a couch with a baby.",
+        "score": 0.5741171733333333,
+        "id": "b1a586e1-182a-4bff-82bd-14a176a8edbc",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "John recommended 'The Name of the Wind' to James, expressing confidence that James would love the trilogy",
+        "score": 0.5740235090305444,
+        "id": "713c74c8-c7b4-42ec-8e00-4113616c812c",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John shared a resource for chess openings with James on November 5, 2022, providing a screenshot of a chess strategy book that lists different games",
+        "score": 0.5739769233333334,
+        "id": "f8c216bc-fcd0-413a-bd12-200519f1d0ae",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "John plays chess mostly online but has also joined a chess club to practice with others, and shared a photo of an intense game featuring a chessboard with a laptop on it",
+        "score": 0.5738872185922975,
+        "id": "354fde81-184a-4dce-8ade-7332637f54b2",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of his gaming setup which includes a desk with a laptop, headphones, and a monitor",
+        "score": 0.5737122159233565,
+        "id": "921ef8bf-d412-4a8a-a74e-5669f87c5914",
+        "created_at": "2022-09-18T18:02:00+00:00",
+        "updated_at": "2022-09-18T18:02:00+00:00"
+      },
+      {
+        "memory": "John praised James's finished Unity strategy game and asked what inspired him to create it",
+        "score": 0.5734634852032521,
+        "id": "2ccaf72e-9c24-4d99-a55b-2f3ef0147bb1",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "John is currently playing Assassin's Creed Valhalla and describes the game as cool",
+        "score": 0.5728257751848153,
+        "id": "6d4d471d-e7c5-405f-83a0-d8fcc50815f4",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James is not currently part of any online groups but plays regularly with a gaming group that streams their sessions and recently held a fun get-together",
+        "score": 0.57260613,
+        "id": "3d895f73-17e8-44c3-aec9-9db0654b89bd",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "John acknowledged that the chess advice James gave him earlier helped with his game and offered to share resources on chess openings",
+        "score": 0.5721116,
+        "id": "43102893-c128-4ba7-a3b6-1722d625bdb5",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "John is drawn to the gaming industry and wants to turn his passion into a career by becoming an organizer of tournaments for various computer games, such as CS:GO, in his state",
+        "score": 0.5720254864735265,
+        "id": "e8ff7214-ab45-4129-8c02-e433be03c1a4",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "John advised James that playing FIFA 23 requires only a gamepad and a sense of timing, suggesting the controls are easy to learn",
+        "score": 0.571510035695538,
+        "id": "b7601674-aa7b-454a-8b74-2bf42acec33c",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "During their current road trip, James and his family visited friends Josh and Mark and had a great time",
+        "score": 0.5713294631075697,
+        "id": "6d9bf9fe-ccd0-40cb-a9c7-ceb9052a7e86",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has considered organizing more charity gaming events like the CS:GO tournament in the future, noting it must have been great to see the results of that effort",
+        "score": 0.571147406060606,
+        "id": "882e0bde-98b7-45ff-95ba-777bfa6525c9",
+        "created_at": "2022-05-08T00:45:00+00:00",
+        "updated_at": "2022-05-08T00:45:00+00:00"
+      },
+      {
+        "memory": "John is working on a coding-based game project with his younger siblings to help them learn programming, as discussed around August 26, 2022",
+        "score": 0.5711209066666667,
+        "id": "0a20e97f-d081-450d-8539-9f3f22bba688",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has had the opportunity to collaborate on any projects or work with anyone in his new online programming group",
+        "score": 0.5709388867454068,
+        "id": "6b53e7b4-b286-4a85-848f-8a3dd3f59cff",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James's two dogs are named Max and Daisy",
+        "score": 0.5704667290726816,
+        "id": "b6b7eda8-7d92-4f03-b479-d3bf5e5aef73",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James agreed to practice FIFA 23 before playing online with John, stating he would go train",
+        "score": 0.569672735695538,
+        "id": "c4f145fe-54d0-435d-aa37-efeb7f40686e",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "James uses voice chat to communicate with his gaming team, finding it fast and effective for working together during matches",
+        "score": 0.56940852,
+        "id": "52018445-ddbc-43df-9f3a-2c0797ed2152",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of his organized gaming workspace around August 10, 2022, which features a computer and a gaming chair in a dedicated gaming room",
+        "score": 0.5688719400000001,
+        "id": "5420cf92-d903-45ee-9418-79c4748e1f19",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2022-08-10T09:16:00+00:00"
+      },
+      {
+        "memory": "The game character James created for his Witcher 3-inspired virtual world is depicted as a woman dressed in armor kneeling on a rock",
+        "score": 0.5688349500664011,
+        "id": "f795f433-4e74-47e0-8b59-44fd8fcd9ad6",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John shared an image of a graduation cap on a book with a rope, described as a tournament prize trophy logo",
+        "score": 0.5685854433333334,
+        "id": "ea907d31-59d7-48c5-aedc-89be50535123",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2022-05-23T19:33:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has thought of any specific ideas on how to make a positive difference in the world, following John's reflection on his career and desire for impact",
+        "score": 0.5684677333333333,
+        "id": "b6c2156d-8bf7-48d8-bc70-90d0e7028d70",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "John shared a photo of a notebook containing a written quote, likely related to his motivation or the coding challenge he is facing",
+        "score": 0.5678852,
+        "id": "2898bdfa-3459-4329-8e61-b19729bcfd68",
+        "created_at": "2022-04-23T11:04:00+00:00",
+        "updated_at": "2022-04-23T11:04:00+00:00"
+      },
+      {
+        "memory": "John was inspired to improve his own gaming skills after watching skilled players compete at the gaming convention around March 27, 2022",
+        "score": 0.5673560707569721,
+        "id": "5ce147b7-438e-4e61-9dbe-fddec4130f25",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2022-03-27T00:40:00+00:00"
+      },
+      {
+        "memory": "James does not have a screenshot of the full Witcher 3-inspired virtual world he created, but he shared a screenshot of the specific game character he designed for it",
+        "score": 0.56645099,
+        "id": "876d8bbc-ff63-467f-bc9c-9d660dc42198",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John's younger siblings are developing a simple, text-based adventure game to practice their coding skills, and John is proud of their progress and potential to create their own video games in the future",
+        "score": 0.5659510266666666,
+        "id": "6d3994d7-c6c5-42e7-97a0-b15ff5c0b9f7",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James mentioned that he and his family did one good thing on the way to visit friends Mark and Josh during their road trip around November 2022",
+        "score": 0.565476356440903,
+        "id": "e82c5117-d685-4fb4-a9ef-78314f916b78",
+        "created_at": "2022-11-07T20:57:00+00:00",
+        "updated_at": "2022-11-07T20:57:00+00:00"
+      },
+      {
+        "memory": "James accepted John's invitation to join future movie nights, agreeing that hanging out with friends and unwinding is key",
+        "score": 0.5650044633333334,
+        "id": "61cfb9ea-b60b-47fe-972c-36fe6978c4ff",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "James plays Apex Legends with his team, describing the gameplay as intense, and shared a screenshot of the action featuring robot characters",
+        "score": 0.5647264114209828,
+        "id": "e6972ec0-26b7-4096-93cb-ef0edc9ecac1",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "John asked James to take him to a location depicted in a photo of a young boy standing outside a yellow building during the weekend of June 18-19, 2022",
+        "score": 0.5640005833333334,
+        "id": "758bb891-3e7e-4151-bce5-bc33230fe10e",
+        "created_at": "2022-06-19T21:59:00+00:00",
+        "updated_at": "2022-06-19T21:59:00+00:00"
+      },
+      {
+        "memory": "James's dogs love to watch him game and often hug him, serving as good cuddle buddies during his gaming sessions",
+        "score": 0.56392594,
+        "id": "12ba95d6-e864-41f2-974b-a46cb2c57313",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James asked John what motivated him to create the inventory management system for the charitable foundation, expressing admiration for the project",
+        "score": 0.5639226050616051,
+        "id": "1e0ce582-e71f-43b1-879c-67fa80615ba5",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2022-05-11T17:00:00+00:00"
+      },
+      {
+        "memory": "John agreed to meet James at McGee's Pub on August 27, 2022, finalizing their plan after discussing beer preferences",
+        "score": 0.5635826866666667,
+        "id": "a821faa6-4327-4553-9b71-b7f0511f190b",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James recalls key gaming advice from a tournament team member: always communicate correctly with the team and never put ego above team success",
+        "score": 0.5634035666666667,
+        "id": "d72d1f38-cb73-459f-8adb-16f6ec198118",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James shared a screenshot from the tournament showing a victory screen with the text 'sweet victory' and an image of a man in a costume standing in front of a sign",
+        "score": 0.5633309766666666,
+        "id": "b0472232-38ed-4cbd-b6ec-a86595ba7b99",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James asked John if he is currently working on any specific projects with his younger siblings, following up on John's mention of helping them with their programming course",
+        "score": 0.5630207938911023,
+        "id": "22529ad4-4f01-47fb-a202-547fcb4a0a85",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John expressed happiness that James found a romantic partner (Samantha) who brings him joy, distinct from the joy he derives from his dogs",
+        "score": 0.5630129407925408,
+        "id": "1e999d16-9eef-402c-86b0-66d12cb98e27",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James is excited to play Cyberpunk 2077 after John's recommendation, noting that the world and story sound perfect for his RPG interests",
+        "score": 0.5626017799999999,
+        "id": "893398e5-272f-4cfb-99c3-e22adae0cf57",
+        "created_at": "2022-10-03T09:20:00+00:00",
+        "updated_at": "2022-10-03T09:20:00+00:00"
+      },
+      {
+        "memory": "James expressed appreciation for the programming resources John promised to send and is eager to review them to learn new techniques",
+        "score": 0.5617083333333334,
+        "id": "0062eaee-968f-4041-8ef9-9fefeade0d61",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "John suggested trying VR gaming together with James, describing it as a pretty immersive experience",
+        "score": 0.5616719666666666,
+        "id": "befeef68-e973-48ea-b5bc-0b1bf870831f",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "James believes that trying out different game genres is a great way to widen skills and knowledge, supporting John's plan to gain experience in the gaming industry",
+        "score": 0.561417609747676,
+        "id": "16faca58-b821-4baa-88d7-8f8ea52522b2",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "James's apartment lost power around October 18, 2022, interrupting his gameplay just as he reached a major story reveal, forcing him to wait hours before resuming",
+        "score": 0.5611415333333333,
+        "id": "c09bda50-8bf3-4830-931b-4495f6f65a73",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "John attended a gaming convention recently where he tried out many games, met developers, and participated in a tournament, describing the experience as amazing and unreal",
+        "score": 0.5606804347652349,
+        "id": "06575685-6549-4016-b0b0-9d791a746f9b",
+        "created_at": "2022-03-27T00:40:00+00:00",
+        "updated_at": "2022-03-27T00:40:00+00:00"
+      },
+      {
+        "memory": "James asked John what kind of programs his siblings are creating, following up on John's mention that they are already making their own programs",
+        "score": 0.5604713098701298,
+        "id": "7cc5a3fc-c745-4ce0-896c-977ff2c1a756",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "John is obsessed with how his favorite books create magical worlds for escape and feature realistic characters",
+        "score": 0.5600576,
+        "id": "98d256b0-bdc7-4f47-811f-ecfd870e09b4",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "John is currently going through some difficult times and expressed that his friendship with James means a lot to him, providing comfort during this period",
+        "score": 0.5596969713819514,
+        "id": "9614b68d-f32f-4339-a081-7a349dadc75b",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James asked John for recommendations of book series that John loves and would recommend to others on June 16, 2022",
+        "score": 0.5594086066666667,
+        "id": "7a710395-8e4c-496c-a619-56675463dc30",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James offered to be available for John to talk or vent, suggesting it might help alleviate the difficult times John is currently experiencing",
+        "score": 0.5593026180486181,
+        "id": "9c0babd4-4eec-43bd-8d46-b53f44e6f2ad",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James is interested in creating a strategy game similar to Civilization, appreciating the complexity and depth of the genre, and hopes to develop his own strategy game in the future",
+        "score": 0.5590730227821522,
+        "id": "ba1a5f89-bf58-41e7-9b1e-5ce1bd9d6d1f",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John has always dreamed of visiting Italy and asked James about other countries he has traveled to",
+        "score": 0.5588158613811421,
+        "id": "76291d19-bfd6-4d8e-abf5-99144269b8f4",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John agreed to join James and Samantha for a baseball game next Sunday, around September 11, 2022, expressing that it will be a fun experience",
+        "score": 0.5585333981818182,
+        "id": "d4804fa8-b970-48f1-bf0a-c48d65cc1826",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James received autographs from the entire team at the online gaming tournament around April 3, 2022, and was very happy about this gesture",
+        "score": 0.5584580863063063,
+        "id": "873845a0-3af2-4134-833d-464e2706a541",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James and Samantha chose their new apartment specifically because McGee's bar is nearby, as they love spending time there together",
+        "score": 0.5575821830115829,
+        "id": "d5836f5c-9a23-4b95-ad19-c7649b1f47f5",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James offered to help John find the perfect pet, expressing confidence that John would make a great pet parent and emphasizing the love and companionship pets bring.",
+        "score": 0.5575404666666667,
+        "id": "6b775d08-d638-4313-956a-3f1c2e7edb99",
+        "created_at": "2022-03-20T21:26:00+00:00",
+        "updated_at": "2022-03-20T21:26:00+00:00"
+      },
+      {
+        "memory": "James believes that growth and progress are more important than winning every time, offering this perspective to John after his tournament result",
+        "score": 0.5568713000000001,
+        "id": "b7ca81ce-ea1d-4923-9899-b0ed86ec3405",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2022-05-23T19:33:00+00:00"
+      },
+      {
+        "memory": "James completed his Unity strategy game around September 1, 2022, after significant time and effort, expressing pride in the accomplishment and gratitude for John's support and encouragement",
+        "score": 0.5556562099306244,
+        "id": "3495e0fa-51e6-402c-8386-b6df2982b175",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James won an online gaming tournament around July 2, 2022, describing the experience as exciting and mind-blowing, which motivated him to keep improving his skills",
+        "score": 0.5543875063063063,
+        "id": "71035a9f-6b0d-4b23-84b3-0a584cde1320",
+        "created_at": "2022-07-09T17:13:00+00:00",
+        "updated_at": "2022-07-09T17:13:00+00:00"
+      },
+      {
+        "memory": "John uses tutorials and developer forums to stay informed and gather ideas for game design, emphasizing that constant learning is key to his development process.",
+        "score": 0.5539889336663336,
+        "id": "70eeb792-c913-41db-8d02-48511841ea26",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "John recommended the fantasy novel 'The Name of the Wind' to James around April 29, 2022, describing it as having awesome writing",
+        "score": 0.5539315706959708,
+        "id": "507322a7-0d34-4b54-988b-3a9eee7e52c6",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "John's siblings are starting small by creating basic games and stories, and John finds their rapid learning progress and enjoyment inspiring",
+        "score": 0.55351869,
+        "id": "8707616d-975a-449f-a155-e332c0db9a70",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James did not approach the stranger he saw on his walk to get to know her, but instead remembered her appearance and embodied it in the game character he created",
+        "score": 0.553443310066401,
+        "id": "5da7aaf7-54d0-47ad-9637-49468fd6564c",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James suggested that McGee's pub also serves light beers as an alternative to stout, addressing John's dislike of dark beer during their planning for August 27, 2022",
+        "score": 0.553182303011583,
+        "id": "aceafa99-ed29-48e2-9db2-9b3d5e7a6786",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James identifies his pets, computer games, travel, and pizza as the four primary sources of happiness in his life",
+        "score": 0.5521807798068599,
+        "id": "9fe0c657-1975-4dff-93fa-291a56d2b8eb",
+        "created_at": "2022-05-04T19:01:00+00:00",
+        "updated_at": "2022-05-04T19:01:00+00:00"
+      },
+      {
+        "memory": "John's strategy for winning the regional chess tournament involved analyzing and anticipating his opponent's moves to stay one step ahead",
+        "score": 0.5520253312586719,
+        "id": "0b64a387-2d2a-45b4-8fcb-d1adaa66750b",
+        "created_at": "2022-11-05T17:20:00+00:00",
+        "updated_at": "2022-11-05T17:20:00+00:00"
+      },
+      {
+        "memory": "John enjoys games that test his strategizing skills and finds them intense but cool",
+        "score": 0.5519679333333334,
+        "id": "6c2689ee-58c7-4157-a270-103b1f3aa4e6",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James asked John if he has found any non-profit organizations that align with his values and passion for programming, following their discussion about John's volunteer work",
+        "score": 0.5514160800792864,
+        "id": "cfcda2df-3044-47a9-a5ee-6c2968c22db9",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2022-05-11T17:00:00+00:00"
+      },
+      {
+        "memory": "James congratulated John on taking second place in the local tournament around May 20, 2022, and asked if he received any rewards or prizes for his success",
+        "score": 0.5508561522563594,
+        "id": "3829aa0e-e115-4569-8c65-d3c924f91849",
+        "created_at": "2022-05-23T19:33:00+00:00",
+        "updated_at": "2022-05-23T19:33:00+00:00"
+      },
+      {
+        "memory": "James is excited to try new games, specifically mentioning an interest in RPGs and MOBAs around April 4, 2022",
+        "score": 0.5508182666666667,
+        "id": "3e9251f5-ac61-458d-a4a7-2c241fc79854",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "John held a gaming tournament with his buddies on the night of October 30, 2022, playing Fortnite and other games to raise money for a children's hospital",
+        "score": 0.550786956987116,
+        "id": "ab341ebf-855a-4431-a35e-7228cf7ded47",
+        "created_at": "2022-10-31T00:37:00+00:00",
+        "updated_at": "2022-10-31T00:37:00+00:00"
+      },
+      {
+        "memory": "James stated that creating his own game was a special experience compared to just playing video games, and he drew significant inspiration from The Witcher 3's world and story, which motivated him to create something cool.",
+        "score": 0.5507439266666667,
+        "id": "e21afc83-ec55-42c2-b009-915fa151e172",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2022-10-13T14:14:00+00:00"
+      },
+      {
+        "memory": "James's dog is named Ned, whom he adopted and describes as awesome, stating he cannot imagine life without him",
+        "score": 0.5505194394337194,
+        "id": "14f33ca2-227d-4440-b9e9-cdcaa304c0c6",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "John plans to host Fortnite competitions and has already established connections to support this initiative",
+        "score": 0.5491391198801199,
+        "id": "c34b59d8-167b-4b5f-a2cb-9deb07eef9eb",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "John shared an image of a card featuring a graduation cap design during his conversation with James on September 20, 2022",
+        "score": 0.5488624666666667,
+        "id": "05cacce9-df90-4d6a-939d-c1db5a2e92fc",
+        "created_at": "2022-09-20T20:56:00+00:00",
+        "updated_at": "2022-09-20T20:56:00+00:00"
+      },
+      {
+        "memory": "James shared a photo of a video game scene depicting a couple of people on September 4, 2022",
+        "score": 0.5487660054612055,
+        "id": "0a5173c4-2b9f-4710-9227-0b0d879bf453",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "John is currently playing 'The Witcher 3' and finds it immersive, enjoying the monster hunter storyline and the ability to shape the world through choices",
+        "score": 0.5482596125874126,
+        "id": "0a1009f5-68d5-433e-9b4d-26f301acfd4c",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2022-08-10T09:16:00+00:00"
+      },
+      {
+        "memory": "James shared a photo showing a dog and a cat sitting together on a dog bed, likely depicting his newly adopted puppy Ned",
+        "score": 0.5480691927670528,
+        "id": "c9eec1b3-6de0-4640-9809-e525b2b78e39",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "James was inspired to create his own Unity strategy game by his long-standing love for playing strategy games like Civilization and Total War, viewing the development process as a personal challenge",
+        "score": 0.5474495961154856,
+        "id": "edcf6fcb-3ead-49ef-9410-3fcef64eefc1",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James's mother and her army friend shared stories about their military service and their dog during their visit to James",
+        "score": 0.5472325193591016,
+        "id": "38c2bf85-a49a-4de2-b80b-09c472852bea",
+        "created_at": "2022-10-21T19:36:00+00:00",
+        "updated_at": "2022-10-21T19:36:00+00:00"
+      },
+      {
+        "memory": "James stated that feedback and collaboration were essential to improving his Unity strategy game, noting that help from others significantly enhanced the final product",
+        "score": 0.5453872832639578,
+        "id": "2a2df8e1-bcbb-4471-9d1a-363a0c95cbc4",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James has created game mods, including one focused on graphics enhancement",
+        "score": 0.5449232333333334,
+        "id": "22041c64-02da-4c17-bbfa-96b81e2d7716",
+        "created_at": "2022-03-17T15:47:00+00:00",
+        "updated_at": "2022-03-17T15:47:00+00:00"
+      },
+      {
+        "memory": "John shares a passion for video games with his siblings and is proud of their coding progress, expressing excitement to see what they create using their new skills",
+        "score": 0.5448498260162601,
+        "id": "86a7787e-cd9b-4450-b168-92c076aa8f6f",
+        "created_at": "2022-09-01T18:53:00+00:00",
+        "updated_at": "2022-09-01T18:53:00+00:00"
+      },
+      {
+        "memory": "James worked with a gaming friend on a programming project around April 14, 2022, creating a virtual world inspired by The Witcher 3 and enjoying seeing their ideas come to life",
+        "score": 0.5444980924275725,
+        "id": "22a53e01-a181-41ae-8b7e-34ee0f7a12c5",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "John is playing a new RPG with a cool story and world set in a futuristic dystopia, which he shared an image of resembling Cyberpunk 2077's cityscape around April 12, 2022",
+        "score": 0.5443176207195957,
+        "id": "6af82b46-54cb-4c6b-845e-17782d105b9c",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "John bought new gaming equipment, specifically new headphones, around September 4, 2022, to help improve his gaming skills",
+        "score": 0.5439856256943058,
+        "id": "e5c757fc-cca1-4417-a1bc-750185aa6258",
+        "created_at": "2022-09-04T21:23:00+00:00",
+        "updated_at": "2022-09-04T21:23:00+00:00"
+      },
+      {
+        "memory": "James performed well in the online gaming tournament on April 3, 2022, reaching the semifinals and winning several rounds, describing the experience as a rush",
+        "score": 0.543969872972973,
+        "id": "162317cb-1c7f-4c16-b777-b5b8b4a4a24b",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James's dog Daisy lay down next to him while he was playing a game on his computer around April 29, 2022, which James found very cute",
+        "score": 0.5439281890726817,
+        "id": "17bb8208-0fe2-4cde-a52e-15138b294391",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      },
+      {
+        "memory": "James brought souvenirs from his trip to Nuuk for both John and Jill around July 22, 2022",
+        "score": 0.5426675839493841,
+        "id": "c812f82e-e373-4401-8509-aabd49a17a49",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "John's plan for his gaming career involves gaining more experience and perfecting his skills to ensure success in the field",
+        "score": 0.5425924566666667,
+        "id": "2a9556b8-1324-4ab7-950b-ab8a473c5363",
+        "created_at": "2022-08-06T13:45:00+00:00",
+        "updated_at": "2022-08-06T13:45:00+00:00"
+      },
+      {
+        "memory": "James expressed enthusiasm for John's volunteer programming work and requested to see visual examples of the impact the software had on the charitable foundation's operations",
+        "score": 0.5419835533333334,
+        "id": "798bbcc1-80ba-4449-a89e-c743a170b7ac",
+        "created_at": "2022-05-11T17:00:00+00:00",
+        "updated_at": "2022-05-11T17:00:00+00:00"
+      },
+      {
+        "memory": "James hosted a gaming marathon with friends around August 21, 2022, where they played all night. He found the experience strengthened their bond and shared a photo of the group sitting on a couch in a living room.",
+        "score": 0.5408928743691899,
+        "id": "163eb43a-6226-4574-a7d2-66d22da95c88",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "John does not like dark beer and expressed this preference when James suggested going to McGee's pub for stout on August 27, 2022",
+        "score": 0.5407758496782497,
+        "id": "c1b3aa3d-2495-45cd-9c75-a947701796a6",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James did not advance past the semifinals in the online gaming tournament on April 3, 2022, describing the final rounds as tough and close but enjoyable due to competing with talented players",
+        "score": 0.5393427929729729,
+        "id": "043c0b2f-38cc-4418-9c9f-e5290d853d36",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James decided to wait until the bugs in the futuristic dystopia RPG are completely fixed before trying it out, noting that the game seems raw",
+        "score": 0.5391131007195956,
+        "id": "b00c0bb7-0e69-4692-9c0d-fb225505181f",
+        "created_at": "2022-04-12T09:52:00+00:00",
+        "updated_at": "2022-04-12T09:52:00+00:00"
+      },
+      {
+        "memory": "John asked James about his recent trip around July 22, 2022",
+        "score": 0.5387943285714286,
+        "id": "e5ca3057-c6a4-40d2-a4af-e0e161ce08c5",
+        "created_at": "2022-07-22T09:49:00+00:00",
+        "updated_at": "2022-07-22T09:49:00+00:00"
+      },
+      {
+        "memory": "James loves 'The Witcher 3' for its ability to shape the world through choices and its impressive graphics, sharing an image of Geralt fighting a monster on August 10, 2022",
+        "score": 0.5382229000000001,
+        "id": "723dcc8a-60fa-43fa-99a5-c861e4161747",
+        "created_at": "2022-08-10T09:16:00+00:00",
+        "updated_at": "2022-08-10T09:16:00+00:00"
+      },
+      {
+        "memory": "John accepted James's bet that Liverpool will finish higher than Manchester City in the final standings, anticipating a great battle between the two teams",
+        "score": 0.5376927226246719,
+        "id": "e839cb03-1847-44c6-a4bd-95b6b1024450",
+        "created_at": "2022-06-13T16:30:00+00:00",
+        "updated_at": "2022-06-13T16:30:00+00:00"
+      },
+      {
+        "memory": "John bought new devices and refurbished his gaming desk around August 21, 2022, sharing a photo of the setup which includes a computer, keyboard, monitors, coding books, and a shelf",
+        "score": 0.5374597866666667,
+        "id": "7573b8cb-8a5d-4016-926c-91d79cfdafcd",
+        "created_at": "2022-08-21T15:57:00+00:00",
+        "updated_at": "2022-08-21T15:57:00+00:00"
+      },
+      {
+        "memory": "James joined an online gaming tournament on April 3, 2022, describing the experience as intense and fun",
+        "score": 0.5370894996396397,
+        "id": "64640543-d763-406b-b00c-9f67a6ec9094",
+        "created_at": "2022-04-04T14:13:00+00:00",
+        "updated_at": "2022-04-04T14:13:00+00:00"
+      },
+      {
+        "memory": "James got the inspiration for his Witcher-inspired game character from a walk with his dogs around April 6, 2022, where he saw a stranger in his neighborhood whose eyes and appearance amazed him so much he felt it was love at first sight",
+        "score": 0.5362664608058608,
+        "id": "0da5a48e-ede6-4560-9fbb-90390ea70a88",
+        "created_at": "2022-04-20T21:32:00+00:00",
+        "updated_at": "2022-04-20T21:32:00+00:00"
+      },
+      {
+        "memory": "James expressed gratitude to John for always being there for him and having his back, acknowledging their supportive friendship",
+        "score": 0.5360835666666667,
+        "id": "2c7de53d-85ad-4f7f-8f99-2c8d2f2e23e3",
+        "created_at": "2022-10-13T14:14:00+00:00",
+        "updated_at": "2022-10-13T14:14:00+00:00"
+      },
+      {
+        "memory": "James suggested going to Starbucks for coffee with John on August 27, 2022, as a way to spend John's day off",
+        "score": 0.5360383190809191,
+        "id": "9b366389-76e8-4885-8a03-80ae95d26320",
+        "created_at": "2022-08-26T21:18:00+00:00",
+        "updated_at": "2022-08-26T21:18:00+00:00"
+      },
+      {
+        "memory": "James stated that his dog Max cheers him up when he is feeling down and that he enjoys cuddling with Max",
+        "score": 0.5360314191941392,
+        "id": "f11d93a4-ed1d-4a8c-85e2-3f65be30807f",
+        "created_at": "2022-06-16T17:07:00+00:00",
+        "updated_at": "2022-06-16T17:07:00+00:00"
+      },
+      {
+        "memory": "James loves the fantasy genre and asked John for book suggestions around April 29, 2022",
+        "score": 0.5354607533333333,
+        "id": "b0c011a4-6852-40bb-9878-fd0bbd3e961f",
+        "created_at": "2022-04-29T14:36:00+00:00",
+        "updated_at": "2022-04-29T14:36:00+00:00"
+      }
+    ],
+    "search_latency_ms": 947.2,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Among Us",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'Among Us' is a different game from the gold answer 'Mafia', and while they share similar mechanics, they are distinct entities, so the core fact was not recalled correctly."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The social deduction game where players figure out who the impostors are",
+      "memories_evaluated": 20,
+      "reason": "The generated answer describes the genre and mechanics of the game (social deduction, finding impostors) which semantically matches 'Mafia', but it fails to identify the specific named entity 'Mafia' requested by the question, thus not recalling the correct fact."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A social deduction game",
+      "memories_evaluated": 50,
+      "reason": "The generated answer provides a generic category ('social deduction game') rather than the specific named entity ('Mafia') required by the question, failing to identify the same core concept or item from the gold answer."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A social deduction game where players figure out who the impostors are",
+      "memories_evaluated": 60,
+      "reason": "The generated answer describes the genre of the game rather than identifying the specific named entity 'Mafia' requested by the question, thus failing to provide the correct fact."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Among Us",
+      "memories_evaluated": 100,
+      "reason": "The generated answer 'Among Us' is a different game from the gold answer 'Mafia', and since they are distinct entities rather than paraphrases or semantically equivalent concepts in this context, the answer does not match."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Among Us",
+      "memories_evaluated": 200,
+      "reason": "The generated answer 'Among Us' is a different game from the gold answer 'Mafia', and they are not semantically equivalent or paraphrases of each other."
+    }
+  }
+}

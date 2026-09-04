@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv8_q116",
+  "conversation_idx": 8,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What painting did Evan share with Sam in October?",
+  "ground_truth_answer": "a cactus in the desert",
+  "evidence": [
+    "D11:8"
+  ],
+  "user_id": "locomo_8_63236696",
+  "reference_date": "9:37 pm on 11 January, 2024",
+  "retrieval": {
+    "search_query": "What painting did Evan share with Sam in October?",
+    "search_results": [
+      {
+        "memory": "Evan and Sam scheduled a painting session for Saturday, September 16, 2023, with Evan expressing excitement to get everything ready",
+        "score": 0.7121792466666667,
+        "id": "cc21260f-272f-4ef9-9ebe-27ff62082576",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2023-09-11T09:28:00+00:00"
+      },
+      {
+        "memory": "Evan offered to help Sam get started with painting and recommend supplies, describing the hobby as super chill for calming down",
+        "score": 0.7065050833333334,
+        "id": "60fa317d-8f0d-48ae-b9be-5299cc002850",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2023-09-11T09:28:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan to help pick out painting supplies and expressed excitement about planning a painting session soon",
+        "score": 0.6797427144754317,
+        "id": "a1586b64-6d10-406d-a775-d1f972c57e9f",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2023-09-11T09:28:00+00:00"
+      },
+      {
+        "memory": "Evan offered to provide specific supply recommendations and plan a painting session with Sam once Sam is ready to start",
+        "score": 0.679601047808765,
+        "id": "b98866a6-f742-4f05-bad4-e5465376a120",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2023-09-11T09:28:00+00:00"
+      },
+      {
+        "memory": "Evan's contemporary figurative painting was published in an exhibition with the help of a close friend who is pictured standing next to the artwork",
+        "score": 0.6668106304362306,
+        "id": "78a9e8ad-1584-4cd0-8ff0-3791f5083e7d",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2023-12-17T18:48:00+00:00"
+      },
+      {
+        "memory": "Evan shared a collage of top family memories with Sam on December 9, 2023, featuring photos of birthdays, holidays, and vacations to recall great times together",
+        "score": 0.6641824166666667,
+        "id": "b3628bc7-961f-4bee-8ef6-307f1952b33d",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2023-12-09T13:45:00+00:00"
+      },
+      {
+        "memory": "Evan reaffirmed his support for Sam on November 21, 2023, stating he is there for him and emphasizing the importance of sticking together during difficult times",
+        "score": 0.66073996,
+        "id": "6061f99f-f710-4136-beef-c8ca03afc45b",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2023-11-21T19:30:00+00:00"
+      },
+      {
+        "memory": "Sam sketches occasionally but has not yet created anything remarkable, though Sam feels confident about producing something to show off soon and finds Evan's passion for art inspiring",
+        "score": 0.6601320866666667,
+        "id": "94c78a93-a767-4fe1-a164-99962c4fbc48",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Evan shared a watercolor painting of a sunset over a body of water with vibrant colors around September 11, 2023",
+        "score": 0.6569269935245144,
+        "id": "b4b8ca62-79b7-4d12-b10c-4626d9bfb3ce",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2023-09-11T09:28:00+00:00"
+      },
+      {
+        "memory": "Sam commented that Evan's family looks happy in the shared collage and asked about the story behind a sign visible in the center of the image",
+        "score": 0.6514813333333334,
+        "id": "7814a202-e1d0-4f51-b045-05fad5d0f90f",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2023-12-09T13:45:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan about his original motivation for starting painting years ago, seeking to understand what initially drew him to the hobby",
+        "score": 0.64686839,
+        "id": "0e20220e-b768-4b82-ba71-f14da5221497",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of a group of friends laughing while sitting around a fire pit on November 21, 2023, emphasizing that tough times are easier with reliable friends and reaffirming his bond with Sam",
+        "score": 0.6462056034621738,
+        "id": "fc0ad931-3adb-4cd0-80ba-4106a0ac2516",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2023-11-21T19:30:00+00:00"
+      },
+      {
+        "memory": "Evan acknowledged Sam's significant progress in his health journey on November 9, 2023, expressing excitement for Sam's future steps toward better health",
+        "score": 0.641379885980686,
+        "id": "b4016723-96be-4b4c-92c7-c94d74a97795",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan expressed interest in trying Sam's grilled chicken and veggie stir-fry recipe on August 19, 2023, asking if the sauce is a family secret",
+        "score": 0.6376869516483517,
+        "id": "5cf060cd-7a00-4cc6-b9f6-f6677e788d85",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan for assistance in getting started with dumbbell workouts after seeing the shared image on June 6, 2023",
+        "score": 0.6343141201002506,
+        "id": "82c21c13-3f3e-46ac-9030-9a779fa24495",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan if he believes in love at first sight, describing Evan's experience as sounding like a fairy tale",
+        "score": 0.63406682,
+        "id": "20260ea4-7819-42e1-89b8-92dfde192f5e",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Evan agreed to help Sam get started with dumbbell workouts by meeting up to demonstrate basic exercises, expressing confidence that they will reach their fitness goals together on June 6, 2023",
+        "score": 0.6335511401002506,
+        "id": "5236429e-05e4-4c64-8966-aba67fd80d6f",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan about his current health status following the health scare Evan experienced the previous week",
+        "score": 0.6332519133333333,
+        "id": "157fe0f8-ab57-43af-b0d9-7d737f2294df",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2023-11-21T19:30:00+00:00"
+      },
+      {
+        "memory": "Evan shared a watercolor painting of a colorful landscape depicting a mountain range with a horse on September 11, 2023",
+        "score": 0.6331584,
+        "id": "dccec5c3-424e-40d3-8aab-612116a342f6",
+        "created_at": "2023-09-11T09:28:00+00:00",
+        "updated_at": "2023-09-11T09:28:00+00:00"
+      },
+      {
+        "memory": "Sam believes Evan is already good at drawing and asked why he decided to join a painting class despite this skill",
+        "score": 0.6298832766666665,
+        "id": "504d4c4f-5312-478f-94cc-387f6408f069",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan suggested to Sam that he could learn to control his recurring dreams of flying over skyscrapers with practice, encouraging him to share updates once he masters it",
+        "score": 0.6280166573426574,
+        "id": "d9055140-ecb5-4ec8-a088-cab91e868e80",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Evan asked Sam about the content of a motivational note or quote visible in an image Sam shared, which depicted a notepad with a pen and gratitude entries",
+        "score": 0.6279785766666667,
+        "id": "047b998f-f8b3-4100-99b9-afe5f44ea270",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan how his partner reacted to news about rose bushes, implying an incident involving rose bushes occurred alongside or related to the apology",
+        "score": 0.627774917948718,
+        "id": "6e6b1de1-8477-4ad1-9903-ed33a89bad98",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Evan suggested Sam check out a dream interpretation book to gain insights into his vivid dream about soaring over skyscrapers",
+        "score": 0.6274578552114553,
+        "id": "0e940550-9761-4422-9fde-d1ae9031037a",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan offered to recommend a good kayaking spot for Sam when he is ready to try the activity, reinforcing that it is a fun way to exercise and enjoy nature",
+        "score": 0.6272817822843822,
+        "id": "4aa29f92-269d-4638-bb4f-4dc884033c13",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to keep up the good work regarding his increased energy levels and asked Sam to share any favorite healthy recipes on August 19, 2023",
+        "score": 0.6254321733333333,
+        "id": "f7249932-c18d-4d45-928c-06f1a6318c20",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of a small island with a lone boat in calm water at sunrise on November 21, 2023, while encouraging Sam to keep pushing toward fitness goals",
+        "score": 0.6251345647019647,
+        "id": "f5f65983-19b7-49fc-b79b-5e09e9041eac",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2023-11-21T19:30:00+00:00"
+      },
+      {
+        "memory": "Sam decided to try painting as a hobby to help with stress relief and motivation, planning to update Evan on the outcome",
+        "score": 0.6232126016260162,
+        "id": "d7d77560-6e43-4400-9f5e-2d39f5c758a8",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Evan has faced personal challenges since his last conversation with Sam, which caused him to miss some events, but he remains supportive of Sam",
+        "score": 0.62131784,
+        "id": "33c09059-e335-4ef1-be4d-19c01c78d02b",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan offered to plan a kayaking trip with Sam and pick a cool spot if Sam enjoys the activity",
+        "score": 0.6207450233333334,
+        "id": "4a71593b-a5eb-4379-a1f7-b05ced4c0e50",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan finds that art helps him recognize and handle his own feelings, and he experienced a massive rush of joy from creating or viewing the shared abstract vibrant colorful painting featuring a bird flying over it on December 26, 2023",
+        "score": 0.62023442,
+        "id": "9952b0f0-10cc-4957-9f52-59e91f85127b",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam is considering trying a new outdoor activity and asked Evan for suggestions on what to try",
+        "score": 0.6167558122177955,
+        "id": "44c19351-6bcf-48db-9e7b-1a9f22baefd3",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan suggested that Sam find an exercise he enjoys and consider getting a workout buddy for added fun and accountability in his fitness routine",
+        "score": 0.6145493000000001,
+        "id": "7f7f129d-5056-49ca-94d5-44654d0517a5",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan recommended Lake Louise to Sam for hiking, sharing a photo of the lake with mountains reflected in the water and noting there are many trails nearby",
+        "score": 0.6141868422310758,
+        "id": "eb7d1832-c576-41d0-929e-497e4046b623",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2023-08-27T10:18:00+00:00"
+      },
+      {
+        "memory": "Evan expressed pride in Sam for sticking to his diet and healthier lifestyle, asking if Sam has noticed any positive changes as of August 19, 2023",
+        "score": 0.6138888325365205,
+        "id": "9f202c5d-5d62-4c4b-9701-a7b100012b28",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan created the shared painting while experiencing a mix of sadness, anger, and hope, using art to portray these feelings without words",
+        "score": 0.6126053666666667,
+        "id": "9e727746-635b-4361-b94d-46f51b0a8a57",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam expressed sympathy for Evan's son's bike accident and shared that he has been finding it challenging to cope with his own recent difficulties since their last conversation",
+        "score": 0.6111546200000001,
+        "id": "defa6a36-0287-40ab-acb3-40ccfbb8c40b",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2023-12-17T18:48:00+00:00"
+      },
+      {
+        "memory": "Evan shared a watercolor painting depicting a serene forest landscape on an easel",
+        "score": 0.6109891866666667,
+        "id": "f1d9a2b5-982c-4649-bddd-cb0166ebe848",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan feels his bond with Sam is strengthening and brings positive feelings to their lives, reaffirming that family is everything to him",
+        "score": 0.610468,
+        "id": "eb831e58-6aab-4fa7-91e5-e645367be34a",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2024-01-06T13:32:00+00:00"
+      },
+      {
+        "memory": "Sam clarified that the sauce for his grilled chicken and veggie stir-fry is a homemade recipe, not a family secret, and offered to share the recipe with Evan on August 19, 2023",
+        "score": 0.6097836516483516,
+        "id": "808033c1-f392-414b-a2ae-c354dfb0e95c",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Sam expressed enthusiasm for the upcoming hike with Evan, viewing it as a fun challenge and an opportunity to appreciate nature's beauty",
+        "score": 0.60925684,
+        "id": "0185f6d6-6f67-4516-83dd-e3b86f708fd0",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan encourages Sam to keep trying new things like morning runs, suggesting that embracing the journey may lead to finding love or fulfillment in unexpected places",
+        "score": 0.6085049266666667,
+        "id": "f1acc228-6549-4735-8144-f2cbf289a011",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Evan's watercolor cactus painting was inspired by a road trip he took in September 2023, which he described as visiting cool places",
+        "score": 0.607628060191181,
+        "id": "c3c63c77-9a14-4474-8074-cbd5cd8ec4f7",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2023-10-06T20:57:00+00:00"
+      },
+      {
+        "memory": "Evan completed a contemporary figurative painting around December 14, 2023, which emphasizes emotional state through expressive brushwork and vibrant colors, capturing a moment of introspection. He is very proud of this work.",
+        "score": 0.6071559,
+        "id": "d8222bbc-24cb-4f60-a08b-5076ffdaeceb",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2023-12-17T18:48:00+00:00"
+      },
+      {
+        "memory": "Evan started watercolor painting a few years before May 2023 and finds it to be a great stress-buster",
+        "score": 0.6066951666666666,
+        "id": "bf8d41fe-b34c-466b-ab37-8cf2367c826f",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Evan endorsed Sam's choice of Lake Tahoe for kayaking, describing it as having clear water and gorgeous views, and encouraged Sam to take photos",
+        "score": 0.6051465250083251,
+        "id": "871ac3f3-3236-4ce2-9c04-3b463aa356e4",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan expressed a desire to visit his favorite beach spot with Sam someday to watch sunsets and relax together",
+        "score": 0.6048155000000001,
+        "id": "ac53da1d-443c-41ad-99c2-c77332ec7c7e",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan for recommendations on which lake to visit and expressed interest in exploring local trails",
+        "score": 0.6047594333333334,
+        "id": "fe35969e-31c2-46b1-aa6c-17ed12aec8d2",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2023-08-27T10:18:00+00:00"
+      },
+      {
+        "memory": "Evan grew up on a small island in Lake Huron, which he considers his happy place and shared a photo of the sun shining through clouds over the water there on November 21, 2023",
+        "score": 0.6041224533333334,
+        "id": "8ef27003-853d-44ea-9f00-29ae4713078c",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2023-11-21T19:30:00+00:00"
+      },
+      {
+        "memory": "Evan expressed gratitude to Sam for his support during a difficult period, stating that having someone to talk to means a lot and confirming he will reach out if needed",
+        "score": 0.60376562,
+        "id": "5a25ddc1-57a3-46f1-b25d-eaf243df39fd",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Sam expressed appreciation for Evan's help and acknowledged that breaking out of his comfort zone is tough for him",
+        "score": 0.6035717820512821,
+        "id": "0967c1ff-e231-46e7-bbf3-19d95d87cda1",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2023-12-17T18:48:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo from his Jasper trip showing a person holding a book in front of a lake, which he described as a shot of a glacier",
+        "score": 0.6031736933333334,
+        "id": "5a761160-d6ef-4b6f-a850-f3addc8662b0",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Sam shared a handwritten recipe card for his grilled chicken and veggie stir-fry with Evan on August 19, 2023, which included a drawing of a vase of flowers",
+        "score": 0.6028873782204515,
+        "id": "57e874eb-9645-460c-8a5f-d4fd5e153a65",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan loves painting landscapes because nature's beauty captivates him and brings him peace, as demonstrated by his recent watercolor painting of a sunset over the ocean shared on August 19, 2023",
+        "score": 0.6025762333333334,
+        "id": "7123c184-0a10-46a1-8fea-88a497afa829",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "The image Evan shared on December 9, 2023, depicted a desk with a lamp, a picture frame, and a sign, described as part of a family memory collage",
+        "score": 0.60136612,
+        "id": "dad9f9df-fc34-4f6d-a003-33aae9c70388",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2023-12-09T13:45:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photograph of a painting depicting a person on a cliff with the query 'painting peaceful sunset' around October 14, 2023",
+        "score": 0.6004257166666667,
+        "id": "3ce2e129-4618-4878-aee4-1c5c0a4547b9",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan suggested kayaking to Sam as a fun and active outdoor activity involving paddling on a river or lake, in response to Sam's request for new outdoor hobby suggestions",
+        "score": 0.5998273,
+        "id": "15b5b3ac-bf80-47c2-bbf0-dd6b53af4bfe",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Sam plans to try the healthy snack recipes (ginger snaps and energy balls) shared by Evan, expressing that they look delicious and appreciating Evan's help",
+        "score": 0.599685106824147,
+        "id": "ddc1960b-24d4-4c07-b6fc-96a7e00c337a",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan accepted Sam's offer to share the recipe for his homemade sauce used in the grilled chicken and veggie stir-fry on August 19, 2023",
+        "score": 0.5989431782204515,
+        "id": "bc6041fc-38f9-4879-8fca-584594dc90c7",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan congratulated Sam on his new health journey on August 19, 2023, acknowledging the challenge of lifestyle changes and asking how it has been going",
+        "score": 0.5981712258610271,
+        "id": "2666f0ed-64e1-497e-a74c-32de04f969cd",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Sam plans to go for beach walks, finding the idea calming and zen after Evan's suggestion",
+        "score": 0.5978526666666667,
+        "id": "4b0aa7ff-e739-40b7-836b-b186b062f53c",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Sam expressed interest in visiting the peaceful beach spot near Evan's home with him sometime to watch sunsets and relax",
+        "score": 0.5978272345654346,
+        "id": "8f2271c3-b586-41b6-b116-abe1a7de58e5",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan proposed planning a hike with Sam soon as part of their ongoing discussions about outdoor activities and fitness",
+        "score": 0.5977677333333333,
+        "id": "610e54cf-27aa-49ad-8707-9ee21b04a18c",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan shared a watercolor painting he created depicting a cactus in the desert with a sunset background",
+        "score": 0.5966372766666667,
+        "id": "b725fde4-f033-40fd-b6bc-45cae0bdde84",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Sam comments that Evan seems to be becoming the go-to person for helping lost tourists, referencing Evan's recent encounter",
+        "score": 0.59645662,
+        "id": "dd7b832a-b7c8-445e-ad6a-14f62be3854d",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan took the sunset beach photo at his favorite spot near his home on November 3, 2023 (last Friday), finding peace in watching the waves and sunset colors during tough times as a reminder of nature's resilience",
+        "score": 0.59573294,
+        "id": "e2bbee34-f8b0-4c12-b540-349de7a1a1da",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Around September 22, 2023, Evan helped a lost tourist find their way, which turned into an unexpected city tour that he described as a blast",
+        "score": 0.594512149017649,
+        "id": "2f161a10-56e5-4e9f-9984-3df4817d1e78",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2023-10-06T20:57:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of a person walking on the beach with a surfboard at sunset around November 9, 2023, while expressing gratitude for Sam's support and commitment to staying positive",
+        "score": 0.5941141626326965,
+        "id": "770ff809-9c55-4757-8182-093018de8103",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan agreed to Sam's suggestion of putting a GPS sensor on his keys and plans to do so as soon as he finds them, addressing his weekly habit of losing them",
+        "score": 0.59377004,
+        "id": "beee23e6-a410-47c6-8a60-5030b5c85b8c",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam expressed interest in reading 'The Great Gatsby' sometime after Evan recommended it and described it as gripping",
+        "score": 0.5936033083250084,
+        "id": "d987d08f-acff-4c43-96f0-39a89a69d94a",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2023-07-27T10:52:00+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to step out of his comfort zone by challenging himself to try something new, even if it is a small thing, emphasizing that it is worth the effort",
+        "score": 0.5910441153846154,
+        "id": "117eee4c-bd6b-4371-a773-7fa1f3796c4e",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2023-12-17T18:48:00+00:00"
+      },
+      {
+        "memory": "Sam expressed strong enthusiasm for the upcoming hike with Evan, stating that connecting with nature is exactly what he needs and thanking Evan for his support",
+        "score": 0.59057434,
+        "id": "7019171c-ff44-4157-bd03-6f69d4c27421",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan to identify the new mystery novel he mentioned starting, which Evan described as gripping",
+        "score": 0.5903370645354645,
+        "id": "cfafac0f-5269-4c36-8a0c-1ad52d980217",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2023-07-27T10:52:00+00:00"
+      },
+      {
+        "memory": "Evan believes that surrounding oneself with caring people is key to support and well-being, as expressed in his conversation with Sam around August 13, 2023",
+        "score": 0.5900191333333333,
+        "id": "9102b56d-2e19-47cd-8c65-faa6c90b692c",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan was introduced to watercolor painting by a friend who gave him advice, and he became hooked on the hobby immediately",
+        "score": 0.5896279149122807,
+        "id": "4d1e37d3-d5a3-4aa0-834b-9dfc5a0fa8b1",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Evan expressed interest in eating healthy and asked Sam for recipe suggestions after seeing Sam's grilled salmon with roasted vegetables on August 15, 2023",
+        "score": 0.5891335952047952,
+        "id": "ef2a80f3-25ed-45b8-913b-c5562cf9dd39",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2023-08-15T16:20:00+00:00"
+      },
+      {
+        "memory": "Sam expressed appreciation for Evan's support regarding his health journey and committed to keeping Evan updated on his progress as of October 8, 2023",
+        "score": 0.5890996391943605,
+        "id": "3e4982fd-328e-4cfa-837e-cf6ff9861026",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Evan advised Sam that while painting is a great way to relieve stress, explore creativity, and find peace, it will not help with weight loss, so he recommended exercising alongside it",
+        "score": 0.5889804333333334,
+        "id": "2f34d767-6755-44b7-a6e4-2da71d0db7ab",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Evan advised Sam to celebrate small wins during challenging times, emphasizing that every step forward counts as progress",
+        "score": 0.58851056,
+        "id": "e2e61b12-bf15-421e-8731-2a48de4f7d34",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan expressed sympathy for Sam's recent health challenges around August 13, 2023, acknowledging that dealing with health issues is tough and offering assistance",
+        "score": 0.587823212335958,
+        "id": "0c5d087e-9552-492f-9d16-bf768b1240d9",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan and Sam agreed to plan their visit to Evan's favorite peaceful beach spot for December 2023, with Evan expressing excitement about exploring it together",
+        "score": 0.5877818033840948,
+        "id": "d148f6f9-cc9f-44f9-9b14-9bd1ec643fd1",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Sam expressed excitement about getting fit with Evan and reiterated the plan to go hiking on trails soon, sharing a photo of himself wearing hiking shoes while sitting on a couch around October 17, 2023",
+        "score": 0.5869221666666666,
+        "id": "36e8b274-2374-4489-b1c7-2a7ebae0297f",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan apologized to his partner for an embarrassing drunken night that occurred recently, prior to January 11, 2024",
+        "score": 0.5867755,
+        "id": "191b28fa-918b-44b3-bb8c-b3638f326c56",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Evan created a watercolor painting of a cactus in the desert around late September 2023 and finds painting to be a great stress reliever",
+        "score": 0.5860985535245143,
+        "id": "2cd90f43-e8fd-4cea-b14f-a6d4de4ed405",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2023-10-06T20:57:00+00:00"
+      },
+      {
+        "memory": "Evan got married around December 19, 2023, and shared a photo of the bride and groom kissing in front of a tree on their wedding day",
+        "score": 0.5844009666666666,
+        "id": "50ef0262-631d-440c-8271-3d918735a73f",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of an abstract painting featuring blue, orange, and black strokes on a white background",
+        "score": 0.5839341666666666,
+        "id": "f21db01e-b3b1-4426-beee-f5fa0f72fd2f",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam has never been to Jasper National Park but finds the scenery breathtaking based on Evan's photos",
+        "score": 0.5828746545816733,
+        "id": "2e4578f7-a537-41ab-a24d-c8eefc4f67cd",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Sam decided to take a day trip to Lake Louise around August 27, 2023, after Evan recommended it as a two-hour drive with incredible views and peaceful atmosphere",
+        "score": 0.5815967488977424,
+        "id": "0fada55f-a43f-4bc1-998d-3a3ee62f765f",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2023-08-27T10:18:00+00:00"
+      },
+      {
+        "memory": "Evan is looking to add more vegetables to his meals and asked Sam for specific recipes to help achieve this goal on August 15, 2023",
+        "score": 0.58158848,
+        "id": "f08b2c3d-fb86-4f5a-a6de-2703da7e02ed",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2023-08-15T16:20:00+00:00"
+      },
+      {
+        "memory": "Evan advised Sam to focus on healthy swaps and taking small steps while staying upbeat, sharing an image of a book with a green apple and the quote 'progress not perfection' around July 27, 2023",
+        "score": 0.5811381266666666,
+        "id": "74f1507d-9133-4f79-ac3a-0f8b4cd0b596",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2023-07-27T10:52:00+00:00"
+      },
+      {
+        "memory": "Evan joined painting classes to find like-minded people and showcase his skills, believing there is always room for improvement",
+        "score": 0.5799523766666667,
+        "id": "b0fe9c03-f752-45de-9ba1-666396cf7f08",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan acquired a vintage guitar around November 9, 2023, and shared a photo of it lying on the floor with a guitar strap",
+        "score": 0.5795575999999999,
+        "id": "6938a888-c325-4a96-8139-23fb228775d6",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan asked Sam if he has found any low-impact exercises that he enjoys",
+        "score": 0.5793381229343629,
+        "id": "6e5af258-3699-4324-a679-d40620766864",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Evan had another encounter with a lost tourist around October 2023, noting that helping tourists seems to be a recurring theme in his life",
+        "score": 0.578422549017649,
+        "id": "d923d440-45a2-45bd-8936-4f1596a44a44",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan took a road trip around July 2023 where he found the scenery stunning and nature relaxing, sharing a photo of his Prius parked near a lake with mountains in the background",
+        "score": 0.577864843902439,
+        "id": "8ccdb8bb-d14d-472a-a74e-b0da86fca516",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2023-08-27T10:18:00+00:00"
+      },
+      {
+        "memory": "Sam expressed that Evan's support means everything to him and affirmed his commitment to moving forward in his health journey as of October 25, 2023",
+        "score": 0.5771717991943605,
+        "id": "b031bb35-e323-4f27-a997-0b5da48a3c58",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2023-10-25T14:56:00+00:00"
+      },
+      {
+        "memory": "Sam expressed gratitude to Evan for his understanding regarding Sam's hesitation to try winter sports due to physical limitations, stating that the support means a lot as of August 19, 2023",
+        "score": 0.5764780933333333,
+        "id": "fe828319-be2f-4892-9c41-65b8ae7d0e08",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan apologized to his partner for a drunken night that he described as pretty embarrassing, which occurred shortly before January 11, 2024",
+        "score": 0.5764667600000001,
+        "id": "28d44b9f-a4cd-49d1-9b51-355ef7857851",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Sam found Evan's recent encouragement inspiring and committed to maintaining belief in his progress as of October 8, 2023",
+        "score": 0.5761129194319881,
+        "id": "e5d0c4bf-83e8-4231-a0f3-57fd9ec594f2",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Sam thanked Evan for his encouraging words, stating they gave him a boost, and reaffirmed that he is staying motivated and believing in himself as of October 8, 2023",
+        "score": 0.5749276,
+        "id": "009d433a-165d-4e50-a4d8-3cc09b4e6554",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Evan advised Sam that while having supportive people is important, they should encourage rather than stress him out regarding his health routine",
+        "score": 0.5742906,
+        "id": "49c843bf-1a67-4709-bf03-aa2ec9ea4027",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2023-10-25T14:56:00+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam that starting a fitness routine gets easier with time and emphasized focusing on feeling good and reaching goals",
+        "score": 0.5735562049868766,
+        "id": "6919abf7-84b3-431f-8e18-75eec49ec72b",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of a bonsai tree in a black vase on a wooden table with a watering can nearby",
+        "score": 0.5728236166666667,
+        "id": "f17d1a2b-e999-41c5-90b4-123f1a53e907",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2023-08-07T19:52:00+00:00"
+      },
+      {
+        "memory": "Evan suggested that Sam try picking up a new hobby or activity to help manage work stress and de-stress",
+        "score": 0.5727947843489843,
+        "id": "716ec07f-745e-42ba-9217-5aa34b5de69f",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan took his Prius for a long drive to the mountains around December 23-24, 2023, enjoying the scenic views until getting into a minor scrape on the way back",
+        "score": 0.5718131105691057,
+        "id": "73a50539-12c3-4977-8fe2-b6f643196048",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan how long he has been prioritizing his health, following a conversation where Evan shared photos of children playing in a backyard and discussed dealing with recent health issues",
+        "score": 0.5716361390026247,
+        "id": "84883401-b4d5-4282-acbb-0189520813e9",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2023-08-07T19:52:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan if the woman in his wedding photo is the Canadian woman he met during his trip to Canada in late July 2023",
+        "score": 0.57101665839599,
+        "id": "ca5df069-77dc-4a37-927a-b30d101fa2a7",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Evan completed a painting of a sunset around October 14, 2023, and stated that the activity helps him relax",
+        "score": 0.5709860527653213,
+        "id": "3fb2089f-1f7e-4447-bcbf-85658fb0c223",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a man doing a squat on a machine in a gym and asked Sam if he is interested in trying weight training",
+        "score": 0.570381644988345,
+        "id": "9dc02d49-66f2-4fc7-aeaf-c7e092459d18",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Sam expressed a desire to feel the same sense of freedom that Evan experienced by letting go of unrealistic expectations and focusing on well-being",
+        "score": 0.5700984526140526,
+        "id": "d0e2380f-0c51-4842-ab0e-6e0762af2dd9",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2023-10-25T14:56:00+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a man with a beard holding a dumbbell on June 6, 2023, while encouraging Sam to rock their workouts and reach their goals, noting that exercise clears the mind",
+        "score": 0.5699660067669173,
+        "id": "aeca205c-dde4-4386-a242-0f61b8816203",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Evan agrees with Sam's mindset that progress is more important than perfection and asked Sam to share the specific motivational quote from his journal so Evan could benefit from it as well",
+        "score": 0.5697922266666667,
+        "id": "a46a339b-4de7-4678-a6d7-bda97aa2b8a5",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to believe in his abilities and stay motivated to reach his goals on October 8, 2023",
+        "score": 0.568891119431988,
+        "id": "4172c901-24ca-4f1e-9c6a-cd6c13ccb8f9",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Sam suggested that Evan put a GPS sensor on his keys to help prevent losing them, following Evan's mention of it being a weekly ritual",
+        "score": 0.5688103074259074,
+        "id": "d096e7c8-7f3e-4d86-8765-948504e79572",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam shared the motivational quote \"Don't fear it, just take the first step\" with Evan on August 13, 2023, stating that it has been helping him move forward toward healthier habits",
+        "score": 0.5687119933333333,
+        "id": "a4b8abac-379e-4033-986e-d3afc36a4783",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan recommended Sam swap soda for flavored seltzer water and replace candy with high-cocoa dark chocolate as healthier alternatives to help break unhealthy habits around June 6, 2023",
+        "score": 0.5677458833333334,
+        "id": "4cd43af5-155e-4de8-a5c3-661f8b6343aa",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Evan painted the shared abstract vibrant colorful painting featuring a bird with a sense of joy and freedom, using spontaneous strokes and bold colors to reflect a playful and liberated mood while embracing the creative process without restraint on December 26, 2023",
+        "score": 0.5668906376556776,
+        "id": "83d01ce9-e9c4-4958-912c-6773302e1334",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam finds that being in nature helps him relax and get fresh air away from the city, confirming this benefit during a conversation with Evan on January 11, 2024",
+        "score": 0.5664644996003996,
+        "id": "7600f969-6a86-4d36-b8f4-b32da8b4e5c3",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Sam agreed to try Evan's suggestion of swapping soda for flavored seltzer water and replacing candy with high-cocoa dark chocolate as healthier alternatives around June 6, 2023",
+        "score": 0.5657691575757576,
+        "id": "58d17202-6d44-4225-a84b-0aa1b2eaae06",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Evan's partner was not thrilled but understood that the incident with the rose bushes was an accident, and Evan promised to be more careful in the future",
+        "score": 0.5657475846153847,
+        "id": "cd587c3f-11c8-49c2-b328-a4026f6584a9",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Evan drove to Banff National Park in the Rocky Mountains around July 2023, where he went skiing on a snowy trail and found the views amazing",
+        "score": 0.5631533627239428,
+        "id": "55e98e2a-0251-4e54-9405-fc93b7152286",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan's watercolor sunset painting was inspired by a vacation he took a few years prior to October 2023, where he found the colors stunning",
+        "score": 0.5629946527653213,
+        "id": "81b24ad4-78de-48dc-a66b-d6ca93721b05",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2023-10-06T20:57:00+00:00"
+      },
+      {
+        "memory": "Evan recently returned from a family trip in his new Prius around May 18, 2023",
+        "score": 0.5619998439024391,
+        "id": "0c610d79-22b6-4fae-8a2c-27ed460f80de",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Sam described a shared image as a minimalistic and stunning piece of work and wondered what inspired the artist to create it",
+        "score": 0.5618299896414343,
+        "id": "18cc6f73-900a-4407-8c03-504cf21510a1",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Evan reassured Sam that he will be there for him, advising Sam to take things slowly and treat himself kindly as of October 25, 2023",
+        "score": 0.5616047860986547,
+        "id": "16f8632c-0866-44d8-94c3-85fbdde26efb",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2023-10-25T14:56:00+00:00"
+      },
+      {
+        "memory": "Evan's vintage guitar is a 1968 Kustom K-200A model, which he received as a gift from a close friend",
+        "score": 0.5605316971028972,
+        "id": "a565f145-8e3f-436e-9851-1af40a5a2105",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan and his partner announced their marriage to their extended family on January 5, 2024, describing the moment as special and feeling overwhelmed by the love and support received",
+        "score": 0.5604955580685981,
+        "id": "e079fc57-1768-4073-8c0a-53cbe2563f0f",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2024-01-06T13:32:00+00:00"
+      },
+      {
+        "memory": "Evan went on a camping trip in the summer of 2023 and took a photo of an amazing sunset over a calm lake, which he finds reminds him of life's beauty during tough times",
+        "score": 0.5593959634621738,
+        "id": "639a7316-ca03-48a3-b171-545322c3a1fa",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Sam complimented Evan on his appearance and asked how he managed his health transformation, referencing the photo of fruits and vegetables Evan shared",
+        "score": 0.5586964466666666,
+        "id": "75da06fb-f522-4807-b60e-944b918eb523",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2023-10-25T14:56:00+00:00"
+      },
+      {
+        "memory": "Sam expressed gratitude to Evan for his support regarding his health journey and committed to staying positive and continuing his efforts as of October 8, 2023",
+        "score": 0.5581487725276938,
+        "id": "b78a845f-f402-43e9-a9dd-4c31d9fd6313",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan what he believes made the biggest impact on his health journey, seeking insight into the most effective factors for successful lifestyle changes",
+        "score": 0.5579058333333333,
+        "id": "8e6723dc-5bdd-48b9-8b14-ec336a612a4a",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2023-07-27T10:52:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo from his recent Canada trip showing a tent pitched in a grassy field surrounded by lush greenery, indicating they went camping",
+        "score": 0.5575212933333333,
+        "id": "5c186ca0-9aac-4030-be46-e845a9ccd9b5",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of ginger snap cookies on a cooling rack around December 31, 2023, describing them as awesome and packed with nutrients, and offered to send Sam the recipes",
+        "score": 0.5571778921345322,
+        "id": "10c53262-7029-41f3-aff7-d34dc454d9fe",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan is currently using watercolor paints, brushes, pencils, and eyeliners for his painting practice as of August 19, 2023",
+        "score": 0.55709932,
+        "id": "d3106167-3d00-4c18-b18d-1ea54d5e5445",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to be patient with himself regarding his health journey, emphasizing that it takes time and expressing belief in Sam's ability to succeed as of October 8, 2023",
+        "score": 0.5567882658610271,
+        "id": "7d1d4ecc-3a92-4d54-8d03-40cadc4a080e",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Evan lost his keys again around December 26, 2023, describing the frequent loss of his keys as a weekly ritual",
+        "score": 0.5567168407592408,
+        "id": "03c0f565-2b04-435d-92e5-dcba5d76128f",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan for suggestions on low-impact exercises to complement his new health plan",
+        "score": 0.5565586533333333,
+        "id": "423169a7-7929-4094-bd8e-972c5f1387ac",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to consult his doctor for additional diet and exercise tips to support his new meal plan and workout schedule",
+        "score": 0.5542871962815404,
+        "id": "eabfac63-21ec-4b0e-92ec-6a7b28cff8fe",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Evan advised Sam that exercising is just as important as eating right for health, sharing an image of a woman with a backpack on a mountain to illustrate the point around July 27, 2023",
+        "score": 0.5541032202898551,
+        "id": "7fc30ed4-6856-48f6-8ade-4a5a91a0ccbd",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2023-07-27T10:52:00+00:00"
+      },
+      {
+        "memory": "Evan is planning a big family reunion for the summer of 2024, which he views as a perfect opportunity to add new memories to his family collage",
+        "score": 0.5539997,
+        "id": "80f1081a-f192-46cd-a369-a3f1a5765902",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2023-12-09T13:45:00+00:00"
+      },
+      {
+        "memory": "Evan and his family hiked trails in the Canadian Rockies around May 11, 2023, during their trip, and he found the views amazing",
+        "score": 0.5533818175824177,
+        "id": "de17523c-aa3e-4783-85fe-cfb8eaaf8429",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Sam agreed with Evan that progress takes time and expressed commitment to continuing efforts to make small, healthy lifestyle changes around June 6, 2023",
+        "score": 0.5531245333333333,
+        "id": "ce08784b-419e-412a-8ccd-7097248701fa",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Sam congratulated Evan on meeting a Canadian woman during his trip to Canada the week of July 31, 2023, acknowledging that she makes him feel alive",
+        "score": 0.5529169917293233,
+        "id": "e692b316-73f5-4820-8826-dedea9dad1e2",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2023-08-07T19:52:00+00:00"
+      },
+      {
+        "memory": "Evan apologized to the owners of the roses after seeing the damage from his pee accident on the morning of January 10, 2024, and they were understanding about the incident",
+        "score": 0.5524279073593074,
+        "id": "d17657cc-5c5d-40d3-967b-7c27f8f38159",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Sam acknowledged that having a great support system makes maintaining his health routine easier and thanked Evan for being there for him",
+        "score": 0.5503437166666667,
+        "id": "98086376-30ec-4c7f-b718-2872b2ccd2e6",
+        "created_at": "2023-10-25T14:56:00+00:00",
+        "updated_at": "2023-10-25T14:56:00+00:00"
+      },
+      {
+        "memory": "Evan continues to practice watercolor painting as a favorite activity to stay busy, relax, and engage with colors while recovering from his knee injury",
+        "score": 0.5502627666666666,
+        "id": "2f21ffeb-94ae-4589-8c63-eef12709228b",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2023-10-06T20:57:00+00:00"
+      },
+      {
+        "memory": "Evan and his partner tried snowshoeing on the weekend of January 6-7, 2024, describing it as a surprisingly fun new adventure for them",
+        "score": 0.5497432820512821,
+        "id": "cfdba69c-5456-4af1-be76-9744e96bc935",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Evan and his partner tried snowshoeing during the weekend of January 6-7, 2024, describing it as a surprisingly fun new adventure for them",
+        "score": 0.5495774553846154,
+        "id": "fc7af643-548d-45c3-a34c-da788503a37b",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Evan's old Prius broke down, so he decided to get it repaired and sell it before purchasing his new Prius",
+        "score": 0.5491650905691058,
+        "id": "ee89097d-0632-4445-87d5-bfd746293019",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Evan enjoys being in natural settings like the one depicted, as it brings back memories of road tripping in his trusty car",
+        "score": 0.5489860133333333,
+        "id": "fc7c35ed-5865-47af-b890-c68cda7ef565",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a table full of fresh produce and vegetables to illustrate the dietary changes he made",
+        "score": 0.5488635999999999,
+        "id": "154a546f-5598-4f2a-9976-ea638f1f5933",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2023-07-27T10:52:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of ginger snaps and tea cups on a table around December 31, 2023, noting that he has been trying new healthy snacks and finds nature to be a great healer",
+        "score": 0.5485094401574804,
+        "id": "7de1ff7d-c6b8-463c-be49-4395ef6b9a5c",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan's family motto is 'Bring it on Home', which appears on a sign in a frame from their trip to Banff, reminding them of the importance of togetherness no matter where they are",
+        "score": 0.54804226,
+        "id": "d791de8c-07d9-449d-9c88-2f4af2c6d3ab",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2023-12-09T13:45:00+00:00"
+      },
+      {
+        "memory": "Evan chooses painting subjects based on his current thoughts, feelings, good memories, or places he wants to visit, using art as a form of self-expression",
+        "score": 0.5462622266666667,
+        "id": "77681ea1-3e10-484d-a927-5ae1a57b25a3",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2023-10-06T20:57:00+00:00"
+      },
+      {
+        "memory": "Sam asked Evan for healthier snack ideas on December 31, 2023, expressing appreciation for new ways to stay healthy",
+        "score": 0.5460624700507614,
+        "id": "cc903648-40c8-4a28-a04f-4eb9a3d61477",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of his gym membership card on July 27, 2023, as a reminder of his commitment to health after struggling with it a few years prior",
+        "score": 0.54573012,
+        "id": "2af94127-18c6-4765-86dc-0ae7eadd5f86",
+        "created_at": "2023-07-27T10:52:00+00:00",
+        "updated_at": "2023-07-27T10:52:00+00:00"
+      },
+      {
+        "memory": "The minor car accident dampened Evan's mood when telling his work friends about his recent marriage, though he notes they have been a great support to him",
+        "score": 0.5452810566666667,
+        "id": "f41f1e86-2fae-4e74-abe1-9a3148050292",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan and his companions were unharmed in a minor car accident that occurred during their mountain drive around December 23-24, 2023",
+        "score": 0.54527978,
+        "id": "12499007-74d0-44aa-a60c-78eb081b928a",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan is trying to eat healthier and discovered a recipe for energy balls, sharing an image showing a bowl of coconut balls and a bowl of oats around December 31, 2023",
+        "score": 0.5441327724833998,
+        "id": "accc6366-dfdd-4397-bbab-dcfd779e89bb",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan frequently visits a peaceful beach spot close to his home to relax and unwind, as shown in the sunset ocean photo he shared on November 9, 2023",
+        "score": 0.5437137012321013,
+        "id": "09ec3eb4-d7cc-4955-9a60-539c672bc604",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan decided to try yoga for stress relief and flexibility, following Sam's recommendation that it has improved his own flexibility and stress levels",
+        "score": 0.5432841,
+        "id": "d6735bda-26aa-4f13-9471-950c057e1b95",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2023-12-05T20:16:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of a tree with pink flowers in a park, recalling that during last spring (around March-May 2023) when he was feeling down, the vibrant colors brought him a smile and reminded him to find joy in little things",
+        "score": 0.5432407333333332,
+        "id": "13852b5d-086d-42b0-8d9a-6d10dc1af66c",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Sam is traveling through Lake Tahoe around October 14, 2023, and heard it is a great location for kayaking",
+        "score": 0.5425691383416583,
+        "id": "7e4193ba-d47c-4118-b135-f30ffe4357ad",
+        "created_at": "2023-10-14T16:07:00+00:00",
+        "updated_at": "2023-10-14T16:07:00+00:00"
+      },
+      {
+        "memory": "Evan went on a trip to Canada around late July 2023 where he met a Canadian woman, describing the encounter as unreal and movie-like, and stating that being with her makes him feel alive",
+        "score": 0.5423855450626566,
+        "id": "0a2d0243-37e8-48c4-9be6-d78da64cdf12",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2023-08-07T19:52:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of his son on crutches with a backpack following the recent bike accident",
+        "score": 0.5422334255744256,
+        "id": "74f71c57-e937-4be9-b6f5-957e78d40503",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2023-12-17T18:48:00+00:00"
+      },
+      {
+        "memory": "In his painting classes, Evan is learning watercolor techniques with an instructor who emphasizes observing nature and painting what is seen, which he finds relaxing for stress relief",
+        "score": 0.5418970016260163,
+        "id": "70d8912f-9dc3-47e5-8e5b-373b47eb9b0e",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Sam suggested to Evan that they make it a habit to appreciate something each day to help enjoy life more, following Evan's reflection on the value of life after his health scare",
+        "score": 0.5410980585301837,
+        "id": "533f53e4-eb93-47ab-b690-219ad6d84cb4",
+        "created_at": "2023-11-21T19:30:00+00:00",
+        "updated_at": "2023-11-21T19:30:00+00:00"
+      },
+      {
+        "memory": "Evan went on a road trip to the Rocky Mountains around July 2023, finding the views stunning and the experience refreshing and relaxing",
+        "score": 0.5385598760572762,
+        "id": "928aa2b5-6819-4506-9318-2d47208357ef",
+        "created_at": "2023-08-27T10:18:00+00:00",
+        "updated_at": "2023-08-27T10:18:00+00:00"
+      },
+      {
+        "memory": "Evan enjoyed skiing in Banff National Park around July 2023, describing the snow as amazing and expressing excitement to return next year",
+        "score": 0.5385245357237717,
+        "id": "7927e80d-7136-47d5-8ae1-7a10fc4fea91",
+        "created_at": "2023-08-19T18:17:00+00:00",
+        "updated_at": "2023-08-19T18:17:00+00:00"
+      },
+      {
+        "memory": "Evan is considering trying yoga as a gentle yet effective activity for stress relief and flexibility, and asked Sam for his opinion on it",
+        "score": 0.5374289733333333,
+        "id": "b3afbb95-009f-46b5-9736-1f30995e9a2d",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2023-12-05T20:16:00+00:00"
+      },
+      {
+        "memory": "Sam is considering trying painting as a hobby to stay motivated and de-stress, seeking Evan's opinion on its effectiveness for stress relief",
+        "score": 0.5370927666666666,
+        "id": "d7defd3c-f86b-4ea4-9884-44c890df2a09",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Sam practices yoga and reports that it has significantly improved his flexibility and stress levels, recommending it to Evan as a beneficial activity",
+        "score": 0.5363706,
+        "id": "8c365fc3-5fbb-47cc-a104-46eb1b10109f",
+        "created_at": "2023-12-05T20:16:00+00:00",
+        "updated_at": "2023-12-05T20:16:00+00:00"
+      },
+      {
+        "memory": "Sam plans to find a trainer to help with weight training and will keep Evan posted on progress",
+        "score": 0.535841904988345,
+        "id": "7ba55643-da3b-4e72-94e7-77ac5fab656d",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Evan went on a family trip to the Canadian Rockies around May 2023, where he saw sunset scenery featuring a lake with rocks and mountains in the background",
+        "score": 0.5355222175824176,
+        "id": "8a857506-bbd4-4111-8aeb-ffdee5328d93",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Evan has never experienced any issues with self-checkout machines at stores, contrasting with Sam's frequent frustrations",
+        "score": 0.5354968415670651,
+        "id": "531641af-89bb-4fdb-9e4e-9af29fa8895f",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan described his family road trip to Jasper National Park around May 20-21, 2023 as a relaxing retreat featuring fresh air, peacefulness, and a cozy cabin surrounded by mountains and forests",
+        "score": 0.53527011,
+        "id": "3beb442d-b914-4151-bae7-36a4d9df846d",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Sam acknowledges that breaking old habits is difficult and asks Evan for tips on starting the process of making positive lifestyle changes after his recent doctor's check-up",
+        "score": 0.5352354933333333,
+        "id": "d920715b-a091-48e7-beb7-a0f2cde79f96",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Sam is adopting a healthier lifestyle and took friends on an epic hiking trip on December 29, 2023, sharing a photo of himself standing on a rock overlooking a valley",
+        "score": 0.5347431533333333,
+        "id": "e88bb1e0-179a-4911-873b-5d5c6f943ed4",
+        "created_at": "2023-12-31T11:00:00+00:00",
+        "updated_at": "2023-12-31T11:00:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of a small island with a lone boat in calm water at sunrise",
+        "score": 0.5344127913686314,
+        "id": "77c61639-5adf-447c-8503-87e38b3bdc0f",
+        "created_at": "2023-08-07T19:52:00+00:00",
+        "updated_at": "2023-08-07T19:52:00+00:00"
+      },
+      {
+        "memory": "Evan shared an image of a notepad with a note and scissors on October 8, 2023, while encouraging Sam to stay positive and keep pushing forward, emphasizing that progress is key",
+        "score": 0.534305519431988,
+        "id": "646e74a1-5663-4f07-bd7e-973f105561a8",
+        "created_at": "2023-10-08T15:09:00+00:00",
+        "updated_at": "2023-10-08T15:09:00+00:00"
+      },
+      {
+        "memory": "Evan shared an image of himself holding a bottle of medicine in the context of his recent health scare and medication reminders",
+        "score": 0.53406312,
+        "id": "5b81f5c5-06a4-4266-81a7-3cdf144e069c",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Evan advised Sam to set specific fitness goals, such as a target running distance or number of push-ups, to maintain motivation and have something to strive for",
+        "score": 0.5338737533333333,
+        "id": "7fe20ce9-c348-499a-97ec-908fd99937f7",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Sam is trying to eat healthier and shared a photo of a salad bowl with colorful vegetables and a glass of milk around June 6, 2023",
+        "score": 0.5338317734335839,
+        "id": "bb25f764-83e1-4572-a990-7565fcf0078e",
+        "created_at": "2023-06-06T15:55:00+00:00",
+        "updated_at": "2023-06-06T15:55:00+00:00"
+      },
+      {
+        "memory": "Sam shared a photo of a bowl of fruit with a striped cloth on October 6, 2023, illustrating his continued effort to eat healthier",
+        "score": 0.5335481133333334,
+        "id": "55822dea-5d9b-4fab-bf5f-85c73d0a55ac",
+        "created_at": "2023-10-06T20:57:00+00:00",
+        "updated_at": "2023-10-06T20:57:00+00:00"
+      },
+      {
+        "memory": "Evan advised Sam that finding an enjoyable fitness routine and making small, smarter dietary choices helped him feel healthy and strong, encouraging Sam that he can succeed in his lifestyle changes",
+        "score": 0.5324784166666666,
+        "id": "d502f868-4cd0-43dd-a7f6-fe9dd8f1763e",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Sam had a vivid dream on the night of August 12, 2023, where he was soaring over skyscrapers, describing the experience as incredible and wondering about its significance",
+        "score": 0.5318771352114552,
+        "id": "e5fda45e-5c3e-49b0-a660-a568530ad6ea",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      },
+      {
+        "memory": "Evan encouraged Sam to believe in himself and take his health journey one day at a time, emphasizing that Sam's worth is not defined by his weight as of December 17, 2023",
+        "score": 0.5316839325276937,
+        "id": "d952fe86-1ba9-4eb1-8f37-3cc0d50a08ce",
+        "created_at": "2023-12-17T18:48:00+00:00",
+        "updated_at": "2023-12-17T18:48:00+00:00"
+      },
+      {
+        "memory": "Evan considers his family his rock and means the world to him, expressing excitement about expanding their family and creating more beautiful memories together",
+        "score": 0.5310755933333333,
+        "id": "59eb6f64-3f72-4fbf-9e01-5cc7b3e8599b",
+        "created_at": "2023-12-09T13:45:00+00:00",
+        "updated_at": "2023-12-09T13:45:00+00:00"
+      },
+      {
+        "memory": "Evan took his family on a road trip to Jasper National Park around May 20-21, 2023, driving through the Icefields Parkway and admiring the glaciers and lakes",
+        "score": 0.5306539745816733,
+        "id": "12c7d5c6-c88c-457c-b355-386aa1aeb1cd",
+        "created_at": "2023-05-24T19:11:00+00:00",
+        "updated_at": "2023-05-24T19:11:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo of a salad containing chicken, avocado, tomatoes, corn, and cheese on January 10, 2024, while encouraging Sam to focus on balanced diet and low-impact exercises",
+        "score": 0.5306286006660007,
+        "id": "4cb2efac-b1ec-4560-ad79-5080e221b256",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Evan clarified that the regrettable incident involving roses on January 9, 2024, was a pee accident near the plants, which he found embarrassing and apologized for",
+        "score": 0.5299827273593074,
+        "id": "00b861f0-6b9b-4971-b7c1-15c6b8029708",
+        "created_at": "2024-01-10T00:17:00+00:00",
+        "updated_at": "2024-01-10T00:17:00+00:00"
+      },
+      {
+        "memory": "Evan went to the gym on October 16, 2023, and reported gaining strength as part of his fitness progress",
+        "score": 0.5295069666666666,
+        "id": "a5b55c0b-0d7a-4ea5-8da8-46a3d55ca994",
+        "created_at": "2023-10-17T13:50:00+00:00",
+        "updated_at": "2023-10-17T13:50:00+00:00"
+      },
+      {
+        "memory": "Evan confirmed that the woman in his wedding photo is the Canadian woman he met in late July 2023, stating he fell in love with her at first sight and wonders why they didn't marry sooner",
+        "score": 0.5293165202898551,
+        "id": "f67c5ab0-cca2-4b48-8a10-0c6edd5fc5e1",
+        "created_at": "2023-12-26T16:25:00+00:00",
+        "updated_at": "2023-12-26T16:25:00+00:00"
+      },
+      {
+        "memory": "Sam loves hiking but hasn't done it in a long time; he recalls a special hike with his dad when he was ten years old, which involved walking through a forest and was a great bonding experience for them",
+        "score": 0.5280258266666666,
+        "id": "7f3de7d3-83f4-4ed0-a7fd-578f6769c49c",
+        "created_at": "2023-05-18T13:47:00+00:00",
+        "updated_at": "2023-05-18T13:47:00+00:00"
+      },
+      {
+        "memory": "Evan feels lucky to have found a partner who understands him and is happy that their extended families are supportive of their marriage announcement made around January 5, 2024",
+        "score": 0.5280001447352648,
+        "id": "8403047e-5eac-43bd-a094-38981cd600f5",
+        "created_at": "2024-01-06T13:32:00+00:00",
+        "updated_at": "2024-01-06T13:32:00+00:00"
+      },
+      {
+        "memory": "Sam expressed gratitude for Evan's encouragement and reaffirmed his commitment to continuing his health journey by taking it one step at a time as of August 15, 2023",
+        "score": 0.5279127658610271,
+        "id": "b31edddd-7d5e-4f07-9b71-fe16a6442a75",
+        "created_at": "2023-08-15T16:20:00+00:00",
+        "updated_at": "2023-08-15T16:20:00+00:00"
+      },
+      {
+        "memory": "Evan expressed that helping others stay committed and motivated is rewarding, told Sam he inspires them, and encouraged him to keep up the great work as a Weight Watchers coach",
+        "score": 0.5276930488074001,
+        "id": "1a8aeb03-e6ee-4b7a-927d-330473951a8a",
+        "created_at": "2023-11-09T21:13:00+00:00",
+        "updated_at": "2023-11-09T21:13:00+00:00"
+      },
+      {
+        "memory": "Evan shared a photo from his summer 2023 camping trip showing a kayak viewed from the front of the boat against a sunset and calm lake backdrop",
+        "score": 0.5275577237828838,
+        "id": "f4616cd8-c5db-40e9-90b5-51652691390a",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Sam shared a photo taken around January 4, 2024, during a drive in the countryside, depicting a field with a fence and a dirt road under sunlight and clouds",
+        "score": 0.5275457,
+        "id": "81bd083c-83f9-4581-bca6-2a031dc7239d",
+        "created_at": "2024-01-11T21:37:00+00:00",
+        "updated_at": "2024-01-11T21:37:00+00:00"
+      },
+      {
+        "memory": "Evan expressed determination to continue searching for his lost keys step by step, maintaining a positive mindset despite the frustration of losing them weekly",
+        "score": 0.5268850333333334,
+        "id": "e0c28e4e-0b52-404a-babc-7ecdfbd4b613",
+        "created_at": "2023-08-13T16:09:00+00:00",
+        "updated_at": "2023-08-13T16:09:00+00:00"
+      }
+    ],
+    "search_latency_ms": 1006.8,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Evan shared a watercolor painting of a sunset over a body of water with vibrant colors (this occurred around September 11, 2023, as there is no record of a painting being shared in October).",
+      "memories_evaluated": 10,
+      "reason": "The generated answer describes a completely different painting (sunset over water) than the gold answer (cactus in the desert), resulting in zero correct items."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Evan did not share a painting with Sam in October according to the memories; however, on September 11, 2023, he shared a watercolor painting of a sunset over a body of water with vibrant colors and a watercolor painting of a colorful landscape depicting a mountain range with a horse.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer explicitly denies the event occurred in October and provides details about different paintings shared in September, which do not match the gold answer's content ('a cactus in the desert') or timeframe."
+    },
+    "top_50": {
+      "judgment": "CORRECT",
+      "score": 1.0,
+      "generated_answer": "A watercolor cactus painting",
+      "memories_evaluated": 50,
+      "reason": "The generated answer correctly identifies the core subject of the painting as a 'cactus', which matches the gold answer's description of 'a cactus in the desert', satisfying the rule that partial credit is given for including at least one correct item and that extra details (like 'watercolor') are acceptable."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A painting depicting a person on a cliff (with the query 'painting peaceful sunset')",
+      "memories_evaluated": 60,
+      "reason": "The generated answer describes a completely different subject (a person on a cliff) than the gold answer (a cactus in the desert), with no semantic overlap or shared entities."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A painting depicting a person on a cliff (described as a peaceful sunset)",
+      "memories_evaluated": 100,
+      "reason": "The generated answer describes a completely different subject (a person on a cliff) than the gold answer (a cactus in the desert), with no semantic overlap or shared entities."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "A painting depicting a person on a cliff (described as a peaceful sunset)",
+      "memories_evaluated": 200,
+      "reason": "The generated answer describes a completely different subject (a person on a cliff) than the gold answer (a cactus in the desert), with no semantic overlap or shared entities."
+    }
+  }
+}

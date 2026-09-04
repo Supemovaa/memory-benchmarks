@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv3_q91",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What is Nate's favorite book series about?",
+  "ground_truth_answer": "dragons",
+  "evidence": [
+    "D9:14"
+  ],
+  "user_id": "locomo_3_63236696",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What is Nate's favorite book series about?",
+    "search_results": [
+      {
+        "memory": "Joanna recommended the 'A Court of Thorns and Roses' series by Sarah J. Maas to Nate for reading, suggesting fantasy series are great for relaxation",
+        "score": 0.6751970431606905,
+        "id": "96916bb8-79fe-4cbd-aea3-0f7d0da6a708",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate is planning to read the 'A Court of Thorns and Roses' series by Sarah J. Maas after Joanna's recommendation",
+        "score": 0.6639969098273572,
+        "id": "9849623e-42f0-402a-88b7-45874304f9e8",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate considers the space opera book series he recommended to Joanna one of his favorites, praising its awesome action scenes and plot",
+        "score": 0.6514321666666666,
+        "id": "ebd4f9f9-dd02-45cb-a3ff-b529f9ec0c01",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if he has a favorite superhero",
+        "score": 0.6501071419654715,
+        "id": "3a5c2322-f906-49fe-8b45-78914d413c35",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate is looking for new book recommendations and shared a photo of his bookshelf filled with books and a toy car",
+        "score": 0.6420081133333334,
+        "id": "b1c7880f-5575-4135-9568-28338b5b238f",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna is always open to receiving new book recommendations and asked Nate what books he enjoys reading",
+        "score": 0.6371152929614873,
+        "id": "9716ffe7-a168-4351-9a89-523c26b7fdaa",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate recommended the 'A Court of Thorns and Roses' book series by Sarah J. Maas to Joanna on August 22, 2022, sharing a photo of the books stacked on a wooden table",
+        "score": 0.634706136494024,
+        "id": "d426c90c-89e6-4a68-b094-212854d521a1",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate considers the Lord of the Rings trilogy one of his favorites, praising its world-building, battles, and storytelling",
+        "score": 0.6337787900366301,
+        "id": "f6fca525-d402-45ef-b3e5-a46545ebcc28",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate considers The Lord of the Rings trilogy to be probably the greatest trilogy of all time and was glad Joanna enjoyed watching it",
+        "score": 0.6185458967032967,
+        "id": "b1ffaac5-9f10-4a19-8ae6-042107d70ee1",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Nate stated that Iron Man is his top favorite superhero, citing a love for the character's technology and sarcastic humor, and shared a photo of an Iron Man action figure",
+        "score": 0.6124139113944224,
+        "id": "6f879644-0380-403d-8141-4a9bdc29f921",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate prefers movie recommendations from Joanna over choosing random films, as he usually enjoys her suggestions more",
+        "score": 0.6093286,
+        "id": "24fe289f-2fdf-433b-877c-1d9c215a7621",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in watching 'Eternal Sunshine of the Spotless Mind' soon and mentioned that he loves watching classic movies",
+        "score": 0.6087759834819954,
+        "id": "f80c47ba-1671-45ea-8443-b99843c3916d",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2022-01-21T19:31:00+00:00"
+      },
+      {
+        "memory": "Joanna has had the fantasy novel series featuring dragons recommended by Nate on her reading list for a long time and plans to read it soon",
+        "score": 0.6049472092574093,
+        "id": "52f8851b-3f64-4c71-8421-ae333baf73c5",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate recommended a fantasy novel series featuring dragons, adventures, magic, and great characters, describing it as a must-read in response to Joanna's request for book recommendations",
+        "score": 0.6040491596281541,
+        "id": "309f1568-8b09-4ea1-8318-e2eb5f292e17",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of Nintendo games and had been wanting to play 'Xenoblade Chronicles' for a while because his friends played it and recommended it",
+        "score": 0.6039776667994688,
+        "id": "51a70d9c-2f60-40cb-9e88-c9e7de5f2d5a",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what his favorite dish from the cooking show was",
+        "score": 0.6027148638028638,
+        "id": "a99d2d01-ffd0-4dbc-b2fc-1513895509a2",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed interest in checking out the space opera book series recommended by Nate on August 22, 2022, describing it as looking awesome",
+        "score": 0.6000123014866204,
+        "id": "69f74247-a0ae-4e8e-83fe-d661f04ab88c",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna recommends the romantic drama 'Eternal Sunshine of the Spotless Mind' to Nate, describing it as a good film about memory and relationships",
+        "score": 0.5963161834819953,
+        "id": "1fae45d3-2c37-4ad8-8172-db60e8cb0bd2",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2022-01-21T19:31:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what his favorite game or movie is that he has seen recently, following their discussion about unwinding with video games and movies",
+        "score": 0.595591644915085,
+        "id": "b2d4ef77-7aef-4190-8311-edc94d3c08a1",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate recommended a space opera book series to Joanna on August 22, 2022, describing it as having awesome battles and interesting characters, and shared an image of a poster depicting a man falling off a cliff",
+        "score": 0.5953761348199538,
+        "id": "b5a4b6d8-f742-486b-95cd-a575f3a4dc82",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate believes that real-life stories are the best source of inspiration and expressed enthusiasm for hearing about Joanna's next script inspired by her Woodhaven trip",
+        "score": 0.594054254855643,
+        "id": "f1db8fd4-6c22-47ea-8253-ece4dcf8d423",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Nate noticed a Spider-Man pin on Joanna's purse during their last meeting and asked if Spider-Man is her favorite superhero or if she prefers another",
+        "score": 0.5927094996736596,
+        "id": "bb289585-7322-41e9-8092-c043f27d181e",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate is currently playing the fantasy RPG 'Xenoblade Chronicles' and highly recommends it, describing the experience as a blast",
+        "score": 0.5924408734661354,
+        "id": "1746a7eb-3241-4ca3-b13d-349abef1a6da",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate loves fantasy and sci-fi movies because they provide an escape and stimulate his imagination",
+        "score": 0.5869482366666667,
+        "id": "0b5a1270-8d7c-43f6-987e-ff8add07fc72",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what his favorite game is, noting that success in gaming is all about practice",
+        "score": 0.5843154382484183,
+        "id": "ad7a6331-644a-44f3-949d-c970ee609942",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate keeps an Iron Man action figure in his room as a reminder to keep working on his goals, stating it reminds him of something he loves",
+        "score": 0.5838725513944223,
+        "id": "888383a1-5b2e-4105-97f5-daf25d322356",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his bookcase which is filled with DVDs and movies",
+        "score": 0.5828025133333333,
+        "id": "ccbe4680-8123-4b0b-9020-5fc37f8f7b53",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps it with her while writing",
+        "score": 0.5806125101831502,
+        "id": "b50e0966-df98-46cd-ba56-2606e2d14891",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate's favorite movie genres are action and sci-fi, as he enjoys the visual effects in these films",
+        "score": 0.5795561733333333,
+        "id": "5c70af22-010b-48b2-9065-a1566ebdf66b",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2022-01-21T19:31:00+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his pets play together and describes seeing his dog Max happy as a dream come true",
+        "score": 0.576529545112782,
+        "id": "c2194337-190b-4379-ad58-30d13e27f733",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna appreciates how video games can spark imagination and asked Nate if he has a favorite fantasy or sci-fi movie",
+        "score": 0.5749679233333334,
+        "id": "fadef60a-ce32-461e-8754-8d79e36d9331",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate has turtles that he finds cute and spends time with, which has been helpful for him recently",
+        "score": 0.5730745,
+        "id": "d3355fa3-018b-4c13-85ef-35059131f8da",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate is a big fan of gaming videos and started making them himself to share his love of gaming and connect with others who enjoy it, finding the idea fun",
+        "score": 0.5717859466666667,
+        "id": "a549383a-160d-499e-8de2-b4617918a3f2",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna recommends finding a fantasy book series to read through, noting that most fiction series are great reads when trying to relax",
+        "score": 0.5712447466666667,
+        "id": "0dded357-9db0-490c-965e-66a634c47be5",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate plans to start writing down the things his animals like a lot, inspired by Joanna's practice of recording her favorite memories",
+        "score": 0.5695733953784861,
+        "id": "ee2f05d2-5212-4a93-b543-e0a4d0a615c9",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate encouraged Joanna regarding her new book, expressing confidence that readers will recognize her as the author of her previously published movie and love the book even more",
+        "score": 0.5692139333333334,
+        "id": "ae1ba7ca-5b73-4ffd-87a2-43c1b186b2fe",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna added the space opera book series recommended by Nate to her reading list on August 22, 2022, thanking him for the recommendation",
+        "score": 0.5685487092574093,
+        "id": "d4b131da-db5e-4cf9-bc99-230bccabe497",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate's main hobbies are playing video games and watching movies",
+        "score": 0.5683396397839212,
+        "id": "887afbca-293b-4b3f-925b-14e0514b66c6",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2022-01-21T19:31:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what inspired him to start playing 'Xeonoblade Chronicles' and confirmed her understanding that it is a Japanese game series",
+        "score": 0.5673219533333334,
+        "id": "146c1ee4-de75-4433-adb5-3350384807c5",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna shares Nate's appreciation for Iron Man, specifically citing the character's technology and funny jokes as aspects she loves",
+        "score": 0.5669155513944223,
+        "id": "d7178c69-6132-412e-9dd7-ba53496c97a0",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate describes his pet turtles as zen masters that remind him to slow down and appreciate small things in life, bringing him calm",
+        "score": 0.56635568,
+        "id": "de438ccf-a13a-4186-8445-6c7411af061a",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Nate added 'Little Women' to his watch list after Joanna recommended it as an amazing film about sisterhood, love, and reaching for dreams",
+        "score": 0.5638412801850018,
+        "id": "44bb690b-5974-4017-bd7b-7e58dec626ff",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Nate enjoys watching his turtles play as a way to enjoy peaceful moments in life",
+        "score": 0.56383246,
+        "id": "30c76b30-2683-496e-aae3-6c224caadfdd",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna encourages Nate to write down memories, stating that looking back on fond memories is a blessing",
+        "score": 0.5630387666666666,
+        "id": "f2ac3f70-d061-44d4-9971-376667d13b85",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate noted that the couple he met while walking Max did not share many interests with him besides a love of animals, but he believes this shared passion is sufficient for them to become good friends",
+        "score": 0.5629348784461153,
+        "id": "d22ba338-02a4-4c0c-acc4-b40f1c9b18c6",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna for advice on how to pursue writing, noting the large number of books in her inspiration space",
+        "score": 0.5608774099999999,
+        "id": "8ed668dc-717d-41e5-b229-ccf1c3011f71",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Nate's two turtles have distinct personalities: one is adventurous and the other is reserved, which he finds cute. He considers them great companions that bring him joy.",
+        "score": 0.5603261954378955,
+        "id": "0d038981-1d27-413e-a58a-f6e9190c732a",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate adopted a dog named Max who is full of energy and brings him joy, while also keeping his other pets active",
+        "score": 0.558871245112782,
+        "id": "5e73af52-8864-48d1-ac06-cddabf769dce",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Nate is very happy with his decision to get a third turtle and states he wouldn't have it any other way, confirming his satisfaction with the choice despite its unexpected nature",
+        "score": 0.5564671666666666,
+        "id": "35d8d356-f73d-4a06-ae90-b8d6f920a62e",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate offered to send Joanna pictures of his turtles so she can watch them grow without physical contact, given her allergies prevent her from owning pets",
+        "score": 0.55618437,
+        "id": "4d263226-613c-44b0-9dd8-d850468c74a9",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate whether the board game Catan is more competitive or a chill experience, seeking to understand the nature of the game he played at the convention",
+        "score": 0.5560490919521913,
+        "id": "79747c50-8c74-4de3-adff-e4f4edd184b9",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate describes his pet turtles as having big personalities despite their small size and recommends keeping similar pets for stress relief",
+        "score": 0.5560487133333333,
+        "id": "5335e1f6-0ac4-4868-8b77-0261aefdd8ec",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate is drawn to turtles because they are unique, their slow pace offers a nice change from the rush of life, and they are low-maintenance and calming",
+        "score": 0.55597118,
+        "id": "c89bb2de-f91a-47b3-94a1-d78f96256084",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna appreciates Nate's support throughout her writing journey and draws a parallel between her hard work on the book and his recent video game tournament success",
+        "score": 0.5558466576576576,
+        "id": "a3b45bdb-f3c8-47fb-b624-63cb8243d82d",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate plans to start writing down his favorite memories with Joanna, in addition to recording things his animals like",
+        "score": 0.552914175378486,
+        "id": "69bde106-b65b-4902-9f0b-8f7dd946bad2",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if he got to know the couple with the dog well and what they were like, following up on his story about meeting them during a walk with Max",
+        "score": 0.5528120784461152,
+        "id": "7f4d86d1-5f31-44de-a601-f2899ca2462f",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Nate finds the dynamic with new tournament acquaintances somewhat weird due to varying competitiveness levels, so he prefers sticking around the more chill people in that group",
+        "score": 0.5524629166666667,
+        "id": "fe3fb1e7-b9c5-4382-8dbe-c46239ee543b",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate loves watching movies because they transport him to new worlds, evoke strong emotions, and help him relax after a long day",
+        "score": 0.5519126945551128,
+        "id": "04089984-510a-4a1a-8660-c759cb276e61",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate recently watched the movie 'Inception' and was impressed by its twists and dream-related themes",
+        "score": 0.5514552833333334,
+        "id": "5e173335-6d56-41e4-8788-3b9d85fd41ba",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate described the stuffed animal he shared with Joanna as 'joy in your pocket' and stated that looking at it always makes him grin",
+        "score": 0.5501808266666667,
+        "id": "4265caf2-bc33-49c9-99bd-26d3d7be6d97",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Nate finds happiness in watching his turtles slowly walk around, though he admits he does not fully understand why this specific activity brings him such joy",
+        "score": 0.5499456266666667,
+        "id": "3f15991f-0903-44ad-a603-d6047292045a",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna found the stuffed animal toy Nate shared in a photo to be cute and appreciated his thoughtful gesture of sending it to her",
+        "score": 0.54887012,
+        "id": "e736d5c3-6382-409f-885a-56dfd4477687",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a turtle laying on a bed of rocks and gravel while asking Joanna if any specific piece from her early writings stands out to her",
+        "score": 0.5475655733333333,
+        "id": "555ca6c3-5378-40d0-8026-be82f3095621",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Nate offered to help his new tournament acquaintances improve their gaming skills after they asked him for tips",
+        "score": 0.5448696961487384,
+        "id": "c82b97fb-ae87-4a41-afcb-773285ec2ca9",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna for specific pointers on what items to get for his living room to make it as comfortable as her cozy movie night setup",
+        "score": 0.54286734,
+        "id": "5356f474-ba1b-48cd-91c7-62d6e72ad40d",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what motivated him to acquire a third pet turtle, following his announcement that he got them a new friend",
+        "score": 0.5423471503163504,
+        "id": "9f2e4f9c-07c9-4d70-bd30-01daf9989ba6",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if she could visit him to watch him play with his turtles from a distance, acknowledging that her allergies prevent close contact",
+        "score": 0.5405950466666667,
+        "id": "8c579713-5ef4-4be9-85ab-f985b91ad6b4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna recommends that Nate start a cork board for inspiration, advising him to be willing to explain its purpose to his friends",
+        "score": 0.5394763421209118,
+        "id": "3029eccd-c78a-487c-b890-4b63bcbf5aa2",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a Captain America costume on display in a museum during her conversation with Nate about gaming recommendations",
+        "score": 0.53749908,
+        "id": "6438cb86-7f25-449b-b079-5fb44c2f139e",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate describes his pet turtles as calm and peaceful little buddies, noting that the tank expansion has made them happy and that seeing them improves his mood after long days of gaming",
+        "score": 0.5370081800000001,
+        "id": "3089c053-2206-4f0d-9dc2-0ebbd23b78f6",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate encouraged Joanna to follow her passion for writing while also considering acting if it brings her happiness, and asked which movies spark her writing inspiration",
+        "score": 0.5369532533333333,
+        "id": "59bc8ab5-f1df-4857-becb-aca0d536f343",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if he has any favorite flavors for dairy-free desserts, following his success with homemade coconut milk ice cream",
+        "score": 0.5318571233333333,
+        "id": "88084e21-e053-4817-b6e6-985b3908faff",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Nate loves having his pet turtles around because they make him feel calm, require little maintenance, and he enjoys watching them soak in the sun",
+        "score": 0.5317876934731935,
+        "id": "6f2d9078-dd81-4fac-baf0-df80fb0a3e47",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Nate reported that most of his friends liked the controller accessories he provided, though he is unsure if they will continue using them long-term",
+        "score": 0.531658032967033,
+        "id": "63dbd72e-f746-4a55-ab71-aea4f809e695",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for recommendations on good hiking spots",
+        "score": 0.5313768333333333,
+        "id": "2ec3bf3b-97ab-4dec-9868-0d7660782ec7",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Nate took his pets to the park on a special day around November 7, 2022, and found seeing their happy faces memorable, stating that he treasures mixing new experiences with old memories",
+        "score": 0.5311196866666666,
+        "id": "e2789e30-dc50-41cb-a033-c145a9818f7b",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate played the strategy board game Catan at the convention, describing it as a great game where players build settlements and trade resources, and shared a photo of the blue and yellow game boards.",
+        "score": 0.5309659719521912,
+        "id": "922091dc-24cd-4543-b810-440698f9b956",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate attributes his success in his gaming career to the encouragement he received, which inspired him to create a motivational whiteboard for Joanna",
+        "score": 0.5302901405046481,
+        "id": "adfd40f4-9390-4783-b5ab-7109971aa951",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate is now able to make a living from his passion for gaming and expressed that he is loving this career path",
+        "score": 0.5298468333333334,
+        "id": "58f83cbc-1851-4504-870a-9ef76341db27",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate watched the movie 'Little Women' recently (around early October 2022) and enjoyed it, praising the awesome acting and captivating story",
+        "score": 0.5294701151714952,
+        "id": "4fe64131-4cac-4d5a-9865-139f86dfbe77",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in joining Joanna for baking or cooking sessions, stating that these activities bring them together",
+        "score": 0.52935414,
+        "id": "b321c60a-41e5-4ac8-a60e-7f210ccb65ba",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate started teaching people how to make dairy-free desserts, finding the experience fun and rewarding as he shares his passion for them",
+        "score": 0.528114269024309,
+        "id": "bc71c0af-8ac7-44dc-834d-fb786300c14a",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Nate finds that spending time with his pet turtles has been a significant help to him recently, particularly after his recent gaming tournament letdown",
+        "score": 0.52513129,
+        "id": "86852d96-43be-4d13-a6ac-24fcd49195d1",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate believes it is fate that Max has a walking buddy, noting that Max really likes the other dog from the nearby couple they met around May 23, 2022",
+        "score": 0.5244303117794487,
+        "id": "d2649cce-460b-4044-8d4d-3ddd9de6885f",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna complimented Nate's new home equipment setup, describing it as an 'ice set-up,' and asked if he uses the computer for gaming around November 7, 2022",
+        "score": 0.52438434,
+        "id": "10dcea18-a08e-4bcb-afb4-6ed378e0920d",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna if the handwritten screenplay notebook she shared is her third one, implying she has completed or worked on multiple screenplays previously",
+        "score": 0.5240349617715618,
+        "id": "b00e702f-5879-494c-9ca2-89bd6661349d",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Joanna praised Nate for helping strangers improve their gaming skills, encouraging him that stepping outside his comfort zone is always great",
+        "score": 0.523568148984349,
+        "id": "07781530-a21f-4232-a37c-2f4bcf5a4162",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Joanna commented that Nate's turtles look serene and happy, expressing appreciation for having such calming pets in one's life",
+        "score": 0.5228360533333334,
+        "id": "eb912ef6-a52a-4599-9fc9-eed9311e3e20",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Nate's pet turtles eat a varied diet consisting of vegetables, fruits, and insects",
+        "score": 0.5220988133333333,
+        "id": "c9219342-f38c-4211-bc77-adb34cf23f7a",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate thanked Joanna for her writing advice and kind words, stating he will keep working hard on his writing pursuits to see what happens",
+        "score": 0.5213113666666667,
+        "id": "0e954728-53f4-45b6-89ac-98364b4521a9",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Nate has been helping friends reset their high scores at an international tournament and finds the experience fun",
+        "score": 0.5211145090243091,
+        "id": "e05c80a0-bd99-4bec-8bb8-00c59f6338c9",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Nate reported that his gaming party was a great success and they played Chess afterward for fun",
+        "score": 0.5204851233333333,
+        "id": "3c5e5722-0500-4b41-a6bc-a2b860707fc5",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a fish tank with a fish inside it while asking Joanna about the coolest moment on her movie set",
+        "score": 0.5200844633333334,
+        "id": "30c141e6-32d0-4ab8-8ba6-fccd4341f1fa",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if his turtles have distinct personalities similar to dogs and cats, sharing a photo of a rock formation with a person standing on the side",
+        "score": 0.5194889266666667,
+        "id": "b3614fdd-be43-408e-9025-c3bbe472d6a4",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate is excited about the future regarding his decision to join a new gaming team, acknowledging it as a big step but expressing readiness for the change",
+        "score": 0.5192016031075698,
+        "id": "5bf865bf-470a-44e2-9123-00ee4461dc05",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what flavor of ice cream he made for his friend, following his mention that they loved it",
+        "score": 0.5188933976115485,
+        "id": "1bc7b6f9-3eb5-498b-8ea5-7a695a4941b1",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's new dog Max is adorable and expressed understanding of why Nate is thrilled about the new addition to his family",
+        "score": 0.518753905112782,
+        "id": "fcb16bad-5e76-471c-912d-90ecfca89a2f",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Nate heard there is a nice hiking trail just north of where he lives",
+        "score": 0.5181340615384615,
+        "id": "dd73440c-7c6c-4916-af3b-1d9f0d1d8cbb",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna recommended that Nate get a fluffy couch large enough for multiple people to lie down on, a weighted blanket, and dimmable lights to create a cozy movie night setup",
+        "score": 0.5177718333333333,
+        "id": "9a723548-fd97-4a8b-8ecc-5ddca7465521",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if he plans to cheer on his new tournament acquaintances even if he loses to them, inquiring about his sportsmanship and support for competitors.",
+        "score": 0.5176035628154051,
+        "id": "0d426548-98ed-49df-bd33-243f3e9e71f9",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate is creating gaming content for YouTube to entertain viewers and satisfy his video game cravings when he is not participating in tournaments",
+        "score": 0.5173381522834646,
+        "id": "2b43a817-6203-4264-8a3e-5948ad388a95",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate took his turtles to the beach in Tampa around November 10, 2022, stating that they bring him peace during life's craziness",
+        "score": 0.5166497666666667,
+        "id": "fa5c489b-0581-4526-9b2e-6860db155956",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Nate is considering joining a new gaming team after his next tournament, having received several offers but not yet decided, as he feels ready for a change around November 9, 2022",
+        "score": 0.5163059497742365,
+        "id": "d8049a5a-635e-48f2-94a2-ab2972513dc9",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in starting his own cork board for inspiration, recognizing it as a valuable tool after seeing Joanna's setup",
+        "score": 0.5156377966666666,
+        "id": "758bd27a-ff7b-4115-8ed4-40e61f019a87",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a turtle laying on a bed of rocks and gravel while asking Joanna where she got the idea for her new movie script, which is a love story with lots of challenges",
+        "score": 0.5154804991408591,
+        "id": "848dd03c-ba82-4af1-9065-b6870fd43169",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna confirmed that Spider-Man is a favorite superhero of hers, specifically appreciating Peter Parker's struggles between being a hero and a person, though she enjoys all superheroes for their unique stories and powers",
+        "score": 0.5154023666666666,
+        "id": "a5a6ee5f-864b-43ae-9cc9-2de766582b78",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate described his homemade coconut milk ice cream as rich and creamy, stating it might be his new favorite snack",
+        "score": 0.5153518866666666,
+        "id": "ae019a00-ee67-4ceb-afbb-9f839730f158",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Nate is a member of a vegan diet group where he shares homemade treats like vegan coconut milk ice cream",
+        "score": 0.5152614060557769,
+        "id": "186a24a9-cf1e-4568-8c13-efc996eb4df2",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Nate keeps pet turtles, including a turtle and a turtleling, which he finds calming when he is nervous or facing important situations",
+        "score": 0.5144214534731936,
+        "id": "4307313e-7500-46a7-8405-fecfd65c4427",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed strong admiration for Nate's homemade ice cream and stated she wishes she could make it the way he does",
+        "score": 0.51373486,
+        "id": "62dddb87-07be-42d2-a1b0-c5269dc7d4c0",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna stated she will cherish the stuffed animal dog Nate shared with her on May 25, 2022, with all her heart",
+        "score": 0.5131155368498169,
+        "id": "615efe49-9b6f-47a3-ae4f-2b1bb6814c8e",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Nate has been playing the video game 'Cyberpunk 2077' nonstop, enjoying its futuristic setting and gameplay",
+        "score": 0.5119133800000001,
+        "id": "074514a2-fcba-49d8-9101-c3c0d22803e0",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to switch gaming teams, believing it could open new opportunities, and wished him luck in choosing the right team around November 9, 2022",
+        "score": 0.5118375466666666,
+        "id": "92752d71-dfa8-4cc0-997a-c7f1e7df0625",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate acquired a third pet turtle around November 2022 after seeing one at a pet store, noting that his tank is large enough to accommodate three turtles and describing them as best buddies who bring him joy and peace",
+        "score": 0.5112337836496837,
+        "id": "3108804e-9c19-4aed-961a-72c5fe022b4a",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what he has been up to lately around June 3, 2022",
+        "score": 0.5106299519732441,
+        "id": "cd1a5b0d-8180-49f4-81ce-63a0cb693617",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Joanna finds that the motivational quotes on Nate's whiteboard remind her of strength and perseverance, helping to motivate her during tough times around November 4, 2022",
+        "score": 0.5105781953379953,
+        "id": "7eb64d98-4f0b-476a-847d-40a4fb006995",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna appreciates Nate's support regarding her screenplay submission and asks if anything new or exciting is happening in his life",
+        "score": 0.5098056245754247,
+        "id": "c9b52d35-7a82-44b9-ad70-bd8ba2ab4216",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed strong affection for Nate's turtles, describing them as cute and stating she loves them very much after seeing a photo of them with a strawberry.",
+        "score": 0.5097532666666666,
+        "id": "32b3b5fc-bb2c-407d-a363-d5cb266f596d",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Nate met people at the game convention around October 7, 2022, who played a board game he loves; they bonded over their shared hobby and hit it off.",
+        "score": 0.5096164933333333,
+        "id": "511bb14c-0ad4-491e-8cdd-d1cb5840f7fd",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his gaming setup on November 7, 2022, which features a desk with two monitors and a laptop, describing it as his personal haven to escape into the virtual world",
+        "score": 0.5085009266666667,
+        "id": "39f36251-1523-409e-a8ba-79cd48a04576",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate described the board game Catan as both competitive and chill, noting that while they were competing during the convention session, they still had lots of fun",
+        "score": 0.5080392986188579,
+        "id": "f6ac6256-5230-4f8a-9664-7bc5e8ac93ac",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna cannot consume dairy and therefore cannot eat the ice cream Nate made, but she is interested in trying a dairy-free recipe",
+        "score": 0.5077593533333333,
+        "id": "4f37e5b5-4ee3-456c-b08a-0f860a300efb",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Nate won a Valorant tournament final on November 5, 2022, describing it as the best feeling to see his name as champion and noting that tournaments bring out strong emotions in him",
+        "score": 0.5073642066666667,
+        "id": "2a5ef8aa-80c4-47ce-96ef-fd0fdced60b4",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna complimented the motivational quotes whiteboard Nate shared, describing it as awesome and asking what inspired him to create it",
+        "score": 0.5069407785148186,
+        "id": "dbac60ec-c044-42ca-bf29-cb3acd2dc7fe",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate has had his pet turtles for 3 years as of January 2022 and they bring him tons of joy",
+        "score": 0.5068385285668892,
+        "id": "de7c2263-c0ed-4894-94b0-95312068ab60",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate has been feeling stressed around October 21, 2022 due to tough competitors in his video game tournament progress, but finds that his pet turtles always cheer him up",
+        "score": 0.5063450166666666,
+        "id": "11a3777b-23bc-46d4-a92f-c181b8396708",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for movie recommendations around October 6, 2022, noting that she could use some suggestions after discussing the benefits of taking breaks and reducing stress",
+        "score": 0.5046686985126162,
+        "id": "0149a7da-8fa6-42ee-98fe-6bca5f1b7139",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate suggested that Joanna consider backing up her work in the future to prevent data loss after hearing about her laptop crash",
+        "score": 0.50402339,
+        "id": "110c7e9a-e67b-48df-9d3e-8ec36c4da87d",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Nate enjoys coconut milk, chocolate, and mixed berry flavors for dairy-free desserts",
+        "score": 0.5026396658536586,
+        "id": "cc01e22f-e1d0-43a4-884f-3dd0b1c1a29d",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Nate has started hanging out with new people outside his usual circle whom he met at the video game tournament around January 14, 2022, and describes them as pretty cool",
+        "score": 0.5025847485668892,
+        "id": "29b3c26c-1b56-4b45-9094-954cac294225",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of two Nintendo game covers for 'Xenoblade Chronicles', which feature artwork depicting a group of people",
+        "score": 0.5025662467994688,
+        "id": "3a95ac53-d246-43d8-ae80-978a098057e8",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of his gaming setup, which includes a computer and a gaming chair in a dedicated gaming room",
+        "score": 0.5015820833333333,
+        "id": "a033dd3f-e667-46e2-993e-003c8ece45f5",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Nate plans to take time off during the weekend of August 27-28, 2022, to relax and spend time with his pets",
+        "score": 0.5013807156462585,
+        "id": "297e2c71-b41b-4951-8937-4a60ab614221",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate shared an image of a cup of ice cream with a cherry on top while responding to Joanna's news about joining a writers group",
+        "score": 0.50035786007722,
+        "id": "fd0ce1b9-2559-4e67-a72f-7d8562286e0a",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate recommended that Joanna attend a writing convention, describing his own recent game convention experience as unforgettable",
+        "score": 0.5001212885248085,
+        "id": "638fdd36-2edc-4669-b987-19bd7a636a84",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate introduced a new turtle to his existing pets, sharing a photo of three turtles basking on a rock in a pond around November 9, 2022",
+        "score": 0.5001009466666667,
+        "id": "32e2d757-ee7b-4e5e-a6b2-fe57e6cae0f4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed enthusiasm for Nate's new home gaming setup, stating that having his own dedicated space sounds great and must be really awesome around November 7, 2022",
+        "score": 0.4993444166666667,
+        "id": "b04ef2b7-9368-4860-84b2-472583761ac6",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate encouraged Joanna not to give up on her dreams after she received a rejection letter, reassuring her that the rejection does not reflect a lack of talent",
+        "score": 0.4986951377688978,
+        "id": "9e582480-29d7-480f-a6c2-179d5e8c3136",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Joanna responded positively to Nate's story about meeting a couple with a dog, noting that connecting with other pet owners can be uplifting and rewarding",
+        "score": 0.49792499999999995,
+        "id": "5207520b-afde-4b59-acef-0154c0f9295c",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Nate usually plays CS:GO but won his second gaming tournament around late April 2022 by competing in a local Street Fighter tournament, noting he is really good at the game which he plays often with friends",
+        "score": 0.4971855,
+        "id": "f8663c17-685e-4c48-899a-9cdff6d2d574",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a woman with purple hair wearing a black dress",
+        "score": 0.4971455866666667,
+        "id": "1c38f714-24e4-41b5-85f9-24eb8432d490",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to stay positive after his recent tournament loss and asked about his next steps in the gaming world around November 9, 2022",
+        "score": 0.49621570000000004,
+        "id": "0e0f57ed-dce1-423f-b711-b00aeb2042d5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate stated that in addition to coconut milk ice cream, he loves dairy-free chocolate mousse, describing it as super creamy and tasting like the real thing.",
+        "score": 0.49539819333333335,
+        "id": "192498c1-ef46-4643-bb6c-99ebd0ccc8d4",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Nate plans to invite both his new tournament friends and old friends and teammates from other tournaments to the gaming party he is organizing two weekends after June 3, 2022",
+        "score": 0.4950763846553447,
+        "id": "20f93feb-0091-4d06-8efb-fc76dfcdcf86",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Nate saved some of his video game tournament prize money but has no specific plans for it, stating he is completely content and happy to have the extra cash on hand",
+        "score": 0.4949099666666667,
+        "id": "33fb789d-08d5-4424-bf7b-39a0a0db5050",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate views playing games as an escape from life struggles and generally avoids being overly competitive, noting that the people he met at the convention shared this relaxed attitude",
+        "score": 0.49404368000000004,
+        "id": "da863e2c-58a3-4069-b77d-493a7fb431fe",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna has watched 'Eternal Sunshine of the Spotless Mind' a few times and considers it one of her favorite movies, particularly appreciating the concept and acting performances",
+        "score": 0.4940130501486621,
+        "id": "78f6cb15-2a65-47d3-9676-0b06b3bad1ab",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2022-01-21T19:31:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a purple and blue video game controller featuring a star field design",
+        "score": 0.4939074766666667,
+        "id": "87e8a904-e6a0-4adb-aa04-a40a3759b998",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Joanna advised Nate to read extensively across different genres, build a solid understanding of literature, and practice writing by sharing work with friends to gather feedback. She encouraged him to have faith in himself and continue pursuing his writing dreams despite the difficulty.",
+        "score": 0.49385759999999995,
+        "id": "30c18b52-9e44-4992-8564-291f5788b5c4",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna watched 'The Lord of the Rings' Trilogy on May 1, 2022, following Nate's recommendation, and described the experience as awesome",
+        "score": 0.49368242,
+        "id": "9da8d184-8849-4ab0-a563-f3ffa027c35f",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the hiking trails sometime, responding positively to his suggestion that they go together",
+        "score": 0.4929149598601399,
+        "id": "48081dad-83f6-4fff-8572-817ae710fb7c",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about the severity of her pet allergies, referencing her earlier mention of being allergic to pets",
+        "score": 0.4926901666666667,
+        "id": "36e56c74-884d-4e40-890f-135373ee836a",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate accepted Joanna's invitation to join her on the hiking trails, confirming that they have a plan to go together sometime",
+        "score": 0.4919926731934732,
+        "id": "e507d76e-0184-4e71-a5f2-82a7fe2e92c1",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if he plans to invite his tournament friends to the gaming party he is organizing two weekends after June 3, 2022",
+        "score": 0.4900076646553447,
+        "id": "3b4535f8-2038-46b7-84b1-f35896b4f416",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a young boy drawing on a whiteboard while explaining his inspiration for creating the motivational board for Joanna",
+        "score": 0.48968026666666664,
+        "id": "20b5770c-af18-45fc-aac2-da488d658846",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate has a gaming tournament scheduled for May 2022, which will be his fourth tournament, and he is feeling confident about his performance",
+        "score": 0.4893667533333333,
+        "id": "b1bdf38f-e4f9-4860-8d67-2246281f26ad",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate is currently busy preparing for upcoming video game tournaments and enjoying the process, following his recent tournament win around November 5, 2022",
+        "score": 0.48880976666666665,
+        "id": "f838304d-4adf-401e-8f32-31c21f6a654f",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna is always willing to provide movie recommendations to others",
+        "score": 0.4878118251792829,
+        "id": "1f6dcc6f-5a4e-4a22-8aac-27542a537a92",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Joanna wishes Nate luck in his video game tournament, noting that enduring multiple days of intense gaming sounds difficult",
+        "score": 0.4874030133333333,
+        "id": "59d0c7ba-8f11-4e91-8983-66e834dcff34",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna believes it is incredible how games can bring people together and form strong relationships, and asked Nate if he did anything else at the convention",
+        "score": 0.4870594133333334,
+        "id": "eba28427-9205-4d20-b198-00bbe8523b7f",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna to specify which animals she is allergic to, following her description of severe symptoms like facial puffiness and itchiness",
+        "score": 0.48701026,
+        "id": "02ddc635-71c2-4e26-8fa5-22cf0f5453aa",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his plans for the weekend of August 27-28, 2022",
+        "score": 0.4861481623129252,
+        "id": "99965081-b9b3-4350-ba43-65e01895d25d",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate expressed confidence that at least one of Joanna's recently submitted scripts will be produced, predicting it will become her third published movie",
+        "score": 0.4853705566666666,
+        "id": "47ff5f5b-09cb-4723-acd6-d5ad00abde33",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna complimented Nate's new purple hair color, describing it as amazing, and asked him to share the story behind his choice of that specific shade",
+        "score": 0.48517457999999997,
+        "id": "87947aaf-6497-47be-b79c-dab396b2f4a0",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2022-04-15T19:37:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna if she has any plans for the weekend around June 3, 2022",
+        "score": 0.48512243863991084,
+        "id": "d2046f62-3789-4c6c-b470-dcae8b700efe",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Joanna agreed to Nate's suggestion to bake together, noting that having a fellow chef in the kitchen is helpful, and asked for additional tips on dairy-free baking.",
+        "score": 0.48506815999999997,
+        "id": "f6db872f-759e-4391-bb70-9af1f8abd935",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard for Joanna featuring a drawing of arrows and words, demonstrating his support for her goals around October 6, 2022",
+        "score": 0.48482907383798146,
+        "id": "321f140e-bcf8-431b-9f79-4e4b1536ca76",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed interest in attending a writing convention after Nate's recommendation, stating she will look into it as it could be fun",
+        "score": 0.48409694185814195,
+        "id": "b52d8077-62ac-4321-8557-1762963ea85b",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "During her visit to the Woodhaven library, Joanna found a book from the 1900s containing stories and sketches about the town and its residents, which she enjoyed reading",
+        "score": 0.4840054881889764,
+        "id": "fb64735d-a16d-4016-8ebd-09b9cea2a9ce",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if the homemade coconut milk ice cream he made is lactose-free, indicating her continued interest in dairy-free options due to her dietary needs",
+        "score": 0.48332715333333337,
+        "id": "fdb22de5-b739-4414-ae07-c4f741bde073",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Nate created the motivational whiteboard for Joanna so she could look back on it for encouragement whenever needed, citing her life path as his inspiration around October 6, 2022",
+        "score": 0.48292278999999994,
+        "id": "6b436edf-1e8e-41e0-bcf7-60e8c024fe17",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate made new friends at the game convention around October 7, 2022, who share his love for games, and they have already planned a gaming session together",
+        "score": 0.48234768666666666,
+        "id": "e64ad4b6-05ea-4188-8de8-f88740bdec37",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo with Joanna on May 25, 2022, showing a stuffed animal dog lying on a bed with a cozy blanket and toy, referring to it as a 'new pup' for her",
+        "score": 0.48215283999999997,
+        "id": "c5d4bf76-6c37-484e-8c2a-d9316d63075c",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna is not into video games, despite acknowledging Nate's tournament win as a fun experience",
+        "score": 0.48210638666666666,
+        "id": "eb6811a2-4eb5-447c-8922-f3106cba9a7f",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2022-01-21T19:31:00+00:00"
+      },
+      {
+        "memory": "Nate uses his upgraded home gaming setup, which includes a computer monitor and keyboard, for practicing, competing in tournaments, and playing games with friends",
+        "score": 0.48201153979353983,
+        "id": "167ae67a-a199-4402-8e16-2785f72f6419",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of himself holding a small turtle in a container with Joanna on July 10, 2022, while encouraging her to believe in her talent and hard work",
+        "score": 0.481293330894309,
+        "id": "af4dbbf9-ca90-437a-8b57-ea7e93137dd5",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna is tempted to try dairy-free dessert flavors after hearing Nate's preferences for coconut milk, chocolate, and mixed berry",
+        "score": 0.48087131666666666,
+        "id": "f250a0d7-23ed-40f7-bdcd-034250c0af7a",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Joanna congratulated Nate on winning his fourth video game tournament, expressing pride in his hard work and success",
+        "score": 0.48024932432432427,
+        "id": "ba5f8639-42db-43f2-bf2b-ef62ee46ce02",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Nate is preparing custom controller decorations as gifts for guests attending his gaming party scheduled for two weekends after June 3, 2022",
+        "score": 0.480140648005148,
+        "id": "86271932-a378-45e1-97a5-1fee91f8bd6c",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about the current status of her script and if she has any ideas for next steps, shifting the conversation back to her creative work.",
+        "score": 0.4795159533333333,
+        "id": "89138b75-1c1f-45a2-b179-9f7be284e7cd",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of coconut milk ice cream with red sprinkles, indicating he continues to make this dessert",
+        "score": 0.4787545252855246,
+        "id": "5898568f-87a7-4bd5-a173-34cfdd435dce",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a pile of cookies with sprinkles on a wooden table",
+        "score": 0.4785396949800797,
+        "id": "8a3cc06b-efe4-4668-ba95-50eb3e752793",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate congratulated Joanna on finishing her book writing around late September 2022, acknowledging the effort involved and expressing confidence that the final result will be great",
+        "score": 0.4783936288517279,
+        "id": "fa0c58d6-3d84-4c68-bbfa-cac8b5c43bc8",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna complimented Nate's homemade coconut milk ice cream, noting that the colors and mix-ins give it a nice kick and look really yummy",
+        "score": 0.47821712000000005,
+        "id": "50ed352c-affb-41b6-b6e4-48590bf76498",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Nate views playing video games as a way to express his creativity and passion",
+        "score": 0.47795257311725453,
+        "id": "3620691b-3bf1-42f0-a008-0d003c86f156",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Nate considers his upgraded home gaming setup essential for his career, stating it is necessary to beat his competition",
+        "score": 0.47717287880119885,
+        "id": "5d531bd5-bd95-4d46-8436-702b85a3527d",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate stated that caring for his pet turtles is not difficult, requiring only keeping their area clean, feeding them properly, and ensuring they get enough light, which he finds fun",
+        "score": 0.47604176013986016,
+        "id": "5fcad01e-8bb2-4525-a9d1-a92a1531aaab",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed that meeting people who share one's interests makes experiences more fun, responding positively to Nate making friends at the game convention",
+        "score": 0.47575766471093495,
+        "id": "b0c1bc88-7f44-4fed-b784-bc93f8e63950",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Nate is currently participating in a video game tournament around March 24, 2022, describing the experience as intense with high adrenaline levels",
+        "score": 0.4754763045185892,
+        "id": "eced5ff4-7a1b-4f1e-bbd4-a00e29e74717",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Nate expressed pride in Joanna's hard work and accomplishments, reaffirming his ongoing support for her writing journey around October 6, 2022",
+        "score": 0.47379472000000006,
+        "id": "e47aa184-c6c8-4f3d-bf52-c1a7b9d69c23",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate got a new dog named Max around May 20, 2022, and shared a photo of Max laying on a couch in the living room",
+        "score": 0.47345685844611535,
+        "id": "53496355-d90d-4b0d-9930-9af34ad54561",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Nate congratulated Joanna on filming her movie from the road-trip script, expressing that he is not surprised her hard work paid off and asking for more details about the project",
+        "score": 0.47345275765765765,
+        "id": "1048dc9e-1839-40da-b1f6-9f55b11e633a",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Nate expressed pride in his recent international tournament win, stating he is stoked to see his hard work paying off and is proud of what he accomplished",
+        "score": 0.4733801776576576,
+        "id": "bfc6df11-ad58-4ffe-b1b3-b059f0c32b4e",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate congratulated Joanna on receiving great feedback from her writers group, noting that it means people are connecting with her writing, and asked if she celebrated the milestone",
+        "score": 0.4733302200772201,
+        "id": "19c9548f-8394-440b-ad56-12e053b9d574",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna values having an outlet to share her stories and hopes to have a positive impact on readers through her writing",
+        "score": 0.4730586100566101,
+        "id": "00015337-85b2-4eb4-be6c-d93d2713b54d",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna agrees with Nate that the thought behind giving controller accessories matters more than whether his friends continue to use them long-term",
+        "score": 0.472539632967033,
+        "id": "ee14513a-3475-4f8a-a734-333bdcf20d29",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a bowl of coconut milk ice cream with a spoon on a table, illustrating the dessert he discussed as his favorite from his recent cooking show appearance.",
+        "score": 0.4723415818181818,
+        "id": "c359a1fc-de1f-41fd-ab4b-10b70485f9c3",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to have an awesome time helping friends reset their high scores at the international tournament, noting his passion for gaming",
+        "score": 0.4721460431901432,
+        "id": "cdd2f0b6-abd8-4167-98cc-3efef269d11d",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Nate is organizing a gaming party two weekends after June 3, 2022 (around June 17-18, 2022), anticipating it will be hectic but fun",
+        "score": 0.47190896800514803,
+        "id": "915d2ae3-4c6b-4350-ac8a-1f52b00ddda5",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Nate plans to make coconut milk ice cream again and is looking forward to experimenting with different flavors and toppings",
+        "score": 0.4715522484848485,
+        "id": "24cf7945-3afc-4793-8f3e-c284a096e6a3",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      }
+    ],
+    "search_latency_ms": 1187.9,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate's favorite book series is The Lord of the Rings trilogy, which he praises for its world-building, battles, and storytelling.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer identifies the book series as 'The Lord of the Rings' and describes it with themes like world-building and battles, which does not match the gold answer's core concept of 'dragons', nor is LOTR primarily about dragons."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate's favorite book series is **The Lord of the Rings** trilogy, which he praises for its **world-building, battles, and storytelling**. (He also considers an unnamed **space opera** series one of his favorites, noting its **awesome action scenes, plot, battles, and interesting characters**).",
+      "memories_evaluated": 20,
+      "reason": "The generated answer identifies 'The Lord of the Rings' and a 'space opera' as Nate's favorite series, neither of which matches the gold answer's topic of 'dragons', resulting in zero correct items."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate considers **The Lord of the Rings** trilogy to be his favorite (describing it as probably the greatest trilogy of all time), praising it for its **world-building, battles, and storytelling**. He also considers a **space opera** book series one of his favorites, noting its **awesome action scenes, battles, interesting characters, and plot**.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer identifies 'The Lord of the Rings' and a 'space opera' as favorites, neither of which matches the gold answer's topic of 'dragons', resulting in zero correct items."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "World-building, battles, and storytelling",
+      "memories_evaluated": 60,
+      "reason": "The generated answer lists generic literary elements (world-building, battles, storytelling) but fails to mention the specific subject matter 'dragons' required by the gold answer, meaning it contains zero correct items."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate's favorite book series is The Lord of the Rings trilogy, which he praises for its world-building, battles, and storytelling.",
+      "memories_evaluated": 100,
+      "reason": "The generated answer identifies the book series as 'The Lord of the Rings' and describes it with themes like world-building and battles, which does not match the gold answer's core concept of 'dragons', nor is it a valid paraphrase or semantic overlap."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Nate's favorite book series is The Lord of the Rings trilogy, which he praises for its world-building, battles, and storytelling.",
+      "memories_evaluated": 200,
+      "reason": "The generated answer identifies the book series as The Lord of the Rings, which is about elves, dwarves, and rings, not dragons, so it does not match the gold answer's core concept."
+    }
+  }
+}

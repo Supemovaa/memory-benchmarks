@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv1_q43",
+  "conversation_idx": 1,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What do the dancers in the photo represent?",
+  "ground_truth_answer": "They are performing at the festival",
+  "evidence": [
+    "D1:25"
+  ],
+  "user_id": "locomo_1_63236696",
+  "reference_date": "6:46 pm on 23 July, 2023",
+  "retrieval": {
+    "search_query": "What do the dancers in the photo represent?",
+    "search_results": [
+      {
+        "memory": "Gina shared a photo of a woman in a tutu posing for a picture, likely reflecting her passion for dance and fashion",
+        "score": 0.5892817566666667,
+        "id": "5ef75a81-4eba-4b26-bf0e-7f4e0fb99478",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of his dance group performing on stage, showing dancers wearing white dresses",
+        "score": 0.5834480733333334,
+        "id": "813ce8b2-0282-49f4-abd6-689f705da6be",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of her favorite dance session, which depicts a man and a woman performing a yoga pose",
+        "score": 0.57341921,
+        "id": "04b9141a-b19b-485e-99fb-c0d6eb0b421a",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a group of dancers performing on stage with a projector screen, related to the upcoming event he is hosting in May 2023",
+        "score": 0.5597911999999999,
+        "id": "58217f11-1e46-4b53-bfd5-8fc27fb7db08",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a dance competition trophy with a glass globe on top, describing it as a reminder of the hard work, dedication, and joy that dance brings",
+        "score": 0.5509008061471862,
+        "id": "e6c479d4-6621-413d-83e4-a1cdf25b0d12",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo from her past dance competition experience showing a couple of people standing next to each other, likely her teammates from the regional win",
+        "score": 0.5503392633333334,
+        "id": "c017bfd2-11f6-4c0b-a346-34ca0681aa13",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a group of women performing a dance routine during one of his dance classes",
+        "score": 0.5470730396167823,
+        "id": "b851a480-c732-45fa-a1ce-d00349915118",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a group of women posing with a giant balloon, likely related to the new fashion piece or store promotion",
+        "score": 0.5417288,
+        "id": "d76bb13a-9880-490a-a8ab-f7608cd99b05",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of three girls in ballet costumes sitting on a desk, reinforcing her belief that Jon's studio will be a go-to spot for self-expression",
+        "score": 0.5390515689243028,
+        "id": "f734bfa8-30ef-4550-b042-348513ba36a7",
+        "created_at": "2023-07-23T18:46:00+00:00",
+        "updated_at": "2023-07-23T18:46:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a woman in a gray dress performing a trick, likely related to his dance interests or the upcoming show",
+        "score": 0.5383445733333333,
+        "id": "af780adc-7094-4cfb-ba02-435adeb6321b",
+        "created_at": "2023-02-04T10:43:00+00:00",
+        "updated_at": "2023-02-04T10:43:00+00:00"
+      },
+      {
+        "memory": "Jon shared an image of a trophy with a glass globe on top, symbolizing his aspirations or achievements in his dance journey",
+        "score": 0.5350065381285382,
+        "id": "4ff0bb66-7a5a-4be1-957c-e4b2b887b00f",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon views dance as an escape that allows him to be himself and express freedom without worry, aligning with Gina's perspective on self-expression",
+        "score": 0.5337017555909694,
+        "id": "78da9cb5-08c7-4bb4-a412-5016f53fab76",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina shared an image depicting a skeleton and a trophy placed on a black cloth during the conversation",
+        "score": 0.5330937933333333,
+        "id": "0daa2508-cb46-4fcc-a5da-01bcf59d8f5e",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Jon is excited to guide and mentor aspiring dancers on their dreams, reinforcing his commitment to supporting others in their dance journeys",
+        "score": 0.5323245381285382,
+        "id": "382a7e62-b37f-413e-a41a-8f47c49db6df",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a group of young girls in blue outfits posing for a picture",
+        "score": 0.5219413866666667,
+        "id": "a9362d4a-25b6-4697-a5c5-c33c48a6022d",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a woman performing pole dance in his dance studio, indicating that pole dancing is part of the instruction or activities offered at his business",
+        "score": 0.5208807866666666,
+        "id": "ae5c72e6-f0d8-476f-ae6b-a897db8a4571",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Jon views dancing as a way to express himself and find his happy place, having overcome a fear of others' opinions to prioritize his own happiness",
+        "score": 0.5139213733333333,
+        "id": "b7080344-dc4b-430f-9895-06ebcc9dde4f",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of young dancers rehearsing at the front entrance of his new dance studio in preparation for the opening",
+        "score": 0.5110618,
+        "id": "99c0a62b-ccef-4cb4-a0ee-7546bbbc085e",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a woman in a short skirt with her hands on her hips during the conversation about his dance studio progress",
+        "score": 0.5035621333333333,
+        "id": "36316cc7-1508-4809-87dc-86fa5d3f2b35",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to push past the point where others would quit and take immediate action, sharing an image of dancers on stage with arms raised to inspire him",
+        "score": 0.5020043133333333,
+        "id": "43a9b9f1-f309-4cc0-a550-7589ca7915f1",
+        "created_at": "2023-07-23T18:46:00+00:00",
+        "updated_at": "2023-07-23T18:46:00+00:00"
+      },
+      {
+        "memory": "Jon expressed that Gina's shared photo of her dance group reminded him of his own love for performing and praised their passion",
+        "score": 0.5003936333333333,
+        "id": "4f8969ff-c991-41a6-af2c-7d2839ed1802",
+        "created_at": "2023-06-16T21:38:00+00:00",
+        "updated_at": "2023-06-16T21:38:00+00:00"
+      },
+      {
+        "memory": "Gina attended a dance class with a group of friends on July 21, 2023, and emphasized the importance of having a creative space for dancers to express themselves",
+        "score": 0.50007437,
+        "id": "0f23d34c-c614-4d82-9315-ccbc0841bcbf",
+        "created_at": "2023-07-23T18:46:00+00:00",
+        "updated_at": "2023-07-23T18:46:00+00:00"
+      },
+      {
+        "memory": "Jon feels that his efforts are paying off, noting progress at his studio and excitement among the dancers, and finds fulfillment in providing a space for self-expression through dance",
+        "score": 0.4950636755909694,
+        "id": "399804b0-558d-413a-a8b7-598d52c42cc9",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon congratulated Gina on her store and complimented its appearance, asking if the item shown in the shared image is a unique piece she is selling",
+        "score": 0.4943380866666667,
+        "id": "83ed8818-d139-44b2-ab8d-f3507831f7cd",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Gina uses dance as her primary method for stress relief",
+        "score": 0.4866819566666667,
+        "id": "3fb6ead6-59a3-45f4-b293-d425de19becc",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a man in a native costume giving another man a high five, associated with the grand opening of his dance studio on June 20, 2023",
+        "score": 0.48415575752913753,
+        "id": "6521acf7-a775-437c-8596-cec2cabd3768",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Jon requires a dance floor with sufficient bounce to ensure safety for himself and his students when dancing",
+        "score": 0.4815588466666667,
+        "id": "2fa19f8b-0f92-4831-8091-c25ee4c3756b",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a camouflage print hoodie as part of showcasing her new limited edition line or personal style",
+        "score": 0.48133461,
+        "id": "89a8b178-d592-4d24-99b4-79c3b41d6e34",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Gina identified the motivational quote 'Just do it!' shared in her previous message as belonging to Shia LaBeouf",
+        "score": 0.47646068749003984,
+        "id": "eed1aa08-5873-4d30-9337-6f4f30235d00",
+        "created_at": "2023-07-23T18:46:00+00:00",
+        "updated_at": "2023-07-23T18:46:00+00:00"
+      },
+      {
+        "memory": "Gina's team performed a contemporary dance piece titled \"Finding Freedom\" at the regional competition where they won first place, which she described as emotional and powerful",
+        "score": 0.4749534933333333,
+        "id": "981bb4a9-8c59-4fc6-b929-e58663ce944c",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina asked Jon about the progress of his dance studio search and whether he has found a suitable location",
+        "score": 0.4719512335930736,
+        "id": "d4d4e064-06ac-4733-8d03-0773d8cac2ed",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Jon believes dance has the power to bring people together and create sweet moments, which reminds him why he is chasing his dream and helps him push through struggles",
+        "score": 0.47183069333333333,
+        "id": "ad26ba52-6ffd-4ad6-a620-92cf95944946",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a shopping mall with a glass entrance and a sign, likely related to her clothing store expansion or new location",
+        "score": 0.47156568666666665,
+        "id": "f466a367-ceea-4c60-924c-4bd9770294b8",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a room with a mirror and a wooden floor, likely related to his dance studio search or ideal setup",
+        "score": 0.4685848602597403,
+        "id": "dbe50957-0955-48e9-a625-64a2348d4776",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a group of young girls wearing tutus and ballet shoes on April 3, 2023",
+        "score": 0.4669665640548229,
+        "id": "4bcf5310-68d5-46f8-b5e2-b2d5bf0cc7f1",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon is hosting a dance competition in May 2023 to showcase local talent and bring more attention to his studio",
+        "score": 0.46569866666666665,
+        "id": "a5e0c4ea-3e00-452e-ab56-f845c57e4379",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina agreed to Jon's suggestion and proposed planning a dance session soon to explore new dance moves together",
+        "score": 0.46528788305444885,
+        "id": "06fff68e-a77b-4156-bd90-785363e71b98",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon performed at a festival around early February 2023, receiving many compliments on his dance moves and feeling reminded of his passion for dancing which brings him joy",
+        "score": 0.4649763497211155,
+        "id": "6b5f8928-f6a9-4ef0-873a-761a4ca72214",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon is currently searching for a location for his dance studio and has been evaluating different spaces, including one with great natural light",
+        "score": 0.4635464813386614,
+        "id": "642959ab-93c1-43c4-aff8-9040091374b9",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Gina uses dance as her primary stress relief method, noting that starting to dance makes all her worries vanish and benefits her mental health",
+        "score": 0.46338839983349983,
+        "id": "8d736649-e29f-4182-9087-47d94f086192",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon's dance group is finishing choreography for a performance at a nearby festival in February 2023 and has other projects in the works",
+        "score": 0.4594372066666666,
+        "id": "7684b757-de47-4806-9ec8-a46c30f1121a",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina shared an image of a woman standing on a balcony wearing a blue dress on February 8, 2023",
+        "score": 0.45674600000000004,
+        "id": "0533f891-9144-439b-816b-444de42ad1d3",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon believes that mentors provide essential guidance and support that help dancers shine, reinforcing his commitment to offering one-on-one mentoring at his studio",
+        "score": 0.4565326,
+        "id": "bca4529c-39cb-4914-99db-140564a5178e",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a laptop computer displaying a logo, likely related to her new fashion internship at an international company",
+        "score": 0.4562155866666666,
+        "id": "f092f44c-b75b-4047-a393-d71237fef122",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Jon feels motivated by sharing similar business challenges with Gina, comparing their mutual support to having a partner to dance with",
+        "score": 0.45513369263296993,
+        "id": "7e926238-5e0a-475f-b78a-c62426565e79",
+        "created_at": "2023-03-16T14:35:00+00:00",
+        "updated_at": "2023-03-16T14:35:00+00:00"
+      },
+      {
+        "memory": "Jon's upcoming dance competition involves his studio and other schools performing, featuring judging and creative performances. He invited Gina to attend the event.",
+        "score": 0.4551325133333333,
+        "id": "a43f86fc-f6fd-41d1-9290-56693417fc49",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon offered to send Gina a video of one of his dance routines and asked her to let him know when she has time to watch it",
+        "score": 0.454476706283449,
+        "id": "1338bd7a-d456-401b-97aa-19bc1cbcea62",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon asked Gina what motivated her to combine her clothing business with her passion for dance",
+        "score": 0.4537936122177955,
+        "id": "4a7a3f35-f9cb-4462-a799-ff3cbd5f04ea",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a pink sign with a message on it during the conversation on May 27, 2023",
+        "score": 0.45247344666666667,
+        "id": "65b0b365-c540-47b7-aa96-78cd4b70363d",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a bulletin board featuring pictures of people and words on June 21, 2023",
+        "score": 0.45158998666666667,
+        "id": "680cf9fd-5196-4d41-aade-7ba822ad245a",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo from the networking event showing a crowded room with people mingling and exchanging business cards, including a man signing a card at a table",
+        "score": 0.4512952333333334,
+        "id": "c7a0c755-cb54-4d60-9543-4db9663f97b6",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon expressed gratitude to Gina for always being there for him as he enjoys dancing through his own studio",
+        "score": 0.4509273266666667,
+        "id": "6088fcb1-b1c5-4498-8a78-bf2dfcea0100",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Jon shared a motivational image featuring a cartoon character with the quote 'everything you want is on the other side of fear' on February 8, 2023",
+        "score": 0.44954014000000003,
+        "id": "a815b2d4-5cc1-41a5-9165-47b84f442e34",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon is turning his passion for dance into a business and has invested significant time into his studio recently, noting that his students are performing well and he is learning alongside them",
+        "score": 0.44899628666666674,
+        "id": "daa64889-825c-478b-8a23-75056590f996",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Gina stated that dance is her stress relief and fashion fuels her creativity, noting that finding new trends for her online store keeps her motivated to keep growing",
+        "score": 0.4479317804878049,
+        "id": "7244888d-56fa-4561-b4e1-bd92c3fef009",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina asked Jon what specific strategies or factors help him stay motivated while running his dance studio business",
+        "score": 0.4472283766666667,
+        "id": "bb95c38b-1ec3-4b29-83e3-1e445776750f",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Jon finds his dance practice both fun and exhausting as he continues to train",
+        "score": 0.4469018900000001,
+        "id": "3baa1f75-593b-4131-ad23-939faede6bfe",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Gina also favors contemporary dance, describing it as expressive and graceful, and feels it speaks to her personally",
+        "score": 0.44648916666666666,
+        "id": "fe7a0b48-8bfa-4a87-add0-0a70aa4e9938",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon is determined to make his dance studio work, viewing the loss of his previous job as a tough but necessary push that allowed him to pursue his passion for dance as a business",
+        "score": 0.44509862,
+        "id": "2be3a119-36c2-452a-92de-b80bd2a05873",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Jon found a potential dance studio location downtown that is easily accessible and has great natural light, though he still needs to verify the size and floor quality",
+        "score": 0.4438074280053281,
+        "id": "3adacf14-7624-4802-99bd-cf49dc6f2902",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Gina clarified that the black hoodie she shared is from her personal collection and not for sale in her online clothing store",
+        "score": 0.4405091433333334,
+        "id": "58bb644f-fade-4ff0-bdc8-2edbda5e804e",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Jon expressed hope that he and Gina will find a dance studio location similar to his ideal ocean-view concept, believing such a space would inspire their dancing",
+        "score": 0.4393528566666667,
+        "id": "db9d8b8b-3d9a-46cd-b326-1d7038ec6bd8",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina stated that the camouflage print hoodie design reminds her of the grit required to stand out and face challenges in her business",
+        "score": 0.43810310333333335,
+        "id": "df9d53f4-c4b4-40d9-8560-452c56e60b1a",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Gina acquired new unique pieces for her online clothing store around June 21, 2023, and shared a photo of a woman in a black hoodie posing to showcase the items",
+        "score": 0.43758384793206795,
+        "id": "e65ff3c4-9167-4563-b0f6-1c8d38b0af79",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Jon shared an image of his ideal dance studio concept, which features a room with a view of the ocean and includes yoga mats",
+        "score": 0.4375523333333333,
+        "id": "9f4b72f6-7b04-4d3f-a49b-d73ce1392425",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina combines her clothing business with dance because she is passionate about both, allowing her to express creativity and share her love for these interests with others. She also adds dance-inspired items to her online store.",
+        "score": 0.4375386138211382,
+        "id": "ea9de4b5-fdbc-4e0b-9e6a-6badeffbcb40",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina acknowledged Jon's ideal dance studio setup with the ocean view and asked if he has time to rehearse given his new business and store commitments",
+        "score": 0.4364322333333333,
+        "id": "30823a80-a02b-45eb-ba91-3b15528cbc11",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon accepted Gina's offer to help create content and manage social media for his dance studio, expressing enthusiasm about collaborating to make the studio look awesome",
+        "score": 0.4362064835431236,
+        "id": "f5ca3524-ba44-4e18-b4c2-eda055e3aa4c",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon wished Gina good luck with her clothing store and shared a photo of a dress labeled 'june bunty' on April 3, 2023",
+        "score": 0.4355946766666667,
+        "id": "81999937-95c1-404c-82a2-80ba0ec3aca9",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina previously competed in dance competitions and shows, with her favorite memory being when her team won first place at a regional competition when she was fifteen years old, which gave her an awesome feeling of accomplishment",
+        "score": 0.4355897866666667,
+        "id": "c4f02d37-9b26-4a25-aabb-079eecfad7e2",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina developed a video presentation to teach how to style her fashion pieces for her clothing business",
+        "score": 0.4349050458432935,
+        "id": "87a8a3a5-21ec-459f-9dca-a91f857ad434",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to maintain a positive outlook and confidence in his determination, expressing belief that his dance studio will be a huge success despite the fear of stepping into the unknown",
+        "score": 0.4345432866666667,
+        "id": "d6c7e048-a62d-483c-9a8c-07b549d3202d",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon has been practicing dance routines lately, finding that the practice keeps his mind focused and motivated",
+        "score": 0.4334052796167824,
+        "id": "96eadbe9-2b6b-417c-95c0-80713920361b",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon shared a childhood drawing on July 9, 2023, depicting a smiley face floating in the water, described as 'soaring sky'",
+        "score": 0.43269771333333334,
+        "id": "e80ba0fb-1706-475d-9094-4494bd434c20",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of her clothing store featuring a wall of pictures and clothes, illustrating the physical setup of her business around July 21, 2023",
+        "score": 0.4325431,
+        "id": "e0c7ab3d-b61d-403a-9c17-570b0f67a952",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon expressed gratitude for Gina's support and reaffirmed his commitment to working hard to make his dance passion a successful business as of February 8, 2023",
+        "score": 0.4300512333333333,
+        "id": "1c426d50-fe55-4aa7-9238-d3037ab5a64c",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina started her online clothing store because she is passionate about fashion trends and finding unique pieces, and wanted to blend her love for dance with fashion.",
+        "score": 0.428444638001998,
+        "id": "5510ec6d-c002-4bf0-87f0-2c033e4a685b",
+        "created_at": "2023-03-16T14:35:00+00:00",
+        "updated_at": "2023-03-16T14:35:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of the interior of her clothing store, describing the space she designed as cozy and inviting with trendy pieces on display for customers",
+        "score": 0.42815632913678625,
+        "id": "52cc5ab2-ce01-47f2-9285-a69058a9455a",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Jon views losing his job as the catalyst that pushed him to start his dream business, a dance studio, and is now stepping into the unknown with hope for the best",
+        "score": 0.42316546000000005,
+        "id": "6b276309-4cac-4d21-b130-11669077a7f2",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a large open porch featuring a fireplace and a view of the water",
+        "score": 0.4228575666666667,
+        "id": "a65c5529-f055-4fc4-a39f-ea00c8ead469",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon invited Gina to see his dance moves on Friday, January 27, 2023, expressing excitement about the upcoming session",
+        "score": 0.42257964305444884,
+        "id": "4c0c7b03-ab93-4b78-bf11-845371f5bf08",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina confirmed she will be by Jon's side for his dance studio opening on June 20, 2023, expressing excitement to make great memories together",
+        "score": 0.4214596133333333,
+        "id": "1c6b884f-0137-480e-88bc-797621a49a98",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Gina advised Jon on staying motivated by focusing on the big goal and its purpose, seeking support from others, and using dance as a stress relief method",
+        "score": 0.42145651316683314,
+        "id": "e3486b8e-5beb-4adf-bcaf-3eb83c0d6ace",
+        "created_at": "2023-04-25T11:24:00+00:00",
+        "updated_at": "2023-04-25T11:24:00+00:00"
+      },
+      {
+        "memory": "Gina agreed to send Jon a video presentation she developed on styling her fashion pieces later in the conversation",
+        "score": 0.4211811725099601,
+        "id": "ecd09a2e-8538-4a1e-a632-909589584440",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Jon is seeking advice from Gina on marketing strategies to reach his target audience and raise awareness for his dance studio as of July 21, 2023",
+        "score": 0.42110894000000004,
+        "id": "487dcd27-c3e4-433d-9381-8bb18ef7700e",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo from a recent networking event showing a group of people standing in a room, illustrating his active participation in these professional gatherings",
+        "score": 0.42110365666666666,
+        "id": "ce780afc-60d9-42e1-936c-2344a7500dde",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon rehearsed with a small group of dancers after work on January 20, 2023, practicing styles ranging from contemporary to hip-hop",
+        "score": 0.4209398523577235,
+        "id": "acf8ecec-d2dc-4542-b31d-34989dd07a30",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon confirmed that the motivational quote 'Just do it!' shared by Gina belongs to Shia LaBeouf, reacting with amusement and recognition on July 23, 2023",
+        "score": 0.4194241941567065,
+        "id": "bd031954-aada-40b6-939c-29df200646be",
+        "created_at": "2023-07-23T18:46:00+00:00",
+        "updated_at": "2023-07-23T18:46:00+00:00"
+      },
+      {
+        "memory": "Jon color-codes achievements on his whiteboard to easily track progress and stay motivated in his dance studio business",
+        "score": 0.41897412756706753,
+        "id": "ee7c6c1f-db0a-4581-ad43-f16c54a0f5e5",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Jon is excited and feeling good about the official opening of his dance studio on June 20, 2023, describing the journey as a wild ride but ready to give it his best effort",
+        "score": 0.41816566666666666,
+        "id": "4d48a655-bb2d-4cb4-a98b-3c183f7f8428",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Jon is motivated by seeing his students succeed and helping them learn and reach their goals in his dance studio business",
+        "score": 0.4174779609004009,
+        "id": "90785343-38d9-4bfd-9880-ec086ec6d5af",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Jon congratulated Gina on her clothing store and reported that his dance studio is currently on tenuous grounds, though he remains positive about the outcome",
+        "score": 0.4168981333333333,
+        "id": "3e5c9615-7503-4446-995f-8f8d958a9786",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon suggested that he and Gina attend a dance class together, expressing enthusiasm for the idea",
+        "score": 0.4168913657009657,
+        "id": "1742b07b-79db-4ec2-aeef-1933843d31f5",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon has been rehearsing hard and working on business plans for his dance studio in the days leading up to July 23, 2023, finding the process stressful but sustained by dancing",
+        "score": 0.4167170077788878,
+        "id": "ff8aa8d4-6298-46d5-938b-edb8a722f2ed",
+        "created_at": "2023-07-23T18:46:00+00:00",
+        "updated_at": "2023-07-23T18:46:00+00:00"
+      },
+      {
+        "memory": "Jon started implementing Gina's marketing advice by posting his dance videos on social media, which is creating a stir and generating attention for his business",
+        "score": 0.41631001333333334,
+        "id": "0b01eb4a-0f8c-46eb-8c57-9f9e4adb5b51",
+        "created_at": "2023-06-16T21:38:00+00:00",
+        "updated_at": "2023-06-16T21:38:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of three young girls standing next to each other with trophies on March 16, 2023",
+        "score": 0.41554437891156465,
+        "id": "914c2dd2-9b78-487a-96e9-e5df84b8d999",
+        "created_at": "2023-03-16T14:35:00+00:00",
+        "updated_at": "2023-03-16T14:35:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to savor the joy and thrill of dance on his studio's opening night, noting that his long nights of hard work were worth it",
+        "score": 0.4153807867953668,
+        "id": "ebc1c570-c3b4-41dc-b3fb-2c1a526bee6b",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Gina advised Jon to use Instagram and TikTok to reach a younger audience for his dance studio by posting dance clips or related content, and suggested collaborating with local influencers or dance communities. She also offered to help create content or manage his social media accounts.",
+        "score": 0.4149130333333333,
+        "id": "69398a9a-6df6-4964-b036-28a96f94b477",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon invited Gina to attend his dance event in May 2023, expressing that her encouragement helps him persevere through the challenges of executing his plans",
+        "score": 0.4147459466666667,
+        "id": "970bc481-1cce-4649-b86b-48ee2f0268bf",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to believe in himself during the tough process of setting up his dance studio, advising him to take breaks and use dancing as a way to destress",
+        "score": 0.41429110333333335,
+        "id": "c7b7ea33-5a27-41fb-8ca9-01869a9cac41",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Gina congratulated Jon on his dance studio, stating it looks amazing and expressing excitement for the official opening night scheduled for June 20, 2023",
+        "score": 0.41394599320679326,
+        "id": "3d6b4aee-e727-4d12-a1b0-13a19a6b76fc",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Jon asked Gina to show him the video presentation she developed on how to style her fashion pieces",
+        "score": 0.4129169125099601,
+        "id": "3e1da153-f7e0-40fe-b76c-622b987d46aa",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Gina got her tattoo of the quote 'everything you want is on the other side of fear' a few years prior to February 8, 2023. The tattoo symbolizes freedom, specifically dancing without worrying about others' opinions, and serves as a reminder to follow her passions and express herself.",
+        "score": 0.4128452644862901,
+        "id": "5286ce75-eb10-4532-a524-e588fe752825",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon is refining his business plan and investor pitch based on Gina's advice, and developing an online platform to showcase his dance studio's offerings as of July 21, 2023",
+        "score": 0.41273859929403933,
+        "id": "2ade981b-d5a2-48d0-8649-eda08d2e718c",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon has been passionate about dancing since childhood, viewing it as an escape, and wants to start a dance studio to teach others the joy dancing brings him",
+        "score": 0.4118400466666667,
+        "id": "0cf8a211-f469-41e7-bb16-402eeee4eed8",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina praised Jon as the perfect mentor and guide, expressing confidence that his positivity and determination will make his dance studio a hit",
+        "score": 0.41113677,
+        "id": "37517c5e-f75e-4cb6-97e3-211546063051",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Jon asked Gina if she recently got the tattoo of the motivational quote 'everything you want is on the other side of fear'",
+        "score": 0.41057493115295673,
+        "id": "85968298-fe18-4686-8379-23c20a01ac35",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina agreed to help Jon create content and manage his social media accounts for his dance studio, following their discussion on marketing strategies",
+        "score": 0.409841394951715,
+        "id": "da56432e-ec7f-4f81-942a-07439d427550",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Gina asked Jon about the current status of his dance studio project during their conversation on July 21, 2023",
+        "score": 0.4096583435431236,
+        "id": "efdd60c5-60b4-4191-bbf0-c9ecca26f4c5",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Gina confirmed that next Friday (January 27, 2023) works for the dance session with Jon and expressed enthusiasm by saying 'Let's boogie!'",
+        "score": 0.4093110206859807,
+        "id": "68da3488-4332-49a9-978a-b5435f42526b",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon finds the process of starting his dance studio scary but manages this fear by focusing on his love for dance, which has served as his stress-buster since childhood",
+        "score": 0.4088872333333334,
+        "id": "f9ec1d2c-894b-4f70-995f-de914c4a735f",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a group of dancers on stage with a man in the middle of the group, related to the upcoming dance competition performance.",
+        "score": 0.4083035371087244,
+        "id": "eef35e78-e943-410c-b084-5c736dd72c83",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a group of young women in ballet attire, recalling her past love for spending time in the dance studio and noting that dance remains Jon's happy place",
+        "score": 0.40790474426884654,
+        "id": "931fd986-ceae-4d8f-88e9-9da621e4ad1c",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Jon finds searching for a dance studio location tricky but remains determined to find the right spot, believing that securing the location will allow the rest of his business plans to follow as of February 4, 2023",
+        "score": 0.40778978666666665,
+        "id": "5d573eee-4fdb-4d9b-adf0-41ef7a4b9b83",
+        "created_at": "2023-02-04T10:43:00+00:00",
+        "updated_at": "2023-02-04T10:43:00+00:00"
+      },
+      {
+        "memory": "Gina found a new fashion piece for her clothing store around February 8, 2023, and is excited to share it with her customers",
+        "score": 0.4069052143089431,
+        "id": "327f3556-92a9-4c65-99ff-fb18762a6c19",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon congratulated Gina on finding a new fashion piece for her store, noting that it looks like her business is growing",
+        "score": 0.40596413430894307,
+        "id": "a9ebf287-2d57-4673-a2b7-4bd53db2c80e",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon is still working on his dance studio project as of May 11, 2023, and reports that things are looking up since their last conversation",
+        "score": 0.4052380235431235,
+        "id": "f1422bfe-b79b-4c8e-a8f2-30e3cc4aa8a0",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon recognized the motivational quote 'Just do it!' shared by Gina on July 23, 2023, as familiar and asked her to identify its origin",
+        "score": 0.4044185608233732,
+        "id": "6bd09b5a-1c0f-41ac-942f-3d026d1e9637",
+        "created_at": "2023-07-23T18:46:00+00:00",
+        "updated_at": "2023-07-23T18:46:00+00:00"
+      },
+      {
+        "memory": "Jon uses a whiteboard to track business ideas and milestones, finding that it provides a visual representation of his progress and helps him stay organized around May 27, 2023",
+        "score": 0.40436010666666666,
+        "id": "7b1bc09e-7cc7-479d-b8a1-9f5630c4d0f0",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Jon prefers Marley flooring for his dance studio because it is grippy yet allows movement, is durable, and easy to clean, which he considers crucial for safety and performance",
+        "score": 0.4039654666666667,
+        "id": "b8affc28-9986-4a50-bfc0-415d126cd4c3",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Jon learned that running his dance studio business is challenging and believes self-confidence is crucial for success after his recent promotional efforts at a fair",
+        "score": 0.40370631999999995,
+        "id": "fcf3da99-057d-476f-8246-a4b40fb1bae3",
+        "created_at": "2023-04-25T11:24:00+00:00",
+        "updated_at": "2023-04-25T11:24:00+00:00"
+      },
+      {
+        "memory": "Jon is intensifying his preparation efforts for his dance studio as of June 13, 2023, indicating increased focus on the business launch",
+        "score": 0.4036842333333333,
+        "id": "159feb63-f05e-4763-ad04-978559fe22df",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Jon is putting in significant work on his dance studio business despite facing obstacles, expressing determination to make it happen as of February 4, 2023",
+        "score": 0.40284781333333336,
+        "id": "196ff38f-c235-4f47-b89c-ca35d9900b62",
+        "created_at": "2023-02-04T10:43:00+00:00",
+        "updated_at": "2023-02-04T10:43:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of two women performing handstands in a room, likely related to his dance studio activities or training sessions",
+        "score": 0.4025362709355132,
+        "id": "8b37ab12-4994-417d-a324-5161eaeeb459",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon expressed gratitude for Gina's support, stating he is staying positive and pushing forward with his dance studio dream as of February 1, 2023, believing that their hard work will lead to success",
+        "score": 0.40146354666666667,
+        "id": "a9f9582e-8f96-4535-adb1-1c3769763337",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Jon praised Gina's commitment and creativity in her business, specifically complimenting the unique artwork clothing designs she created with a local artist",
+        "score": 0.39890878153947806,
+        "id": "ce964304-f93b-4a28-98b4-07e6f7fae09f",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina has been working hard on her online store and recently teamed up with a local artist to create unique artwork clothing designs, including coats and dresses",
+        "score": 0.3977073548728114,
+        "id": "f14d6feb-b721-4fae-b19d-89dc81ece9dd",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon uses a whiteboard to stay on track, visualize goals, and tokenize successes, finding that it keeps him motivated and focused in his dance studio business",
+        "score": 0.3953592942337341,
+        "id": "fb4bff85-caf4-4250-a8a3-4ca59c2e51f1",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Gina's primary business goal is to build her customer base and establish her store as a top destination for fashion fans",
+        "score": 0.39443204666666665,
+        "id": "48c1ea80-039c-485e-a7fa-dbad8e6d4247",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon asked Gina how she came up with the cool designs for her online store's collaboration with a local artist",
+        "score": 0.3939825748728114,
+        "id": "cfdb199f-2b4a-4607-9d09-70bb2be0bb45",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina is actively seeking unique, trendy pieces for her store because customers appreciate her designs, with growing her customer base being her primary current focus",
+        "score": 0.3929243491367862,
+        "id": "7973f913-a6a6-46de-88ef-f2b1c1c55f38",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon's dance studio has its official opening night on June 20, 2023, and he is working hard to ensure everything is perfect for the launch",
+        "score": 0.39275909320679325,
+        "id": "13cca467-1ed7-4216-b018-069b01f6860b",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to stay positive while starting his dance studio business, expressing confidence that he can make it work and offering her ongoing support as of February 8, 2023",
+        "score": 0.39131314,
+        "id": "fb759124-3956-4942-909e-5df9ab8cf87d",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a woman in a short skirt with her hands on her hips, likely related to his dance studio activities or training",
+        "score": 0.39033241760217985,
+        "id": "b001ea64-ee1c-4773-a324-f89604f13d47",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Gina shared a photo of a group of young women posing, describing it as from her time dancing when the road was tough but worth it",
+        "score": 0.3902781824911384,
+        "id": "b18fabc2-a3e5-457b-8323-bcdb4ee303bf",
+        "created_at": "2023-06-16T21:38:00+00:00",
+        "updated_at": "2023-06-16T21:38:00+00:00"
+      },
+      {
+        "memory": "Jon congratulated Gina on finding the perfect spot for her clothing store, acknowledging that her hard work is paying off",
+        "score": 0.3902482666666667,
+        "id": "7b03a34d-b0a5-43c3-b395-35268c9eb506",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Jon is rehearsing hard for an upcoming show, working on new dance routines while continuing to build his business as of February 4, 2023",
+        "score": 0.3893018129501156,
+        "id": "9f338baf-d870-46a0-90b9-482017f48f6f",
+        "created_at": "2023-02-04T10:43:00+00:00",
+        "updated_at": "2023-02-04T10:43:00+00:00"
+      },
+      {
+        "memory": "Gina shared that the quote 'everything you want is on the other side of fear' kept her positive through tough times and she even got a tattoo to remind herself of it, as of February 8, 2023",
+        "score": 0.389140714106376,
+        "id": "f0b4af1d-7018-4b53-a538-e79bbf9eb918",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Jon took a temporary job to help cover expenses while he searches for investors for his dance studio, acknowledging the difficulty but believing it will be worth it",
+        "score": 0.38906408666666675,
+        "id": "315d8e41-7454-46e4-ab2c-90d39664a50d",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon congratulated Gina on her fashion internship acceptance and asked about her future plans, while sharing a photo of a book with a yellow and green cover",
+        "score": 0.38778096666666667,
+        "id": "2dab8abc-13b5-4325-8110-4ea1d885c166",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Jon expressed confidence that success is almost here for his dance studio venture, stating 'We got this!' around January 29, 2023",
+        "score": 0.3875293166666667,
+        "id": "4f64eab6-b844-408f-996c-01d75177f198",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Gina recently launched an ad campaign for her clothing store to grow the business, describing the experience of starting her own store and taking risks as both scary and rewarding",
+        "score": 0.38677088,
+        "id": "ca9bab53-23e3-458e-904c-c1c80d12d33c",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Jon is excited for his dance studio's official opening night on June 20, 2023, and plans to savor the moment after putting significant effort into the launch",
+        "score": 0.3855068666666666,
+        "id": "be9a7d0c-4f13-42c7-a878-892ea4e89b79",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Jon is expanding his dance studio's social media presence and offering workshops and classes to local schools and centers as of April 2023",
+        "score": 0.38539472,
+        "id": "e1398adc-2145-40db-b0a1-19a1868a1932",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina shared a screenshot of her online clothing store website which displayed a book and a pair of shoes on the screen",
+        "score": 0.3847735266666667,
+        "id": "b26b31d6-80e9-4378-840d-6edc2fe6ca0e",
+        "created_at": "2023-03-16T14:35:00+00:00",
+        "updated_at": "2023-03-16T14:35:00+00:00"
+      },
+      {
+        "memory": "Jon confirmed that his dance group is the one performing at the upcoming festival in February 2023, noting they have been practicing hard and will impress with their grace and skill",
+        "score": 0.3841280677567038,
+        "id": "52d0e90e-07a6-404b-ace1-db6a4d3c509e",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo of a whiteboard containing a list of dates related to his business ideas around May 27, 2023",
+        "score": 0.38246076706309884,
+        "id": "88d836d6-ed73-4206-b79b-aea28534d4cf",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Gina recently launched her own online clothing store and shared a photo of the website displaying a sale advertisement on a laptop screen",
+        "score": 0.38174067333333334,
+        "id": "ee0c41e4-9235-4e19-80cd-5b80bd53819d",
+        "created_at": "2023-04-25T11:24:00+00:00",
+        "updated_at": "2023-04-25T11:24:00+00:00"
+      },
+      {
+        "memory": "Jon confirmed plans to meet Gina on June 20, 2023, for the grand opening of his dance studio, expressing excitement to make the day unforgettable together",
+        "score": 0.3806004375291376,
+        "id": "ce234bc6-8673-4915-8179-40f2c75aaa04",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Gina asked Jon for advice or tips on running a successful business",
+        "score": 0.38059439999999994,
+        "id": "9bc8d6c2-24b3-44f2-a901-cb3dcafb5660",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Jon asked Gina about her specific plans to grow her customer base for her online clothing store",
+        "score": 0.38042036333333334,
+        "id": "6fcbbe5a-e186-4a66-b190-e7fe81de01af",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon finds working with young dancers inspiring, noting their passion and commitment, and aims for his dance studio to be a place of support and encouragement for all dancers",
+        "score": 0.3786813709355132,
+        "id": "61232e3e-1561-483d-9346-83de44b03fc8",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Gina plans to collaborate with fashion bloggers and influencers in the coming months to increase visibility for her online clothing store",
+        "score": 0.3780052666666667,
+        "id": "d8c0df2c-c486-412c-9a7b-ff2ceda56e49",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Jon is preparing for a dance competition near him in March 2023, viewing it as an opportunity to showcase his skills and gain recognition from the dance community, and he feels very excited about it.",
+        "score": 0.3764358455782313,
+        "id": "b2fe17f4-c7c9-4f22-81ea-de829d241376",
+        "created_at": "2023-02-04T10:43:00+00:00",
+        "updated_at": "2023-02-04T10:43:00+00:00"
+      },
+      {
+        "memory": "Jon attended a fair around April 24, 2023 to promote his dance studio, finding the experience stressful but rewarding as he secured potential leads and learned the importance of self-confidence in business",
+        "score": 0.37603702216450213,
+        "id": "ba9fb216-0a92-417c-83bc-f02391179874",
+        "created_at": "2023-04-25T11:24:00+00:00",
+        "updated_at": "2023-04-25T11:24:00+00:00"
+      },
+      {
+        "memory": "Gina asked Jon when he plans to open his dance studio, following up on his ongoing efforts to launch the business as of June 19, 2023",
+        "score": 0.3745650133333333,
+        "id": "450cb828-eb2a-451d-a693-5608968a0b7d",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Jon expressed gratitude to Gina for her support and toasted to taking on new heights and future trials, sharing a photo of two champagne glasses with a wine bottle in the background around March 16, 2023",
+        "score": 0.37349772666666664,
+        "id": "e3f3cf7a-7d58-411e-b92d-d123d09758f1",
+        "created_at": "2023-03-16T14:35:00+00:00",
+        "updated_at": "2023-03-16T14:35:00+00:00"
+      },
+      {
+        "memory": "Gina has launched new offers and promotions on her online clothing store to attract new customers, describing the business journey as a wild ride but reaffirming her determination not to give up",
+        "score": 0.37321471421911423,
+        "id": "2ac44663-d946-4890-bd2c-4998baf90379",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina was noticed by fashion editors around early July 2023, describing the experience as amazing but scary due to the pressure to maintain her upward trajectory",
+        "score": 0.37307203333333333,
+        "id": "a64dc93c-38f5-4981-895a-04a946c415db",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Gina asked Jon if reading 'The Lean Startup' could spark any ideas for his dance studio business",
+        "score": 0.37296846090040087,
+        "id": "7eeeb6c1-8d60-41ce-a960-ab87b5bfb57a",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Gina had an interview for a design internship on May 10, 2023, and described the experience as cool",
+        "score": 0.37238016,
+        "id": "8703626b-cea9-4d3c-82df-629f675356cd",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon admires Gina's persistence and asked her what specific factors help her stay motivated while running her online store business as of April 3, 2023",
+        "score": 0.37200519000000004,
+        "id": "19eb8c7f-4fc8-4804-9903-54bfd4096a70",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina is continuously working on building customer relationships and creating a strong brand image for her online clothing store, acknowledging Jon's advice that staying positive is key to business success",
+        "score": 0.37166038666666673,
+        "id": "c853acad-5f17-4ee4-a451-7109b4fc9a49",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Jon left a secure job as a banker to pursue his passion for dancing, aiming to turn it into a business. He acknowledges the difficulties of this transition but remains determined to succeed.",
+        "score": 0.37134204333333337,
+        "id": "529e77d0-6e97-4e41-b0b1-4564f625a8cd",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina lost her job at Door Dash in January 2023",
+        "score": 0.3709316480985681,
+        "id": "027b0f27-6c28-4481-b7ed-bc1938617005",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Gina reported that her clothing store is doing great as of February 4, 2023, describing the experience as a wild ride",
+        "score": 0.3689792303006277,
+        "id": "fc2472f1-1c1d-47ba-ac1f-099f5ce242b5",
+        "created_at": "2023-02-04T10:43:00+00:00",
+        "updated_at": "2023-02-04T10:43:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to persevere and work hard when things get rough, urging him not to quit and sharing an image of a sign that says 'never give up' on June 21, 2023",
+        "score": 0.3689368227772228,
+        "id": "3f6f299b-e4ee-4e18-83ca-ea3f5a4eabfc",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Gina received a positive response from a wholesaler on February 1, 2023, allowing her to expand her clothing store and get closer to customers, which she described as being 'over the moon' about",
+        "score": 0.36746525999999996,
+        "id": "b7e8d81f-f4f8-46e9-847f-f2f4d6a16ac5",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Jon expressed gratitude for Gina's faith in him, stating it provides a significant boost to his motivation as he commits to making his dreams come true around July 9, 2023",
+        "score": 0.3670877433333333,
+        "id": "2250333a-5ad7-497c-8a1f-2816d54c16f9",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Gina was accepted for a fashion internship around May 27, 2023, marking a significant milestone after her previous design internship interview",
+        "score": 0.36688313333333333,
+        "id": "559dd417-da9f-451a-80b8-a10673a4fdce",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Gina was accepted for a part-time fashion internship at an international company around May 27, 2023, and feels both excited and nervous about the big change",
+        "score": 0.3650506703629704,
+        "id": "da5769f6-a7d1-43fa-b292-a5d1177fa92f",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Jon uses a notebook with a calendar to stay organized and motivated, using it to set goals, track achievements, and identify areas for improvement in his dance studio business",
+        "score": 0.36382566666666666,
+        "id": "9aefc6d7-4dcc-4df8-b5f6-473b0620f8d9",
+        "created_at": "2023-06-13T20:29:00+00:00",
+        "updated_at": "2023-06-13T20:29:00+00:00"
+      },
+      {
+        "memory": "Jon expressed gratitude for Gina's pep-talk and support, reaffirming his commitment to not giving up on his dreams of running a dance studio and business ventures as of February 8, 2023",
+        "score": 0.3631193942337341,
+        "id": "b211c9be-10b5-4b71-91a5-908e8aa2e06a",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina got the idea for her online store's unique artwork clothing designs from a fashion magazine, noticing a gap in the market. She collaborated with a local artist to create these designs, aiming to stay ahead of trends and offer customers something different.",
+        "score": 0.36247468,
+        "id": "7b6dffc2-bb6c-47b5-a57e-dd8228b5ef3f",
+        "created_at": "2023-02-08T09:32:00+00:00",
+        "updated_at": "2023-02-08T09:32:00+00:00"
+      },
+      {
+        "memory": "Gina thanked Jon for his congratulations on her clothing store launch, expressing satisfaction that her vision is coming to life",
+        "score": 0.36246964333333337,
+        "id": "bd0526e7-067b-401a-9ef3-5ef7eddee3d9",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Gina reported that her design internship interview on May 10, 2023 went great",
+        "score": 0.36170087529880474,
+        "id": "23b010ea-1359-4d1b-8454-1a6b5260dc0f",
+        "created_at": "2023-05-11T15:14:00+00:00",
+        "updated_at": "2023-05-11T15:14:00+00:00"
+      },
+      {
+        "memory": "Jon advised Gina that brand identity is key for her online clothing store and emphasized the importance of building relationships with customers to show they care",
+        "score": 0.36008718666666667,
+        "id": "871161c0-e9b0-4312-9772-26565f8868ed",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Gina expressed gratitude for Jon's support and reaffirmed her commitment to creating a special shopping experience for customers through hard work, acknowledging the challenge but feeling up for it",
+        "score": 0.3597065466666667,
+        "id": "b74eeea4-e10e-436f-9bf3-baa3f8dbaca4",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Gina described running her clothing store as a lot of work but stated she is really enjoying the process",
+        "score": 0.35969461678321685,
+        "id": "eb81d7a9-5801-4087-90d8-8a3951a586f0",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Gina advised Jon to network and reach out to people in his field for help and contacts, sharing that networking was a lifesaver for her when sourcing trendy pieces for her online clothing store",
+        "score": 0.35965624913678623,
+        "id": "444b9d4f-aada-4ae0-ba43-6a1bf2f7612a",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Gina reported that customers are responding positively to her new offers and promotions, resulting in increased sales for her online clothing store as of April 3, 2023",
+        "score": 0.3587343333333333,
+        "id": "911824dc-7459-44d9-b65f-e4282b1e52ea",
+        "created_at": "2023-04-03T13:26:00+00:00",
+        "updated_at": "2023-04-03T13:26:00+00:00"
+      },
+      {
+        "memory": "Gina confirmed she is an entrepreneur, having opened an online clothing store after losing her job, and describes being her own boss and doing something she loves as awesome",
+        "score": 0.35816798,
+        "id": "714d63bb-3c3a-4dd9-9653-2a55ec0fd9f1",
+        "created_at": "2023-06-16T21:38:00+00:00",
+        "updated_at": "2023-06-16T21:38:00+00:00"
+      },
+      {
+        "memory": "Gina started her online clothing store to take control of her own destiny after losing her job, describing the journey as tough but very rewarding",
+        "score": 0.3570260133333334,
+        "id": "d5100d2d-98c4-4d97-bac3-bd130a4832f0",
+        "created_at": "2023-04-25T11:24:00+00:00",
+        "updated_at": "2023-04-25T11:24:00+00:00"
+      },
+      {
+        "memory": "Gina feels a mix of excitement and fear about entering the fashion industry through her new internship, but is trying to stay upbeat and learn as much as possible",
+        "score": 0.35573258999999996,
+        "id": "d87a4a8a-192e-4c03-bb1e-32098306c890",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Gina praised Jon's drive and encouraged him to keep working hard, expressing confidence that he will make a significant impact with his business",
+        "score": 0.35503638000000004,
+        "id": "672873fb-6fd7-4346-b681-1c060726ed3c",
+        "created_at": "2023-02-04T10:43:00+00:00",
+        "updated_at": "2023-02-04T10:43:00+00:00"
+      },
+      {
+        "memory": "Jon congratulated Gina on her clothing store, complimenting its appearance and acknowledging that her hard work paid off in seeing her items on display",
+        "score": 0.3549271134620335,
+        "id": "e0dbee64-bf89-47bc-891e-632f95907226",
+        "created_at": "2023-01-29T14:32:00+00:00",
+        "updated_at": "2023-01-29T14:32:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to stay motivated and keep going, affirming that hard work pays off eventually and expressing confidence that they can succeed together",
+        "score": 0.3547822134620335,
+        "id": "5341d077-9ad4-4925-8928-77062cbd5f6c",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Gina praised Jon for turning his passion into a business and complimented the appearance of his dance studio on April 9, 2023",
+        "score": 0.3546246107214895,
+        "id": "f23b16a0-e5f7-4cac-a8b0-8cfb74f8c9f1",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Jon congratulated Gina on being noticed by fashion editors, acknowledging her recent success and the pressure she mentioned feeling",
+        "score": 0.35388763876123885,
+        "id": "f639aa45-f419-4134-bfd6-ce25fa259909",
+        "created_at": "2023-07-09T13:25:00+00:00",
+        "updated_at": "2023-07-09T13:25:00+00:00"
+      },
+      {
+        "memory": "Gina recommended that Jon use social media channels and collaborate with influencers to achieve bigger reach for his business marketing efforts",
+        "score": 0.3527726066666667,
+        "id": "3deb3029-34d6-497e-8d22-cdab05386dcb",
+        "created_at": "2023-06-16T21:38:00+00:00",
+        "updated_at": "2023-06-16T21:38:00+00:00"
+      },
+      {
+        "memory": "Gina affirmed that Jon's trip to Rome would help him concentrate better on his business",
+        "score": 0.35171043101420557,
+        "id": "df434e71-855a-4ea7-9a0e-c4400a188c29",
+        "created_at": "2023-06-19T10:04:00+00:00",
+        "updated_at": "2023-06-19T10:04:00+00:00"
+      },
+      {
+        "memory": "Gina aims to create a 'cool oasis' experience in her clothing store, prioritizing comfort and an inviting atmosphere to encourage customers to return",
+        "score": 0.3514226266666667,
+        "id": "e79aadd3-cdae-423e-b0b0-327abd1a1859",
+        "created_at": "2023-02-01T00:48:00+00:00",
+        "updated_at": "2023-02-01T00:48:00+00:00"
+      },
+      {
+        "memory": "Jon shared a photo from a dance competition performance last year (2022), showing him dancing on stage while wearing a suit",
+        "score": 0.3513836704420577,
+        "id": "231b3717-9a21-4eb9-b200-ac337e6270c3",
+        "created_at": "2023-01-20T16:04:00+00:00",
+        "updated_at": "2023-01-20T16:04:00+00:00"
+      },
+      {
+        "memory": "Jon appreciates Gina's encouragement and commits to continuing their mutual support, stating they will keep pushing each other on their respective paths as of April 25, 2023",
+        "score": 0.3498024066666667,
+        "id": "9c528b64-1b1f-45c8-93fb-b902a11bd3a7",
+        "created_at": "2023-04-25T11:24:00+00:00",
+        "updated_at": "2023-04-25T11:24:00+00:00"
+      },
+      {
+        "memory": "Gina reported her online clothing store is doing well as of March 23, 2023, and she has been keeping up with fashion trends to offer the best pieces to customers",
+        "score": 0.34850194466866474,
+        "id": "3e653f95-8267-4278-b040-90b57bf17174",
+        "created_at": "2023-03-23T19:28:00+00:00",
+        "updated_at": "2023-03-23T19:28:00+00:00"
+      },
+      {
+        "memory": "Gina encouraged Jon to keep going despite inevitable obstacles, affirming that he can do awesome things as of May 27, 2023",
+        "score": 0.34836873333333335,
+        "id": "4e6a573c-16f4-4a56-9820-5001e579fce4",
+        "created_at": "2023-05-27T19:18:00+00:00",
+        "updated_at": "2023-05-27T19:18:00+00:00"
+      },
+      {
+        "memory": "Jon stated that the 'never give up' sign shared by Gina reminds him to persist regardless of difficulty, and he reaffirmed his commitment to keep going on June 21, 2023",
+        "score": 0.3478871161105561,
+        "id": "0646996b-ae3e-434d-8bd4-45887012a5dc",
+        "created_at": "2023-06-21T14:15:00+00:00",
+        "updated_at": "2023-06-21T14:15:00+00:00"
+      },
+      {
+        "memory": "Jon acknowledges that running a business is difficult but remains determined to make it work, and he asked Gina for advice on how she has tackled challenges in her own business",
+        "score": 0.34701722220472436,
+        "id": "181522e0-a620-4e49-9b1b-d8352c2cc9d0",
+        "created_at": "2023-07-21T17:44:00+00:00",
+        "updated_at": "2023-07-21T17:44:00+00:00"
+      },
+      {
+        "memory": "Jon reaffirmed his commitment to working hard and pushing forward with his dance studio, stating he will not let anything hold him back as of April 9, 2023",
+        "score": 0.3457222307214895,
+        "id": "3dcee72e-805f-4083-b617-4b2c2fb7636d",
+        "created_at": "2023-04-09T10:33:00+00:00",
+        "updated_at": "2023-04-09T10:33:00+00:00"
+      },
+      {
+        "memory": "Jon values having mutual support with Gina and is committed to continuing their efforts to reach success together as of March 16, 2023",
+        "score": 0.3450234033333333,
+        "id": "daf9addb-2202-4669-819a-884e777bf946",
+        "created_at": "2023-03-16T14:35:00+00:00",
+        "updated_at": "2023-03-16T14:35:00+00:00"
+      }
+    ],
+    "search_latency_ms": 996.4,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "self-expression",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'self-expression' does not match the gold answer's specific factual claim that they are 'performing at the festival', nor is it a valid paraphrase or semantic equivalent of that activity."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "self-expression",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'self-expression' does not match the gold answer's specific factual claim that they are 'performing at the festival', nor is it a valid paraphrase or semantic equivalent of that activity."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The dancers in the photo (specifically those on stage with arms raised shared by Gina on July 23, 2023) represent **inspiration** to **push past the point where others would quit and take immediate action**.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer claims the dancers represent 'inspiration' and a specific motivational concept, which is semantically distinct from the gold answer's factual statement that they are 'performing at the festival'; since the core meaning differs entirely and no part of the gold answer is present, it is marked wrong."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The dancers in the photo represent inspiration to push past the point where others would quit and take immediate action.",
+      "memories_evaluated": 60,
+      "reason": "The generated answer describes an abstract motivational concept, which is semantically unrelated to the gold answer's factual statement about performing at a festival."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The dancers in the photo represent inspiration, specifically serving to encourage pushing past the point where others would quit and taking immediate action.",
+      "memories_evaluated": 100,
+      "reason": "The generated answer describes an abstract symbolic meaning (inspiration) which is semantically distinct from the gold answer's factual description of their activity (performing at a festival), and thus contains no correct items."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The dancers in the photo (shared by Gina on July 23, 2023, showing dancers on stage with arms raised) represent inspiration for Jon to push past the point where others would quit and take immediate action.",
+      "memories_evaluated": 200,
+      "reason": "The generated answer describes the symbolic meaning or personal impact of the dancers (inspiration for Jon), whereas the gold answer states their literal activity (performing at a festival); these are semantically distinct concepts with no overlap in core facts."
+    }
+  }
+}

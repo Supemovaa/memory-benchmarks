@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv7_q174",
+  "conversation_idx": 7,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "Why did Jolene have to reschedule their meeting with Deborah on September 8, 2023?",
+  "ground_truth_answer": "Jolene already had plans",
+  "evidence": [
+    "D26:15"
+  ],
+  "user_id": "locomo_7_63236696",
+  "reference_date": "10:17 am on 20 September, 2023",
+  "retrieval": {
+    "search_query": "Why did Jolene have to reschedule their meeting with Deborah on September 8, 2023?",
+    "search_results": [
+      {
+        "memory": "Jolene stated she will check her schedule to find a more convenient time to meet with Deborah, following Deborah's cancellation of their previously proposed Wednesday at 4 PM coffee date on September 8, 2023",
+        "score": 0.8019053030544488,
+        "id": "8496528e-d5f6-4efe-9172-99de7572a87b",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for her support and committed to keeping her updated on the progress of her big project around April 9, 2023",
+        "score": 0.7816742034120735,
+        "id": "855fc230-636c-4d0d-ba9c-9a8ed613d879",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2023-04-09T16:30:00+00:00"
+      },
+      {
+        "memory": "Jolene proposed meeting Deborah on Wednesday, September 13, 2023, at 4:00 PM for coffee to catch up and discuss her routine strategies",
+        "score": 0.7706725963877822,
+        "id": "54a92bb9-df70-4cd9-bdae-7b542622e1bc",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah reaffirmed her commitment to always be there for Jolene, expressing that she is glad her support means a lot to her around April 9, 2023",
+        "score": 0.7703114967454069,
+        "id": "838892a1-1fb3-4860-92e3-33f94f3ab9fb",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2023-04-09T16:30:00+00:00"
+      },
+      {
+        "memory": "Deborah expressed support for Jolene's ongoing big project around April 9, 2023, encouraging her to keep up the good work while waiting to hear how it turns out",
+        "score": 0.7695459367454068,
+        "id": "4a52122b-2a1f-496c-82eb-8f773a366623",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2023-04-09T16:30:00+00:00"
+      },
+      {
+        "memory": "Jolene proposed meeting Deborah on Friday, September 8, 2023, at 5 PM to discuss time management strategies, after she finishes sorting books from her bookcase",
+        "score": 0.7636483330690452,
+        "id": "74f5e590-41f0-4690-ae90-a3df345782d7",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah congratulated Jolene on wrapping up her engineering project around June 6, 2023, acknowledging that Jolene's hard work paid off",
+        "score": 0.7335280278787879,
+        "id": "01ff4d2e-1b04-48ed-8134-aff50ed76bbf",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2023-06-06T15:56:00+00:00"
+      },
+      {
+        "memory": "Jolene is planning to get out in nature again in October 2023, looking forward to reconnecting with it",
+        "score": 0.7314549,
+        "id": "2ee8e23e-b2af-4e58-a32e-a468c0c34b6a",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2023-09-20T10:17:00+00:00"
+      },
+      {
+        "memory": "Deborah agreed to help Jolene with time management strategies for her Engineering assignments and proposed finding a mutually convenient time to discuss it on March 13, 2023",
+        "score": 0.7279026114552115,
+        "id": "444ac6bd-d0a1-4803-afd6-969609bb528e",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2023-03-13T11:22:00+00:00"
+      },
+      {
+        "memory": "Jolene expressed enthusiasm about finalizing plans with Deborah, noting that they just need to agree on a mutually convenient time around September 17, 2023",
+        "score": 0.7276231447885447,
+        "id": "a74c9399-f86d-4cde-97cc-55272567d0b0",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Jolene proposed meeting Deborah at their favorite cafe on Monday, September 11, 2023, to try fresh pastries and discuss Jolene's routine strategies",
+        "score": 0.72409161,
+        "id": "4fa4ba1a-1c83-4ad2-bfd0-d56023038043",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah congratulated Jolene on the successful outcome of her engineering project around June 26, 2023, expressing happiness that it worked out",
+        "score": 0.7220883412121212,
+        "id": "15f644e3-f1d3-45c8-8794-7d0079af9278",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene proposed planning the surfing adventure with Deborah for October 2023 and stated she would check her schedule to confirm a specific date",
+        "score": 0.7216724333333334,
+        "id": "3575be37-54b1-4617-97cd-2456a9f00601",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Jolene agreed to check her schedule and get back to Deborah to find a time to chat about time management strategies for her Engineering assignments on March 13, 2023",
+        "score": 0.7178039273659674,
+        "id": "e1b53086-a426-4a3a-9c0a-e97ba4f248c2",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2023-03-13T11:22:00+00:00"
+      },
+      {
+        "memory": "Deborah informed Jolene that she already has plans for the proposed meeting day and cannot attend",
+        "score": 0.71514262,
+        "id": "d1a38744-72dd-4729-b85a-16601e90b844",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah offered continued support to Jolene on September 6, 2023, reminding her to take care of herself and rest up",
+        "score": 0.7111711066666667,
+        "id": "b12122b2-f0a2-46ef-846c-f927d89b6929",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2023-09-06T20:31:00+00:00"
+      },
+      {
+        "memory": "Jolene has been on an emotional rollercoaster lately but is coping, as shared with Deborah around February 4, 2023",
+        "score": 0.6910722866666666,
+        "id": "6106f5da-8426-4b25-ad3c-a85917d9f8a0",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Jolene experienced a huge setback with her project around late July 2023 where she lost all her work despite putting in significant effort, describing the experience as frustrating and depressing",
+        "score": 0.6860178422624722,
+        "id": "422e1709-0c8e-44fa-9047-913adeef6fe4",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Deborah expressed excitement about the upcoming surfing adventure with Jolene and asked what day works for scheduling around September 17, 2023",
+        "score": 0.6843524066666667,
+        "id": "8de33dde-3f1a-42f3-9b3a-c2f43dde7ee7",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Jolene has been experiencing a hectic schedule due to her internship and expressed that she could use a break, reacting positively to Deborah's upcoming yoga retreat plans",
+        "score": 0.6832628666666666,
+        "id": "280734f3-b27a-480d-bb85-6b354d05b9c0",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene is trying to add workouts into her studying schedule around July 9, 2023, finding it tough but fun",
+        "score": 0.6827012422624721,
+        "id": "9ddadd4a-8b9e-4284-b4be-ca27a7f41c3a",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2023-07-09T19:37:00+00:00"
+      },
+      {
+        "memory": "Deborah reaffirmed her unwavering support for Jolene on August 24, 2023, stating she is always by her side",
+        "score": 0.6824870900000001,
+        "id": "9d9be1b2-b6c0-4c5a-9695-93ec78ff1688",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah for additional time management tips beyond the Pomodoro Technique on March 22, 2023",
+        "score": 0.674017152913753,
+        "id": "b973ee04-76c6-4f36-8510-a3fc59a609cb",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Jolene practiced yoga on top of Mount Talkeetna on the morning of June 5, 2023, as part of her effort to maintain work-life balance during her internship",
+        "score": 0.6736500345454545,
+        "id": "c4c5a790-d370-4c28-bac2-bfd6e79f9e0f",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2023-06-06T15:56:00+00:00"
+      },
+      {
+        "memory": "Deborah had a tough week around September 8, 2023, as a storm forced the cancellation of her planned yoga getaway",
+        "score": 0.6734775199999999,
+        "id": "185ccaf0-6414-4593-b566-87b8e03915d4",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah reached out to Jolene on March 22, 2023, acknowledging that it had been a while since they last spoke and expressing hope that Jolene was managing her exams and deadlines well despite the difficulty",
+        "score": 0.6729371765085842,
+        "id": "c10188ec-77fb-4b52-8744-137531bb7fbe",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah proposed setting up a coffee date with Jolene to discuss Jolene's routine and self-care strategies for balancing a busy schedule",
+        "score": 0.6726059162171163,
+        "id": "eb5df89a-764f-44cc-bc39-b6452fca42c3",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Jolene describes her recent life as intense and sometimes overwhelming as she pushes herself to succeed, but remains determined to overcome obstacles and achieve her goals around June 26, 2023",
+        "score": 0.6720183878787879,
+        "id": "81cb9329-4301-4788-813c-c303a30d5ad3",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Deborah is preparing for a yoga retreat with friends around June 26, 2023, viewing it as an opportunity to connect with like-minded people and find peace and understanding",
+        "score": 0.6694205878787879,
+        "id": "1c8e9ece-eb06-4aca-b668-9706c3bdf66e",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Deborah agreed to meet Jolene at their favorite cafe and asked for the specific time, expressing that she thinks the cafe is great",
+        "score": 0.6677914387612388,
+        "id": "047bdcd3-ad0b-42e0-924b-6bc324dc4c25",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah encouraged Jolene to try the Eisenhower Matrix on March 22, 2023, suggesting it would help her stay focused and reduce stress by organizing tasks based on urgency and importance.",
+        "score": 0.6661901750247771,
+        "id": "5325ae43-0c37-44a6-8f57-39b921886d59",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah tried the Dancer Pose (Natarajasana) on the beach around June 26, 2023, and shared a photo of herself performing the pose during sunset to ask Jolene for feedback on her success",
+        "score": 0.6657399012121211,
+        "id": "dce5166f-7371-47bc-b637-dcfcbdeb92ca",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Deborah confirmed the coffee date with Jolene for Friday, September 15, 2023, at 5:00 PM, expressing excitement and telling Jolene to stay safe",
+        "score": 0.6657386495504496,
+        "id": "19fba420-03e3-4a17-8ce1-95d096cd444a",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah for the name of her second cat, after Deborah mentioned having cats and showed a photo with Luna on the left",
+        "score": 0.665160294980695,
+        "id": "fb9c0cbb-66b1-451b-a0a1-acf65f0696fd",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Deborah met her new neighbor Anna at a yoga session in the park around January 31, 2023",
+        "score": 0.6649887853464168,
+        "id": "5bb18ab5-dd77-4751-a9d2-b17d8a532fc9",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2023-02-01T19:03:00+00:00"
+      },
+      {
+        "memory": "Deborah started a running group with Anna around July 9, 2023, and enjoys connecting with people who care about fitness",
+        "score": 0.6629001755958055,
+        "id": "c8cde6f4-ba17-4ecd-afd7-618fdfa7ea27",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2023-07-09T19:37:00+00:00"
+      },
+      {
+        "memory": "Deborah promised to give Jolene a yellow coffee mug with a handwritten 'believe in yourself' message to encourage her during exams around March 2, 2023",
+        "score": 0.6624921766666666,
+        "id": "5e216b71-07b7-4a4d-8dd0-7ee06f89c478",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2023-03-02T19:18:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah for tips on studying and time management around March 2, 2023, seeking advice to help manage her overwhelming workload of exams and deadlines",
+        "score": 0.6601964333333333,
+        "id": "8743a0bb-fa59-4763-86fc-1aa8bfd32b12",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2023-03-02T19:18:00+00:00"
+      },
+      {
+        "memory": "Deborah has been focusing on teaching yoga and spending time with her community, including organizing a yoga event in July 2023 which she found really cool",
+        "score": 0.6595965755958055,
+        "id": "af1e5241-adca-4cfa-b75b-72b9ecffe9ac",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2023-08-19T00:52:00+00:00"
+      },
+      {
+        "memory": "Deborah encouraged Jolene to believe in herself and keep going after Jolene mentioned gathering information and a beginners' guide for surfing, sharing a photo of surfboards leaning against a palm tree on March 22, 2023",
+        "score": 0.6589534354978356,
+        "id": "8827214d-9e8e-4b88-9f85-74b62da8279a",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah suggested that Jolene try breaking down her tasks or prioritizing them to manage her overwhelming workload on March 22, 2023",
+        "score": 0.6583308930802532,
+        "id": "be4ebfb2-eb1b-4160-b33e-437fd3360ef5",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah praised Jolene for stepping outside her comfort zone and believing in herself during her recent mini retreat, asking what specific accomplishments she achieved",
+        "score": 0.6556567884462151,
+        "id": "8bb0981c-9cfb-41c3-814a-986d7a7cb668",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Jolene had a big breakthrough with her engineering project around June 26, 2023, describing the experience as exciting and rewarding",
+        "score": 0.6550460345454545,
+        "id": "52e228ba-fc2c-4fc5-9f86-35c8916e6f4a",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of her pet snake on a branch with a book around July 9, 2023",
+        "score": 0.6538392422624723,
+        "id": "d38bcedf-6eb2-4981-8264-2dce14212d72",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2023-07-09T19:37:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene how her yoga and meditation practices have been helping her balance engineering school and personal life around February 25, 2023",
+        "score": 0.6535682733333333,
+        "id": "b9aa9609-a332-436b-a7ee-f0c5c30cefa3",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2023-02-25T16:50:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene to bring some interesting books for their upcoming coffee date on Friday at 5 PM",
+        "score": 0.6522643997357119,
+        "id": "4860cbf6-e68f-4b90-a2fe-227d632fdfe0",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah created a meditation guide for her yoga retreat since her last conversation with Jolene, prior to August 12, 2023",
+        "score": 0.6514094656370656,
+        "id": "9ff8cc8d-8ba9-4396-82c8-26dfb14752d6",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2023-08-12T20:50:00+00:00"
+      },
+      {
+        "memory": "Jolene expressed gratitude to Deborah for her support and committed to continuing to push forward while prioritizing self-care around February 25, 2023",
+        "score": 0.650134996969697,
+        "id": "bcfb18e5-7869-4116-a56f-6c0663278df0",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2023-02-25T16:50:00+00:00"
+      },
+      {
+        "memory": "Deborah bonded with her neighbor Anna during a yoga class on February 3, 2023",
+        "score": 0.6495880786797502,
+        "id": "0ba4e519-6e84-4f73-bcd2-2d629a07f3e4",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for cheering her up and wished her all the best with her classes before saying goodbye around March 2, 2023",
+        "score": 0.6486912631752507,
+        "id": "4caac110-c90e-4a2e-9361-9bea4f170326",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2023-03-02T19:18:00+00:00"
+      },
+      {
+        "memory": "Deborah met her new neighbor named Anna on January 31, 2023, and shared a photo of a yellow sign featuring a picture of a family in relation to this meeting",
+        "score": 0.6476815853464168,
+        "id": "e3316eec-5565-4230-8514-287d622a59b9",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2023-02-01T19:03:00+00:00"
+      },
+      {
+        "memory": "Deborah advised Jolene to break tasks into smaller pieces and set goals, recommending planners or schedulers for time management to stay organized and ensure personal time. Deborah also offered to help create a study plan.",
+        "score": 0.6455937933333334,
+        "id": "7e3da199-785d-4cee-b1d8-e3a48ea0679b",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2023-03-02T19:18:00+00:00"
+      },
+      {
+        "memory": "Jolene did a mini retreat on February 1, 2023 to assess where she is at in life, describing it as a dope experience that gave her a new outlook",
+        "score": 0.6452985751128818,
+        "id": "1689c4c3-b74a-48d3-aea2-8242ac2801c7",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Deborah checked in with Jolene regarding her progress with mindfulness workshops and reading, offering further assistance if needed",
+        "score": 0.6449951333333334,
+        "id": "cebf5cbd-c60c-492f-ac9f-705a257dcf54",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2023-08-19T00:52:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene if there is a specific place that helps her relax, following their discussion about Deborah's visit to her mother's house.",
+        "score": 0.6443628,
+        "id": "b87a15d8-7c2c-44cf-9f9e-e663a50e91d2",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene how she manages her time and stays organized with all her projects and deadlines around March 22, 2023",
+        "score": 0.6436112431752508,
+        "id": "252c0dff-3277-41e9-b2b1-498fa372920a",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah how she acquired her cats, Luna and Max",
+        "score": 0.6424644283140283,
+        "id": "3212d1be-df37-4848-b32d-e1be4838163a",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo of a sunset reflecting in a lake with a boat on June 26, 2023, as she ended her conversation with Jolene",
+        "score": 0.6419691212121211,
+        "id": "1eccf80f-41e8-4bfa-97bd-302203882cf3",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of her pet snake in a tank filled with sand and plants around July 9, 2023",
+        "score": 0.6398536089291389,
+        "id": "675a83c6-fd47-4dff-a2d1-324db88eba91",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2023-07-09T19:37:00+00:00"
+      },
+      {
+        "memory": "Deborah offered support to Jolene regarding her recent project setback, expressing empathy and asking if anything is helping Jolene cope with the frustration and depression",
+        "score": 0.6396481533333334,
+        "id": "6dd26e28-a4df-4241-9b12-d999dcbfe442",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Deborah wished Jolene good luck with her upcoming finals and offered assistance if needed",
+        "score": 0.6394209000000001,
+        "id": "ec497e7a-9520-4a21-809e-8806a1aa2180",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2023-09-03T14:14:00+00:00"
+      },
+      {
+        "memory": "Jolene adopted her pet snake Susie around August 2021, two years prior to the conversation date, because she was feeling lonely and wanted companionship",
+        "score": 0.6383246483709274,
+        "id": "4cec78eb-c2be-48cd-931e-0e56652a473d",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Jolene congratulated Deborah on starting a neighborhood yoga class and asked how she managed to organize it, around March 13, 2023",
+        "score": 0.6382117098419174,
+        "id": "c3171325-4ee9-46ec-932e-e7c6a956184f",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2023-03-13T11:22:00+00:00"
+      },
+      {
+        "memory": "Jolene reported that her mini retreat on February 1, 2023, helped her achieve more than she imagined and served as a real confidence boost",
+        "score": 0.6381523751128818,
+        "id": "551838a6-abe1-463c-b9e3-9639f128e4be",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Deborah expressed interest in hearing more about Jolene's reflections from her meditation retreat in Phuket and how the experience changed her",
+        "score": 0.6378270482986456,
+        "id": "7d5d2603-1fed-4a2a-8763-2fba2a389551",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2023-09-12T14:18:00+00:00"
+      },
+      {
+        "memory": "Deborah uses a specific method to determine what is important and urgent when she feels overloaded, which helps her stay organized, and asked Jolene if she knows about it on March 22, 2023",
+        "score": 0.6372731533333332,
+        "id": "7d3caf0b-187e-4ae4-9756-41e03ee0a328",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of her engineering notebook sketches and notes from her planner on February 9, 2023, while expressing appreciation for Deborah's support regarding her volunteer program idea",
+        "score": 0.6366756766666667,
+        "id": "2925b98b-8001-4699-ab36-6d72d523ea1f",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Deborah felt bummed about the canceled yoga getaway due to a storm but is doing better now, finding comfort in her work and spending time at home around September 8, 2023",
+        "score": 0.63351552,
+        "id": "bc62b897-8886-44a9-8ffc-34958469d6d3",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah visited her mother's house in July 2023, a place that holds a special place in her heart as a symbol of her mother's strength and the love they shared despite good and bad times",
+        "score": 0.6332038755958055,
+        "id": "68d87e0f-a706-4add-bdd8-00a9076ed8da",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of a city skyline at sunset with a body of water during her conversation with Deborah on August 24, 2023",
+        "score": 0.6329855055144855,
+        "id": "c3d6d860-65f5-4170-898a-eb7b1b49b9ae",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene bought her pet snake Susie in Paris around January 2022, one year prior to the conversation date of January 27, 2023",
+        "score": 0.6329148483709273,
+        "id": "e1f2f976-8046-4011-a37c-82f4f9994f9e",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2023-01-27T09:49:00+00:00"
+      },
+      {
+        "memory": "Jolene and her partner returned from a trip to Rio de Janeiro around August 29, 2023, where they attended yoga classes",
+        "score": 0.6323590687804878,
+        "id": "7e4ab689-bd2f-42cf-8641-464042cc85a1",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah for details on how she organized the yoga event and whether it was rewarding to see everyone come together",
+        "score": 0.6320354096679947,
+        "id": "52f0f714-88e9-4981-9184-495b06886ef9",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2023-08-19T00:52:00+00:00"
+      },
+      {
+        "memory": "Jolene encouraged Deborah to keep up the great work with the gardening class and expressed hope for more similar community events in the future",
+        "score": 0.6317684333333333,
+        "id": "7505ccee-6160-4ff5-a8fd-d9a102d01a50",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Jolene expressed interest in learning about Deborah's time management method for organizing tasks by importance and urgency on March 22, 2023",
+        "score": 0.6310329098419174,
+        "id": "c6226549-190a-47c3-b3b4-c07584be6fbe",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for her support around September 12, 2023, and expressed appreciation that they can navigate their journey together",
+        "score": 0.6301996429644321,
+        "id": "2a776ac4-e1fb-44b2-8dfe-cc53e5acf998",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2023-09-12T14:18:00+00:00"
+      },
+      {
+        "memory": "Jolene expressed interest in hearing more about the hidden coffee shop Deborah mentioned and suggested they might visit it together during a future meeting",
+        "score": 0.6301028666666667,
+        "id": "f3fe774a-e575-41d4-9066-f99e970d16c1",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah believes pets provide love and comfort, especially during tough times, and asked Jolene how she came to have her pet Susie",
+        "score": 0.6290621817042606,
+        "id": "67259874-971e-41c0-93dd-a69455c33ed7",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Deborah expressed excitement to hear how Jolene reaches out to help underprivileged kids through her volunteer program and asked Jolene to keep her updated on the progress",
+        "score": 0.628625960104987,
+        "id": "adb2e362-ac60-4681-8a92-6c6f46bdef1c",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Deborah encouraged Jolene to take care of herself and embrace new beginnings around August 30, 2023",
+        "score": 0.6278082053462638,
+        "id": "9d0d0bd1-d540-4a26-a6cc-b7dbda31f753",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Jolene is not familiar with the specific time management method Deborah uses to prioritize important and urgent tasks when feeling overloaded",
+        "score": 0.6273643999999999,
+        "id": "73c64471-f846-451b-bd98-f90728c097e6",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene whether she only plays old video games or also tries new ones, following their discussion about playing 'Detroit' together.",
+        "score": 0.6271120382550782,
+        "id": "3857bd34-5d6b-4504-be97-d069daca2c5d",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2023-01-27T09:49:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of a city skyline at sunset with a body of water on August 24, 2023, while agreeing to Deborah's advice to find joy in the journey and thanking her for support",
+        "score": 0.6266860521811523,
+        "id": "bf2f0452-1fbf-4f85-8595-fefd89978494",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for her support around September 6, 2023, stating that it means a lot to her and committing to keep pushing forward",
+        "score": 0.6258663296310988,
+        "id": "024cfe01-95fc-4e83-9f46-723c4d21d2a6",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2023-09-06T20:31:00+00:00"
+      },
+      {
+        "memory": "Deborah went biking with her neighbor around April 2, 2023, describing the experience as freeing and beautiful",
+        "score": 0.6244948034120735,
+        "id": "3c95d6b1-7d3d-4148-94b1-f327586367db",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2023-04-09T16:30:00+00:00"
+      },
+      {
+        "memory": "Deborah has a husband who was photographed standing in front of her mother's childhood home during their visit in July 2023",
+        "score": 0.6244632155958055,
+        "id": "8d000b8f-cc87-4c53-95e6-6ec49711a889",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Jolene has been practicing yoga and meditation sporadically for about three years as of June 2023, noting that these practices have had a real positive effect on her well-being.",
+        "score": 0.6241569612121212,
+        "id": "2ceaa02b-e40d-40f8-b48f-94099e892f69",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2023-06-06T15:56:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene to identify whether the snake in the photo is Susie or Seraphim and inquired about how long the snake has been with her",
+        "score": 0.6226199817042607,
+        "id": "02657eff-2568-4c76-b8d2-f3d8e0140398",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2023-09-15T15:09:00+00:00"
+      },
+      {
+        "memory": "Deborah received a handwritten letter with a heartfelt message about their journey together on January 26, 2023, which she shared as an example of their connection",
+        "score": 0.6212068182831662,
+        "id": "ee376acb-055f-4207-8465-ef72db6404da",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2023-01-27T09:49:00+00:00"
+      },
+      {
+        "memory": "Deborah received a message from her yoga group members thanking her for the positive influence she had on them, which reinforced her passion for teaching yoga around January 27, 2023",
+        "score": 0.6198004333333333,
+        "id": "26f035c9-a717-4d1a-bcc5-aed59a577bae",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2023-01-27T09:49:00+00:00"
+      },
+      {
+        "memory": "Deborah offered to explain her time management method to Jolene on March 22, 2023, describing it as a system that organizes tasks based on their importance and urgency",
+        "score": 0.6189695765085841,
+        "id": "7c1be0c6-f99d-48d5-a75f-c3b3926b4713",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah offered to assist Jolene with getting started on her mindfulness journey, expressing happiness to help if needed",
+        "score": 0.6189586420246421,
+        "id": "861269c4-bbea-40c4-9107-e2a79064ba39",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2023-08-16T14:58:00+00:00"
+      },
+      {
+        "memory": "Jolene looks forward to meeting Deborah and playing the cat-themed card game together",
+        "score": 0.6186453621711622,
+        "id": "1ad77d48-185c-4ac6-bae4-5d3d45d1e146",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2023-09-12T14:18:00+00:00"
+      },
+      {
+        "memory": "Jolene expressed a desire for chill time similar to Deborah's retreat, describing the atmosphere as sounding very peaceful",
+        "score": 0.61861745,
+        "id": "ed6d1142-68eb-4d3e-8064-7b58600ee036",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene practiced yoga and meditation on Friday, February 24, 2023, to relax and make time for herself amidst her busy schedule",
+        "score": 0.6184954464023786,
+        "id": "9065d434-7a30-4d47-9c92-a9da282f723c",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2023-03-02T19:18:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene if she has been able to find a good work-life balance during her internship at the engineering firm",
+        "score": 0.6176311390438247,
+        "id": "29c7d499-0ce5-4450-8854-6fc2aeaf1179",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2023-06-06T15:56:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene how she felt when receiving positive feedback on her presentation and inquired about her ideas for next steps",
+        "score": 0.6175327679881071,
+        "id": "e71410b4-34e0-4ffd-914d-18f36ad7bd98",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah how she acquired her cat Luna, following up on the previous discussion about Max being inherited from Deborah's mother",
+        "score": 0.6172560283140284,
+        "id": "f60847b8-5b63-4201-987b-ddc312d51973",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Jolene found the visualization of the Eisenhower Matrix helpful and thanked Deborah for sharing it on March 22, 2023",
+        "score": 0.616523375024777,
+        "id": "39e1c572-810d-427c-b40a-2e5153ebd85e",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene what strategies she uses to plan activities while managing a busy schedule, noting that it can be both good and tough",
+        "score": 0.6163577761480014,
+        "id": "bd4b3dcb-5860-49ad-94d6-31aa18d9c3d3",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Jolene and her partner had an emotional conversation on August 25, 2023, about how their loved ones have influenced them and what their values meant, which brought them closer together.",
+        "score": 0.6161177521303258,
+        "id": "52b97205-e04e-457a-8e31-24b2ac452d48",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Deborah attended an inspiring event around August 27, 2023, focused on mutual support and community connection",
+        "score": 0.6155777934661355,
+        "id": "4f1e1809-b509-4801-a1fe-ebd184ec224c",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2023-09-03T14:14:00+00:00"
+      },
+      {
+        "memory": "Jolene expressed a desire to watch the sunrise together with Deborah in the future, following their recent exchange about beach photos and relaxation",
+        "score": 0.6154959666666667,
+        "id": "c59246da-a1d4-49c4-bc6e-f1042d7b4d67",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2023-09-06T20:31:00+00:00"
+      },
+      {
+        "memory": "Deborah attended a community meetup on September 1, 2023, where participants shared stories and she felt a strong sense of connection, reinforcing her belief in the importance of relationships",
+        "score": 0.6151168333333333,
+        "id": "b92092e7-cf7c-4561-9081-f49adb9334cb",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2023-09-03T14:14:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah how old her cat Luna is, following up on the previous discussion where Deborah mentioned Max is 8 years old",
+        "score": 0.614541594980695,
+        "id": "9ed81a7f-2c74-44da-9caf-392f6b3ec7af",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Deborah attended an art show with a friend on April 9, 2023, finding the artwork cool and inspiring, which reminded her of her mother",
+        "score": 0.6141140300787401,
+        "id": "0702f922-4645-479a-8792-61b1620710cb",
+        "created_at": "2023-04-09T16:30:00+00:00",
+        "updated_at": "2023-04-09T16:30:00+00:00"
+      },
+      {
+        "memory": "Deborah wished Jolene good luck with everything and encouraged her to stay in touch around August 21, 2023",
+        "score": 0.6133372720129305,
+        "id": "5b72858d-0d78-4d27-8023-d41d53ff7df8",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2023-08-21T09:11:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of herself holding a cup of coffee in front of a bunch of flowers while proposing the Wednesday meeting time",
+        "score": 0.6131262363877822,
+        "id": "101c9775-d18f-4090-bb75-953f8e49ce36",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Deborah and Anna tried out different yoga poses during their class on February 3, 2023, including Warrior II, which Deborah notes builds strength and boosts focus",
+        "score": 0.6128770533333333,
+        "id": "d113448c-2f8d-471a-bb1c-b8d25d7dbe37",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Jolene agreed to try using the Eisenhower Matrix for task prioritization around March 22, 2023, expressing hope that it will help her stay focused and less stressed",
+        "score": 0.6127232216914437,
+        "id": "90cc2169-6bef-417f-b240-632712cd9d7b",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah shared the last photo with her friend Karlie, taken in summer 2022 during a hike where they rode motorcycles on a dirt road. Deborah smiles when seeing it, as memories keep loved ones close.",
+        "score": 0.6121256666666667,
+        "id": "dcc40b9a-3b62-4a52-8478-fe94cb0d6401",
+        "created_at": "2023-02-22T16:12:00+00:00",
+        "updated_at": "2023-02-22T16:12:00+00:00"
+      },
+      {
+        "memory": "Jolene and her partner traveled to a meditation retreat in Phuket for a few weeks around early September 2023, finding the experience amazing for nature, reflection, and inner peace while taking a break from engineering studies",
+        "score": 0.6107261416319788,
+        "id": "a15e537d-06a7-4af3-b582-b6bc78ebbdb3",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2023-09-12T14:18:00+00:00"
+      },
+      {
+        "memory": "Deborah encouraged Jolene to focus on the experience rather than just the end result, advising her to take things step by step and have fun along the way while pursuing her surfing goal",
+        "score": 0.6105259433333333,
+        "id": "a2b9184f-a96d-43a0-9407-8f3a46803359",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Jolene confirmed the snake in the photo is Susie and stated she has had her for two years as of September 15, 2023",
+        "score": 0.6104882083709273,
+        "id": "28ae7197-e8bc-41da-a980-c59490e25257",
+        "created_at": "2023-09-15T15:09:00+00:00",
+        "updated_at": "2023-09-15T15:09:00+00:00"
+      },
+      {
+        "memory": "Jolene achieved a major engineering milestone around January 28, 2023, which went well and left her feeling relieved and proud of the accomplishment",
+        "score": 0.6098992182831661,
+        "id": "1ae59fbf-2703-40a7-91bd-449de378514d",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Jolene agrees with Deborah that it is important to take time to enjoy life's good moments and not let the busyness of daily life cause them to miss out on those experiences",
+        "score": 0.6089922525474526,
+        "id": "f34e0152-02a3-493f-90a8-37bf40763d67",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2023-08-21T09:11:00+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for her support around August 12, 2023, and committed to continuing to push forward and do her best to make a difference",
+        "score": 0.6088762053462639,
+        "id": "1b7610e5-17fe-4a19-8f84-f4c3fee74d70",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2023-08-12T20:50:00+00:00"
+      },
+      {
+        "memory": "Deborah and her new neighbor Anna discussed how yoga has improved their lives and provides a sense of community, after meeting at yoga in the park around January 31, 2023",
+        "score": 0.6087865720130835,
+        "id": "6d052c43-6638-47f0-88b9-b907339f88be",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2023-02-01T19:03:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene if her partner participates in yoga with her, following up on Jolene's mention of balancing engineering school and her partner's video games",
+        "score": 0.6082356003663004,
+        "id": "fccd2f87-0fec-4f20-9448-7b1a54ac2483",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2023-02-25T16:50:00+00:00"
+      },
+      {
+        "memory": "Deborah suggested that Jolene take breaks and try activities like yoga to help her relax and unwind, believing it might make a difference in managing her internship stress",
+        "score": 0.6070270266666667,
+        "id": "86c26031-5d65-4fbd-9d36-4bc6814a974b",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2023-06-06T15:56:00+00:00"
+      },
+      {
+        "memory": "Deborah noticed Jolene's pet snake in a shared photo and asked what motivated Jolene to decide to get a snake",
+        "score": 0.6064979280212484,
+        "id": "265859e6-ffb4-4b80-a5a8-fc81b5641438",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2023-07-09T19:37:00+00:00"
+      },
+      {
+        "memory": "Jolene finished an electrical engineering project around the week of January 16, 2023, after a busy period of work",
+        "score": 0.6060832849498328,
+        "id": "49f533db-05b0-42c2-96d2-d5a04ac5e1af",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2023-01-23T16:06:00+00:00"
+      },
+      {
+        "memory": "Deborah recommended a yoga studio named 'Tranquility' to Jolene, sharing a photo of the space which features many yoga mats on the floor",
+        "score": 0.60547236,
+        "id": "be295ef1-0efa-49fa-8b71-5fe649f098eb",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "On February 24, 2023, Deborah went for a morning jog in a nearby park for the first time and plans to incorporate jogging into her daily routine",
+        "score": 0.60508533,
+        "id": "34386b0c-a74d-4e1c-be30-d66c4973e5f3",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2023-02-25T16:50:00+00:00"
+      },
+      {
+        "memory": "Deborah expressed excitement to be on the journey with Jolene and noted it is wonderful to see her progress, reinforcing their supportive relationship",
+        "score": 0.60377622,
+        "id": "b6eee8b1-0e4e-49bf-a3cc-0e73daff714b",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2023-09-12T14:18:00+00:00"
+      },
+      {
+        "memory": "Jolene bought a new aquarium for her pet snake Seraphim around June 24, 2023, and shared photos of Seraphim curled up in the plant-filled enclosure",
+        "score": 0.6027040545454545,
+        "id": "2c4cd7c2-ee9d-4efd-838c-ef88bf94a5e6",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah if there are any calming habits she practices to feel balanced",
+        "score": 0.60244624,
+        "id": "0b4bc30a-f86e-4902-8f28-855f43cb1672",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2023-08-21T09:11:00+00:00"
+      },
+      {
+        "memory": "Jolene plans to visit the peaceful lake spot with Deborah sometime in the future, expressing enthusiasm for sharing the tranquil location together",
+        "score": 0.6023365333333334,
+        "id": "3778d27a-8c92-47c0-884e-a466938cfa1c",
+        "created_at": "2023-07-09T19:37:00+00:00",
+        "updated_at": "2023-07-09T19:37:00+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for her support around August 24, 2023, and committed to continuing to push forward while remembering to enjoy every step of the journey",
+        "score": 0.6022639720129305,
+        "id": "504cc4f7-9c29-419d-a606-34680ce01ec2",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Deborah encouraged Jolene to pursue her dream of learning to surf and asked if she has considered the specific steps needed to achieve this goal",
+        "score": 0.6020644666666667,
+        "id": "ffb60fa6-51ca-4a8c-8f0e-1f212cd104fd",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah believes trips create awesome memories that can be shared and asked Jolene where she went on her recent trip and what unforgettable experience she had",
+        "score": 0.6016712599999999,
+        "id": "051817e4-f88a-42c1-93ed-80ca97cc99e6",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2023-09-20T10:17:00+00:00"
+      },
+      {
+        "memory": "Deborah expressed pride in Jolene's achievements around August 24, 2023, offered help if needed, and encouraged her to keep moving forward",
+        "score": 0.6016409386795972,
+        "id": "a4536af9-e77c-49ee-912c-526a089a7fb7",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene thanked Deborah for her support around August 24, 2023, expressing that it means a lot to her",
+        "score": 0.6004410053462638,
+        "id": "2a711d8c-3338-471f-b9b6-ca8006476965",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene finds that her pet snake Susie helps her cope during tough times, and she also uses video games as a distraction",
+        "score": 0.5992208217042606,
+        "id": "731df3da-c224-4a7e-97f3-52538ef55f95",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of a cardboard mat with a cup of coffee on it, referring to it as new details for a case and asking Deborah to rate it around March 28, 2023",
+        "score": 0.5987696466666667,
+        "id": "3ed35cfc-a566-4174-8475-9b47aa8d604b",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2023-03-28T16:03:00+00:00"
+      },
+      {
+        "memory": "Deborah shared her life story with Anna on August 18, 2023, and found the experience uplifting due to Anna's kindness and the meaningful connection they formed",
+        "score": 0.5977362120130835,
+        "id": "6d65f77c-4b8b-43b8-8d3d-b491ee53ba16",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2023-08-19T00:52:00+00:00"
+      },
+      {
+        "memory": "Deborah praised Jolene for putting her heart and soul into her recent virtual conference presentation, acknowledging how amazing it must have been to receive positive feedback",
+        "score": 0.596646067988107,
+        "id": "4f1a7363-3a01-4525-9ee2-fa2de11a0c53",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene which specific projects she is most interested in getting involved in, acknowledging her many amazing plans for the future",
+        "score": 0.5965974733333334,
+        "id": "cfe97d72-e429-4458-8b98-91908869d0ab",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Jolene accomplished something significant with her engineering project around February 9, 2023, coming up with neat solutions that left her feeling really excited about the work",
+        "score": 0.5964594,
+        "id": "ccf20a69-c77a-4c46-be08-6a8fb9f4d43b",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Deborah plans to play the cat-themed card game with Jolene in the future",
+        "score": 0.5962764955044956,
+        "id": "6510e27b-6616-418c-ac20-44a4f44dce43",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2023-09-12T14:18:00+00:00"
+      },
+      {
+        "memory": "Jolene's major engineering milestone around January 28, 2023, involved planning, researching, designing, and building a sustainable water purifier for a rural community in need, an experience she found tough but loved",
+        "score": 0.5961724125208127,
+        "id": "b7466cbc-a1ec-41c1-9a34-37afb3af022c",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Deborah encourages Jolene to look to her sources of strength during tough times, stay in touch, take care of herself, and know that Deborah is always there to cheer her on",
+        "score": 0.5951033910682111,
+        "id": "bbe99c76-8436-4b30-8010-d93f36ca3e56",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Deborah hosted a yoga class for her interested neighbors on Friday, March 10, 2023, and shared a photo of the group of women smiling together after the session",
+        "score": 0.5943717333333334,
+        "id": "76bd9637-171d-4249-9017-d451b3de29e8",
+        "created_at": "2023-03-13T11:22:00+00:00",
+        "updated_at": "2023-03-13T11:22:00+00:00"
+      },
+      {
+        "memory": "Jolene recently presented at a virtual conference and received positive feedback, an experience that confirmed she is on the right track toward her goals",
+        "score": 0.59356259,
+        "id": "98117c69-2246-47ce-93e4-e985f0b15838",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene stated that Deborah's photo of a person walking on the beach with a surfboard reminded her of her last beach getaway, which she described as chill and nice",
+        "score": 0.5920991166666667,
+        "id": "6384d69d-cf6c-4c03-8a0f-a98dbdb7d9ff",
+        "created_at": "2023-09-06T20:31:00+00:00",
+        "updated_at": "2023-09-06T20:31:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of two notebooks with blue covers and white strips, describing them as her meditation quote journal around August 12, 2023",
+        "score": 0.5918510333333332,
+        "id": "5801f876-e204-4f0b-a6a4-34ae21eb75eb",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2023-08-12T20:50:00+00:00"
+      },
+      {
+        "memory": "Jolene experienced significant stress and feeling overwhelmed after losing her work files, but used meditation to regain clarity and stay calm around August 12, 2023",
+        "score": 0.5918419166666666,
+        "id": "6d2c03b7-13a1-4f4e-88b3-78cc459348f6",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2023-08-12T20:50:00+00:00"
+      },
+      {
+        "memory": "Jolene finds that having her pet Susie around helps her stay strong and find joy in small things during difficult times",
+        "score": 0.5912494950375939,
+        "id": "e73f9f5a-9f6a-4abe-86cd-e7edf55a5c5c",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Deborah admires Jolene's ambition to make a difference and asked if she has specific plans or goals for her aerial surveillance prototype project",
+        "score": 0.5907071066666667,
+        "id": "017a24e4-6cc0-4a70-8b71-bff34cd03487",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2023-08-12T20:50:00+00:00"
+      },
+      {
+        "memory": "Jolene acquired a new plant as a reminder to nurture herself and embrace fresh starts, sharing a photo of it in a pot on her patio around August 30, 2023",
+        "score": 0.5898571,
+        "id": "2615f97b-3ab4-45fa-9acd-c2366b6bcba4",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Deborah purchased new props for her neighborhood yoga class and shared a photo of the group practicing in a calming room setting around March 28, 2023",
+        "score": 0.5898146705694306,
+        "id": "f43b9599-54c6-4504-9765-43c4b6e96d1e",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2023-03-28T16:03:00+00:00"
+      },
+      {
+        "memory": "Deborah expressed interest in learning more about Jolene's strategies for maintaining balance through routine, scheduling, and self-care activities like yoga and meditation",
+        "score": 0.5895655133333334,
+        "id": "830f44c7-b01b-4363-bdc6-39879b249094",
+        "created_at": "2023-09-08T19:39:00+00:00",
+        "updated_at": "2023-09-08T19:39:00+00:00"
+      },
+      {
+        "memory": "Jolene and her partner are planning to play the video game 'Walking Dead' on Saturday, February 4, 2023.",
+        "score": 0.58846758,
+        "id": "6262074f-3d26-45a0-873d-4402906f116c",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2023-01-27T09:49:00+00:00"
+      },
+      {
+        "memory": "Jolene attended a music festival with her partner around September 2022, describing it as an awesome time and a way to express herself and escape everyday stress",
+        "score": 0.5882138866666666,
+        "id": "7bacbe29-4059-436d-8c56-85d88a5b4740",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2023-09-20T10:17:00+00:00"
+      },
+      {
+        "memory": "Jolene had a breakthrough with her engineering project on March 24, 2023, finally finding a solution to a persistent problem and feeling that her hard work is paying off",
+        "score": 0.5879315386213787,
+        "id": "273e3a1a-2c55-4554-bb00-30fe421bf883",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2023-03-28T16:03:00+00:00"
+      },
+      {
+        "memory": "Deborah reaffirmed her support for Jolene, emphasizing that yoga provides peace and calm during stressful times and reminding Jolene that they are in this together",
+        "score": 0.5877563133333333,
+        "id": "9d2707be-4707-438b-a8ca-3b706d80ec77",
+        "created_at": "2023-08-12T20:50:00+00:00",
+        "updated_at": "2023-08-12T20:50:00+00:00"
+      },
+      {
+        "memory": "Deborah explained the Eisenhower Matrix to Jolene on March 22, 2023, describing it as a method that sorts tasks into four boxes based on their urgency and importance to help with organizing and prioritizing.",
+        "score": 0.5868001083581104,
+        "id": "3c3a6373-2d34-4483-8ee3-8649cafc1bf2",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene if she and her partner still enjoy working on engineering projects together, following up on their meeting in an engineering class",
+        "score": 0.5862191503829505,
+        "id": "42cf3e32-0004-4f8e-8709-4fdc1be3a25f",
+        "created_at": "2023-02-25T16:50:00+00:00",
+        "updated_at": "2023-02-25T16:50:00+00:00"
+      },
+      {
+        "memory": "Jolene took her pet snake Seraphim to the park on February 26, 2023, and shared a photo of a lizard laying on the ground surrounded by leaves from the outing",
+        "score": 0.5842132882109946,
+        "id": "ec0c38b0-1590-4bad-ba66-a7a7325933a8",
+        "created_at": "2023-03-02T19:18:00+00:00",
+        "updated_at": "2023-03-02T19:18:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene for video game suggestions and inquired about her favorite game",
+        "score": 0.5836476564102564,
+        "id": "a1687466-0ab7-4008-9f8e-369f2b2b69c9",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2023-08-19T00:52:00+00:00"
+      },
+      {
+        "memory": "Jolene is using the Pomodoro Technique (25 minutes work, 5-minute break) to avoid burnout but still struggles with prioritizing tasks around March 22, 2023",
+        "score": 0.5832009,
+        "id": "e285f2f8-a9a0-4aa2-8f76-41ac9386b4e6",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah led a meditation yoga session for the elderly at a local care home around August 9, 2023, during sunset, and believes nature helps find peace",
+        "score": 0.5827970800000001,
+        "id": "d853dd6d-8876-4a29-b255-699e311c1a93",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2023-08-16T14:58:00+00:00"
+      },
+      {
+        "memory": "Jolene acquired her pet snake Seraphim around June 2022 and finds that spending time with the snake brings a sense of peace, comfort, and cheer",
+        "score": 0.5827486545454544,
+        "id": "4a8ac773-d4d5-43e2-b3ab-4a3c9b554b2a",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene and her partner planned to play video games on a console around February 1, 2023",
+        "score": 0.582660970458221,
+        "id": "ac1ca4da-ff48-4d91-8f13-b12d39172464",
+        "created_at": "2023-02-01T19:03:00+00:00",
+        "updated_at": "2023-02-01T19:03:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene how her internship at the engineering firm has impacted her, following up on Jolene's previous comments about applying school knowledge to real projects",
+        "score": 0.5815293288311688,
+        "id": "c9d85ab2-aae0-4198-beb0-bc36254e593e",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2023-06-06T15:56:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene how long she has been practicing yoga, reacting to a photo Jolene shared of a person lying on the floor with a paper bag during savasana",
+        "score": 0.5808935333333333,
+        "id": "8b7806f3-2594-48e0-8ac5-a4e90d7b7d71",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2023-08-21T09:11:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of her bullet journal spread featuring a motivational quote that inspires her to stay focused and let go of what no longer serves her, around August 30, 2023",
+        "score": 0.5793991264276228,
+        "id": "5742f86a-3999-431a-9aa2-2bad71bc7dc5",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Deborah supports Jolene's idea for a volunteer program where engineers teach STEM to underprivileged kids, believing it is a great way to help and inspire others who would benefit from Jolene's knowledge, and asks if Jolene has developed a plan yet",
+        "score": 0.5791880067716536,
+        "id": "93479062-1a1f-4e6b-977f-6263d7649f2b",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Jolene shared her newfound love for yoga with her partner, and they are planning to attend a meditation retreat together to enhance their practice",
+        "score": 0.57864572,
+        "id": "6d205e84-7fd0-4742-a559-083b8831daf2",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Deborah suggested that Jolene consider incorporating the values of perseverance and resilience, learned from her loved ones, into her professional work as an engineer",
+        "score": 0.5786092521303258,
+        "id": "7100e978-9eb7-46a9-aead-51a94c1fc212",
+        "created_at": "2023-08-26T17:33:00+00:00",
+        "updated_at": "2023-08-26T17:33:00+00:00"
+      },
+      {
+        "memory": "Deborah bought a lavender-scented candle with rosemary to improve the atmosphere of her yoga practice around March 28, 2023",
+        "score": 0.57704665,
+        "id": "6501b6df-0fe9-4337-82a8-a3650c55bdae",
+        "created_at": "2023-03-28T16:03:00+00:00",
+        "updated_at": "2023-03-28T16:03:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of a surfboard painted with a palm tree on September 17, 2023, humorously remarking that she already knows what fate awaits her if she tries surfing",
+        "score": 0.5763229688311688,
+        "id": "84f6c7df-860d-444a-b6b6-99e85b94c523",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Jolene shared a photo of herself holding an open memory book on a bed, which contains pictures and notes, around September 17, 2023",
+        "score": 0.5757555799999999,
+        "id": "35ad51e9-c6d2-48e4-a52b-2599af716c2d",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Deborah offered to suggest yoga and meditation routines for Jolene to try, following Jolene's mention of using these practices for self-care",
+        "score": 0.575741556969697,
+        "id": "fd218028-b550-4e78-8585-4e0c332fffc0",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Jolene is considering taking a trip somewhere to relax and recharge after her finals are completed in September 2023",
+        "score": 0.5756381296310988,
+        "id": "66b0c2dc-8c00-4e96-87a0-2168eca59152",
+        "created_at": "2023-09-03T14:14:00+00:00",
+        "updated_at": "2023-09-03T14:14:00+00:00"
+      },
+      {
+        "memory": "Deborah visited her mother's old house around the week of January 16, 2023, a place that holds significant memories for her",
+        "score": 0.5754330849498328,
+        "id": "954ec639-dcbb-4c46-8b28-e6028748237a",
+        "created_at": "2023-01-23T16:06:00+00:00",
+        "updated_at": "2023-01-23T16:06:00+00:00"
+      },
+      {
+        "memory": "Jolene considers connecting with nature her own way to relax, similar to Deborah's experience at the yoga retreat",
+        "score": 0.5752093989703989,
+        "id": "5964850c-f560-4a6d-9456-ca305b449124",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene tried a scuba diving lesson on September 15, 2023, had an awesome time, and found a cool dive spot to explore together, expressing interest in potentially becoming a certified diver one day",
+        "score": 0.5748089133333334,
+        "id": "584f2cab-a77a-4351-adb4-a6164dd6fe54",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Deborah believes that animals bring happiness, understanding, and comfort, and that having a pet teaches responsibility. She encouraged Jolene to cherish moments with her pet Susie and find strength in her presence.",
+        "score": 0.5739775417042606,
+        "id": "bfddc43b-6991-444b-97b8-c828a40401de",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene about her favorite memories of playing video games",
+        "score": 0.5737176866666667,
+        "id": "7dd1cb1b-5f0c-435e-8c23-b3b88626f8a5",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2023-08-19T00:52:00+00:00"
+      },
+      {
+        "memory": "Jolene asked Deborah for advice on calming the mind and breathing techniques during yoga practice",
+        "score": 0.5724392292341913,
+        "id": "56ba421f-accc-4444-97de-47fcf9933e99",
+        "created_at": "2023-06-06T15:56:00+00:00",
+        "updated_at": "2023-06-06T15:56:00+00:00"
+      },
+      {
+        "memory": "Jolene finds crossing tasks off her bullet journal list satisfying and shared a photo of her newest spread featuring one of her favorite motivational quotes around August 16, 2023",
+        "score": 0.5722159666666666,
+        "id": "2b05949b-1649-47eb-bf18-2639ea89dc5d",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2023-08-16T14:58:00+00:00"
+      },
+      {
+        "memory": "Jolene finds it tough to find time for everything around March 22, 2023, describing the experience as playing catch-up and really stressful",
+        "score": 0.5721482431752507,
+        "id": "4e031779-bf07-4e84-8134-419f206b416c",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah attended a yoga retreat near her mother's place around August 17, 2023, describing it as life-changing and beautiful, allowing her to connect with nature and self-discovery",
+        "score": 0.5721158666666667,
+        "id": "540bc80e-39bb-4636-8be2-4365cfc7fc5b",
+        "created_at": "2023-08-24T09:34:00+00:00",
+        "updated_at": "2023-08-24T09:34:00+00:00"
+      },
+      {
+        "memory": "Jolene has been reflecting on her plans after checking in with her boyfriend, describing the experience as up and down around August 16, 2023",
+        "score": 0.5717510720129305,
+        "id": "06d21106-3649-48e1-bf47-f599d1015752",
+        "created_at": "2023-08-16T14:58:00+00:00",
+        "updated_at": "2023-08-16T14:58:00+00:00"
+      },
+      {
+        "memory": "Jolene recently returned from a trip with her partner around September 20, 2023, which she described as cool",
+        "score": 0.5717382962977654,
+        "id": "0c18b792-d14b-4776-bce2-eaaab5599b2a",
+        "created_at": "2023-09-20T10:17:00+00:00",
+        "updated_at": "2023-09-20T10:17:00+00:00"
+      },
+      {
+        "memory": "Jolene stated that it is hard for her to choose just one favorite video game when asked by Deborah",
+        "score": 0.5708954842021804,
+        "id": "4e42cfdc-a640-417c-aa30-162de1a71f8e",
+        "created_at": "2023-08-19T00:52:00+00:00",
+        "updated_at": "2023-08-19T00:52:00+00:00"
+      },
+      {
+        "memory": "Deborah is always drawn to animals and believes they bring so much joy, prompting her to ask Jolene about the story behind her new snake Seraphim",
+        "score": 0.5704896882109947,
+        "id": "405ea4bb-d1a3-4966-b3a4-e25ac14b4c83",
+        "created_at": "2023-06-26T09:17:00+00:00",
+        "updated_at": "2023-06-26T09:17:00+00:00"
+      },
+      {
+        "memory": "Jolene read 'Avalanche' by Neal Stephenson in one sitting around January 21, 2023",
+        "score": 0.5704688133333333,
+        "id": "4e1ab785-3030-42eb-9445-0c0b8c196565",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Deborah and Anna supported each other during a challenging yoga pose, which brought them closer together and meant a lot to Deborah",
+        "score": 0.5703678453464168,
+        "id": "1baf3815-6bad-4a34-8194-f2e96e524e0a",
+        "created_at": "2023-02-04T09:48:00+00:00",
+        "updated_at": "2023-02-04T09:48:00+00:00"
+      },
+      {
+        "memory": "Jolene and her partner played the game 'Detroit' on a console around January 20, 2023, an activity they both enjoy greatly. Jolene shared a photo of herself lying in bed with a dog while watching TV during this gaming session.",
+        "score": 0.5701030582550782,
+        "id": "2cb03988-947c-4d3c-87eb-9dfe8da72610",
+        "created_at": "2023-01-27T09:49:00+00:00",
+        "updated_at": "2023-01-27T09:49:00+00:00"
+      },
+      {
+        "memory": "Deborah believes that having guest speakers would give underprivileged kids a real-world view of engineering careers and asks Jolene if she has reached out to any schools or centers yet regarding her volunteer program idea",
+        "score": 0.5697975566666666,
+        "id": "2143a59f-4590-4cb1-9537-e4f9668e87bb",
+        "created_at": "2023-02-09T21:03:00+00:00",
+        "updated_at": "2023-02-09T21:03:00+00:00"
+      },
+      {
+        "memory": "Deborah shared a photo of a hand holding a piece of paper with handwritten writing on it around August 30, 2023",
+        "score": 0.5697564333333333,
+        "id": "d83f26cb-f03b-4f42-80d1-bfad4859b5d7",
+        "created_at": "2023-08-30T11:46:00+00:00",
+        "updated_at": "2023-08-30T11:46:00+00:00"
+      },
+      {
+        "memory": "Deborah takes photos during her walks, including a photo of a sunset over a calm lake shared on August 21, 2023",
+        "score": 0.5689338133333334,
+        "id": "f25331c4-ef86-41c5-af07-61ac1229bcf0",
+        "created_at": "2023-08-21T09:11:00+00:00",
+        "updated_at": "2023-08-21T09:11:00+00:00"
+      },
+      {
+        "memory": "Deborah believes that the gentle flow yoga routine focused on breathing and grounding is a great way to find balance during tough times, and she encouraged Jolene to try it out and share her thoughts",
+        "score": 0.5689236777348777,
+        "id": "26c5ff8d-cf97-4119-bc18-7032b1d099fd",
+        "created_at": "2023-08-01T09:26:00+00:00",
+        "updated_at": "2023-08-01T09:26:00+00:00"
+      },
+      {
+        "memory": "Deborah manages her time by creating a daily schedule or to-do list, and shared an example of her current day's list on March 22, 2023",
+        "score": 0.568609423043623,
+        "id": "b4e45214-6cad-4eaa-af41-a7c0c0049380",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Jolene finds creating a daily schedule overwhelming when facing a large stack of tasks, as evidenced by her example from March 17, 2023",
+        "score": 0.5681379230436231,
+        "id": "55c95fe6-6d1b-4384-aa0c-93b5be9c7e48",
+        "created_at": "2023-03-22T17:35:00+00:00",
+        "updated_at": "2023-03-22T17:35:00+00:00"
+      },
+      {
+        "memory": "Deborah asked Jolene what her favorite cookie to make is, continuing their conversation about baking and shared memories with loved ones",
+        "score": 0.5678533987969925,
+        "id": "e57e10e2-63a1-45f8-acab-41e6c174b98e",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      },
+      {
+        "memory": "Jolene reported experiencing a new level of joy and happiness around September 12, 2023",
+        "score": 0.5670565096310988,
+        "id": "3735c004-cfb1-49fb-ad67-dbfc9abe3afc",
+        "created_at": "2023-09-12T14:18:00+00:00",
+        "updated_at": "2023-09-12T14:18:00+00:00"
+      },
+      {
+        "memory": "Deborah considers having a cozy nook to chill her best feature for escaping reality and relaxing, reacting positively to Jolene's mention of reading in her bathroom.",
+        "score": 0.5670106409324009,
+        "id": "d74f3bc3-0692-4d66-8243-813e479af544",
+        "created_at": "2023-09-17T13:24:00+00:00",
+        "updated_at": "2023-09-17T13:24:00+00:00"
+      }
+    ],
+    "search_latency_ms": 1054.4,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Deborah cancelled their previously proposed coffee date.",
+      "memories_evaluated": 10,
+      "reason": "The generated answer attributes the rescheduling to Deborah cancelling, whereas the gold answer states Jolene had prior plans, representing a different cause and actor."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Deborah cancelled their previously proposed Wednesday at 4 PM coffee date.",
+      "memories_evaluated": 20,
+      "reason": "The generated answer attributes the rescheduling to Deborah cancelling, whereas the gold answer states Jolene had prior plans, representing a different cause and actor."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Jolene had to reschedule because Deborah cancelled their previously proposed Wednesday at 4 PM coffee date, as Deborah already had plans for that day.",
+      "memories_evaluated": 50,
+      "reason": "The generated answer incorrectly attributes the reason for rescheduling to Deborah having plans, whereas the gold answer states that Jolene already had plans, meaning the core fact is wrong."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Deborah cancelled the previously proposed Wednesday coffee date because she already had plans for that day and could not attend.",
+      "memories_evaluated": 60,
+      "reason": "The generated answer incorrectly attributes the reason for rescheduling to Deborah having plans, whereas the gold answer states that Jolene had plans, meaning the core entity responsible for the conflict is different."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Deborah cancelled their originally proposed Wednesday at 4 PM coffee date because she already had plans for that day.",
+      "memories_evaluated": 100,
+      "reason": "The generated answer incorrectly attributes the reason for rescheduling to Deborah having plans, whereas the gold answer states that Jolene had plans, representing a fundamental error in identifying who had the conflict."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "Deborah cancelled the previously proposed Wednesday at 4 PM coffee date.",
+      "memories_evaluated": 200,
+      "reason": "The generated answer attributes the cancellation to Deborah, whereas the gold answer states Jolene had prior plans, representing a completely different cause and actor."
+    }
+  }
+}

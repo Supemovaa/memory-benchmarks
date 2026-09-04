@@ -1,0 +1,1464 @@
+{
+  "question_id": "conv3_q117",
+  "conversation_idx": 3,
+  "category": 4,
+  "category_name": "single-hop",
+  "question": "What filling did Joanna use in the cake she made recently in May 2022?",
+  "ground_truth_answer": "strawberry",
+  "evidence": [
+    "D10:11"
+  ],
+  "user_id": "locomo_3_63236696",
+  "reference_date": "12:06 am on 11 November, 2022",
+  "retrieval": {
+    "search_query": "What filling did Joanna use in the cake she made recently in May 2022?",
+    "search_results": [
+      {
+        "memory": "Joanna revised one of her old recipes to make a dairy-free chocolate cake with pink frosting, strawberries, and chocolate around September 5, 2022",
+        "score": 0.6926549406243033,
+        "id": "aff24001-dba7-448f-a7cb-5db4d8d1d430",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate made a dairy-free chocolate cake with berries on it recently, around early February 2022, and suggested Joanna might like it",
+        "score": 0.6802325828153797,
+        "id": "1150a1ac-afe3-4041-be83-6a686e9c4acc",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Joanna loves making a dairy-free chocolate cake with raspberries, describing it as moist, delicious, and having the perfect sweetness level. She shared a photo of a piece of this cake on a plate on September 14, 2022.",
+        "score": 0.6719348066666667,
+        "id": "5495006e-3402-440a-83f3-ad331d5ce8a8",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna made a cake with white frosting recently and shared a photo of it on a wooden table",
+        "score": 0.6693902466666667,
+        "id": "351027c8-ee13-4eb1-a265-260465af29b2",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Joanna has been tweaking a dessert recipe to make it yummier and more accessible around September 5, 2022",
+        "score": 0.6664042206243033,
+        "id": "fcbaf14a-f67a-4b9d-a422-425080ba713c",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Joanna has been making a variety of dairy-free desserts including cookies, pies, and cakes that work for everyone's diets around September 5, 2022",
+        "score": 0.6659204539576367,
+        "id": "c647d14c-0b1c-4f08-993a-d29ffee3163f",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Joanna requires dairy-free options for desserts and made a delicious dessert using almond milk on September 9, 2022",
+        "score": 0.66533109,
+        "id": "e75efd2d-18be-4fef-be26-59b26385ba18",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna has been experimenting with chocolate, raspberry, and coconut flavors in her dessert recipes around September 5, 2022, describing the process as a blast",
+        "score": 0.6621083833333333,
+        "id": "4a7cd719-74e5-4d29-9ae1-f4f5cd059bc0",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Joanna's favorite dairy-free treat is a chocolate raspberry tart featuring an almond flour crust, chocolate ganache, and fresh raspberries, which she shared a photo of on September 14, 2022",
+        "score": 0.65498542,
+        "id": "af8755af-4be8-4dc4-99ff-2c3dcf580c0b",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Nate complimented Joanna's dairy-free chocolate cake with pink frosting, describing it as looking super good",
+        "score": 0.6493133566666667,
+        "id": "ff21f4c6-8144-40d5-be20-ac7ebd4ed230",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Joanna celebrated receiving positive feedback on her writing from her writers group by making a raspberry chia pudding parfait dessert around August 22, 2022",
+        "score": 0.6483343333333332,
+        "id": "853f920f-23f0-4f01-87d2-a78087b0fdb3",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna makes her dairy-free chocolate cake with raspberries using almond flour, coconut oil, chocolate, and raspberries, and considers it her favorite dessert for birthdays and special occasions.",
+        "score": 0.64671431,
+        "id": "29ccd20f-4e74-40b1-ae7d-67f145896527",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a cookie with chocolate drizzle and almonds on September 5, 2022, expressing enthusiasm for Nate's dairy-free baking tips",
+        "score": 0.6454427333333334,
+        "id": "e39f34fe-4a56-4b27-981c-5b2bc3ea759f",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of dairy-free chocolate raspberry tarts on October 6, 2022, depicting a tart with raspberries on a white plate",
+        "score": 0.64314455,
+        "id": "416bfc22-4749-4753-90bb-52ac974ba3b9",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna plans to surprise her family with the dairy-free dessert recipe Nate shared, expressing excitement about making something delicious for them around August 14, 2022",
+        "score": 0.6429488136054421,
+        "id": "cee26ced-3d87-4f1a-9bb4-2fde1d52e59e",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna agreed to Nate's suggestion to bake together, noting that having a fellow chef in the kitchen is helpful, and asked for additional tips on dairy-free baking.",
+        "score": 0.6312830133333334,
+        "id": "f6db872f-759e-4391-bb70-9af1f8abd935",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Joanna stated she will cherish the stuffed animal dog Nate shared with her on May 25, 2022, with all her heart",
+        "score": 0.6310032498501499,
+        "id": "615efe49-9b6f-47a3-ae4f-2b1bb6814c8e",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna told Nate that she just finished something around May 20, 2022, describing the experience as a pretty wild journey",
+        "score": 0.6278581033333334,
+        "id": "5e7cf7b9-64ef-4e67-844a-f28bb50f6a25",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Joanna cannot consume dairy and therefore cannot eat the ice cream Nate made, but she is interested in trying a dairy-free recipe",
+        "score": 0.6169557,
+        "id": "4f37e5b5-4ee3-456c-b08a-0f860a300efb",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna finished making a cute bookmark featuring a plant design for a member of her writing club around October 6, 2022",
+        "score": 0.61434372,
+        "id": "a46c2d19-85b2-42b4-9163-90fa0281673b",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her cork board on June 5, 2022, which features quotes, photos, and little keepsakes, including a picture frame with a family photo",
+        "score": 0.61083512,
+        "id": "7e5ad328-1641-4e21-ba3b-0cbed5d6c64b",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Joanna named her stuffed animal dog Tilly after a real dog she owned in Michigan, which she had to give up due to developing allergies that prevented her from holding animals without reaction",
+        "score": 0.6095595303054449,
+        "id": "685a9e5c-bb77-4a27-9dc8-0a2521a8ac6f",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna finds making dairy-free desserts a rewarding challenge, aiming to make them just as delicious as traditional versions, and feels it is a total win when friends and family enjoy them.",
+        "score": 0.6093244466666667,
+        "id": "a1310749-1b78-40ea-b82e-d5408e7d07e2",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Joanna plans to try making Nate's dairy-free coconut milk ice cream recipe on the evening of April 17, 2022, and thanked him for sharing it",
+        "score": 0.609074091873396,
+        "id": "fae257d4-1d3b-4f2c-a127-895a63218705",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna is tempted to try dairy-free dessert flavors after hearing Nate's preferences for coconut milk, chocolate, and mixed berry",
+        "score": 0.60893695,
+        "id": "f250a0d7-23ed-40f7-bdcd-034250c0af7a",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Nate sent Joanna the recipe for his dairy-free coconut milk ice cream on August 14, 2022, expressing happiness in sharing it with her",
+        "score": 0.6082444469387754,
+        "id": "42f8b093-9844-4327-ba1a-5cccf426e49f",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a spoon full of ice cream with chocolate sauce on October 25, 2022, while asking Nate what his pet turtles eat",
+        "score": 0.6078795138195138,
+        "id": "ff63b62a-0509-41aa-a382-5a7743be1254",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate offered to send Joanna a dairy-free ice cream recipe that uses coconut milk, following her request for a non-dairy option she could try",
+        "score": 0.6047890666666667,
+        "id": "210cd8e8-ad6d-4b37-8617-1b09828f2bf3",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna reflected on May 25, 2022, that the tough times she experienced while finishing her screenplay ultimately brought joy and made the creative journey worth it",
+        "score": 0.60369832,
+        "id": "52733467-6c5e-46a9-9299-f3b20a41f5a4",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a book with a black border and white title on November 7, 2022",
+        "score": 0.6031504999999999,
+        "id": "41c408ab-69d7-4269-bbd9-1b4e820b9447",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna named the stuffed animal dog Nate gave her Tilly, and she keeps it with her while writing",
+        "score": 0.5978958503054449,
+        "id": "b50e0966-df98-46cd-ba56-2606e2d14891",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna went hiking around May 12, 2022, and found more amazing trails in her town, describing the experience as awesome and jokingly claiming she is now an expert hiker",
+        "score": 0.5973563333333334,
+        "id": "df178604-6634-4948-856a-b43318c2e96e",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Joanna is filming her own movie based on a road-trip script, marking a significant milestone in her creative career as of November 11, 2022",
+        "score": 0.5967084666666667,
+        "id": "7b594084-95c4-45cf-9744-a383d0132e10",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip around July 8, 2022, for research for her next movie project, using the time as a break to explore new places and find inspiration",
+        "score": 0.5953387292682927,
+        "id": "c602f25d-546c-4d94-ab30-3d6f46141c78",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if the homemade coconut milk ice cream he made is lactose-free, indicating her continued interest in dairy-free options due to her dietary needs",
+        "score": 0.5948237333333334,
+        "id": "fdb22de5-b739-4414-ae07-c4f741bde073",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Nate explained that the stuffed animal he shared with Joanna on May 25, 2022, was intended to remind her of good vibes",
+        "score": 0.5947000707835325,
+        "id": "f5d8cb2c-6b49-40a6-aa3d-44f46718e694",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna feels a mix of relief, excitement, and anxiety after finishing her first full screenplay around January 21, 2022",
+        "score": 0.5918524277089291,
+        "id": "af1b2ea6-fc40-461e-92a9-373521cc590c",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a cinema ticket on a chair around March 18, 2022, indicating she attended or planned to attend a movie screening",
+        "score": 0.5908433708484271,
+        "id": "10b97621-6403-4616-ba33-2b2db7c40ba6",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna plans to make Nate's dairy-free coconut milk ice cream recipe for her family during the weekend of June 25-26, 2022",
+        "score": 0.590558245819398,
+        "id": "b2d17cc9-a619-4c51-8bdc-6a1b5fe00842",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo with Joanna on May 25, 2022, showing a stuffed animal dog lying on a bed with a cozy blanket and toy, referring to it as a 'new pup' for her",
+        "score": 0.5903901066666667,
+        "id": "c5d4bf76-6c37-484e-8c2a-d9316d63075c",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Nate offered to send Joanna pictures of his turtles so she can watch them grow without physical contact, given her allergies prevent her from owning pets",
+        "score": 0.5885673,
+        "id": "4d263226-613c-44b0-9dd8-d850468c74a9",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna started writing down her favorite memories in a notebook, sharing a photo of herself holding the notebook with a list of items on it around November 7, 2022",
+        "score": 0.5875141108632138,
+        "id": "7a06761e-e63a-493a-b63d-c134c991c90b",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna complimented Nate's homemade coconut ice cream with red sprinkles, stating it looked yummy but she could not try it at the moment",
+        "score": 0.5872576820717131,
+        "id": "d3ba8eb6-b468-43d6-b3c7-88cdd5a35e5f",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna values having an outlet to share her stories and hopes to have a positive impact on readers through her writing",
+        "score": 0.5848580752913753,
+        "id": "00015337-85b2-4eb4-be6c-d93d2713b54d",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna finished her first full screenplay and printed it on January 21, 2022, expressing relief after working on it for a while",
+        "score": 0.5829227877089291,
+        "id": "12c8b2d5-e956-47d1-8dd1-c38dd73a5223",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate agreed to share his vegan coconut milk ice cream recipe with Joanna on June 25, 2022",
+        "score": 0.5824972191527314,
+        "id": "57ca2556-5821-46be-b841-ce803c71f9ec",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Joanna had an audition for a writing gig around March 23, 2022, which she felt went alright but left her with mixed emotions of excitement and anxiety",
+        "score": 0.5811781575150938,
+        "id": "51999a94-2f3e-4901-b542-f02bfa6fa66d",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna is working on a challenging but fulfilling project in addition to her producer meetings around November 4, 2022",
+        "score": 0.5808787666666667,
+        "id": "4a2fe701-b5ec-4333-b7ce-f549dd1507a0",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna had an audition for a writing gig on March 23, 2022, and described the experience as quite a ride in a good way",
+        "score": 0.5807311641817604,
+        "id": "b694d19a-68e6-44bd-a121-1eee032fcd1d",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed strong admiration for Nate's homemade ice cream and stated she wishes she could make it the way he does",
+        "score": 0.58062655,
+        "id": "62dddb87-07be-42d2-a1b0-c5269dc7d4c0",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna considers cooking and baking to be her creative outlets and enjoys experimenting in the kitchen to create tasty dishes.",
+        "score": 0.5789743233333333,
+        "id": "bac8643d-de82-4fd0-b4c2-dff520cffdfc",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Joanna complimented Nate's homemade coconut milk ice cream, noting that the colors and mix-ins give it a nice kick and look really yummy",
+        "score": 0.57823268,
+        "id": "50ed352c-affb-41b6-b6e4-48590bf76498",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna took a road trip to Woodhaven, a small town in the Midwest, for research for her next movie around July 2022",
+        "score": 0.5773849891076116,
+        "id": "9f12f315-63c3-4313-93d2-f698cb462655",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna finished the introduction to her next movie script around November 7, 2022, and decided to include a handwritten letter from a young man at the beginning of it",
+        "score": 0.577036089032045,
+        "id": "7e44ee21-e836-44f4-bc46-299c719eb11c",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna requested the recipe for Nate's vegan coconut milk ice cream, expressing that it sounded like a good recipe and reacting positively to his description of sharing it with his vegan diet group",
+        "score": 0.5755681320053121,
+        "id": "22cd64d0-3f66-4c4f-ad18-10cb6817cb8f",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Joanna tried a new dairy-free recipe on October 5, 2022, which was well-received by her family; she enjoys mixing and matching flavors and experimenting with new recipes",
+        "score": 0.5754851935726822,
+        "id": "c4b5a646-ce8f-44a9-bcaf-8860ead2f5fe",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna was inspired by Nate's boldness in dyeing his hair purple, which reminded her of a gorgeous sunset she saw while hiking recently and reinforced the importance of showing the world who we are",
+        "score": 0.5752242441558443,
+        "id": "694f7778-4ff8-4b43-8bcd-1c773e84958b",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2022-04-15T19:37:00+00:00"
+      },
+      {
+        "memory": "Joanna promised to keep Nate posted on her attempt at his coconut milk ice cream recipe and expressed admiration for his dessert creations",
+        "score": 0.5748921370629371,
+        "id": "71e5e99f-04e6-4913-9971-0c49f2912fe4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna recently started writing a book, motivated by the success of her movie, and shared a photo of herself holding a notebook with handwritten pages",
+        "score": 0.5740067731335331,
+        "id": "be371429-7550-4349-b6e0-cb3be3a0c797",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed gratitude to Nate for his encouragement and support in her writing journey around July 10, 2022",
+        "score": 0.574006362601626,
+        "id": "a4ddd025-a01d-4a47-a97e-6e1091dd13ca",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Nate shared his dairy-free coconut milk ice cream recipe with Joanna, which consists of coconut milk, vanilla extract, sugar, and a pinch of salt. The mixture is chilled in the fridge before being processed in an ice cream maker until scoopable.",
+        "score": 0.5736853000000001,
+        "id": "d15d80d4-7499-494d-99a1-0f11211cba50",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Nate complimented Joanna's dairy-free blueberry cheesecake bars with a gluten-free crust, stating the dessert looks amazing and that he will definitely try making it himself",
+        "score": 0.5727151308025308,
+        "id": "f3a30838-b508-4c6f-8867-9b47babf9f55",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna found that Woodhaven's interesting past and the changes it has undergone sparked ideas for her next script during her research trip around July 2022",
+        "score": 0.5711467891076115,
+        "id": "e5dd354e-4ed5-4a62-bd9a-8fa5b8f99011",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna received a handwritten letter around August 7, 2022, from a reader who found comfort in her online blog post about a hard moment in her life. This experience reminded Joanna of the power of her words and why she loves writing.",
+        "score": 0.5710172466666666,
+        "id": "fc02fe55-fbf4-4d21-a1d9-81990d1c7b52",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna finds motivation in knowing her writing makes a difference and impacts others, which helps her persevere through tough days around August 14, 2022",
+        "score": 0.5706394766666666,
+        "id": "cc654eb9-409f-4414-88f6-a75ca211af30",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna is finally filming her own movie based on the road-trip script she previously wrote, as of November 11, 2022",
+        "score": 0.5701934314685314,
+        "id": "cfe2293f-9d91-4986-bbef-d75cf5383dfd",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if he has any favorite flavors for dairy-free desserts, following his success with homemade coconut milk ice cream",
+        "score": 0.5698125766666666,
+        "id": "88084e21-e053-4817-b6e6-985b3908faff",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a recipe for dairy-free blueberry cheesecake bars made with blueberries, coconut milk, and a gluten-free crust, describing them as creamy and delicious. The accompanying image showed the dessert topped with walnuts.",
+        "score": 0.5691399366666666,
+        "id": "43be820a-e122-4d27-bcd9-48f911a456fb",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around late September 2022 after putting in many late nights and edits, expressing pride in the completed work and excitement for what comes next",
+        "score": 0.5678743872909698,
+        "id": "db9f3fb5-63aa-4935-bc27-cf972aba24bc",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her second screenplay around March 18, 2022, and is experiencing a mix of relief, anxiety, excitement, and terror about the prospect of her work getting noticed and reaching the big screen",
+        "score": 0.566669630848427,
+        "id": "705ceef6-870b-4d64-8391-54636737c2e8",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed gratitude to Nate for his support and committed to keeping him updated on her progress around April 15, 2022",
+        "score": 0.5662785185400627,
+        "id": "8dff245f-0e38-45d3-9379-49f37d7cfb27",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2022-04-15T19:37:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed enthusiasm for Nate's successful attempt at making coconut milk ice cream and asked if he plans to make it again",
+        "score": 0.5651265333333334,
+        "id": "fe7c68f0-7313-4854-8377-5aa6a8df6ea4",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Joanna keeps a family photo on her cork board because it reminds her of their love and encouragement every day",
+        "score": 0.5647324724810043,
+        "id": "892a2791-ab9b-4d2e-89c6-0d04d5856274",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Joanna watched a classic movie around early October 2022 that she found awesome, with a gripping story and great acting performances that stuck with her. She shared a photo of a framed movie poster with a signed picture related to the film.",
+        "score": 0.5645247666666666,
+        "id": "30d7417c-0024-4c82-bc5e-71c6df9837e4",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to stay positive after his recent tournament loss and asked about his next steps in the gaming world around November 9, 2022",
+        "score": 0.5640167666666667,
+        "id": "0e0f57ed-dce1-423f-b711-b00aeb2042d5",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna does not have a vacation lined up as of April 15, 2022, because her writing is currently consuming her time and energy",
+        "score": 0.5617943852067294,
+        "id": "437feb97-8fe1-44a1-92e9-bd11a1d1e688",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2022-04-15T19:37:00+00:00"
+      },
+      {
+        "memory": "Joanna complimented Nate's new home equipment setup, describing it as an 'ice set-up,' and asked if he uses the computer for gaming around November 7, 2022",
+        "score": 0.5617797800000001,
+        "id": "10dcea18-a08e-4bcb-afb4-6ed378e0920d",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a notebook filled with handwritten pages from her early writings, which included a list of things to write",
+        "score": 0.5608871531335331,
+        "id": "e2d2dc36-97f5-4e8f-bc9a-f40656949dfb",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna watched 'The Lord of the Rings' Trilogy on May 1, 2022, following Nate's recommendation, and described the experience as awesome",
+        "score": 0.56085444,
+        "id": "9da8d184-8849-4ab0-a563-f3ffa027c35f",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Joanna accepted Nate's offer to share his coconut milk ice cream recipe, describing the ice cream as mouthwatering and thanking him for the offer",
+        "score": 0.5593098349081366,
+        "id": "aae65dc2-11d2-467a-b3b0-8d874e2af077",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a Spider-Man poster hanging on a wall in connection with her recent screenplay work appearing on the big screen",
+        "score": 0.5585687463603064,
+        "id": "9d604c5d-202e-454e-90e9-758bcc6ca3b2",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna what her favorite dairy-free sweet treat has been so far.",
+        "score": 0.5584838,
+        "id": "5610e38c-0efd-4225-97e8-d3038bae4a90",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna finished writing her book around late September 2022 after putting in many late nights and edits, expressing that the dedication was worth it",
+        "score": 0.5584359206243033,
+        "id": "77ead691-9f34-4c95-9cd3-2b81c8eaa26e",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a notebook containing a handwritten letter related to her movie script presentation for producers",
+        "score": 0.5584339223653783,
+        "id": "1167a8bd-974a-42ad-a2da-ae28fa06bf21",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna is decompressing after finishing her second screenplay around March 18, 2022, but finds it hard to switch off due to a persistent tug-of-war between hope and doubt about her work's future",
+        "score": 0.5569692575150937,
+        "id": "87fe6622-ab67-4809-8f5f-54b85bf626c2",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo from her hike around May 12, 2022, featuring a waterfall surrounded by lush greenery with a dark sky in the background, describing the sound of the rushing water as soothing",
+        "score": 0.5567485,
+        "id": "e9510e69-6c80-45da-95e8-835a20973c3f",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Nate recommended the 'A Court of Thorns and Roses' book series by Sarah J. Maas to Joanna on August 22, 2022, sharing a photo of the books stacked on a wooden table",
+        "score": 0.5554788818061088,
+        "id": "d426c90c-89e6-4a68-b094-212854d521a1",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna started writing a second screenplay around February 25, 2022, while waiting to hear back about the submission of her first screenplay",
+        "score": 0.555169956148713,
+        "id": "441d190e-92c7-4483-a769-be9a721cb5f4",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna thanked Nate for his kind words and support, expressing a shared commitment to working hard toward their dreams before ending the conversation on March 24, 2022",
+        "score": 0.5544120575150937,
+        "id": "4677dffe-3780-4196-b021-6b1f34ba8ce9",
+        "created_at": "2022-03-24T13:43:00+00:00",
+        "updated_at": "2022-03-24T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna has been conducting extensive research and networking non-stop for her screenplay project around March 18, 2022. She finds the process tough but remains determined to make it happen.",
+        "score": 0.5543845241817604,
+        "id": "7d65f2d9-348c-4720-96d8-663474ccccd6",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Nate encouraged Joanna to try making his coconut milk ice cream recipe, noting that it really jazzes up the dessert",
+        "score": 0.5543745533333334,
+        "id": "480b1940-f170-4374-abeb-43e8970d46eb",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna felt validated by being taken seriously during her producer meetings and is feeling hopeful and inspired about her future in screenwriting as of November 4, 2022.",
+        "score": 0.5540045392828685,
+        "id": "6a271c17-114e-4905-bf38-fba09cd43626",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of himself holding a small turtle in a container with Joanna on July 10, 2022, while encouraging her to believe in her talent and hard work",
+        "score": 0.553884762601626,
+        "id": "af4dbbf9-ca90-437a-8b57-ea7e93137dd5",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna encouraged Nate to switch gaming teams, believing it could open new opportunities, and wished him luck in choosing the right team around November 9, 2022",
+        "score": 0.5535210466666667,
+        "id": "92752d71-dfa8-4cc0-997a-c7f1e7df0625",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna found an awesome hiking trail in her hometown around April 16, 2022, describing it as gorgeous and a great way to reset and find inspiration from nature",
+        "score": 0.5532809444555445,
+        "id": "6fb7acb6-59fb-4076-9849-b131ebc6ed3b",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Nate agreed to send Joanna his coconut milk ice cream recipe and expressed enthusiasm for desserts, asking her to share her thoughts after trying it",
+        "score": 0.5532611,
+        "id": "4dae2e78-1c98-4442-a093-6638cec09af0",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what flavor of ice cream he made for his friend, following his mention that they loved it",
+        "score": 0.5531271682414699,
+        "id": "1bc7b6f9-3eb5-498b-8ea5-7a695a4941b1",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna submitted her recent screenplay to a film contest around June 24, 2022, to gauge how others might like it",
+        "score": 0.5522061301460823,
+        "id": "6b75ff53-33ba-424e-9c94-bc9e21c8c5d2",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Joanna found old notebooks containing her early writings around late October 2022 and reflected on how far she has come in her writing journey",
+        "score": 0.5520228731707317,
+        "id": "c4b2c364-6060-43be-9338-7e72d834779b",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna is hiking with friends on the weekend of June 4-5, 2022, to check out a new trail featuring a waterfall",
+        "score": 0.551738245819398,
+        "id": "94cac295-1699-4071-a697-76eea9340a2d",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time around October 23, 2022. She described the experience as surreal and satisfying, noting she had been waiting for this moment for a long time.",
+        "score": 0.5507139824967825,
+        "id": "44983e8f-69e0-4ae5-aa2a-35932e1c397b",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Joanna absolutely loves DIY projects and knows that the lady from her writing club also enjoys them",
+        "score": 0.5501835666666667,
+        "id": "b2ae313b-375d-49ed-a234-3b7ac1d188a0",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna considers her journal to be her rock during her writing journey and shared a photo of a notebook decorated with stickers",
+        "score": 0.5493506065040651,
+        "id": "cf8750f0-d7b7-491d-8adc-6fe57d63b9d1",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna submitted her screenplay to a film festival and, as of February 7, 2022, experiences daily fluctuations between relief, excitement, and worry while hoping a producer or director will pick it up for the big screen",
+        "score": 0.5493235761487131,
+        "id": "c32789e9-8681-448f-92a8-dd0bd3370683",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Nate shared an image of a cup of ice cream with a cherry on top while responding to Joanna's news about joining a writers group",
+        "score": 0.5491650752380952,
+        "id": "fd0ce1b9-2559-4e67-a72f-7d8562286e0a",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Joanna finds that her stuffed animal dog Tilly helps her stay focused and brings her significant joy, noting the surprising emotional impact of stuffed animals",
+        "score": 0.5482164236387782,
+        "id": "b26e7f2e-1aef-4099-8dac-a19eb5e60462",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna thinks Nate's new dog Max is adorable and expressed understanding of why Nate is thrilled about the new addition to his family",
+        "score": 0.5478747144862156,
+        "id": "fcb16bad-5e76-471c-912d-90ecfca89a2f",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Joanna shared her book with her writers group around August 15, 2022, feeling super nervous but receiving great feedback that made her feel her hard work is paying off",
+        "score": 0.5477423065379666,
+        "id": "8defda22-e7e8-4fa8-81ed-438d601f854e",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna took a photo of a sunset in a field near Fort Wayne during a hike in the summer of 2022, describing the surrounding beauty as incredible and an awesome reminder of nature's beauty",
+        "score": 0.5470436333333333,
+        "id": "395c9769-555a-47f9-8d79-9d30ad241b5b",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate agreed to share his dairy-free coconut milk ice cream recipe with Joanna, expressing enthusiasm for spreading the joy of dairy-free options and asking her to let him know when she makes it",
+        "score": 0.5467946796812749,
+        "id": "6c7e8de4-44f5-4db9-bbdb-9f8f932d0216",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Joanna described seeing her characters and dialogue acted out on the big screen around October 23, 2022, as an amazing and rewarding experience where her hard work paid off. She noted this was the third time she has had a script shown in theaters.",
+        "score": 0.5467924666666667,
+        "id": "ed5f7006-447f-43d1-b5ea-3125eb254bdb",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Joanna is working on a script titled \"Finding Home\" with her writers group, which tells the story of a girl on a journey to find her true home; she finds the project rewarding and emotional.",
+        "score": 0.54666917,
+        "id": "b7cc844f-2dbb-4ed7-8901-9ef8b011d493",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Joanna's meetings with movie producers around November 4, 2022 went well; she felt confident discussing her script and vision, and the producers were interested and excited about the self-discovery elements.",
+        "score": 0.5459336333333333,
+        "id": "7ff89ad3-151a-484e-92a1-630c8b7bb89c",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Nate expressed pride in Joanna's hard work and accomplishments, reaffirming his ongoing support for her writing journey around October 6, 2022",
+        "score": 0.5455184,
+        "id": "e47aa184-c6c8-4f3d-bf52-c1a7b9d69c23",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant and uses dairy-free alternatives like coconut or almond milk, finding it a fun challenge to create treats that suit everyone's diets",
+        "score": 0.54540475,
+        "id": "730be8b9-629f-4d7b-a9dd-93afec9d67e5",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair around April 8, 2022, and invited Joanna to see the result",
+        "score": 0.544992391873396,
+        "id": "7f5aa1a4-c27c-4718-a9b1-c070507bdafc",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2022-04-15T19:37:00+00:00"
+      },
+      {
+        "memory": "Joanna stated that her new screenplay was inspired by her personal experiences and her own journey of self-discovery",
+        "score": 0.5447996266666667,
+        "id": "a52dfba7-bb43-48ac-b34e-d0ee78867d68",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna if she has any plans for the weekend around June 3, 2022",
+        "score": 0.5440881124860647,
+        "id": "d2046f62-3789-4c6c-b470-dcae8b700efe",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Nate made chocolate and vanilla swirl coconut milk ice cream with almond chunks for a friend around late February 2022, which the friend loved",
+        "score": 0.5436253466666666,
+        "id": "624751c6-68d4-4ecc-88e2-b7ba2d4a40e8",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna about the current status of her script and if she has any ideas for next steps, shifting the conversation back to her creative work.",
+        "score": 0.5435585666666666,
+        "id": "89138b75-1c1f-45a2-b179-9f7be284e7cd",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna was excited and got chills when an actor on her movie set told her how much she liked Joanna's script around November 11, 2022",
+        "score": 0.5432883168658699,
+        "id": "131fa31d-5891-4e9c-9f5f-7a81ea83036e",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what he has been up to lately around June 3, 2022",
+        "score": 0.543279045819398,
+        "id": "cd1a5b0d-8180-49f4-81ce-63a0cb693617",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Nate created the motivational whiteboard for Joanna so she could look back on it for encouragement whenever needed, citing her life path as his inspiration around October 6, 2022",
+        "score": 0.5428089166666666,
+        "id": "6b436edf-1e8e-41e0-bcf7-60e8c024fe17",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna finds writing essential to her life, using it to create wild worlds with awesome characters and as a primary way to express her feelings",
+        "score": 0.54275054,
+        "id": "d0220f3a-9236-449d-a7ff-bc82b461eabc",
+        "created_at": "2022-01-23T14:01:00+00:00",
+        "updated_at": "2022-01-23T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna values having friends who understand and appreciate her work, finding it priceless to discuss her writing and receive feedback from them",
+        "score": 0.5427309752913754,
+        "id": "9eb94d80-51e2-4e8f-ab04-9e358175a88e",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Joanna relies on writing and creative projects to cope with tough times and is grateful for her supportive friends",
+        "score": 0.5421636246420246,
+        "id": "06ff7cc2-4090-4fa7-a7d4-ef763637879a",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Joanna encourages Nate to write down memories, stating that looking back on fond memories is a blessing",
+        "score": 0.5413343466666666,
+        "id": "f2ac3f70-d061-44d4-9971-376667d13b85",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna found the stuffed animal toy Nate shared in a photo to be cute and appreciated his thoughtful gesture of sending it to her",
+        "score": 0.54052508,
+        "id": "e736d5c3-6382-409f-885a-56dfd4477687",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna first watched 'Eternal Sunshine of the Spotless Mind' around January 2019 and purchased a physical DVD copy of the film",
+        "score": 0.540414356366039,
+        "id": "f336a6aa-50be-4911-8e27-968597b182d8",
+        "created_at": "2022-01-21T19:31:00+00:00",
+        "updated_at": "2022-01-21T19:31:00+00:00"
+      },
+      {
+        "memory": "Joanna draws character inspiration from diverse sources including people she knows, things she has seen, and her own imagination, enjoying the process of shaping ideas into characters with distinct wants, worries, and wishes.",
+        "score": 0.5403156466666666,
+        "id": "063c4785-0d22-4862-9411-ccb8ce49aa15",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate made ice cream for a friend around late February 2022, and the friend loved it",
+        "score": 0.5398954228153797,
+        "id": "27a15feb-3f05-4a1c-b7aa-b3148dd5fcb8",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna set up meetings with movie producers around November 4, 2022, expressing excitement that her dreams are coming true",
+        "score": 0.5398276842519685,
+        "id": "80e8eb73-2982-40ab-8b2c-effc1f9e22f8",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna set up meetings with movie producers around November 4, 2022, expressing excitement that her dreams are coming true",
+        "score": 0.5398275509186351,
+        "id": "8c1ac038-6fcf-4bce-abb4-b0a85571a06d",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna took the waterfall photo at a location called Whispering Falls, describing the spot as beautiful, peaceful, and serene",
+        "score": 0.5396013410358566,
+        "id": "caeb6ece-2fcd-4c9e-97c0-6a81b9992ed1",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Nate dyed his hair around April 8, 2022, and Joanna expressed excitement to see the change, suggesting it must feel liberating for him",
+        "score": 0.5393011585400628,
+        "id": "ee951fe3-b839-40c2-a222-c8d4c82c57cc",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2022-04-15T19:37:00+00:00"
+      },
+      {
+        "memory": "Joanna has a cork board filled with inspiring quotes and pictures that serves as her personal corner for motivation and creativity",
+        "score": 0.5390597466666667,
+        "id": "d9632c81-448f-4f8a-8f2d-200fe220cb59",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Joanna finished a presentation for movie producers on November 4, 2022, describing the process as tough but noting that the final result is looking good",
+        "score": 0.5388234575853018,
+        "id": "7e958e2d-b605-48cf-b9c6-470e9ae03b5a",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate recently discovered how to make coconut milk ice cream and tried it around February 7, 2022, finding it pretty good and feeling proud of his accomplishment",
+        "score": 0.5377731094820465,
+        "id": "2922e09f-f1b0-48ff-924f-892c7e3563b2",
+        "created_at": "2022-02-07T09:27:00+00:00",
+        "updated_at": "2022-02-07T09:27:00+00:00"
+      },
+      {
+        "memory": "Joanna is lactose intolerant and requires dairy-free recipes, confirming her need for the coconut milk ice cream recipe Nate offered",
+        "score": 0.53721136,
+        "id": "b071c4b2-959f-4d39-8669-14da7e5440ef",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna experienced another setback around October 2022 when she received a rejection from a production company regarding her screenplay",
+        "score": 0.537056309024309,
+        "id": "298e1deb-efa2-4111-b0d8-7a38c97c3aa1",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Joanna is spending the weekend of August 20-21, 2022 relaxing and recharging by taking a long walk and doing some reading",
+        "score": 0.5359365069387755,
+        "id": "4e906edb-f40e-4fec-bafb-0c5952e7002b",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna thanked Nate for his encouragement around November 7, 2022, and promised that she would not give up on her writing goals",
+        "score": 0.5355884666666667,
+        "id": "9cef896d-01f9-4e77-b7ee-002450af78ac",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate congratulated Joanna on her successful script pitch to producers around November 8, 2022, expressing pride in her achievement and sharing a photo of a trophy and game controller",
+        "score": 0.53518629,
+        "id": "6318491c-b3dc-4ce9-978f-b46f742bc737",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a Captain America costume on display in a museum during her conversation with Nate about gaming recommendations",
+        "score": 0.5350739533333333,
+        "id": "6438cb86-7f25-449b-b079-5fb44c2f139e",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna wrote a few bits for a screenplay that appeared on the big screen around June 4, 2022, describing the experience as nerve-wracking but inspiring to see her words come alive",
+        "score": 0.5343675,
+        "id": "3c5f8312-aeb9-41c9-b534-fda13721577f",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate created a motivational whiteboard for Joanna featuring a drawing of arrows and words, demonstrating his support for her goals around October 6, 2022",
+        "score": 0.5337117387782204,
+        "id": "321f140e-bcf8-431b-9f79-4e4b1536ca76",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna confirmed that the handwritten letter in her movie script intro was written by her brother, who used to make her cute notes when they were kids, bringing back sweet memories for her",
+        "score": 0.53353526,
+        "id": "05d89a2a-d42a-4888-9c29-d8b1118b8ab8",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna recommended the 'A Court of Thorns and Roses' series by Sarah J. Maas to Nate for reading, suggesting fantasy series are great for relaxation",
+        "score": 0.5327811351394423,
+        "id": "96916bb8-79fe-4cbd-aea3-0f7d0da6a708",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna confirmed that she is the person in the shared theater stage photo and stated that acting was her first passion, though she now feels she shines more in writing as a way to express herself. She remains open to returning to acting in the future.",
+        "score": 0.5322366204462204,
+        "id": "28269218-76c6-4dc2-bb34-5c24cd2e75a4",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate about his plans for the weekend of August 27-28, 2022",
+        "score": 0.5321746802721088,
+        "id": "99965081-b9b3-4350-ba43-65e01895d25d",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate made vegan ice cream on June 17, 2022, and shared it with members of his vegan diet group, describing the experience as awesome",
+        "score": 0.5314026653386454,
+        "id": "38122d9d-7c6b-48d2-b7a1-5e30db204b69",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Joanna contributed to a movie script that was shown on the big screen for the first time around October 23, 2022, describing the experience as surreal and satisfying after waiting a long time",
+        "score": 0.5308026158301158,
+        "id": "e4509d86-df76-4e8d-98ea-79ce73137403",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate made homemade coconut ice cream with red sprinkles around November 9, 2022, noting that the sprinkles changed the color of the dessert",
+        "score": 0.5304679687383799,
+        "id": "d2fe59a5-2ddd-4905-ac99-e3bc0f5fef5f",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate is currently experimenting with flavors for his homemade coconut milk ice cream and shared a photo of colorful bowls he made around November 11, 2022",
+        "score": 0.5297367966666667,
+        "id": "84a46664-3609-474b-be61-c17551a19a29",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Nate congratulated Joanna on finishing her book writing around late September 2022, acknowledging the effort involved and expressing confidence that the final result will be great",
+        "score": 0.5295786206243033,
+        "id": "fa0c58d6-3d84-4c68-bbfa-cac8b5c43bc8",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "During her visit to the Woodhaven library, Joanna found a book from the 1900s containing stories and sketches about the town and its residents, which she enjoyed reading",
+        "score": 0.5290219891076116,
+        "id": "fb64735d-a16d-4016-8ebd-09b9cea2a9ce",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna congratulated Nate on winning his second gaming tournament around late April 2022 and asked which specific game he was playing",
+        "score": 0.5289862,
+        "id": "fea978a1-9aee-443b-a676-4de0a4b8c092",
+        "created_at": "2022-05-02T11:54:00+00:00",
+        "updated_at": "2022-05-02T11:54:00+00:00"
+      },
+      {
+        "memory": "Nate described the stuffed animal he shared with Joanna as 'joy in your pocket' and stated that looking at it always makes him grin",
+        "score": 0.5287405466666667,
+        "id": "4265caf2-bc33-49c9-99bd-26d3d7be6d97",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna wishes she could get two turtles as pets but is prevented by her allergies, expressing a strong desire to own them if not for this limitation",
+        "score": 0.5279028033333333,
+        "id": "d96e8a0f-2356-4a4d-850f-dc02b3d290ea",
+        "created_at": "2022-03-18T18:59:00+00:00",
+        "updated_at": "2022-03-18T18:59:00+00:00"
+      },
+      {
+        "memory": "Joanna feels inspired to write entire movies when she is in beautiful natural locations like Whispering Falls, linking her hiking experiences directly to her creative writing process",
+        "score": 0.52679247436919,
+        "id": "b996d7bc-393a-449e-a623-b03ecdaac9a4",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Joanna's second screenplay, started around February 25, 2022, is about a thirty-year-old woman on a journey of self-discovery after a loss, a theme similar to her first screenplay that she feels inspired to write about",
+        "score": 0.5263760897236097,
+        "id": "36a4a87f-bb46-460b-8314-a96f85bf4afc",
+        "created_at": "2022-02-25T13:07:00+00:00",
+        "updated_at": "2022-02-25T13:07:00+00:00"
+      },
+      {
+        "memory": "Joanna received another rejection from a production company around October 21, 2022, but remains determined to keep working hard and moving forward despite the setback",
+        "score": 0.5262391956909757,
+        "id": "39947d0a-edcf-45ab-b12b-c65dfadd88d9",
+        "created_at": "2022-10-21T14:01:00+00:00",
+        "updated_at": "2022-10-21T14:01:00+00:00"
+      },
+      {
+        "memory": "Nate is planning to read the 'A Court of Thorns and Roses' series by Sarah J. Maas after Joanna's recommendation",
+        "score": 0.5260230218061088,
+        "id": "9849623e-42f0-402a-88b7-45874304f9e8",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Nate expressed interest in joining Joanna for baking or cooking sessions, stating that these activities bring them together",
+        "score": 0.5258080133333333,
+        "id": "b321c60a-41e5-4ac8-a60e-7f210ccb65ba",
+        "created_at": "2022-09-05T18:03:00+00:00",
+        "updated_at": "2022-09-05T18:03:00+00:00"
+      },
+      {
+        "memory": "Nate congratulated Joanna on her successful meetings with movie producers around November 4, 2022, comparing the feeling of recognition to winning a video game tournament and expressing pride in her hopefulness",
+        "score": 0.5255944066666666,
+        "id": "4c786481-907b-4713-876c-ae071e7a01a1",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna congratulated Nate on winning an international video game tournament around August 21, 2022, expressing pride in his ability to turn his gaming passion into a career",
+        "score": 0.5249750999999999,
+        "id": "68e8fec4-0d8f-4431-b8f1-10eabc5c3207",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of a drawing book containing character sketches, which she uses in her writing process to visualize the actors and characters for her scripts.",
+        "score": 0.5249336,
+        "id": "57927a02-7498-44b3-978b-eebba57846dd",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate noticed a Spider-Man pin on Joanna's purse during their last meeting and asked if Spider-Man is her favorite superhero or if she prefers another",
+        "score": 0.5247202196936397,
+        "id": "bb289585-7322-41e9-8092-c043f27d181e",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "During her trip to Woodhaven, Joanna saw lovely scenery and historic buildings, and visited a library with a cool old book collection",
+        "score": 0.5246259224409449,
+        "id": "94323340-b3b2-4b83-b8a4-2c17cea7e77e",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna congratulated Nate on winning a video game tournament and earning cash around late September 2022, asking if he saved the prize money for something special",
+        "score": 0.5240297733333333,
+        "id": "5c0689f9-2225-4173-9ab8-fcf9f3458c21",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate what motivated him to acquire a third pet turtle, following his announcement that he got them a new friend",
+        "score": 0.522268772960373,
+        "id": "9f2e4f9c-07c9-4d70-bd30-01daf9989ba6",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna finds that the motivational quotes on Nate's whiteboard remind her of strength and perseverance, helping to motivate her during tough times around November 4, 2022",
+        "score": 0.5215760113086914,
+        "id": "7eb64d98-4f0b-476a-847d-40a4fb006995",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna invited Nate to join her on the hiking trails sometime, responding positively to his suggestion that they go together",
+        "score": 0.5209542231102232,
+        "id": "48081dad-83f6-4fff-8572-817ae710fb7c",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo taken during a recent hike that features a street with a stop sign and a cloudy sky, describing it as a gorgeous sunset with pink and blue tones",
+        "score": 0.5206196866666667,
+        "id": "f9b78fff-4726-4114-af8b-830ae812f106",
+        "created_at": "2022-04-15T19:37:00+00:00",
+        "updated_at": "2022-04-15T19:37:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a turtle laying on a bed of rocks and gravel while asking Joanna if any specific piece from her early writings stands out to her",
+        "score": 0.5196854133333333,
+        "id": "555ca6c3-5378-40d0-8026-be82f3095621",
+        "created_at": "2022-11-04T15:56:00+00:00",
+        "updated_at": "2022-11-04T15:56:00+00:00"
+      },
+      {
+        "memory": "Joanna decided not to let the screenplay rejection bring her down and thanked Nate for his support around June 3, 2022",
+        "score": 0.5194979791527313,
+        "id": "e075d926-274f-49f6-975a-362651b10809",
+        "created_at": "2022-06-03T17:44:00+00:00",
+        "updated_at": "2022-06-03T17:44:00+00:00"
+      },
+      {
+        "memory": "Joanna is writing another movie script, which is a love story with lots of challenges. She has put significant hard work into it and hopes to get it on the big screen.",
+        "score": 0.5193034040959041,
+        "id": "328726ce-5c9e-45af-92dd-ae2ec38ad7f2",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a box containing a video game controller with Joanna around October 25, 2022",
+        "score": 0.5192970275591076,
+        "id": "c0b66d4f-75d1-4d1d-91ba-2083f566b1ac",
+        "created_at": "2022-10-25T20:16:00+00:00",
+        "updated_at": "2022-10-25T20:16:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of a fish tank with a fish inside it while asking Joanna about the coolest moment on her movie set",
+        "score": 0.5192465,
+        "id": "30c141e6-32d0-4ab8-8ba6-fccd4341f1fa",
+        "created_at": "2022-11-11T00:06:00+00:00",
+        "updated_at": "2022-11-11T00:06:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed enthusiasm for Nate's new home gaming setup, stating that having his own dedicated space sounds great and must be really awesome around November 7, 2022",
+        "score": 0.5190864133333334,
+        "id": "b04ef2b7-9368-4860-84b2-472583761ac6",
+        "created_at": "2022-11-07T20:10:00+00:00",
+        "updated_at": "2022-11-07T20:10:00+00:00"
+      },
+      {
+        "memory": "Joanna believes that appreciating the journey and being aware of happy moments is a game-changer that keeps her focused on her dreams",
+        "score": 0.5183518333333333,
+        "id": "dbcb8593-1c02-43eb-b796-2eede1dae318",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna expressed strong affection for Nate's turtles, describing them as cute and stating she loves them very much after seeing a photo of them with a strawberry.",
+        "score": 0.5182635866666666,
+        "id": "32b3b5fc-bb2c-407d-a363-d5cb266f596d",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna pitched her new script to producers around November 8, 2022, and they really liked it, giving her a significant confidence boost",
+        "score": 0.5182123733333334,
+        "id": "a3b3e7f0-cbd5-4dc8-8912-bab3a7cc5aa7",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Nate believes that real-life stories are the best source of inspiration and expressed enthusiasm for hearing about Joanna's next script inspired by her Woodhaven trip",
+        "score": 0.5181423224409448,
+        "id": "f1db8fd4-6c22-47ea-8253-ece4dcf8d423",
+        "created_at": "2022-07-10T14:34:00+00:00",
+        "updated_at": "2022-07-10T14:34:00+00:00"
+      },
+      {
+        "memory": "Joanna has been reading extensively in the week leading up to April 17, 2022, rediscovering many good books she already owned",
+        "score": 0.517930731873396,
+        "id": "91d308ee-5826-4a60-95ee-7603afaa14dd",
+        "created_at": "2022-04-17T18:44:00+00:00",
+        "updated_at": "2022-04-17T18:44:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if she could visit him to watch him play with his turtles from a distance, acknowledging that her allergies prevent close contact",
+        "score": 0.5175031033333334,
+        "id": "8c579713-5ef4-4be9-85ab-f985b91ad6b4",
+        "created_at": "2022-11-09T17:54:00+00:00",
+        "updated_at": "2022-11-09T17:54:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate if he got to know the couple with the dog well and what they were like, following up on his story about meeting them during a walk with Max",
+        "score": 0.5173374878195488,
+        "id": "7f4d86d1-5f31-44de-a601-f2899ca2462f",
+        "created_at": "2022-05-25T15:00:00+00:00",
+        "updated_at": "2022-05-25T15:00:00+00:00"
+      },
+      {
+        "memory": "Joanna recently joined a writers group around April 21, 2022, finding the members inspirational and supportive of her writing, which has made her feel motivated and like she finally belongs somewhere",
+        "score": 0.5170918152380952,
+        "id": "ef47bb4b-5d00-465d-a593-c631c3f8863e",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Joanna recently joined a writers group around April 21, 2022, describing the members as inspirational and supportive, which has made her feel motivated and like she finally belongs",
+        "score": 0.5170196152380953,
+        "id": "d47b8ff9-a955-4ea8-b5a6-0db75a0f8b14",
+        "created_at": "2022-04-21T19:44:00+00:00",
+        "updated_at": "2022-04-21T19:44:00+00:00"
+      },
+      {
+        "memory": "Joanna recently submitted a screenplay to a film contest to gauge how others might like it",
+        "score": 0.5168874634794157,
+        "id": "2bed1d9c-5c1a-404e-a5ef-bc23c687f3eb",
+        "created_at": "2022-06-24T10:55:00+00:00",
+        "updated_at": "2022-06-24T10:55:00+00:00"
+      },
+      {
+        "memory": "Joanna added the space opera book series recommended by Nate to her reading list on August 22, 2022, thanking him for the recommendation",
+        "score": 0.5168773961238762,
+        "id": "d4b131da-db5e-4cf9-bc99-230bccabe497",
+        "created_at": "2022-08-22T10:57:00+00:00",
+        "updated_at": "2022-08-22T10:57:00+00:00"
+      },
+      {
+        "memory": "Joanna asked Nate for movie recommendations around October 6, 2022, noting that she could use some suggestions after discussing the benefits of taking breaks and reducing stress",
+        "score": 0.516731633997344,
+        "id": "0149a7da-8fa6-42ee-98fe-6bca5f1b7139",
+        "created_at": "2022-10-06T11:15:00+00:00",
+        "updated_at": "2022-10-06T11:15:00+00:00"
+      },
+      {
+        "memory": "Nate got a new dog named Max around May 20, 2022, and shared a photo of Max laying on a couch in the living room",
+        "score": 0.5158757278195488,
+        "id": "53496355-d90d-4b0d-9930-9af34ad54561",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Nate asked Joanna for specific pointers on what items to get for his living room to make it as comfortable as her cozy movie night setup",
+        "score": 0.5157328266666666,
+        "id": "5356f474-ba1b-48cd-91c7-62d6e72ad40d",
+        "created_at": "2022-10-09T10:58:00+00:00",
+        "updated_at": "2022-10-09T10:58:00+00:00"
+      },
+      {
+        "memory": "Joanna shared a photo of her handwritten screenplay notebook, which features a dog on the cover, marking the completion of her recent writing journey",
+        "score": 0.5153801888311689,
+        "id": "aa4fbe4e-6905-4b6f-ad07-f17325e3ac93",
+        "created_at": "2022-05-20T19:49:00+00:00",
+        "updated_at": "2022-05-20T19:49:00+00:00"
+      },
+      {
+        "memory": "Joanna's laptop crashed around September 7, 2022, causing her to lose all her writing work, which she described as a major blow and super frustrating since her laptop is essential to her identity as a writer",
+        "score": 0.5149336539576366,
+        "id": "ceb4b0d1-b63e-470e-85b9-6c5dd65e9a3f",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      },
+      {
+        "memory": "Nate shared a photo of homemade coconut milk ice cream topped with whipped cream and chocolate sauce",
+        "score": 0.5137230166666668,
+        "id": "2f1420e5-7a7e-4479-aaa7-d1d483289b62",
+        "created_at": "2022-08-14T18:12:00+00:00",
+        "updated_at": "2022-08-14T18:12:00+00:00"
+      },
+      {
+        "memory": "Joanna described her hike at Whispering Falls as an awesome experience where the sound of the waterfall and beauty of nature made her feel calm and peaceful, allowing everything else to fade away so she could focus on the present moment",
+        "score": 0.5125221743691899,
+        "id": "6dfca29e-e06d-460b-a547-d1f565e5cae2",
+        "created_at": "2022-05-12T15:35:00+00:00",
+        "updated_at": "2022-05-12T15:35:00+00:00"
+      },
+      {
+        "memory": "Joanna recommends that Nate start a cork board for inspiration, advising him to be willing to explain its purpose to his friends",
+        "score": 0.5124060058143377,
+        "id": "3029eccd-c78a-487c-b890-4b63bcbf5aa2",
+        "created_at": "2022-06-05T14:12:00+00:00",
+        "updated_at": "2022-06-05T14:12:00+00:00"
+      },
+      {
+        "memory": "Nate suggested that Joanna consider backing up her work in the future to prevent data loss after hearing about her laptop crash",
+        "score": 0.5115904,
+        "id": "110c7e9a-e67b-48df-9d3e-8ec36c4da87d",
+        "created_at": "2022-09-14T13:43:00+00:00",
+        "updated_at": "2022-09-14T13:43:00+00:00"
+      }
+    ],
+    "search_latency_ms": 2206.5,
+    "total_results": 200
+  },
+  "cutoff_results": {
+    "top_10": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "white frosting",
+      "memories_evaluated": 10,
+      "reason": "The generated answer 'white frosting' refers to a topping or coating, which is semantically distinct from the gold answer 'strawberry' (a filling), and does not match any part of the correct information."
+    },
+    "top_20": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "white frosting",
+      "memories_evaluated": 20,
+      "reason": "The generated answer 'white frosting' refers to a topping or icing, which is semantically distinct from the gold answer 'strawberry' (a fruit filling), and does not match any part of the correct information."
+    },
+    "top_50": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "white frosting",
+      "memories_evaluated": 50,
+      "reason": "The generated answer 'white frosting' refers to a topping or coating, which is semantically distinct from the gold answer 'strawberry' (a filling), and does not match any part of the correct information."
+    },
+    "top_60": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "The memories do not specify a filling for the cake Joanna made in May 2022; they only state that it had **white frosting**.",
+      "memories_evaluated": 60,
+      "reason": "The generated answer fails to mention 'strawberry', which is the specific filling required by the gold answer, and instead claims the information is unspecified."
+    },
+    "top_100": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "white frosting",
+      "memories_evaluated": 100,
+      "reason": "The generated answer 'white frosting' refers to a topping or coating, which is semantically distinct from the gold answer 'strawberry' (a filling), and does not match any part of the correct information."
+    },
+    "top_200": {
+      "judgment": "WRONG",
+      "score": 0.0,
+      "generated_answer": "white frosting",
+      "memories_evaluated": 200,
+      "reason": "The generated answer 'white frosting' refers to a topping or coating, which is semantically distinct from the gold answer 'strawberry' (a filling), and does not match any part of the correct information."
+    }
+  }
+}
